@@ -1,6 +1,6 @@
 # Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model
 
-![pipeline](assets/pipeline.png)
+![pipeline](assets/pipeline.jpg)
        
 > Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li
 
