@@ -4,11 +4,12 @@
        
 > Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li
 
-This repository contains code for the paper [Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model](https://github.com/deepcs233/Visual-CoT). We will release the code, pre-trained weights, dataset, and benchmark soon. 
+This repository contains code for the paper [Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model](https://github.com/deepcs233/Visual-CoT) and it was built based on [LLaVA](https://github.com/haotian-liu/LLaVA)
 
 The work proposes a multi-turn processing pipeline for the multi-modal language model that dynamically focuses on visual inputs and provides interpretable thoughts. We also collect and introduce the Visual CoT dataset comprising 373k question-answer pairs, annotated with intermediate bounding boxes highlighting key regions essential for answering the questions. Importantly, the released benchmark is capable of evaluating MLLMs in scenarios requiring specific local region identification. 
 
 ## Contents
+
 - [Install](#install)
 - [Model Zoo](#model_zoo)
 - [Train](#train)
@@ -77,7 +78,7 @@ Our base model Vicuna v1.5, which is an instruction-tuned chatbot, will be downl
 
 ### Pretrain (feature alignment)
 
-If you do not need to train it by yourself, projector weights can be downloaded here: https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md#projector-weights
+In our work, we directly use the project's weight from LLaVA-1.5. If you do not need to train it by yourself, projector weights can be downloaded here: https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md#projector-weights
 
 Please download the 558K subset of the LAION-CC-SBU dataset with BLIP captions used in LLaVA [here](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain).
 
@@ -92,7 +93,7 @@ Training script with DeepSpeed ZeRO-2: [`pretrain.sh`](https://github.com/haotia
 
 1. Prepare data
 
-Please download the annotation of the final mixture our instruction tuning data [viscot_mixed_2m.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_mixed_2m.json) (we also provide our 363k visual CoT dataset[viscot_363k.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_363k.json)), and download the images from constituting datasets. Some of them may need to register/complete the form first.
+Please download the annotation of the final mixture our instruction tuning data [viscot_mixed_2m.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_mixed_2m.json) to `./playground/data`. We also provide our 363k visual CoT dataset[viscot_363k.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_363k.json) for building your own dataset.  Please download the images from constituting datasets, and some of them may need to register/complete the form first.
 
 - COCO: [train2017](http://images.cocodataset.org/zips/train2017.zip)
 - GQA: [images](https://downloads.cs.stanford.edu/nlp/data/gqa/images.zip)
@@ -143,27 +144,62 @@ After downloading all of them, organize the data as follows in `./playground/dat
 
 2. Start training!
 
-You may download LLaVA's pretrained projectors in [Model Zoo](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md). It is not recommended to use legacy projectors, as they may be trained with a different version of the codebase, and if any option is off, the model will not function/train as we expected.
+We have prepared [LLaVA's pretrained projectors](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md) in our repo (checkpoints/llava_7b_mm_projector.bin and checkpoints/llava_13b_mm_projector.bin). It is not recommended to use legacy projectors, as they may be trained with a different version of the codebase, and if any option is off, the model will not function/train as we expected.
 
 Visual instruction tuning takes around 60 hours for VisCoT-7b-224 on 8x A100 (80G).
 
-Training script with DeepSpeed ZeRO-3: [`finetune.sh`](https://github.com/haotian-liu/LLaVA/blob/main/scripts/v1_5/finetune.sh).
+Training script with DeepSpeed ZeRO-3: [`finetune.sh`](https://github.com/deepcs233/Visual-CoT/blob/main/scripts/v1_5/finetune.sh).
 
 If you are interested in finetuning LLaVA model to your own task/data, please check out [`Finetune_Custom_Data.md`](https://github.com/haotian-liu/LLaVA/blob/main/docs/Finetune_Custom_Data.md)。
 
-New options to note:
+Some options to note:
 
 - `--mm_projector_type mlp2x_gelu`: the two-layer MLP vision-language connector.
 - `--vision_tower openai/clip-vit-large-patch14-336`: CLIP ViT-L/14 336px.
-- `--image_aspect_ratio pad`: this pads the non-square images to square, instead of cropping them; it slightly reduces hallucination.
-- `--group_by_modality_length True`: this should only be used when your instruction tuning dataset contains both language (e.g. ShareGPT) and multimodal (e.g. LLaVA-Instruct). It makes the training sampler only sample a single modality (either image or language) during training, which we observe to speed up training by ~25%, and does not affect the final outcome.
-
+- `--ft_vision_tower True`: finetune the vision encoder with the same learning rate as the backbone.
+- `--vision_tower_lr 2e-6`: use a specific vision encder learning rate.
 
 ## Evaluation
 
 ### Visual CoT Benchmark
 
+1. Single-GPU inference, `VisCoT-7b-336` can be changed to other model names saved in the ./checkpoints/
 
+```bash
+bash scripts/v1_5/eval/cot_benchmark.sh VisCoT-7b-336
+```
+   
+2. Obtain the score using ChatGPT-3.5, the API KEY need to be set in `llava/eval/eval_cot_score.py`
+
+```bash
+bash scripts/v1_5/eval/cot_score.sh VisCoT-7b-336
+```
+
+3. Stat the overall score
+   
+```bash
+python tools/cot_get_result.py VisCoT-7b-336
+```
+
+4. Stat the detection accuracy of visual CoT bounding boxes (optional)
+
+```bash
+python tools/cot_detection_get_result.py VisCoT-7b-336
+```
+
+### RefCoCo
+
+1. Single-GPU inference, `VisCoT-7b-336` can be changed to other model names saved in the ./checkpoints/
+
+```bash
+bash scripts/v1_5/eval/refcoco.sh VisCoT-7b-336
+```
+   
+2. Stat the overall accuracy
+   
+```bash
+python tools/refcoco_get_result.py VisCoT-7b-336
+```
 
 ### General Benchmarks
 
