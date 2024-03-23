@@ -38,10 +38,7 @@ class LlavaMetaModel:
         super(LlavaMetaModel, self).__init__(config)
 
         if hasattr(config, "mm_vision_tower"):
-            if "ftvision" in config.name_or_path:
-                self.vision_tower = build_vision_tower(config, delay_load=False)
-            else:
-                self.vision_tower = build_vision_tower(config, delay_load=True)
+            self.vision_tower = build_vision_tower(config, delay_load=False)
             self.mm_projector = build_vision_projector(config)
 
     def init_Qformer(self, num_query_tokens, vision_width, layers):
