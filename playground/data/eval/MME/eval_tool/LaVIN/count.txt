@@ -1,0 +1,60 @@
+000000006040.jpg	Is there a train in the picture? Please answer yes or no.	Yes	yes, there is a train in the picture. the train is a blue and white passenger train travel
+000000006040.jpg	Are there a total of two trains in the picture? Please answer yes or no.	No	yes, there are a total of two trains in the picture. one train is a blue and white
+000000044279.jpg	Is there a total of two people in the image? Please answer yes or no.	Yes	yes, there are a total of two people in the image. the two men are working together in
+000000044279.jpg	Is there only one people in the image? Please answer yes or no.	No	no, there are two people in the image. they are both wearing white aprons and are
+000000067213.jpg	Is there only one dog in the image? Please answer yes or no.	Yes	no, there are multiple dogs in the image. the main focus of the image is a dog jump
+000000067213.jpg	Is there two dogs in the image? Please answer yes or no.	No	no, there is only one dog in the image. the dog is jumping into a body of
+000000071226.jpg	Is there a total of two dogs in the image? Please answer yes or no.	Yes	yes, there are a total of two dogs in the image. the dogs are lying on a bed
+000000071226.jpg	Is there only one dogs in the image? Please answer yes or no.	No	yes, there is only one dog in the image. the dog is lying on the bed with its
+000000097994.jpg	Are there three laptops in the picture? Please answer yes or no.	Yes	yes, there are three laptops in the picture. the image shows a desk with a
+000000097994.jpg	Are there four laptops in the picture? Please answer yes or no.	No	yes, there are four laptops in the picture. the image shows a desk with a
+000000195918.jpg	Is there a total of two display devices in the image? Please answer yes or no.	Yes	yes, there is a total of two display devices in the image. the image shows a computer des
+000000195918.jpg	Is there only one display device in the image?  Please answer yes or no.	No	no, there are two display devices in the image. the image shows a desk with two computer
+000000236721.jpg	Are there two bananas in the image? Please answer yes or no.	Yes	yes, there are two bananas in the image. the bananas are placed on the tray
+000000236721.jpg	Are there three bananas in the image? Please answer yes or no.	No	yes, there are three bananas in the image. they are placed on the tray along with
+000000261712.jpg	Are there two giraffes in this image? Please answer yes or no.	Yes	yes, there are two giraffes in this image. they are standing in a grassy
+000000261712.jpg	Are there three giraffes in this picture? Please answer yes or no.	No	yes, there are three giraffes in the picture. two of them are standing close together
+000000274066.jpg	Are there four people appear in this image? Please answer yes or no.	Yes	yes, there are four people appearing in the image. the people are a group of children and adult
+000000274066.jpg	Are there only three people appear in this image? Please answer yes or no.	No	yes, there are only three people in the image: a woman and two children. they are all
+000000276434.jpg	Is there a total of three cakes in this image? Please answer yes or no.	Yes	yes, there is a total of three cakes in this image. the cakes are displayed on
+000000276434.jpg	Are there only two cakes in this image? Please answer yes or no.	No	no, there are not only two cakes in this image. there are three cakes, each
+000000289059.jpg	Is there a total of two person appear in the image? Please answer yes or no.	Yes	yes, there are a total of two people in the image. one person is a male tennis player
+000000289059.jpg	Is there only one person appear in the image? Please answer yes or no.	No	yes, there is only one person in the image. the person is a male tennis player holding a
+000000290081.jpg	Is there only one bowl in this image? Please answer yes or no.	Yes	yes, there is only one bowl in this image. the bowl is filled with oranges
+000000290081.jpg	Are there two bowls in this image? Please answer yes or no.	No	no, there is only one bowl in the image. the bowl is filled with oranges
+000000301867.jpg	Are there three people appear in this image? Please answer yes or no.	Yes	yes, there are three people appearing in the image. the three women are walking down a street,
+000000301867.jpg	Are there only two people appear in this image? Please answer yes or no.	No	no, there are three people in the image. two of them are women, and one of them
+000000335954.jpg	Are there two bowls in this image? Please answer yes or no.	Yes	yes, there are two bowls in the image. one of the bowls is filled with ber
+000000335954.jpg	Are there three bowls in this image? Please answer yes or no.	No	yes, there are three bowls in the image. the bowls are filled with fruits and
+000000357816.jpg	Are there four people in this image? Please answer yes or no.	Yes	no, there are not four people in this image. the image features a young boy swinging a
+000000357816.jpg	Are there five people in this image? Please answer yes or no.	No	no, there are not five people in this image. the image features a young boy swinging a
+000000372819.jpg	Are there four dogs appear in this image? Please answer yes or no.	Yes	yes, there are four dogs in the image. the dogs are running around the park, and a
+000000372819.jpg	Are there only three dogs appear in this image? Please answer yes or no.	No	yes, there are only three dogs in the image. the image shows a woman sitting on a ben
+000000410612.jpg	Is there only one ship in the picture? Please answer yes or no.	Yes	yes, there is only one ship in the picture. the red boat is docked in the har
+000000410612.jpg	Is there a total of two ships in the picture? Please answer yes or no.	No	yes, there is a total of two ships in the picture. one of the ships is a red
+000000423944.jpg	Is there no person in this picture? Please answer yes or no.	Yes	no, there is no person in this picture. the image features two life-sized manne
+000000423944.jpg	Are there two people appear in this image? Please answer yes or no.	No	no, there are no two people appearing in this image. the image features a mannequin dressed
+000000427034.jpg	Is there a dog in the picture? Please answer yes or no.	Yes	yes, there is a dog in the picture. the dog is laying down next to a laptop
+000000427034.jpg	Are there a total of two dogs in the picture? Please answer yes or no.	No	yes, there are a total of two dogs in the picture. one dog is laying on the
+000000430286.jpg	Are there three remotes in this image? Please answer yes or no.	Yes	no, there are not three remotes in this image. instead, there are two remotes and
+000000430286.jpg	Are there only two remotes in this image? Please answer yes or no.	No	yes, there are only two remotes in this image. the remotes are placed on a bed
+000000432468.jpg	Are there three zippers in the picture? Please answer yes or no.	Yes	yes, there are three zippers in the picture. the cat is sleeping on top of
+000000432468.jpg	Is there a zipper in the picture? Please answer yes or no.	No	yes, there is a zipper in the picture. the zipper is located on the
+000000434479.jpg	Are there two pieces of pizza in this image? Please answer yes or no.	Yes	yes, there are two pieces of pizza in the image. one of the pizzas is
+000000434479.jpg	Is there only one piece of pizza in this image? Please answer yes or no.	No	no, there is not only one piece of pizza in the image. there are two pieces of
+000000438304.jpg	Are there two tennis rackets in the picture? Please answer yes or no.	Yes	yes, there are two tennis rackets in the picture. one tennis racket is held by a
+000000438304.jpg	Are there only one tennis racket in the picture? Please answer yes or no.	No	yes, there is only one tennis racket visible in the picture. the woman is holding the ra
+000000450303.jpg	Are there six people appear in this image? Please answer yes or no.	Yes	yes, there are six people in the image. they are sitting around a long table, working on
+000000450303.jpg	Are there seven people appear in this image? Please answer yes or no.	No	yes, there are seven people in the image. they are sitting around a long table, working on
+000000470121.jpg	Is there only one bottle in the image? Please answer yes or no.	Yes	no, there are multiple bottles in the image. in addition to the red plate with the ass
+000000470121.jpg	Is there two bottles in the image? Please answer yes or no.	No	no, there are no bottles in the image. the image features a dining table with a
+000000476215.jpg	Are there two horses in this image? Please answer yes or no.	Yes	yes, there are two horses in this image. the man is standing next to the horses, which
+000000476215.jpg	Is there only one horse in this image? Please answer yes or no.	No	yes, there is only one horse in this image. the man is standing next to the horse,
+000000482100.jpg	Are there two toilets in the picture? Please answer yes or no.	Yes	yes, there are two toilets in the picture. they are displayed outside, possibly for sale
+000000482100.jpg	Is there only one toilet in the picture? Please answer yes or no.	No	yes, there is only one toilet in the picture. the toilet is white and
+000000491867.jpg	Is there only one necktie in the image? Please answer yes or no.	Yes	yes, there is only one necktie in the image. the man is wearing a green
+000000491867.jpg	Is there three neckties in the image? Please answer yes or no.	No	no, there is only one necktie in the image. the man is wearing a green
+000000556000.jpg	Are there four people in the image? Please answer yes or no.	Yes	yes, there are four people in the image. they are standing in a room, with two of
+000000556000.jpg	Are there only three people in the image? Please answer yes or no.	No	no, there are not only three people in the image. there are four young boys playing video games
+000000565045.jpg	Are there two bath towels in the picture? Please answer yes or no.	Yes	yes, there are two bath towels in the picture. one towel is hanging on
+000000565045.jpg	Is there only one bath towel in the picture? Please answer yes or no.	No	yes, there is only one bath towel in the picture. the towel is hanging on

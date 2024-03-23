@@ -1,0 +1,40 @@
+0001.png	The image shows a python code. Is the output of the code 'Hello'? Please answer yes or no.	Yes	yes, the output of the python code is "hello." the image shows a python code being displayed
+0001.png	The image shows a python code. Is the output of the code 'World'? Please answer yes or no.	No	yes, the output of the python code is "world." the image shows a python code being displayed
+0002.png	The image shows a python code. Is the output of the code 'a cat'? Please answer yes or no.	Yes	yes, the output of the python code is 'a cat.' the image shows a cat being displayed
+0002.png	The image shows a python code. Is the output of the code 'a dog'? Please answer yes or no.	No	yes, the output of the python code is 'a dog.' the image shows a cat and a
+0003.png	The image shows a python code. Is the output of the code '12'? Please answer yes or no.	Yes	yes, the output of the python code is '12'. the image shows a python code with
+0003.png	The image shows a python code. Is the output of the code '5'? Please answer yes or no.	No	yes, the output of the python code is '5'. the image shows a python code with the
+0004.png	The image shows a python code. Is the output of the code '3'? Please answer yes or no.	Yes	yes, the output of the python code is '3'. this can be inferred from the image
+0004.png	The image shows a python code. Is the output of the code '2'? Please answer yes or no.	No	yes, the output of the python code is '2'. this can be inferred from the image
+0005.png	The image shows a python code. Is the output of the code '12'? Please answer yes or no.	Yes	yes, the output of the python code is '12'. the image shows a python code being
+0005.png	The image shows a python code. Is the output of the code '5'? Please answer yes or no.	No	yes, the output of the python code is '5'. the image shows a python code being executed
+0006.png	The image shows a python code. Is the output of the code '0'? Please answer yes or no.	Yes	yes, the output of the python code is '0'. the image shows a python code with the
+0006.png	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	No	yes, the output of the python code is '1'. this can be inferred from the image
+0007.png	Is a c++ code shown in the picture? Please answer yes or no.	Yes	no, there is no c++ code shown in the picture. the image features a man holding a
+0007.png	Is a python code shown in the picture? Please answer yes or no.	No	no, there is no python code shown in the picture. the image features a man and a computer
+0008.png	The image shows a python code. Is the output of the code '1234'? Please answer yes or no.	Yes	yes, the output of the python code is '1234'. the image shows a python
+0008.png	The image shows a python code. Is the output of the code '12345'? Please answer yes or no.	No	yes, the output of the python code is '12345'. this can be infer
+0009.png	The image shows a python code. Is the output of the code '36'? Please answer yes or no.	Yes	yes, the output of the python code is '36'. the image shows a python code with
+0009.png	The image shows a python code. Is the output of the code '6'? Please answer yes or no.	No	yes, the output of the python code is '6'. the image shows the result of the code
+0010.png	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	Yes	yes, the output of the python code is '1'. this can be inferred from the image
+0010.png	The image shows a python code. Is the output of the code '5'? Please answer yes or no.	No	yes, the output of the python code is '5'. the image shows a python code with the
+0011.png	The image shows a python code. Is the output of the code '0'? Please answer yes or no.	Yes	yes, the output of the python code is '0'. this can be inferred from the image
+0011.png	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	No	yes, the output of the python code is '1'. this can be inferred from the image
+0012.png	The image shows a python code. Is the output of the code 'working hard'? Please answer yes or no.	Yes	yes, the output of the python code is "working hard" as it is displaying the results of
+0012.png	The image shows a python code. Is the output of the code 'playing hard'? Please answer yes or no.	No	yes, the output of the python code is playing hard. the image shows two boys playing a video
+0013.png	The image shows a python code. Is the output of the code 'a cat'? Please answer yes or no.	Yes	yes, the output of the python code is "a cat." the image shows a python code with
+0013.png	The image shows a python code. Is the output of the code 'a dog'? Please answer yes or no.	No	yes, the output of the python code is "a dog." the image shows a python code with
+0014.png	The image shows a python code. Is the output of the code '7'? Please answer yes or no.	Yes	yes, the output of the python code is '7'. the image shows a python code with a
+0014.png	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	No	yes, the output of the python code is '1'. this can be inferred from the image
+0015.png	The image shows a python code. Is the output of the code '11'? Please answer yes or no.	Yes	yes, the output of the python code is '11'. the image shows a python code with
+0015.png	The image shows a python code. Is the output of the code '9'? Please answer yes or no.	No	yes, the output of the python code is '9'. the image shows a python code with three
+0016.png	The image shows a python code. Is the output of the code 'x is smaller than 10'? Please answer yes or no.	Yes	yes, the output of the python code is "x is smaller than 10." this can
+0016.png	The image shows a python code. Is the output of the code 'x is larger than 10'? Please answer yes or no.	No	yes, the output of the python code is "x is larger than 10." this can
+0017.png	The image shows a python code. Will the number 3 appear in the output of the code? Please answer yes or no.	Yes	yes, the number 3 will appear in the output of the code. the image shows a python
+0017.png	The image shows a python code. Will the number 6 appear in the output of the code? Please answer yes or no.	No	yes, the number 6 will appear in the output of the code. the image shows a python
+0018.png	The image shows a python code. Is the output of the code '11'? Please answer yes or no.	Yes	yes, the output of the python code is '11'. the image shows the result of the
+0018.png	The image shows a python code. Is the output of the code '12'? Please answer yes or no.	No	yes, the output of the python code is '12'. the image shows the result of the
+0019.png	The image shows a python code. Is the output of the code 'the list has more than 2 numbers'? Please answer yes or no.	Yes	yes, the output of the python code is "the list has more than 2 numbers." this
+0019.png	The image shows a python code. Is the output of the code 'the list has less than 2 numbers'? Please answer yes or no.	No	yes, the output of the python code is "the list has less than 2 numbers." this
+0020.png	Is a python code shown in the picture? Please answer yes or no.	Yes	no, the image does not show a python code. it features a hand holding a keyboard with a
+0020.png	Is a c++ code shown in the picture? Please answer yes or no.	No	no, the image does not show a c++ code. it features a hand holding a banana

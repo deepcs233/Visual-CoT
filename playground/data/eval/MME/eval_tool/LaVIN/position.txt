@@ -1,0 +1,60 @@
+000000006471.jpg	Is the cricket bat above the batter's body? Please answer yes or no.	Yes	yes, the cricket bat is above the batter's body in the image. the batter is
+000000006471.jpg	Is the cricket bat under the batter's body Please answer yes or no.	No	yes, the cricket bat is under the batter's body in the image. the batter is
+000000007281.jpg	Is the sea behind people in the image? Please answer yes or no.	Yes	yes, the sea is behind the people in the image. the group of people is riding horses
+000000007281.jpg	Is the sea in front of people in the image? Please answer yes or no.	No	yes, the sea is in front of the people in the image. the group of people is r
+000000014038.jpg	Is the refrigerator on the left side of the picture? Please answer yes or no.	Yes	yes, the refrigerator is on the left side of the picture. it is located in
+000000014038.jpg	Is the refrigerator on the right side of the picture Please answer yes or no.	No	yes, the refrigerator is on the right side of the picture. it is located in
+000000031248.jpg	Is there a sofa in the middle of potted plants in the image? Please answer yes or no.	Yes	yes, there is a sofa in the middle of potted plants in the image. the so
+000000031248.jpg	Is there a sofa in the right side of potted plants in the image? Please answer yes or no.	No	yes, there is a sofa in the right side of the potted plants in the image.
+000000048504.jpg	Is the gray elephant in front of the brown elephant? Please answer yes or no.	Yes	yes, the gray elephant is standing in front of the brown elephant in the image
+000000048504.jpg	Is the brown elephant in front of the gray elephant? Please answer yes or no.	No	yes, the brown elephant is standing in front of the gray elephant in the image
+000000052007.jpg	Are the pedestrians on the right of the bus? Please answer yes or no.	Yes	yes, the pedestrians are on the right side of the bus. in the image,
+000000052007.jpg	Are the pedestrians on the left of the bus? Please answer yes or no.	No	yes, the pedestrians are on the left side of the bus. there are two people
+000000056127.jpg	Is the light above the fire hydrant in the image? Please answer yes or no.	Yes	yes, the light above the fire hydrant is on in the image. this light is located in
+000000056127.jpg	Is the light under the fire hydrant in the image?  Please answer yes or no.	No	yes, there is a light under the fire hydrant in the image. the light is located on
+000000062025.jpg	Is the trash can under the cup in the image？ Please answer yes or no.	Yes	yes, the trash can is under the cup in the image. the cup is placed on the
+000000062025.jpg	Is the trash can above the cup in the image？ Please answer yes or no.	No	yes, there is a trash can above the cup in the image. the trash can is
+000000062808.jpg	Is the phone above the pizza in the image? Please answer yes or no.	Yes	yes, the phone is above the pizza in the image. the man is taking a picture of
+000000062808.jpg	Is the phone under the pizza in the image? Please answer yes or no.	No	no, the phone is not under the pizza in the image. the phone is placed on a
+000000067213.jpg	Is the dog above the pool in the image? Please answer yes or no.	Yes	yes, the dog is above the pool in the image. the dog is jumping into the pool
+000000067213.jpg	Is the dog under the pool in the image? Please answer yes or no.	No	no, the dog is not under the pool in the image. the dog is jumping off a
+000000097994.jpg	Is the light above the computer in the image? Please answer yes or no.	Yes	yes, there is a light above the computer in the image. the light is positioned above the
+000000097994.jpg	Is the light under the computer in the image? Please answer yes or no.	No	yes, there is a light under the computer in the image. the light is located on the left
+000000204871.jpg	Is the car on the right side of the fire hydrant in the picture? Please answer yes or no.	Yes	yes, the car is on the right side of the fire hydrant in the picture. the fire
+000000204871.jpg	Is the car on the left side of the fire hydrant in the picture? Please answer yes or no.	No	yes, the car on the left side of the fire hydrant is in the picture. the car
+000000206487.jpg	Is the motorcycle on the right side of the bus? Please answer yes or no.	Yes	yes, the motorcycle is on the right side of the bus. in the image, the motor
+000000206487.jpg	Is the motorcycle on the left side of the bus Please answer yes or no.	No	yes, the motorcycle is on the left side of the bus in the image. the motorcycle
+000000211825.jpg	Is the cake on the left side of the camera? Please answer yes or no.	Yes	yes, the cake is on the left side of the camera in the image. the man is
+000000211825.jpg	Is the cake on the right side of the camera? Please answer yes or no.	No	yes, the cake is on the right side of the camera in the image. the man is
+000000212800.jpg	Is the blue umbrella under the black umbrella? Please answer yes or no.	Yes	yes, the blue umbrella is under the black umbrella in the image. the black
+000000212800.jpg	Is the blue umbrella above the black umbrella? Please answer yes or no.	No	yes, the blue umbrella is above the black umbrella in the image. the black
+000000395701.jpg	Is the TV on the left of the bookshelf? Please answer yes or no.	Yes	yes, the tv is on the left side of the bookshelf. the image shows a living
+000000395701.jpg	Is the TV on the right of the bookshelf? Please answer yes or no.	No	yes, the tv is on the right side of the bookshelf in the living room. the
+000000395801.jpg	Is the clock above people? Please answer yes or no.	Yes	yes, the clock is above the people in the image. it is mounted on a wall or a
+000000395801.jpg	Is the clock under people? Please answer yes or no.	No	no, the clock is not under people. it is mounted on a pole on the sidewalk,
+000000405970.jpg	Is the grey sofa on the right of the TV? Please answer yes or no.	Yes	yes, the grey sofa is on the right side of the tv in the living room. the
+000000405970.jpg	Is the grey sofa on the left of the TV? Please answer yes or no.	No	yes, the grey sofa is on the left side of the tv in the living room. the
+000000426241.jpg	Is the white mouse on the right of the black keyboard? Please answer yes or no.	Yes	yes, the white mouse is on the right of the black keyboard. in the image, the mouse
+000000426241.jpg	Is the white mouse on the left of the black keyboard? Please answer yes or no.	No	yes, the white mouse is on the left of the black keyboard. the image shows a desk
+000000450303.jpg	Is the monitor on top of a person? Please answer yes or no.	Yes	no, the monitor is not on top of a person. instead, it is placed on a table
+000000450303.jpg	Is the monitor under the person? Please answer yes or no.	No	yes, the monitor is under the person in the image. the person is sitting at a table with
+000000458410.jpg	Is the TV on the left of the lamp? Please answer yes or no.	Yes	yes, the tv is on the left of the lamp in the living room. the tv is position
+000000458410.jpg	Is the TV on the right of the lamp? Please answer yes or no.	No	yes, the tv is on the right side of the lamp in the living room. the tv is
+000000472046.jpg	Is the pineapple on the left of the pot in the image? Please answer yes or no.	Yes	yes, the pineapple is on the left of the pot in the image. the pine
+000000472046.jpg	Is the pineapple on the right of the pot in the image? Please answer yes or no.	No	yes, the pineapple is on the right of the pot in the image. the pine
+000000477955.jpg	Is the person under the kite? Please answer yes or no.	Yes	yes, the person is under the kite while standing on the beach. they are holding onto the
+000000477955.jpg	Is the person above the kite? Please answer yes or no.	No	yes, the person is above the kite while standing on the beach. they are holding onto the
+000000482585.jpg	Is the person on the right of the train? Please answer yes or no.	Yes	yes, there is a person on the right side of the train in the image. they are standing
+000000482585.jpg	Is the person on the left of the train? Please answer yes or no.	No	yes, there is a person on the left side of the train. the person is standing near the
+000000494869.jpg	Is the baby on the right of the dog in the image? Please answer yes or no.	Yes	yes, the baby is on the right of the dog in the image. the baby is sitting on
+000000494869.jpg	Is the baby on the left of the dog in the image? Please answer yes or no.	No	yes, the baby is on the left of the dog in the image. the baby is sitting on
+000000509699.jpg	Is the mirror above the TV? Please answer yes or no.	Yes	yes, there is a mirror above the tv in the image. the man is sitting on a c
+000000509699.jpg	Is the mirror under the TV? Please answer yes or no.	No	yes, there is a mirror under the tv in the image. the man is sitting on a c
+000000519569.jpg	Is the vase on the left of the bottle? Please answer yes or no.	Yes	yes, the vase is on the left of the bottle in the image. the vase
+000000519569.jpg	Is the vase on the right of the bottle? Please answer yes or no.	No	yes, the vase is on the right of the bottle in the image. the vase
+000000530162.jpg	Is the big red and black umbrella on the top of people? Please answer yes or no.	Yes	yes, the big red and black umbrella is on the top of people. in the image
+000000530162.jpg	Is the big red and black umbrella under people? Please answer yes or no.	No	yes, the big red and black umbrella is under a group of people, providing them with
+000000551660.jpg	Is the spoon in the bowl? Please answer yes or no.	Yes	yes, there is a spoon in the bowl. the spoon is visible in the image
+000000551660.jpg	Is the spoon out of the bowl? Please answer yes or no.	No	yes, the spoon is out of the bowl in the image. the spoon is placed
+000000578922.jpg	Is the vase on the left of the toothbrush? Please answer yes or no.	Yes	yes, the vase with red flowers is on the left of the toothbrush in the
+000000578922.jpg	Is the vase on the right of the toothbrush? Please answer yes or no.	No	yes, the vase with red flowers is on the right of the toothbrush in the

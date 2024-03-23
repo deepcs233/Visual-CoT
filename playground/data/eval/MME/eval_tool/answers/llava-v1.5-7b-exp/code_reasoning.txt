@@ -1,0 +1,40 @@
+0020.txt	Is a python code shown in the picture? Please answer yes or no.	Yes	No
+0020.txt	Is a c++ code shown in the picture? Please answer yes or no.	No	No
+0014.txt	The image shows a python code. Is the output of the code '7'? Please answer yes or no.	Yes	Yes
+0014.txt	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	No	Yes
+0013.txt	The image shows a python code. Is the output of the code 'a cat'? Please answer yes or no.	Yes	No
+0013.txt	The image shows a python code. Is the output of the code 'a dog'? Please answer yes or no.	No	Yes
+0009.txt	The image shows a python code. Is the output of the code '36'? Please answer yes or no.	Yes	Yes
+0009.txt	The image shows a python code. Is the output of the code '6'? Please answer yes or no.	No	Yes
+0003.txt	The image shows a python code. Is the output of the code '12'? Please answer yes or no.	Yes	Yes
+0003.txt	The image shows a python code. Is the output of the code '5'? Please answer yes or no.	No	Yes
+0007.txt	Is a c++ code shown in the picture? Please answer yes or no.	Yes	No
+0007.txt	Is a python code shown in the picture? Please answer yes or no.	No	No
+0015.txt	The image shows a python code. Is the output of the code '11'? Please answer yes or no.	Yes	Yes
+0015.txt	The image shows a python code. Is the output of the code '9'? Please answer yes or no.	No	Yes
+0019.txt	The image shows a python code. Is the output of the code 'the list has more than 2 numbers'? Please answer yes or no.	Yes	Yes
+0019.txt	The image shows a python code. Is the output of the code 'the list has less than 2 numbers'? Please answer yes or no.	No	Yes
+0017.txt	The image shows a python code. Will the number 3 appear in the output of the code? Please answer yes or no.	Yes	Yes
+0017.txt	The image shows a python code. Will the number 6 appear in the output of the code? Please answer yes or no.	No	Yes
+0012.txt	The image shows a python code. Is the output of the code 'working hard'? Please answer yes or no.	Yes	Yes
+0012.txt	The image shows a python code. Is the output of the code 'playing hard'? Please answer yes or no.	No	Yes
+0002.txt	The image shows a python code. Is the output of the code 'a cat'? Please answer yes or no.	Yes	Yes
+0002.txt	The image shows a python code. Is the output of the code 'a dog'? Please answer yes or no.	No	Yes
+0005.txt	The image shows a python code. Is the output of the code '12'? Please answer yes or no.	Yes	No
+0005.txt	The image shows a python code. Is the output of the code '5'? Please answer yes or no.	No	No
+0006.txt	The image shows a python code. Is the output of the code '0'? Please answer yes or no.	Yes	Yes
+0006.txt	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	No	Yes
+0001.txt	The image shows a python code. Is the output of the code 'Hello'? Please answer yes or no.	Yes	Yes
+0001.txt	The image shows a python code. Is the output of the code 'World'? Please answer yes or no.	No	Yes
+0016.txt	The image shows a python code. Is the output of the code 'x is smaller than 10'? Please answer yes or no.	Yes	Yes
+0016.txt	The image shows a python code. Is the output of the code 'x is larger than 10'? Please answer yes or no.	No	No
+0011.txt	The image shows a python code. Is the output of the code '0'? Please answer yes or no.	Yes	No
+0011.txt	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	No	Yes
+0004.txt	The image shows a python code. Is the output of the code '3'? Please answer yes or no.	Yes	Yes
+0004.txt	The image shows a python code. Is the output of the code '2'? Please answer yes or no.	No	Yes
+0008.txt	The image shows a python code. Is the output of the code '1234'? Please answer yes or no.	Yes	Yes
+0008.txt	The image shows a python code. Is the output of the code '12345'? Please answer yes or no.	No	No
+0018.txt	The image shows a python code. Is the output of the code '11'? Please answer yes or no.	Yes	No
+0018.txt	The image shows a python code. Is the output of the code '12'? Please answer yes or no.	No	No
+0010.txt	The image shows a python code. Is the output of the code '1'? Please answer yes or no.	Yes	Yes
+0010.txt	The image shows a python code. Is the output of the code '5'? Please answer yes or no.	No	No

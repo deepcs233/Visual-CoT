@@ -1,0 +1,40 @@
+0020.txt	Is it appropriate to translate the Chinese in the image into English 'rank first' in the picture? Please answer yes or no.	Yes	Yes
+0020.txt	Is it appropriate to translate the Chinese in the image into English 'to add the finishing touches' in the picture? Please answer yes or no.	No	No
+0014.txt	Is it appropriate to translate the Chinese in the image into English 'waiting for a long time' in the picture? Please answer yes or no.	Yes	Yes
+0014.txt	Is it appropriate to translate the Chinese in the image into English 'sleeping for a long time' in the picture? Please answer yes or no.	No	No
+0013.txt	Is it appropriate to translate the Chinese in the image into English 'feeling frustrated' in the picture? Please answer yes or no.	Yes	Yes
+0013.txt	Is it appropriate to translate the Chinese in the image into English 'feeling relaxed' in the picture? Please answer yes or no.	No	No
+0009.txt	Is it appropriate to translate the Chinese in the image into English 'creative people' in the picture? Please answer yes or no.	Yes	No
+0009.txt	Is it appropriate to translate the Chinese in the image into English 'leading people' in the picture? Please answer yes or no.	No	No
+0003.txt	Is it appropriate to translate the Chinese in the image into English 'sunny weather' in the picture? Please answer yes or no.	Yes	No
+0003.txt	Is it appropriate to translate the Chinese in the image into English 'cold weather' in the picture? Please answer yes or no.	No	Yes
+0007.txt	Is it appropriate to translate the Chinese in the image into English 'walking very slowly' in the picture? Please answer yes or no.	Yes	Yes
+0007.txt	Is it appropriate to translate the Chinese in the image into English 'runing very slowly' in the picture? Please answer yes or no.	No	No
+0015.txt	Is it appropriate to translate the Chinese in the image into English 'very powerful' in the picture? Please answer yes or no.	Yes	Yes
+0015.txt	Is it appropriate to translate the Chinese in the image into English 'to be fragile throughout the world' in the picture? Please answer yes or no.	No	Yes
+0019.txt	Is it appropriate to translate the Chinese in the image into English 'get along well' in the picture? Please answer yes or no.	Yes	No
+0019.txt	Is it appropriate to translate the Chinese in the image into English 'for own self-interest' in the picture? Please answer yes or no.	No	No
+0017.txt	Is it appropriate to translate the Chinese in the image into English 'delicious fruit' in the picture? Please answer yes or no.	Yes	No
+0017.txt	Is it appropriate to translate the Chinese in the image into English 'banana' in the picture? Please answer yes or no.	No	No
+0012.txt	Is it appropriate to translate the Chinese in the image into English 'a small amount' in the picture? Please answer yes or no.	Yes	Yes
+0012.txt	Is it appropriate to translate the Chinese in the image into English 'difficult and dangerous' in the picture? Please answer yes or no.	No	Yes
+0002.txt	Is it appropriate to translate the Chinese in the image into English 'a delicious dinner' in the picture? Please answer yes or no.	Yes	No
+0002.txt	Is it appropriate to translate the Chinese in the image into English 'hamburger and chips' in the picture? Please answer yes or no.	No	No
+0005.txt	Is it appropriate to translate the Chinese in the image into English 'feeling happy' in the picture? Please answer yes or no.	Yes	No
+0005.txt	Is it appropriate to translate the Chinese in the image into English 'feeling bored' in the picture? Please answer yes or no.	No	No
+0006.txt	Is it appropriate to translate the Chinese in the image into English 'work hard together' in the picture? Please answer yes or no.	Yes	Yes
+0006.txt	Is it appropriate to translate the Chinese in the image into English 'be filled with intrigue' in the picture? Please answer yes or no.	No	No
+0001.txt	Is it appropriate to translate the Chinese in the image into English 'classic taste' in the picture? Please answer yes or no.	Yes	No
+0001.txt	Is it appropriate to translate the Chinese in the image into English 'classic strawberry flavor' in the picture? Please answer yes or no.	No	No
+0016.txt	Is it appropriate to translate the Chinese in the image into English 'all talk and no action' in the picture? Please answer yes or no.	Yes	Yes
+0016.txt	Is it appropriate to translate the Chinese in the image into English 'hands-on practice' in the picture? Please answer yes or no.	No	No
+0011.txt	Is it appropriate to translate the Chinese in the image into English 'a difficult work' in the picture? Please answer yes or no.	Yes	Yes
+0011.txt	Is it appropriate to translate the Chinese in the image into English 'a easy work' in the picture? Please answer yes or no.	No	No
+0004.txt	Is it appropriate to translate the Chinese in the image into English 'run very fast' in the picture? Please answer yes or no.	Yes	Yes
+0004.txt	Is it appropriate to translate the Chinese in the image into English 'run very slow' in the picture? Please answer yes or no.	No	No
+0008.txt	Is it appropriate to translate the Chinese in the image into English 'very proud' in the picture? Please answer yes or no.	Yes	Yes
+0008.txt	Is it appropriate to translate the Chinese in the image into English 'very thankful' in the picture? Please answer yes or no.	No	Yes
+0018.txt	Is it appropriate to translate the Chinese in the image into English 'very unforgettable' in the picture? Please answer yes or no.	Yes	Yes
+0018.txt	Is it appropriate to translate the Chinese in the image into English 'very happy' in the picture? Please answer yes or no.	No	Yes
+0010.txt	Is it appropriate to translate the Chinese in the image into English 'a beautiful garden' in the picture? Please answer yes or no.	Yes	Yes
+0010.txt	Is it appropriate to translate the Chinese in the image into English 'a beautiful campus' in the picture? Please answer yes or no.	No	Yes

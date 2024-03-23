@@ -1,0 +1,140 @@
+0001.png	Here are the order details for my taxi ride. Should I actually pay $29.42? Please answer yes or no.	Yes	yes, you should pay the amount indicated on the parking meter. the image shows a parking
+0001.png	Here are the order details for my taxi ride. Should I actually pay $32.42? Please answer yes or no.	No	yes, you should pay the amount indicated on the bill. the image shows a parking meter with
+0002.png	Should I stop when I'm about to cross the street and see the sign in the picture? Please answer yes or no.	Yes	yes, you should stop when you are about to cross the street and see the red traffic light in
+0002.png	When I see the sign in the picture, can I cross the street? Please answer yes or no.	No	in the image, there is a red traffic light with a "do not walk" sign. the
+0003.png	May I ask if in the game of finger-guessing game, did the right side of the picture win? Please answer yes or no.	Yes	yes, in the game of finger-guessing, the right side of the picture won.
+0003.png	May I ask if in the game of finger-guessing game, did the left side of the picture win? Please answer yes or no.	No	yes, in the game of finger-guessing, the left side of the picture won.
+0004.png	Does the fruit in the picture look stale? Please answer yes or no.	Yes	yes, the apple in the picture appears to be stale. it has a brown spot on one
+0004.png	Does the fruit in the picture look very fresh? Please answer yes or no.	No	the apple in the picture does not look very fresh. it has a brown spot on it, which
+0005.png	The office's normal closing time is 5 p.m. Now is afternoon. Should I continue to work at the time shown in the picture? Please answer yes or no.	Yes	no, you should not continue to work at the time shown in the picture. the image shows a
+0005.png	The office's normal closing time is 5 p.m. Now is afternoon. Could I leave work at the time shown in the picture? Please answer yes or no.	No	based on the image, where a person is wearing a blue watch with a blue band and
+0006.png	I recently want to go on vacation to relax and go to a place full of fresh air. Is the venue in the picture appropriate? Please answer yes or no.	Yes	yes, the venue in the picture is appropriate for a relaxing vacation in a place full
+0006.png	I want to go where there are a lot of people. Is the venue in the picture appropriate? Please answer yes or no.	No	no, the venue in the picture is not appropriate for going to a place with a lot of
+0007.png	I want to clean the house and I want to choose a tool. Is the tool in the picture an appropriate choice? Please answer yes or no.	Yes	yes, the broom in the picture is an appropriate choice for cleaning the house. it is
+0007.png	I want to transport something and I want to choose a tool to help me. Is the tool in the picture an appropriate choice? Please answer yes or no.	No	yes, the tool in the picture, a broom, is an appropriate choice for transporting something
+0008.png	Can I smoke where the picture is? Please answer yes or no.	Yes	yes, you can smoke where the picture is. the image shows a public area with a concrete wall
+0008.png	Is smoking prohibited in the location of the picture? Please answer yes or no.	No	yes, smoking is prohibited in the location of the picture. the image shows a sign that
+0009.png	Will green be obtained by mixing the above two colors? Please answer yes or no.	Yes	yes, green will be obtained by mixing the two colors yellow and blue. in the image, the
+0009.png	Will red be obtained by mixing the above two colors? Please answer yes or no.	No	yes, red will be obtained by mixing the two colors yellow and blue. in the image, the
+0010.png	I am going to exercise and I want to choose a venue. Is the venue in the picture a good choice? Please answer yes or no.	Yes	yes, the venue in the picture is a good choice for exercising. the image shows
+0010.png	I am going to study and I want to choose a venue. Is the venue in the picture a good choice? Please answer yes or no.	No	yes, the venue in the picture is a good choice for studying. the image shows a large
+0011.png	If I am allergic to durian, can I finish the fruit in the picture? Please answer yes or no.	Yes	no, if you are allergic to durian, you cannot finish the fruit in the picture
+0011.png	If I am allergic to banana, can I finish the fruit in the picture? Please answer yes or no.	No	if you are allergic to banana, you should not finish the fruit in the picture.
+0012.png	I am going to study and I want to choose a venue. Is the venue in the picture a good choice? Please answer yes or no.	Yes	yes, the venue in the picture is a good choice for studying. the image shows a class
+0012.png	I am going to exercise and I want to choose a venue. Is the venue in the picture a good choice? Please answer yes or no.	No	yes, the venue in the picture is a good choice for exercising. the image shows
+0013.png	I am going to a formal dinner party. Is the shoe in the picture an appropriate choice? Please answer yes or no.	Yes	yes, the shoe in the picture is an appropriate choice for a formal dinner party. it is
+0013.png	I am going to play basketball. Is the shoe in the picture an appropriate choice? Please answer yes or no.	No	no, the shoe in the picture is not an appropriate choice for playing basketball. the shoe
+0014.png	In this line chart, the vertical axis is height and the horizontal axis is age. Does Maria's height exceed Jane's height in the end? Please answer yes or no.	Yes	yes, maria's height exceeds jane's height in the end. the line chart shows
+0014.png	In this line chart, the vertical axis is height and the horizontal axis is age. Does Jane's height exceed Kangkang's height in the end? Please answer yes or no.	No	yes, jane's height exceeds kangkang's height in the end. the
+0015.png	Is the ball usually played with hands? Please answer yes or no.	Yes	no, the ball is not usually played with hands. the ball in the image is a basketball,
+0015.png	Is the ball usually played with feet? Please answer yes or no.	No	yes, the ball in the image is typically played with feet. it is a soccer ball,
+0016.png	Is the place in the picture a good place to enjoy the cool in a sunny day? Please answer yes or no.	Yes	yes, the place in the picture is a good place to enjoy the cool in a sunny day
+0016.png	Is the place in the picture a good shelter from the rain when it thunders outside? Please answer yes or no.	No	no, the place in the picture is not a good shelter from the rain when it thunders
+0017.png	Are the vehicles in the pictures usually environmentally friendly? Please answer yes or no.	Yes	yes, the vehicles in the pictures are environmentally friendly. the image shows two bicycles park
+0017.png	Does the vehicle in the picture usually run faster than the car? Please answer yes or no.	No	no, the vehicle in the picture is not a car, but rather a bicycle. b
+0018.png	This is a picture of some kind of animal. Does it eat leaves? Please answer yes or no.	Yes	yes, the animal in the image is a giraffe, and it does eat leaves. g
+0018.png	This is a picture of some kind of animal. Does it eat meat? Please answer yes or no.	No	yes, the animal in the image is a giraffe, and it does eat meat. g
+0019.png	Is the water flow in the picture from the top to the bottom? Please answer yes or no.	Yes	yes, the water flow in the picture is from the top to the bottom. the water is flow
+0019.png	Is the water flow in the picture from the bottom to the top? Please answer yes or no.	No	yes, the water flow in the picture is from the bottom to the top, as it casc
+0020.png	Can the item in the picture be used to measure length? Please answer yes or no.	Yes	yes, the item in the picture can be used to measure length. it is a ruler,
+0020.png	Can the item in the picture be used to measure angles? Please answer yes or no.	No	yes, the item in the picture can be used to measure angles. it is a ruler with
+0021.png	This is a toilet guide sign. I am a man. Should I go to the toilet on the left? Please answer yes or no.	Yes	yes, you should go to the toilet on the left. the image shows a man and
+0021.png	This is a toilet guide sign. I am a man. Should I go to the toilet on the right? Please answer yes or no.	No	yes, you should go to the toilet on the right. the image shows a man and
+0022.png	Does the animal in the picture usually catch mice? Please answer yes or no.	Yes	no, the animal in the picture, a green-eyed cat, does not typically catch m
+0022.png	Is the animal in the picture usually used in search and rescue? Please answer yes or no.	No	no, the animal in the picture is not typically used in search and rescue. the image shows a
+0023.png	If you want to keep your fruit fresh in summer, should you put it in the appliance in the picture? Please answer yes or no.	Yes	yes, you should put your fruit in the appliance shown in the image, which is a re
+0023.png	Is the appliance in the picture more suitable for winter than summer? Please answer yes or no.	No	the appliance in the picture, a stainless steel refrigerator, is more suitable
+0024.png	I want to go skating. Is the shoe in the picture usually appropriate? Please answer yes or no.	Yes	yes, the shoe in the picture is typically appropriate for going skating. it is a black
+0024.png	I want to go roller skating. Is the shoe in the picture usually appropriate? Please answer yes or no.	No	yes, the shoe in the picture is typically appropriate for roller skating. the image features
+0025.png	I feel very thirsty in the desert now. Can the thing in the picture help me? Please answer yes or no.	Yes	no, the thing in the picture, which is a glass of green liquid with a slice of l
+0025.png	I don't like clear cups. Is the cup in the picture my type? Please answer yes or no.	No	yes, the cup in the picture is your type, as it is a clear glass cup filled with
+0026.png	I want to go for a run and I want to choose a pair of shoes. Is the shoe in the picture an appropriate choice? Please answer yes or no.	Yes	yes, the shoe in the picture is an appropriate choice for a run. it is a ne
+0026.png	I want to practice ballet and I want to choose a pair of shoes. Is the shoe in the picture an appropriate choice? Please answer yes or no.	No	yes, the shoe in the picture is an appropriate choice for ballet practice. the shoe
+0027.png	Are the pants in the picture usually suitable for casual wear? Please answer yes or no.	Yes	yes, the pants in the picture are typically suitable for casual wear. they are blue je
+0027.png	Are the pants in the picture usually suitable for playing basketball? Please answer yes or no.	No	no, the pants in the picture are not suitable for playing basketball. they are blue jeans
+0028.png	This is a picture from a real scene. Is there only one real cat in this picture? Please answer yes or no.	Yes	yes, there is only one real cat in this picture. the cat is looking at its reflection in
+0028.png	This is a picture from a real scene. Is there only two real cats in this picture? Please answer yes or no.	No	yes, there are only two real cats in this picture. one cat is looking at its reflection
+0029.png	The three cats in the picture, the one without a beard, is the middle one? Please answer yes or no.	Yes	yes, the middle cat in the picture is the one without a beard. the other two c
+0029.png	The three cats in the picture, the one without a beard, is the right one? Please answer yes or no.	No	yes, the cat without a beard is the right one in the picture. the image shows three
+0030.png	I'm going to 501. Do I need to turn left at the intersection? Please answer yes or no.	Yes	yes, you need to turn left at the intersection to continue on your way. the image shows a
+0030.png	I'm going to 502. Do I need to turn left at the intersection? Please answer yes or no.	No	yes, you need to turn left at the intersection. the image shows a street sign with the number
+0031.png	Is the drink in the picture usually suitable for a party? Please answer yes or no.	Yes	yes, the drink in the picture is usually suitable for a party. the image shows two glasses
+0031.png	Is the drink in the picture usually suitable for drinking together with cephalosporin? Please answer yes or no.	No	no, the drink in the picture is not suitable for drinking together with cephalosporin
+0032.png	Here is a picture of the cake I cut. Did I cut it at least twice? Please answer yes or no.	Yes	yes, i have cut the cake at least twice. the cake is displayed on a d
+0032.png	Here is a picture of the cake I cut. Did I cut it at least once? Please answer yes or no.	No	yes, i cut the cake at least once. the cake is displayed on a dining
+0033.png	This is a picture from a real scene. Is there only one real apple in this picture? Please answer yes or no.	Yes	yes, there is only one real apple in the picture. the apple is being held by a person
+0033.png	This is a picture from a real scene. Is there only two real apples in this picture? Please answer yes or no.	No	yes, there are only two real apples in the picture. the image shows a person holding an
+0034.png	Here is a pie chart counting the favorite fruits of all employees in our company. Is the durian the most popular fruit? Please answer yes or no.	Yes	no, the durian is not the most popular fruit among the employees in the company. the pie
+0034.png	Here is a pie chart counting the favorite fruits of all employees in our company. Is the mango the most popular fruit? Please answer yes or no.	No	yes, the mango is the most popular fruit among the employees in our company, as it is
+0035.png	This is the sales chart of this month. Is Tina the runner-up in sales this month? Please answer yes or no.	Yes	yes, tina is the runner-up in sales this month, as indicated by the blue dot
+0035.png	This is the sales chart of this month. Is John the runner-up in sales this month? Please answer yes or no.	No	yes, john is the runner-up in sales this month, as indicated by the blue dot on
+0036.png	Is it a good time to walk through the road in the picture? Please answer yes or no.	Yes	in the image, a group of people is walking through the road, including a woman riding a
+0036.png	Is it a good time to drive a car through the road in the picture? Please answer yes or no.	No	no, it is not a good time to drive a car through the road in the picture. the
+0037.png	Here is a photo of the sun's position at a certain time. Could it be dusk now? Please answer yes or no.	Yes	yes, the sun's position in the image suggests that it is dusk. the sun is
+0037.png	Here is a photo of the sun's position at a certain time. Could it be noon now? Please answer yes or no.	No	no, it is not noon now. the sun is setting in the image, as eviden
+0038.png	All apples are shown in the picture. If I eat an apple every day, can I eat it for four days? Please answer yes or no.	Yes	yes, you can eat an apple every day for four days. in the image, there are five
+0038.png	All apples are shown in the picture. If I eat an apple every day, can I eat it for three days? Please answer yes or no.	No	no, you cannot eat an apple every day for three days. an apple is a single fruit,
+0039.png	This line chart is used to count the sales of two types of burgers. Are chicken burgers more popular? Please answer yes or no.	Yes	yes, chicken burgers are more popular than beef burgers, as indicated by the line
+0039.png	This line chart is used to count the sales of two types of burgers. Are beef burgers more popular? Please answer yes or no.	No	yes, beef burgers are more popular than chicken burgers, as indicated by the line
+0040.png	I want to supplement protein. Is it appropriate to eat the food in the picture? Please answer yes or no.	Yes	no, it is not appropriate to eat the food in the picture. the image shows a small egg
+0040.png	I don't like to eat any food related to chicken. Is the food in the picture my type? Please answer yes or no.	No	the food in the picture is not your type, as it is an egg, which is related to
+0041.png	Is the fruit in the picture usually sweet? Please answer yes or no.	Yes	yes, the fruit in the picture is typically sweet. the image shows a close-up of a
+0041.png	Is the fruit in the picture usually spicy? Please answer yes or no.	No	no, the fruit in the picture is not typically spicy. the image shows a bunch of ban
+0042.png	Are there usually cars in the area shown in the picture? Please answer yes or no.	Yes	based on the image, it is not possible to definitively determine if there are usually cars in
+0042.png	Is it appropriate to cross the road directly from the place shown in the picture? Please answer yes or no.	No	no, it is not appropriate to cross the road directly from the place shown in the picture. the
+0043.png	Is the animal in the picture usually not seen in winter? Please answer yes or no.	Yes	yes, the animal in the picture is typically not seen in winter. the image shows a large s
+0043.png	Is the animal in the picture usually seen in winter? Please answer yes or no.	No	no, the animal in the picture is not typically seen in winter. the image shows a large s
+0044.png	This is a flowchart of a program. I enter 3 and 6. Is the output 'No'? Please answer yes or no.	Yes	yes, the output is "no" when entering 3 and 6 as input. this is
+0044.png	This is a flowchart of a program. I enter 3 and 6. Is the output 'Yes'? Please answer yes or no.	No	yes, the output is "yes" when entering 3 and 6 as input. this is
+0045.png	There is a sign at the intersection, can I turn left? Please answer yes or no.	Yes	yes, you can turn left at the intersection, as indicated by the "no left turn" sign
+0045.png	There is a sign at the intersection, can I turn right? Please answer yes or no.	No	yes, you can turn right at the intersection, as the sign indicates that it is a right turn
+0046.png	Vitamin C is very helpful for human health. Does the food on in the picture usually contain Vitamin C? Please answer yes or no.	Yes	yes, the food in the picture, which consists of lemons and limes, is a good
+0046.png	Is the food in the picture commonly used to build muscle? Please answer yes or no.	No	no, lemons are not commonly used to build muscle. they are a citrus fruit known
+0047.png	All apples are shown in the picture. My brother and I divide the apples equally. May I have one apple? Please answer yes or no.	Yes	in the image, there are two green apples and one red apple on the wooden table. your
+0047.png	All apples are shown in the picture. My brother and I divide the apples equally. May I have two apples? Please answer yes or no.	No	yes, you may have two apples. in the image, there are two green apples and
+0048.png	Here is a picture of eating fruit. Am I eating a strawberry? Please answer yes or no.	Yes	no, you are not eating a strawberry. in the image, a person is holding
+0048.png	Here is a picture of eating fruit. Am I eating a cherry tomato? Please answer yes or no.	No	no, you are not eating a cherry tomato. in the image, a person is
+0049.png	Does the vehicle in the picture usually have its Windows closed during fast driving? Please answer yes or no.	Yes	no, the vehicle in the picture, which is a small airplane, does not usually have its
+0049.png	Does the vehicle in the picture usually have its Windows opened during fast driving? Please answer yes or no.	No	no, the vehicle in the picture, which is a small airplane, does not usually have its
+0050.png	Do people commonly use the item in the picture for makeup in their daily lives? Please answer yes or no.	Yes	yes, people commonly use lipstick in their daily lives for applying makeup. in the image
+0050.png	Do people commonly use the item in the picture to write in their daily lives? Please answer yes or no.	No	no, people do not commonly use lipstick to write in their daily lives. lipstick
+0051.png	This is a flowchart of a program. When the input is 5, is the output 6? Please answer yes or no.	Yes	yes, when the input is 5, the output is 6. this is because the flow
+0051.png	This is a flowchart of a program. When the input is 6, is the output 5? Please answer yes or no.	No	yes, when the input is 6, the output is 5. this is because the flow
+0052.png	I want to lose weight. Is the food in the picture an appropriate choice? Please answer yes or no.	Yes	yes, the food in the picture is an appropriate choice for someone looking to lose weight. the image
+0052.png	I want to gain weight. Is the food in the picture an appropriate choice? Please answer yes or no.	No	no, the food in the picture is not an appropriate choice for someone who wants to gain weight.
+0053.png	Is the car in the picture going to make a right turn after going through a straight road section? Please answer yes or no.	Yes	yes, the car in the picture is going to make a right turn after going through a straight road
+0053.png	Is the car in the picture going to make a left turn after going through a straight road section? Please answer yes or no.	No	yes, the car in the picture is going to make a left turn after going through a straight road
+0054.png	May I ask if the plants in the picture can survive in the water? Please answer yes or no.	Yes	yes, the plants in the picture can survive in the water. the image shows a glass v
+0054.png	May I ask if the plants in the picture can survive in the soil? Please answer yes or no.	No	yes, the plants in the picture can survive in the soil. the image shows a small plant
+0055.png	The man in the picture is eating. Does he eat noodles? Please answer yes or no.	Yes	yes, the man in the picture is eating noodles. he is sitting at a d
+0055.png	The man in the picture is eating. Does he eat rice? Please answer yes or no.	No	yes, the man in the picture is eating rice. he is sitting at a dining table
+0056.png	Can the item in the picture output water? Please answer yes or no.	Yes	yes, the item in the picture can output water. it is a shower head, which is
+0056.png	Can the item in picture be used for blowing air? Please answer yes or no.	No	yes, the item in the picture can be used for blowing air. it is a metal show
+0057.png	Does the vehicle in the picture usually run faster than a horse? Please answer yes or no.	Yes	no, the vehicle in the picture, a blue sports car, does not usually run faster than a
+0057.png	Does the vehicle in the picture usually fly? Please answer yes or no.	No	no, the vehicle in the picture is not a flying car. it is a blue sports car park
+0058.png	Can't I smoke here? Please answer yes or no.	Yes	the image shows a white wall with a sign on it that says "no smoking." the sign
+0058.png	May I smoke here? Please answer yes or no.	No	the image shows a white wall with a sign written in japanese, which translates to "no sm
+0059.png	This pie chart is the age distribution of our company. Is the proportion of people aged 30-50 more than 40%? Please answer yes or no.	Yes	yes, the pie chart shows that the proportion of people aged 30-50 is more
+0059.png	This pie chart is the age distribution of our company. Is the proportion of people aged 40-50 more than 30%? Please answer yes or no.	No	yes, the proportion of people aged 40-50 in the pie chart is more than
+0060.png	This is the histogram of fruit sales today. Do more men buy watermelons than women buy bananas? Please answer yes or no.	Yes	yes, the histogram of fruit sales today shows that more men buy watermelons than women
+0060.png	This is the histogram of fruit sales today. Do more men buy peach than women buy apple? Please answer yes or no.	No	yes, the histogram of fruit sales today shows that more men buy peach than women buy apple
+0061.png	Is the tool in the picture common in tall buildings? Please answer yes or no.	Yes	yes, elevators are a common feature in tall buildings, as they provide an efficient means of transport
+0061.png	In case of fire, is it appropriate to choose the tool in the picture to go downstairs? Please answer yes or no.	No	no, it is not appropriate to choose the tool in the picture to go downstairs in case
+0062.png	It's snowing outside the window now. I want to go out. Is it appropriate to wear the cloth in the picture? Please answer yes or no.	Yes	yes, it is appropriate to wear the brown coat in the picture, as it is a winter coat
+0062.png	It's very hot outside. I want to go out. Is it appropriate to wear the cloth in the picture? Please answer yes or no.	No	no, it is not appropriate to wear the brown coat in the picture, as it is very hot
+0063.png	Is the animal in the picture suitable as a pet? Please answer yes or no.	Yes	yes, the animal in the picture is suitable as a pet. it is a small, cute
+0063.png	Is the animal in the pictures usually stronger than adult tigers? Please answer yes or no.	No	no, the animal in the pictures is not stronger than adult tigers. the image features a
+0064.png	I want to play basketball. Is the venue in the picture a good choice? Please answer yes or no.	Yes	yes, the venue in the picture is a good choice for playing basketball. the image shows a
+0064.png	I want to play football. Is the venue in the picture a good choice? Please answer yes or no.	No	no, the venue in the picture is not a good choice for playing football. the image shows
+0065.png	Is it appropriate to wear a down jacket during the season in the picture? Please answer yes or no.	Yes	yes, it is appropriate to wear a down jacket during the season in the picture. the image
+0065.png	Is it appropriate to only wear short sleeves during the season in the picture? Please answer yes or no.	No	no, it is not appropriate to only wear short sleeves during the season depicted in the
+0066.png	I want to carry one thing with me on a rainy day. Is the thing in the image an appropriate choice? Please answer yes or no.	Yes	yes, the green umbrella in the image is an appropriate choice for carrying with you on a
+0066.png	It is raining outside. I am in a house and I don't need to go out. Is this thing in the picture necessary for me to use? Please answer yes or no.	No	yes, the green umbrella in the picture is necessary for you to use if you are inside
+0067.png	I feel very hot. Is the tool in the picture suitable for use? Please answer yes or no.	Yes	yes, the tool in the picture is suitable for use. the image shows a white electric fan on
+0067.png	I feel very cold. Is the tool in the picture suitable for use? Please answer yes or no.	No	yes, the tool in the picture is suitable for use. the image shows a white electric fan on
+0068.png	Is it unhealthy to eat the food in the picture too often? Please answer yes or no.	Yes	yes, it is unhealthy to eat the food in the picture too often. the image
+0068.png	Is the food in the picture usually low in calories? Please answer yes or no.	No	no, the food in the picture is not typically low in calories. the image shows a large
+0069.png	Is the phone in the photo connected to a charger? Please answer yes or no.	Yes	yes, the phone in the photo is connected to a charger. it is sitting on a white
+0069.png	Is the phone in the photo charging? Please answer yes or no.	No	yes, the phone in the photo is charging. it is connected to a white charger and
+0070.png	I want to turn the screw. Is the tool in the picture usually appropriate? Please answer yes or no.	Yes	yes, the tool in the picture is typically appropriate for turning screws. it is a yellow
+0070.png	Is the tool in the picture usually suitable for smashing walnuts? Please answer yes or no.	No	no, the tool in the picture is not suitable for smashing walnuts. the tool

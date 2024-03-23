@@ -1,0 +1,40 @@
+0020.txt	Is the word in the logo "cold drinks"? Please answer yes or no.	Yes	Yes
+0020.txt	Is the word in the logo "cold rinks"? Please answer yes or no.	No	No
+0014.txt	Is the word in the logo "penarth pier built 1894"? Please answer yes or no.	Yes	Yes
+0014.txt	Is the word in the logo "penarth pies buid 1894"? Please answer yes or no.	No	Yes
+0013.txt	Is the word in the picture "seabreeze motel"? Please answer yes or no.	Yes	Yes
+0013.txt	Is the word in the picture "seebreeze model"? Please answer yes or no.	No	No
+0009.txt	Is the word in the logo "fenders diner"? Please answer yes or no.	Yes	Yes
+0009.txt	Is the word in the logo "finders diner"? Please answer yes or no.	No	No
+0003.txt	Is the word in the logo "beavertails pastry"? Please answer yes or no.	Yes	Yes
+0003.txt	Is the word in the logo "beavertalls pastry"? Please answer yes or no.	No	Yes
+0007.txt	Is the phone number in the picture "0131 555 6363"? Please answer yes or no.	Yes	Yes
+0007.txt	Is the phone number in the picture "0137 556 6363"? Please answer yes or no.	No	No
+0015.txt	Is the text in the picture "hollywood"? Please answer yes or no.	Yes	Yes
+0015.txt	Is the text in the picture "holly word"? Please answer yes or no.	No	No
+0019.txt	Is the word in the logo "exchange hotel"? Please answer yes or no.	Yes	Yes
+0019.txt	Is the word in the logo "excharge hotel"? Please answer yes or no.	No	No
+0017.txt	Is the word in the logo "hardco industrial construction"? Please answer yes or no.	Yes	Yes
+0017.txt	Is the word in the logo "hardto industal construction"? Please answer yes or no.	No	No
+0012.txt	Is the word in the logo "casa grecque restaurants"? Please answer yes or no.	Yes	Yes
+0012.txt	Is the word in the logo "case grecque restaurants"? Please answer yes or no.	No	Yes
+0002.txt	Is the word in the logo "c'est cheese"? Please answer yes or no.	Yes	Yes
+0002.txt	Is the word in the logo "crest cheese"? Please answer yes or no.	No	Yes
+0005.txt	Is the word in the logo "kress"? Please answer yes or no.	Yes	Yes
+0005.txt	Is the word in the logo "dress"? Please answer yes or no.	No	No
+0006.txt	Is the word in the logo "the beatles story liver pool"? Please answer yes or no.	Yes	Yes
+0006.txt	Is the word in the logo "the beats story liver pool"? Please answer yes or no.	No	Yes
+0001.txt	Is the word in the logo "angie's"? Please answer yes or no.	Yes	No
+0001.txt	Is the word in the logo "angle's"? Please answer yes or no.	No	No
+0016.txt	Is the word in the logo "shop rite"? Please answer yes or no.	Yes	Yes
+0016.txt	Is the word in the logo "stop rite"? Please answer yes or no.	No	No
+0011.txt	Is the word in the logo "ihop restaurant"? Please answer yes or no.	Yes	Yes
+0011.txt	Is the word in the logo "lhop restaurant"? Please answer yes or no.	No	No
+0004.txt	Is the word in the logo "old market sundries"? Please answer yes or no.	Yes	Yes
+0004.txt	Is the word in the logo "old market hundreds"? Please answer yes or no.	No	No
+0008.txt	Is the word in the logo "phil's market"? Please answer yes or no.	Yes	Yes
+0008.txt	Is the word in the logo "phll's market"? Please answer yes or no.	No	Yes
+0018.txt	Is the word in the logo "oldsmobile service"? Please answer yes or no.	Yes	No
+0018.txt	Is the word in the logo "old mobile service"? Please answer yes or no.	No	Yes
+0010.txt	Is the word in the logo "high time coffee shop"? Please answer yes or no.	Yes	Yes
+0010.txt	Is the word in the logo "high tite cofeee shop"? Please answer yes or no.	No	No

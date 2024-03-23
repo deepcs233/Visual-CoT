@@ -1,0 +1,60 @@
+000000006040.jpg	Is there a train in this image? Please answer yes or no.	Yes	yes, there is a train in this image. the train is a blue and white passenger train travel
+000000006040.jpg	Is there a bed in this image? Please answer yes or no.	No	no, there is no bed in this image. the image features a blue and white train traveling
+000000006471.jpg	Is there a baseball bat in this image? Please answer yes or no.	Yes	yes, there is a baseball bat in the image. the baseball player is holding the bat and prepar
+000000006471.jpg	Is there a giraffe in this image? Please answer yes or no.	No	no, there is no giraffe in this image. the image features a baseball game with a
+000000007108.jpg	Is there a elephant in this image? Please answer yes or no.	Yes	yes, there is an elephant in this image. the elephant is walking through a
+000000007108.jpg	Is there a hair drier in this image? Please answer yes or no.	No	no, there is no hair drier in this image. the image features a group of eleph
+000000007816.jpg	Is there a motorcycle in this image? Please answer yes or no.	Yes	yes, there is a motorcycle in this image. the motorcycle is being ridden by a
+000000007816.jpg	Is there a airplane in this image? Please answer yes or no.	No	no, there is no airplane in this image. the image features a man riding a white
+000000007977.jpg	Is there a skateboard in this image? Please answer yes or no.	Yes	yes, there is a skateboard in this image. a person is riding the skate
+000000007977.jpg	Is there a spoon in this image? Please answer yes or no.	No	no, there is no spoon in the image. the image shows a person riding a sk
+000000008844.jpg	Is there a person in this image? Please answer yes or no.	Yes	yes, there is a person in the image. a woman is standing in front of a table with
+000000008844.jpg	Is there a sink in this image? Please answer yes or no.	No	no, there is no sink in the image. the primary focus is on the woman standing in front
+000000009590.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	yes, there is a bottle in the image. it is located on the dining table,
+000000009590.jpg	Is there a scissors in this image? Please answer yes or no.	No	no, there is no scissors in the image. the image shows a group of people sitting
+000000010363.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	yes, there is a bottle in the image. the cat is standing on the hood of
+000000010363.jpg	Is there a apple in this image? Please answer yes or no.	No	no, there is no apple in the image. the image features a cat standing on the hood
+000000011197.jpg	Is there a car in this image? Please answer yes or no.	Yes	yes, there is a car in the image. the car is located on the street, and it
+000000011197.jpg	Is there a fork in this image? Please answer yes or no.	No	no, there is no fork in the image. the focus of the image is on a man standing
+000000015254.jpg	Is there a spoon in this image? Please answer yes or no.	Yes	yes, there is a spoon in the image. it is located in the lower left corner of
+000000015254.jpg	Is there a donut in this image? Please answer yes or no.	No	no, there is no donut in the image. the image shows a tray with a variety
+000000015517.jpg	Is there a bus in this image? Please answer yes or no.	Yes	yes, there is a bus in the image. the bus is parked among other vehicles, including
+000000015517.jpg	Is there a cow in this image? Please answer yes or no.	No	no, there is no cow in the image. the image features a city street with several buses
+000000015746.jpg	Is there a fire hydrant in this image? Please answer yes or no.	Yes	yes, there is a fire hydrant in the image. it is an old, red fire hyd
+000000015746.jpg	Is there a person in this image? Please answer yes or no.	No	yes, there is a person in the image. the person is standing in the grass near the fire
+000000037751.jpg	Is there a backpack in this image? Please answer yes or no.	Yes	yes, there is a backpack in the image. the backpack is located on the ground near
+000000037751.jpg	Is there a microwave in this image? Please answer yes or no.	No	no, there is no microwave in this image. the image features a person riding a
+000000050145.jpg	Is there a bicycle in this image? Please answer yes or no.	Yes	yes, there is a bicycle in the image. a man is standing next to a b
+000000050145.jpg	Is there a apple in this image? Please answer yes or no.	No	no, there is no apple in the image. the image features a man standing on a street with
+000000061418.jpg	Is there a chair in this image? Please answer yes or no.	Yes	yes, there is a chair in the image. it is located near the group of children playing with
+000000061418.jpg	Is there a airplane in this image? Please answer yes or no.	No	no, there is no airplane in this image. the image features a group of children playing with
+000000417779.jpg	Is there a car in this image? Please answer yes or no.	Yes	yes, there is a car in the image. the car is parked on the side of the
+000000417779.jpg	Is there a kite in this image? Please answer yes or no.	No	no, there is no kite in the image. the image features a fire hydrant on the
+000000424521.jpg	Is there a skateboard in this image? Please answer yes or no.	Yes	yes, there is a skateboard in this image. the skateboarder is performing a
+000000424521.jpg	Is there a banana in this image? Please answer yes or no.	No	no, there is no banana in the image. the image features a man performing a skate
+000000438304.jpg	Is there a sports ball in this image? Please answer yes or no.	Yes	yes, there is a sports ball in the image. the ball is located in the lower-middle
+000000438304.jpg	Is there a horse in this image? Please answer yes or no.	No	no, there is no horse in this image. the image features a woman playing tennis, holding a
+000000494427.jpg	Is there a laptop in this image? Please answer yes or no.	Yes	yes, there is a laptop in this image. the laptop is sitting on a desk, and
+000000494427.jpg	Is there a potted plant in this image? Please answer yes or no.	No	no, there is no potted plant in the image. the image features a laptop computer with a
+000000495448.jpg	Is there a cake in this image? Please answer yes or no.	Yes	yes, there is a cake in this image. the cake is a large, multi-
+000000495448.jpg	Is there a tie in this image? Please answer yes or no.	No	no, there is no tie in the image. the focus of the image is on the three-
+000000498463.jpg	Is there a refrigerator in this image? Please answer yes or no.	Yes	yes, there is a refrigerator in the image. it is a large, silver,
+000000498463.jpg	Is there a donut in this image? Please answer yes or no.	No	no, there is no donut in the image. the focus of the image is on the met
+000000519039.jpg	Is there a truck in this image? Please answer yes or no.	Yes	yes, there is a truck in the image. the truck is a white garbage truck
+000000519039.jpg	Is there a book in this image? Please answer yes or no.	No	no, there is no book in the image. the image features a garbage truck driving down a
+000000523241.jpg	Is there a car in this image? Please answer yes or no.	Yes	yes, there is a car in the image. the car is located on the street, and it
+000000523241.jpg	Is there a cell phone in this image? Please answer yes or no.	No	yes, there is a cell phone in the image. it is located near the street sign, which
+000000530162.jpg	Is there a umbrella in this image? Please answer yes or no.	Yes	yes, there is a umbrella in this image. a man is holding an umbrella
+000000530162.jpg	Is there a horse in this image? Please answer yes or no.	No	no, there is no horse in this image. the image features a group of people standing under a
+000000537812.jpg	Is there a chair in this image? Please answer yes or no.	Yes	yes, there is a chair in the image. it is located in the bathroom, next to
+000000537812.jpg	Is there a baseball bat in this image? Please answer yes or no.	No	no, there is no baseball bat in the image. the image shows a bathroom with a to
+000000541952.jpg	Is there a clock in this image? Please answer yes or no.	Yes	yes, there is a clock in the image. the clock is located on the side of a tall
+000000541952.jpg	Is there a bottle in this image? Please answer yes or no.	No	no, there is no bottle in the image. the focus of the image is on the clock
+000000546626.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	yes, there is a bottle in this image. the bottle is located on the wooden table
+000000546626.jpg	Is there a mouse in this image? Please answer yes or no.	No	no, there is no mouse in this image. the image features a wooden table with a cell phone
+000000556000.jpg	Is there a chair in this image? Please answer yes or no.	Yes	yes, there is a chair in the image. it is located in the background, near the group
+000000556000.jpg	Is there a dog in this image? Please answer yes or no.	No	no, there is no dog in the image. the image features a group of young boys playing with
+000000557258.jpg	Is there a toilet in this image? Please answer yes or no.	Yes	yes, there is a toilet in this image. the toilet is white and has
+000000557258.jpg	Is there a pizza in this image? Please answer yes or no.	No	no, there is no pizza in this image. the image features a white toilet with
+000000572956.jpg	Is there a motorcycle in this image? Please answer yes or no.	Yes	no, there is no motorcycle in this image. the image features a row of parked motor
+000000572956.jpg	Is there a bus in this image? Please answer yes or no.	No	no, there is no bus in this image. the image features a row of parked motorcy

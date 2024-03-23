@@ -1,0 +1,40 @@
+0001.png	Is the answer to the arithmetic question in the image 225? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 225. the image shows
+0001.png	Is the answer to the arithmetic question in the image 1515? Please answer yes or no.	No	no, the answer to the arithmetic question in the image is not 1515. the
+0002.png	Is the answer to the arithmetic question in the image 340? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 340. the image shows
+0002.png	Is the answer to the arithmetic question in the image 17? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 17. the image shows a
+0003.png	Is the answer to the arithmetic question in the image 65? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 65. the image shows a
+0003.png	Is the answer to the arithmetic question in the image 56? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 56. the image shows a
+0004.png	Is the answer to the arithmetic question in the image 33? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 33. the image shows a
+0004.png	Is the answer to the arithmetic question in the image 32? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 32. the image shows a
+0005.png	Is the area of the square in the picture equal to 40? Please answer yes or no.	Yes	yes, the area of the square in the picture is equal to 40. the image shows
+0005.png	Is the area of the square in the picture equal to 8? Please answer yes or no.	No	yes, the area of the square in the picture is equal to 8. the image shows a
+0006.png	Is the area of the square in the picture equal to 9? Please answer yes or no.	Yes	yes, the area of the square in the picture is equal to 9. the image shows a
+0006.png	Is the area of the square in the picture equal to 3? Please answer yes or no.	No	yes, the area of the square in the picture is equal to 3. the image shows a
+0007.png	Is the answer to the arithmetic question in the image 49? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 49. the image shows a
+0007.png	Is the answer to the arithmetic question in the image 39? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 39. the image shows a
+0008.png	Should the value of "a" in the picture equal 7? Please answer yes or no.	Yes	yes, the value of "a" in the picture should equal 7. the image shows a
+0008.png	Should the value of "a" in the picture equal 14? Please answer yes or no.	No	yes, the value of "a" in the picture should equal 14. the image shows
+0009.png	Should the value of "a" in the picture equal 2? Please answer yes or no.	Yes	yes, the value of "a" in the picture should equal 2. the image shows a
+0009.png	Should the value of "a" in the picture equal 3? Please answer yes or no.	No	yes, the value of "a" in the picture should equal 3. the image shows a
+0010.png	Is the answer to the arithmetic question in the image 13? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 13. the image shows a
+0010.png	Is the answer to the arithmetic question in the image 12? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 12. the image shows a
+0011.png	Is the area of the parallelogram in the picture equal to 24? Please answer yes or no.	Yes	yes, the area of the parallelogram in the picture is equal to 24.
+0011.png	Is the area of the parallelogram in the picture equal to 6? Please answer yes or no.	No	yes, the area of the parallelogram in the picture is equal to 6. the
+0012.png	Should the value of "a" in the picture equal 9? Please answer yes or no.	Yes	yes, the value of "a" in the picture should equal 9. the image shows a
+0012.png	Should the value of "a" in the picture equal 1? Please answer yes or no.	No	yes, the value of "a" in the picture should equal 1. the image shows a
+0013.png	Is the area of the right triangle in the picture equal to 24? Please answer yes or no.	Yes	no, the area of the right triangle in the picture is not equal to 24. the
+0013.png	Is the area of the right triangle in the picture equal to 8? Please answer yes or no.	No	no, the area of the right triangle in the picture is not equal to 8. the triangle
+0014.png	Is the answer to the arithmetic question in the image 200? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 200. the image shows
+0014.png	Is the answer to the arithmetic question in the image 400? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 400. the image shows
+0015.png	Is the answer to the arithmetic question in the image 11? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 11. the image shows a
+0015.png	Is the answer to the arithmetic question in the image 111? Please answer yes or no.	No	no, the answer to the arithmetic question in the image is not 111. the image
+0016.png	Is the answer to the arithmetic question in the image 9? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 9. the image shows a piece
+0016.png	Is the answer to the arithmetic question in the image 16? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 16. the image shows a
+0017.png	Is the answer to the arithmetic question in the image 14? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 14. the image shows a
+0017.png	Is the answer to the arithmetic question in the image 83? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 83. the image shows a
+0018.png	Should the value of "a" in the picture equal 3? Please answer yes or no.	Yes	yes, the value of "a" in the picture should equal 3. the image shows a
+0018.png	Should the value of "a" in the picture equal 2? Please answer yes or no.	No	yes, the value of "a" in the picture should equal 2. the image shows a
+0019.png	Is the answer to the arithmetic question in the image 18? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 18. the image shows a
+0019.png	Is the answer to the arithmetic question in the image 36? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 36. the image shows a
+0020.png	Is the answer to the arithmetic question in the image 9? Please answer yes or no.	Yes	yes, the answer to the arithmetic question in the image is 9. the image shows a person
+0020.png	Is the answer to the arithmetic question in the image 45? Please answer yes or no.	No	yes, the answer to the arithmetic question in the image is 45. the image shows a

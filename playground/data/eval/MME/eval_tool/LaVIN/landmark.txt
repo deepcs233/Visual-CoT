@@ -1,0 +1,400 @@
+0006adf999ccc899.jpg	Is this a photo of Muktinath? Please answer yes or no.	Yes	no, this is not a photo of muktinath. muktinath is a sacred
+0006adf999ccc899.jpg	Is this a photo of Lohikoski Church? Please answer yes or no.	No	no, this is not a photo of lohikoski church. the image features a mountain
+0015309638e5a9b1.jpg	Is this a picture of Teufelsmauer (Harz)? Please answer yes or no.	Yes	no, this is not a picture of teufelsmauer (harz). teufels
+0015309638e5a9b1.jpg	Is this a picture of Romfo kirke? Please answer yes or no.	No	no, this is not a picture of romfo kirke. the image features a rock formation with
+001f0bfe8464254a.jpg	Is this a picture of Saint Catherine of Alexandria church in Warsaw? Please answer yes or no.	Yes	no, this is not a picture of saint catherine of alexandria church in warsaw. the image
+001f0bfe8464254a.jpg	Is this a picture of Kaap Skil? Please answer yes or no.	No	no, this is not a picture of kaap skil. kaap skil is a church
+0022666a36b80ea5.jpg	Is this an image of Hall of Supreme Harmony (Forbidden City)? Please answer yes or no.	Yes	no, this is not an image of hall of supreme harmony (forbidden city). the
+0022666a36b80ea5.jpg	Is this an image of Brickegickel? Please answer yes or no.	No	no, this is not an image of brickegickel. brickegickel is
+0023bd687cbc0a44.jpg	Is this a photo of Utrecht Dom Tower? Please answer yes or no.	Yes	no, this is not a photo of utrecht dom tower. the image shows a group of
+0023bd687cbc0a44.jpg	Is this a photo of Great Palace Mosaic Museum? Please answer yes or no.	No	no, this is not a photo of great palace mosaic museum. the image shows a group
+00261324328490fc.jpg	Is this an image of Loch Ossian? Please answer yes or no.	Yes	no, this is not an image of loch ossian. loch ossian is
+00261324328490fc.jpg	Is this an image of Tanemakidaishi? Please answer yes or no.	No	no, this is not an image of tanemakidaishi. the image features a beautiful landscape
+002ae473a76362a6.jpg	Is this an image of Gerlache Strait? Please answer yes or no.	Yes	yes, this is an image of gerlache strait, as indicated by the presence of ice
+002ae473a76362a6.jpg	Is this an image of Schmiedebruch (Naturschutzgebiet)? Please answer yes or no.	No	no, this is not an image of schmiedebruch (naturschutzgebiet). the
+003f8af9477a8eb8.jpg	Is this a photo of Le Destroit? Please answer yes or no.	Yes	no, this is not a photo of le destroit. the image shows a rocky cliff
+003f8af9477a8eb8.jpg	Is this a photo of Kharkov Mosque? Please answer yes or no.	No	no, this is not a photo of kharkov mosque. the image shows a rocky
+004543cec064cd0b.jpg	Is this a picture of Wollaton Park? Please answer yes or no.	Yes	yes, this is a picture of wollaton park, as it features a large grassy field
+004543cec064cd0b.jpg	Is this a picture of St John's Church, Blackpool? Please answer yes or no.	No	no, this is not a picture of st john's church, blackpool. the image features
+004beea6937b3a8c.jpg	Is this a photo of Brussels Park? Please answer yes or no.	Yes	no, this is not a photo of brussels park. the image features a statue of a
+004beea6937b3a8c.jpg	Is this a photo of Forest Hills Cemetery (Boston, Massachusetts)? Please answer yes or no.	No	no, this is not a photo of forest hills cemetery (boston, massachusetts). the image
+005150f80de6f487.jpg	Is this a photo of Schloss Burgpreppach? Please answer yes or no.	Yes	no, this is not a photo of schloss burgpreppach. the image features a large stone
+005150f80de6f487.jpg	Is this a photo of Pinkas Synagogue? Please answer yes or no.	No	no, this is not a photo of pinkas synagogue. the image features a large
+0053894534d1e259.jpg	Is this a picture of Goethe- und Schiller-Denkmal (Weimar)? Please answer yes or no.	Yes	yes, this is a picture of goethe- und schiller-denkmal (weimar
+0053894534d1e259.jpg	Is this a picture of Grey River? Please answer yes or no.	No	no, this is not a picture of grey river. the image features two men in suits and
+0059fc817c5fd5b7.jpg	Is this a photo of KLCC Park? Please answer yes or no.	Yes	no, this is not a photo of klcc park. the image features a large fount
+0059fc817c5fd5b7.jpg	Is this a photo of Neath Castle? Please answer yes or no.	No	no, this is not a photo of neath castle. the image features a large fountain
+005c68530bb6ed7c.jpg	Is this a photo of Balvenie Castle? Please answer yes or no.	Yes	no, this is not a photo of balvenie castle. the image features a stone building with
+005c68530bb6ed7c.jpg	Is this a photo of Draper Utah Temple? Please answer yes or no.	No	no, this is not a photo of draper utah temple. the image features a stone building
+006e3342b57aa3b4.jpg	Is this a photo of Larvs kyrka? Please answer yes or no.	Yes	no, this is not a photo of larvs kyrka. the image features a building with a
+006e3342b57aa3b4.jpg	Is this a photo of Geitgallien? Please answer yes or no.	No	no, this is not a photo of geitgallien. the image features a building with
+0075a4d212539625.jpg	Is this a photo of Cardiff Castle? Please answer yes or no.	Yes	no, this is not a photo of cardiff castle. the image features a large stone castle with
+0075a4d212539625.jpg	Is this a photo of Boudhanath? Please answer yes or no.	No	no, this is not a photo of boudhanath. the image features a large stone building
+008053e6bb5afa33.jpg	Is this a photo of Rochers des Mourres? Please answer yes or no.	Yes	yes, this is a photo of rochers des mourres, a rocky mountain range
+008053e6bb5afa33.jpg	Is this a photo of Schloss Weinfelden? Please answer yes or no.	No	no, this is not a photo of schloss weinfelden. the image features a group of
+00c1349a9622390c.jpg	Is this a photo of Amar Jawan Jyoti (Tomb of the Unknown Soldier)? Please answer yes or no.	Yes	no, this is not a photo of amar jawan jyoti (tomb of
+00c1349a9622390c.jpg	Is this a photo of Porta Garibaldi (Marsala)? Please answer yes or no.	No	no, this is not a photo of porta garibaldi (marsala). the
+00cae9f165d8d2cc.jpg	Is this an image of Fisherman's Bastion? Please answer yes or no.	Yes	no, this is not an image of fisherman's bastion. the image features a castle
+00cae9f165d8d2cc.jpg	Is this an image of Equestrian statue of George IV, Trafalgar Square, London? Please answer yes or no.	No	no, this is not an image of equestrian statue of george iv, trafalgar
+00f4fb71575efb0b.jpg	Is this a picture of 1965)? Please answer yes or no.	Yes	no, this is not a picture of 1965. the image features a tall radio
+00f4fb71575efb0b.jpg	Is this a picture of Plaza Monumental de Toros de Pueblo Nuevo? Please answer yes or no.	No	no, this is not a picture of plaza monumental de toros de pueblo nue
+00fa476690a260a8.jpg	Is this an image of Bathampton Toll Bridge? Please answer yes or no.	Yes	yes, this is an image of bathampton toll bridge. the bridge is lit up at
+00fa476690a260a8.jpg	Is this an image of Moose River Plains Wild Forest? Please answer yes or no.	No	yes, this is an image of moose river plains wild forest, as indicated by the presence
+010260e62e7d847d.jpg	Is this a photo of Visingsborg? Please answer yes or no.	Yes	no, this is not a photo of visingsborg. the image features a ruined stone building
+010260e62e7d847d.jpg	Is this a photo of Teutsche Schule (Schleusingen)? Please answer yes or no.	No	no, this is not a photo of teutsche schule (schleusingen). the image
+010b5b5c9c461f65.jpg	Is this an image of Het Steen? Please answer yes or no.	Yes	yes, this is an image of het steen, a castle in belgium. the castle is
+010b5b5c9c461f65.jpg	Is this an image of Castello di Montalto Dora? Please answer yes or no.	No	yes, this is an image of castello di montalto dora, as indicated by the
+01114538f95f1ce8.jpg	Is this a picture of Svirzh Castle? Please answer yes or no.	Yes	no, this is not a picture of svirzh castle. the image features a large stone building
+01114538f95f1ce8.jpg	Is this a picture of Bistrica, Ionian Sea? Please answer yes or no.	No	no, this is not a picture of bistrica, ionian sea. the image features a
+01121b9b3c79afc4.jpg	Is this a photo of Alamannenmuseum Ellwangen? Please answer yes or no.	Yes	yes, this is a photo of alamannenmuseum ellwangen. the image shows a
+01121b9b3c79afc4.jpg	Is this a photo of Sint-Jozefkerk, Enschede? Please answer yes or no.	No	no, this is not a photo of sint-jozefkerk, enschede. the
+011a19afda5df3c7.jpg	Is this a picture of San Prospero (Reggio Emilia)? Please answer yes or no.	Yes	yes, this is a picture of san prospero (reggio emilia), as indicated
+011a19afda5df3c7.jpg	Is this a picture of Lake DeFuniak? Please answer yes or no.	No	no, this is not a picture of lake defuniak. the image features a large, old
+012856462a95ada9.jpg	Is this a picture of Chingshui Cliff? Please answer yes or no.	Yes	no, this is not a picture of chingshui cliff. chingshui cl
+012856462a95ada9.jpg	Is this a picture of St. John's Church, Portland? Please answer yes or no.	No	no, this is not a picture of st. john's church, portland. the image
+012ea376a16f17bf.jpg	Is this a picture of Church of Saint Giles in Prague? Please answer yes or no.	Yes	no, this is not a picture of church of saint giles in prague. the image features
+012ea376a16f17bf.jpg	Is this a picture of Pfarrkirche St. Martin an der Raab? Please answer yes or no.	No	no, this is not a picture of pfarrkirche st. martin an der raab. the image
+013e1a1e887cb915.jpg	Is this a picture of Real Casa de Correos, Madrid? Please answer yes or no.	Yes	no, this is not a picture of real casa de correos, madrid. the image features
+013e1a1e887cb915.jpg	Is this a picture of Ayton Castle, Scottish Borders? Please answer yes or no.	No	no, this is not a picture of ayton castle, scottish borders. the image features three
+0140a7d5446719c3.jpg	Is this a photo of Friday Mosque, Herat? Please answer yes or no.	Yes	yes, this is a photo of friday mosque, herat. the image shows a large blue
+0140a7d5446719c3.jpg	Is this a photo of Hexenturm (Burg (bei Magdeburg))? Please answer yes or no.	No	no, this is not a photo of hexenturm (burg (bei magdeburg
+01416124a7ab211a.jpg	Is this a photo of Ajuntament de Mollerussa? Please answer yes or no.	Yes	no, this is not a photo of ajuntament de mollerussa. the image
+01416124a7ab211a.jpg	Is this a photo of Episcopal Diocese of Northern Indiana? Please answer yes or no.	No	no, this is not a photo of episcopal diocese of northern indiana. the image features
+01425c4d35880aad.jpg	Is this an image of Museu de Sant Boi de Llobregat? Please answer yes or no.	Yes	no, this is not an image of museu de sant boi de llobregat.
+01425c4d35880aad.jpg	Is this an image of Bezdonnoye Lake, Moscow Oblast? Please answer yes or no.	No	no, this is not an image of bezdonnoye lake, moscow oblast. the
+014c50e91cf799c7.jpg	Is this a photo of Clearwater Beach, Florida? Please answer yes or no.	Yes	no, this is not a photo of clearwater beach, florida. the image features a pelican
+014c50e91cf799c7.jpg	Is this a photo of Church of Holy Trinity in Vratislavice nad Nisou? Please answer yes or no.	No	no, this is not a photo of church of holy trinity in vratislavice nad
+015543ddea466c54.jpg	Is this a picture of Galician market square in Skansen, Sanok? Please answer yes or no.	Yes	no, this is not a picture of galician market square in skansen, sanok. the
+015543ddea466c54.jpg	Is this a picture of Walworth Castle? Please answer yes or no.	No	no, this is not a picture of walworth castle. the image shows a group of people standing
+0169c4235270f65b.jpg	Is this a photo of St. Ricarius Church, Aberford? Please answer yes or no.	Yes	yes, this is a photo of st. ricarius church, aberford. the image shows the
+0169c4235270f65b.jpg	Is this a photo of Schloss Prebberede? Please answer yes or no.	No	no, this is not a photo of schloss prebberede. the image features a church with
+016e68628ea6c7ee.jpg	Is this an image of Jewish Ceremonial Hall, Prague-Josefov? Please answer yes or no.	Yes	yes, this is an image of jewish ceremonial hall, prague-josefov.
+016e68628ea6c7ee.jpg	Is this an image of Our Lady Church (Ettlingen)? Please answer yes or no.	No	yes, this is an image of our lady church (ettlingen) in germany. the church
+01862535ce8961ee.jpg	Is this an image of Mont Tendre? Please answer yes or no.	Yes	no, this is not an image of mont tendre. the image features a snow-covered
+01862535ce8961ee.jpg	Is this an image of Ogden Utah Temple? Please answer yes or no.	No	no, this is not an image of ogden utah temple. the image features a snow-
+0186742e7963fb3c.jpg	Is this a photo of Ozegahara? Please answer yes or no.	Yes	no, this is not a photo of ozegahara. ozegahara is a famous
+0186742e7963fb3c.jpg	Is this a photo of San Giovenale (Orvieto)? Please answer yes or no.	No	no, this is not a photo of san giovenale (orvieto). the image features
+01928acd6dfe6cdd.jpg	Is this a picture of Watergate Bay? Please answer yes or no.	Yes	no, this is not a picture of watergate bay. the image shows a beach with a grass
+01928acd6dfe6cdd.jpg	Is this a picture of Cairnpapple Hill? Please answer yes or no.	No	no, this is not a picture of cairnpapple hill. the image shows a beach with
+01a6842099d62f22.jpg	Is this an image of Clark Veterans Cemetery? Please answer yes or no.	Yes	yes, this is an image of clark veterans cemetery. the cemetery is located in
+01a6842099d62f22.jpg	Is this an image of Mirdif City Centre? Please answer yes or no.	No	no, this is not an image of mirdif city centre. the image shows a large,
+01aca2d30b43d05f.jpg	Is this a picture of Monte Minerva (Villanova Monteleone)? Please answer yes or no.	Yes	no, this is not a picture of monte minerva (villanova monteleone).
+01aca2d30b43d05f.jpg	Is this a picture of Dorfkirche Gnandstein? Please answer yes or no.	No	no, this is not a picture of dorfkirche gnandstein. the image features a rock
+01b12048bab7439f.jpg	Is this a photo of Kaptai Lake? Please answer yes or no.	Yes	yes, this is a photo of kaptai lake, as indicated by the presence of two boats
+01b12048bab7439f.jpg	Is this a photo of Castle of the Conception? Please answer yes or no.	No	no, this is not a photo of castle of the conception. the image features two men in
+01b715ceb7050bce.jpg	Is this a picture of Kalamita fortress? Please answer yes or no.	Yes	no, this is not a picture of kalamita fortress. the image shows a grass
+01b715ceb7050bce.jpg	Is this a picture of Augsburger Hotelturm? Please answer yes or no.	No	no, this is not a picture of augsburger hotelturm. the image features a grass
+01b9b58a573c45f0.jpg	Is this a picture of St Mary Redcliffe? Please answer yes or no.	Yes	yes, this is a picture of st mary redcliffe, a gothic-style church with
+01b9b58a573c45f0.jpg	Is this a picture of Kirche zur Heiligsten Dreifaltigkeit, Vienna? Please answer yes or no.	No	yes, this is a picture of kirche zur heiligsten dreifaltigkeit, vienna. the
+01bc5557ed2616ad.jpg	Is this a photo of Intercession of the Theotokos church in Lutsk? Please answer yes or no.	Yes	yes, this is a photo of intercession of the theotokos church in lut
+01bc5557ed2616ad.jpg	Is this a photo of Cap 110? Please answer yes or no.	No	no, this is not a photo of cap 110. the image features a church with
+01c0e0ff84631905.jpg	Is this a photo of Ribblehead Viaduct? Please answer yes or no.	Yes	yes, this is a photo of ribblehead viaduct, as indicated by the presence of
+01c0e0ff84631905.jpg	Is this a photo of Church of Saint George in Koptevo? Please answer yes or no.	No	no, this is not a photo of church of saint george in koptevo. the image features
+01d6e386c4a01ab3.jpg	Is this a picture of Rotes Rathaus? Please answer yes or no.	Yes	no, this is not a picture of rotes rathaus. the image features a tall brick
+01d6e386c4a01ab3.jpg	Is this a picture of Mahipatgad? Please answer yes or no.	No	no, this is not a picture of mahipatgad. the image features a tall brick
+01d9bef0120557a5.jpg	Is this a photo of Andronikov Monastery? Please answer yes or no.	Yes	no, this is not a photo of andronikov monastery. the image features a
+01d9bef0120557a5.jpg	Is this a photo of Ghatkopar? Please answer yes or no.	No	no, this is not a photo of ghatkopar. the image features a large white church
+01e198bea8285816.jpg	Is this an image of Saint Basil church, Volodymyr-Volynskyi? Please answer yes or no.	Yes	no, this is not an image of saint basil church, volodymyr-volyn
+01e198bea8285816.jpg	Is this an image of Hoher Markt, Vienna? Please answer yes or no.	No	no, this is not an image of hoher markt, vienna. the image features a
+01f23b4c5253e9c6.jpg	Is this a picture of Goethes Gartenhaus? Please answer yes or no.	Yes	no, this is not a picture of goethes gartenhaus. goethes garten
+01f23b4c5253e9c6.jpg	Is this a picture of Lamba, Shetland Islands? Please answer yes or no.	No	no, this is not a picture of lamba, shetland islands. the image features a
+01ffc77bdf7fe084.jpg	Is this a picture of Oldemorstoft? Please answer yes or no.	Yes	yes, this is a picture of oldemorstoft, as indicated by the presence of the
+01ffc77bdf7fe084.jpg	Is this a picture of Roman Catholic Diocese of Antwerp? Please answer yes or no.	No	no, this is not a picture of the roman catholic diocese of antwerp. the image features
+0200cce957e9c4a6.jpg	Is this a photo of Malmuerta Tower? Please answer yes or no.	Yes	yes, this is a photo of malmuerta tower, as indicated by the presence of the tall
+0200cce957e9c4a6.jpg	Is this a photo of Monte Lema? Please answer yes or no.	No	no, this is not a photo of monte lema. monte lema is a mountain in italy
+0202aac6b0bfbcd8.jpg	Is this a picture of Gettysburg National Military Park? Please answer yes or no.	Yes	no, this is not a picture of gettysburg national military park. the image features a
+0202aac6b0bfbcd8.jpg	Is this a picture of Auron? Please answer yes or no.	No	no, this is not a picture of auron. the image features a cannon on a field
+0205343362e60daf.jpg	Is this a picture of Church of Our Lady of Sorrows in Riga? Please answer yes or no.	Yes	yes, this is a picture of the church of our lady of sorrows in riga, as
+0205343362e60daf.jpg	Is this a picture of Simon en Judaskerk (Ootmarsum)? Please answer yes or no.	No	yes, this is a picture of simon en judaskerk (ootmarsum), a
+020ae4dd487a8ab0.jpg	Is this a photo of Kashueti Church? Please answer yes or no.	Yes	no, this is not a photo of kashueti church. the image shows a large,
+020ae4dd487a8ab0.jpg	Is this a photo of Colorado State Capitol? Please answer yes or no.	No	no, this is not a photo of colorado state capitol. the image shows a beautifully decor
+02259144c3f094f0.jpg	Is this a picture of The American Adventure? Please answer yes or no.	Yes	no, this is not a picture of the american adventure. the image features a beautifully lit
+02259144c3f094f0.jpg	Is this a picture of Langenwaldschanze? Please answer yes or no.	No	no, this is not a picture of langenwaldschanze. the image features a beautifully
+0237fc92f6b31aeb.jpg	Is this a photo of Abbaye de Mortemer? Please answer yes or no.	Yes	yes, this is a photo of abbaye de mortemer, a large stone building with a clock
+0237fc92f6b31aeb.jpg	Is this a photo of St Thomas Rest Park? Please answer yes or no.	No	no, this is not a photo of st thomas rest park. the image features a large building with
+0240727dbd2b8531.jpg	Is this a photo of Nicolaikerk Appingedam? Please answer yes or no.	Yes	no, this is not a photo of nicolaikerk appingedam. the image features a
+0240727dbd2b8531.jpg	Is this a photo of Cutimbo? Please answer yes or no.	No	no, this is not a photo of cutimbo. cutimbo is a famous
+02545ca051c6c480.jpg	Is this a photo of Podilski Tovtry National Nature Park? Please answer yes or no.	Yes	no, this is not a photo of podilski tovtry national nature park. podil
+02545ca051c6c480.jpg	Is this a photo of Lyndonville, Vermont? Please answer yes or no.	No	no, this is not a photo of lyndonville, vermont. the image features a
+02598153523880aa.jpg	Is this a photo of Marilao Church? Please answer yes or no.	Yes	yes, this is a photo of marilao church. the image shows the church's fac
+02598153523880aa.jpg	Is this a photo of Madliena, Malta? Please answer yes or no.	No	no, this is not a photo of madliena, malta. the image features a building
+02737bb70957827d.jpg	Is this an image of White Pagoda in Zhakou? Please answer yes or no.	Yes	no, this is not an image of white pagoda in zhakou. the image features
+02737bb70957827d.jpg	Is this an image of Norrstrandskyrkan? Please answer yes or no.	No	no, this is not an image of norrstrandskyrkan. the image features a
+0273f127895337be.jpg	Is this a photo of Ringkirche? Please answer yes or no.	Yes	no, this is not a photo of ringkirche. the image features a street with a large church
+0273f127895337be.jpg	Is this a photo of Huxi Mosque? Please answer yes or no.	No	no, this is not a photo of huxi mosque. the image features a street with
+02785530b6ac4f56.jpg	Is this a picture of Church of Nicholas the Wet? Please answer yes or no.	Yes	no, this is not a picture of church of nicholas the wet. the image features a large
+02785530b6ac4f56.jpg	Is this a picture of Razula? Please answer yes or no.	No	no, this is not a picture of razula. the image features a large, ornate building
+028348883685db69.jpg	Is this an image of Saint Andrew the Apostle Church? Please answer yes or no.	Yes	yes, this is an image of saint andrew the apostle church. the church has a large wooden
+028348883685db69.jpg	Is this an image of EYE Film Institute Netherlands? Please answer yes or no.	No	yes, this is an image of eye film institute netherlands. the building has a large wooden
+029431b10472c228.jpg	Is this a picture of Santa Caterina (Sassari)? Please answer yes or no.	Yes	yes, the image is a picture of santa caterina (sassari), as indicated by
+029431b10472c228.jpg	Is this a picture of Former Tainan Assembly Hall? Please answer yes or no.	No	no, this is not a picture of former tainan assembly hall. the image features a
+0295877d5cd76190.jpg	Is this a picture of Groothoofdspoort? Please answer yes or no.	Yes	no, this is not a picture of groothoofdspoort. the image features
+0295877d5cd76190.jpg	Is this a picture of 707 17th Street? Please answer yes or no.	No	no, this is not a picture of 707 17th street. the image
+02b16429304b00b7.jpg	Is this a picture of De Haag? Please answer yes or no.	Yes	no, this is not a picture of de haag. the image features a windmill, which
+02b16429304b00b7.jpg	Is this a picture of Villa Melchett? Please answer yes or no.	No	no, this is not a picture of villa melchett. the image features a tall windmill
+02b7f3ae549582f1.jpg	Is this a photo of Pont-canal de Digoin? Please answer yes or no.	Yes	yes, this is a photo of pont-canal de digoin, a canal bridge in
+02b7f3ae549582f1.jpg	Is this a photo of Trenton Battle Monument? Please answer yes or no.	No	no, this is not a photo of trenton battle monument. the image features a bridge over
+02d11e392d3ab93f.jpg	Is this an image of Santa Monica Parish Church in Angat, Bulacan? Please answer yes or no.	Yes	no, this is not an image of santa monica parish church in angat, bulac
+02d11e392d3ab93f.jpg	Is this an image of Bangkok City Pillar Shrine? Please answer yes or no.	No	no, this is not an image of bangkok city pillar shrine. the
+02e38cd5a3850f60.jpg	Is this a photo of Palazzo Cavalli Franchetti (Venice)? Please answer yes or no.	Yes	no, this is not a photo of palazzo cavalli franchetti (venice).
+02e38cd5a3850f60.jpg	Is this a photo of Isbister Chambered Cairn? Please answer yes or no.	No	no, this is not a photo of isbister chambered cairn. the image features
+02e3e418198427e7.jpg	Is this an image of Goldener Reiter? Please answer yes or no.	Yes	yes, this is an image of goldener reiter, a famous golden statue of a knight
+02e3e418198427e7.jpg	Is this an image of Palacio de la Mosquera? Please answer yes or no.	No	no, this is not an image of palacio de la mosquera. the image features a
+030d9a26b7d5755e.jpg	Is this a photo of Medvedgrad? Please answer yes or no.	Yes	no, this is not a photo of medvedgrad. medvedgrad is a medieval castle in
+030d9a26b7d5755e.jpg	Is this a photo of Tammisto? Please answer yes or no.	No	no, this is not a photo of tammisto. the image shows a stone archway in
+0317376043fb00eb.jpg	Is this a photo of Butler's Wharf? Please answer yes or no.	Yes	no, this is not a photo of butler's wharf. the image features a large boat
+0317376043fb00eb.jpg	Is this a photo of Church of Saints Philip and James (Lelekovice)? Please answer yes or no.	No	no, this is not a photo of church of saints philip and james (lelekovice
+03280db41fd4e4f5.jpg	Is this a picture of Oxford Street? Please answer yes or no.	Yes	yes, this is a picture of oxford street, as indicated by the presence of a double-de
+03280db41fd4e4f5.jpg	Is this a picture of Blake Fell? Please answer yes or no.	No	no, this is not a picture of blake fell. the image shows a group of people
+034733eb61d663cd.jpg	Is this a picture of Colonna dell'Immacolata (Rome)? Please answer yes or no.	Yes	yes, this is a picture of colonna dell'immacolata (rome). the
+034733eb61d663cd.jpg	Is this a picture of Brookmill Park? Please answer yes or no.	No	no, this is not a picture of brookmill park. the image features a statue of three women
+034d066523bb20d1.jpg	Is this a photo of Ibrahim-al-Ibrahim Mosque? Please answer yes or no.	Yes	no, this is not a photo of ibrahim-al-ibrahim mosque.
+034d066523bb20d1.jpg	Is this a photo of Atami Castle? Please answer yes or no.	No	no, this is not a photo of atami castle. the image features a white building with a
+036b60d84c6ebc63.jpg	Is this a photo of Frederik V statue in Amalienborg Palace? Please answer yes or no.	Yes	no, this is not a photo of frederik v statue in amalienborg palace. the
+036b60d84c6ebc63.jpg	Is this a photo of Karl-Bittel-Park? Please answer yes or no.	No	yes, this is a photo of karl-bittel-park. the image features a large
+03729394d18f7e9a.jpg	Is this an image of Sapporo Clock Tower? Please answer yes or no.	Yes	yes, this is an image of sapporo clock tower. the clock tower is a prominent
+03729394d18f7e9a.jpg	Is this an image of Saint Nikolaus Church (Beuster)? Please answer yes or no.	No	yes, this is an image of saint nikolaus church (beuster) in germany. the church
+0384fd0664c0ca62.jpg	Is this an image of St. Martin (Sontheim)? Please answer yes or no.	Yes	no, this is not an image of st. martin (sontheim). the image features a
+0384fd0664c0ca62.jpg	Is this an image of Hot Creek (Mono County, California)? Please answer yes or no.	No	no, this is not an image of hot creek (mono county, california). the image features
+038bdff81be029a6.jpg	Is this an image of Fosso Reale (Livorno)? Please answer yes or no.	Yes	yes, this is an image of fosso reale (livorno), a harbor
+038bdff81be029a6.jpg	Is this an image of Farlington Marshes? Please answer yes or no.	No	no, this is not an image of farlington marshes. the image shows a row of
+039bbdf71cd17b3f.jpg	Is this a picture of Qiantang River Bridge? Please answer yes or no.	Yes	no, this is not a picture of qiantang river bridge. qiantang river
+039bbdf71cd17b3f.jpg	Is this a picture of Casa Museo Boschi Di Stefano (Milan)? Please answer yes or no.	No	no, this is not a picture of casa museo boschi di stefano (milan). the
+03aa5dd2e3aab548.jpg	Is this a photo of Central Police Station? Please answer yes or no.	Yes	no, this is not a photo of central police station. the image shows a group of people standing
+03aa5dd2e3aab548.jpg	Is this a photo of Kontai-ji? Please answer yes or no.	No	no, this is not a photo of kontai-ji. the image shows a group of people
+03c4b1901e4195f4.jpg	Is this an image of St. Johanniskirche Eppendorf? Please answer yes or no.	Yes	yes, this is an image of st. johanniskirche eppendorf, a church with a
+03c4b1901e4195f4.jpg	Is this an image of Maidenhead Bridge? Please answer yes or no.	No	no, this is not an image of maidenhead bridge. the image features a tall green church
+03c8b2c1306c0038.jpg	Is this an image of Ermita de Sant Joan (Montserrat)? Please answer yes or no.	Yes	no, this is not an image of ermita de sant joan (montserrat). er
+03c8b2c1306c0038.jpg	Is this an image of Hamilton Grange National Memorial? Please answer yes or no.	No	no, this is not an image of hamilton grange national memorial. the image features a stone building
+03d5e3bfc958be38.jpg	Is this an image of Pietrarsa railway museum? Please answer yes or no.	Yes	yes, this is an image of pietrarsa railway museum, as evidenced by the
+03d5e3bfc958be38.jpg	Is this an image of Washita Battlefield National Historic Site? Please answer yes or no.	No	no, this is not an image of washita battlefield national historic site. the image features
+03dc7df1f1df7b8f.jpg	Is this a picture of Yevhen Paton Bridge? Please answer yes or no.	Yes	no, this is not a picture of yevhen paton bridge. the image features a stone
+03dc7df1f1df7b8f.jpg	Is this a picture of Minoan Villa of Makrygialos? Please answer yes or no.	No	no, this is not a picture of the minoan villa of makrygialos.
+03f65f52c0077b6c.jpg	Is this a photo of Reading Lighthouse? Please answer yes or no.	Yes	no, this is not a photo of reading lighthouse. the image features a large industrial building
+03f65f52c0077b6c.jpg	Is this a photo of St Nicholas Kirk, Aberdeen? Please answer yes or no.	No	no, this is not a photo of st nicholas kirk, aberdeen. the image features a
+03f873280d814ae7.jpg	Is this a photo of Clarence Dock (Leeds)? Please answer yes or no.	Yes	based on the image, it is not possible to definitively determine if the scene is clarence
+03f873280d814ae7.jpg	Is this a photo of Madonna delle Grazie (Roccastrada)? Please answer yes or no.	No	no, this is not a photo of madonna delle grazie (roccastrada). the image
+03f8abf9f8473a6f.jpg	Is this a picture of Parque nacional del Teide? Please answer yes or no.	Yes	yes, this is a picture of parque nacional del teide, as indicated by the presence of
+03f8abf9f8473a6f.jpg	Is this a picture of Church of Saint Mary the Virgin, Skiemonys? Please answer yes or no.	No	no, this is not a picture of church of saint mary the virgin, skiemonys. the
+03fb778d388ad9a0.jpg	Is this an image of Mercado Central de Santiago? Please answer yes or no.	Yes	no, this is not an image of mercado central de santiago. the image features a building
+03fb778d388ad9a0.jpg	Is this an image of Castelo de Alegrete? Please answer yes or no.	No	no, this is not an image of castelo de alegrete. the image features a
+041da60e053c5906.jpg	Is this a picture of Schloss Weesenstein? Please answer yes or no.	Yes	yes, this is a picture of schloss weesenstein, a castle located in germany. the image
+041da60e053c5906.jpg	Is this a picture of Mas Cabrafiga? Please answer yes or no.	No	yes, this is a picture of mas cabrafiga, a beautiful old castle with a church
+042ca5291cefe0b2.jpg	Is this a picture of Pfarrkirche hl. Augustinus, Perchtoldsdorf? Please answer yes or no.	Yes	yes, this is a picture of pfarrkirche hl. augustinus, perchtoldsdorf.
+042ca5291cefe0b2.jpg	Is this a picture of Mark Twain Riverboat? Please answer yes or no.	No	no, this is not a picture of mark twain riverboat. the image features a large
+0443da4f4fcdea52.jpg	Is this an image of Port of Funchal? Please answer yes or no.	Yes	yes, this is an image of port of funchal, as indicated by the presence of a
+0443da4f4fcdea52.jpg	Is this an image of Rauscherpark? Please answer yes or no.	No	no, this is not an image of rauscherpark. the image features a large ship sail
+04531b37dfe5c991.jpg	Is this a picture of Roebling Suspension Bridge? Please answer yes or no.	Yes	no, this is not a picture of roebling suspension bridge. the image features a
+04531b37dfe5c991.jpg	Is this a picture of St. James Episcopal Church (Wilmington, North Carolina)? Please answer yes or no.	No	no, this is not a picture of st. james episcopal church (wilmington,
+04534ba775aa38ad.jpg	Is this an image of Cork City Gaol? Please answer yes or no.	Yes	yes, this is an image of cork city gaol, which is a historic prison building in
+04534ba775aa38ad.jpg	Is this an image of Taramati Baradari? Please answer yes or no.	No	no, this is not an image of taramati baradari. taramati barad
+04590c1648dd25a0.jpg	Is this an image of Zhejiang Sci-Tech University? Please answer yes or no.	Yes	yes, this is an image of zhejiang sci-tech university. the building in
+04590c1648dd25a0.jpg	Is this an image of Khalti Lake? Please answer yes or no.	No	no, this is not an image of khalti lake. the image features a large building with
+045b65ea196dac3f.jpg	Is this a photo of Republican architecture in Manizales? Please answer yes or no.	Yes	no, this is not a photo of republican architecture in manizales. the image shows a large
+045b65ea196dac3f.jpg	Is this a photo of Kayauchi-banta Cliff? Please answer yes or no.	No	no, this is not a photo of kayauchi-banta cliff. the image shows
+045ec5631638d290.jpg	Is this a picture of Baldachin of Saint Peter's Basilica? Please answer yes or no.	Yes	no, this is not a picture of the baldachin of saint peter's basilica
+045ec5631638d290.jpg	Is this a picture of Jean Baptiste Point Du Sable Homesite? Please answer yes or no.	No	no, this is not a picture of jean baptiste point du sable homesite. the
+04a5226570dce6c3.jpg	Is this a picture of Church of the Assumption of the Virgin Mary in Chrudim? Please answer yes or no.	Yes	no, this is not a picture of church of the assumption of the virgin mary in chrud
+04a5226570dce6c3.jpg	Is this a picture of Queen Elizabeth Country Park? Please answer yes or no.	No	no, this is not a picture of queen elizabeth country park. the image shows a city street with
+04b6c84ce89461ec.jpg	Is this an image of Tomb of Xerxes I? Please answer yes or no.	Yes	no, this is not an image of tomb of xerxes i. the image features a
+04b6c84ce89461ec.jpg	Is this an image of Park HaMesila? Please answer yes or no.	No	no, this is not an image of park hamesila. the image features a large stone
+04d67117549e07a8.jpg	Is this a photo of Laguna de Salinas? Please answer yes or no.	Yes	no, this is not a photo of laguna de salinas. the image features a lake with
+04d67117549e07a8.jpg	Is this a photo of Raspyatsky Monastery (Serpukhov)? Please answer yes or no.	No	no, this is not a photo of raspyatsky monastery (serpukhov
+04ebe2885134597f.jpg	Is this a picture of The South Africa (Delville Wood) National Memorial? Please answer yes or no.	Yes	yes, this is a picture of the south africa (delville wood) national memorial. the image
+04ebe2885134597f.jpg	Is this a picture of Imogiri? Please answer yes or no.	No	no, this is not a picture of imogiri. the image features a grassy field with
+050464e4ebc0b36d.jpg	Is this an image of Tai Wong Ye Temple, Wong Chuk Hang? Please answer yes or no.	Yes	yes, this is an image of tai wong ye temple, wong chuk hang.
+050464e4ebc0b36d.jpg	Is this an image of Hierve el Agua? Please answer yes or no.	No	no, this is not an image of hierve el agua. hierve el agua is
+05095dd2b6715fc3.jpg	Is this an image of Sampsonievsky Cathedral? Please answer yes or no.	Yes	yes, this is an image of sampsonievsky cathedral. the cathedral has a
+05095dd2b6715fc3.jpg	Is this an image of I. and E. Greenwald Steam Engine No. 1058? Please answer yes or no.	No	no, this is not an image of i. and e. greenwald steam engine no.
+05685b1070b828f5.jpg	Is this a photo of Wurstelprater? Please answer yes or no.	Yes	no, this is not a photo of wurstelprater. wurstelprater is
+05685b1070b828f5.jpg	Is this a photo of Nanmyaebonthar Sannandawya Sandamuni Pagoda? Please answer yes or no.	No	no, this is not a photo of nanmyaebonthar sannandawya
+05b01b255cec2bfb.jpg	Is this a photo of Puthoorppilly Sree Krishnaswamy Temple? Please answer yes or no.	Yes	no, this is not a photo of puthoorppilly sree krishnaswamy
+05b01b255cec2bfb.jpg	Is this a photo of Villa Reale (Marlia)? Please answer yes or no.	No	no, this is not a photo of villa reale (marlia). the image shows a small
+05bcf05b4460d2c3.jpg	Is this an image of Museo archeologico nazionale dell'Umbria? Please answer yes or no.	Yes	no, this is not an image of museo archeologico nazionale dell'umbria.
+05bcf05b4460d2c3.jpg	Is this an image of Mode Gakuen Cocoon Tower? Please answer yes or no.	No	no, this is not an image of mode gakuen cocoon tower. the image features
+05c3aa404351f407.jpg	Is this an image of Pasaje Gutierrez (Valladolid)? Please answer yes or no.	Yes	no, this is not an image of pasaje gutierrez (valladolid). the
+05c3aa404351f407.jpg	Is this an image of Pieve di Santa Maria a Carli? Please answer yes or no.	No	no, this is not an image of pieve di santa maria a carli. the image features
+05d56e249af839e7.jpg	Is this a photo of Serbian Orthodox Cathedral in Sarajevo? Please answer yes or no.	Yes	no, this is not a photo of the serbian orthodox cathedral in sarajevo.
+05d56e249af839e7.jpg	Is this a photo of Seewaldsee (Sankt Koloman)? Please answer yes or no.	No	no, this is not a photo of seewaldsee (sankt koloman). the
+06134984e2aa9bcc.jpg	Is this a picture of Grote Kerk (Groede)? Please answer yes or no.	Yes	yes, this is a picture of grote kerk (groede), a large church with
+06134984e2aa9bcc.jpg	Is this a picture of Goldeck? Please answer yes or no.	No	no, this is not a picture of goldeck. the image shows a church with a stee
+0613d7e8f292ee15.jpg	Is this a photo of Museo Archeologico G. Rambotti? Please answer yes or no.	Yes	no, this is not a photo of museo archeologico g. rambotti. the
+0613d7e8f292ee15.jpg	Is this a photo of Sanrei? Please answer yes or no.	No	no, this is not a photo of sanrei. the image features a vase with a face
+062298815e9197e7.jpg	Is this a photo of Liuyang Confucius Temple? Please answer yes or no.	Yes	no, this is not a photo of liuyang confucius temple. the image features a
+062298815e9197e7.jpg	Is this a photo of Astley Castle? Please answer yes or no.	No	no, this is not a photo of astley castle. the image features a chinese building with a
+06483ba2bff074bc.jpg	Is this an image of Museo Universitario del Chopo? Please answer yes or no.	Yes	yes, this is an image of museo universitario del chopo. the museum is a large
+06483ba2bff074bc.jpg	Is this an image of Cedar Park, Seattle, Washington? Please answer yes or no.	No	no, this is not an image of cedar park, seattle, washington. the image features
+06740b93ad1f6c02.jpg	Is this a picture of Borisoglebsky Monastery (Borisoglebsky)? Please answer yes or no.	Yes	no, this is not a picture of borisoglebsky monastery (borisogle
+06740b93ad1f6c02.jpg	Is this a picture of Aletsch Arena? Please answer yes or no.	No	no, this is not a picture of aletsch arena. aletsch arena is a massive
+067ea27ec08c9354.jpg	Is this a picture of Schlosskirche St. Aegidien (Bernburg)? Please answer yes or no.	Yes	no, this is not a picture of schlosskirche st. aegidien (b
+067ea27ec08c9354.jpg	Is this a picture of The Haining? Please answer yes or no.	No	no, this is not a picture of the haining. the image shows a hallway with a
+06a85d0b5d70881d.jpg	Is this an image of Silwan? Please answer yes or no.	Yes	yes, this is an image of silwan, a neighborhood in east jerusalem, as indicated by the
+06a85d0b5d70881d.jpg	Is this an image of Jagdschloss Platte? Please answer yes or no.	No	no, this is not an image of jagdschloss platte. the image features a city
+06ab45292ecd8bf7.jpg	Is this a picture of Maribor Regional Museum? Please answer yes or no.	Yes	yes, this is a picture of maribor regional museum, as indicated by the presence of a
+06ab45292ecd8bf7.jpg	Is this a picture of Myres Castle? Please answer yes or no.	No	no, this is not a picture of myres castle. the image features a glass display case filled
+06b6531dab42ccab.jpg	Is this a picture of Roland (Riga)? Please answer yes or no.	Yes	no, this is not a picture of roland (riga). roland is a statue in riga
+06b6531dab42ccab.jpg	Is this a picture of Wudangshan Shangdi Temple? Please answer yes or no.	No	no, this is not a picture of wudangshan shangdi temple. the image features
+06d039ff97afef04.jpg	Is this a picture of Arch of Galerius (Thessaloniki)? Please answer yes or no.	Yes	no, this is not a picture of arch of galerius (thessaloniki).
+06d039ff97afef04.jpg	Is this a picture of Catholic Church of Wanchin? Please answer yes or no.	No	no, this is not a picture of the catholic church of wanchin. the image shows a
+06e453b06a3e4054.jpg	Is this an image of Pendeen Lighthouse? Please answer yes or no.	Yes	no, this is not an image of pendeen lighthouse. the image features a rock
+06e453b06a3e4054.jpg	Is this an image of Silberbach (Heubach)? Please answer yes or no.	No	no, this is not an image of silberbach (heubach). the image features a
+06e927f784642ce4.jpg	Is this a picture of Museo Delta Antico? Please answer yes or no.	Yes	no, this is not a picture of museo delta antico. the image features a large stone
+06e927f784642ce4.jpg	Is this a picture of OSTEC Exhibition Hall? Please answer yes or no.	No	no, this is not a picture of ostec exhibition hall. the image features a
+070c8d6326a87397.jpg	Is this an image of Lanxmeerpoort? Please answer yes or no.	Yes	no, this is not an image of lanxmeerpoort. the image features a large
+070c8d6326a87397.jpg	Is this an image of Tramway du Cap-Ferret? Please answer yes or no.	No	no, this is not an image of tramway du cap-ferret. the image
+0713451824a443d4.jpg	Is this a picture of Castillo de Sax? Please answer yes or no.	Yes	no, this is not a picture of castillo de sax. the image features a stone wall with
+0713451824a443d4.jpg	Is this a picture of Roman Catholic Diocese of Orlando? Please answer yes or no.	No	no, this is not a picture of the roman catholic diocese of orlando. the image features
+0743e58605497887.jpg	Is this an image of Capitoline temple (Brescia)? Please answer yes or no.	Yes	no, this is not an image of capitoline temple (brescia). the image features a
+0743e58605497887.jpg	Is this an image of Burg Horn? Please answer yes or no.	No	no, this is not an image of burg horn. the image features a large, old building with
+075264ec41057049.jpg	Is this a picture of Imatrankoski? Please answer yes or no.	Yes	no, this is not a picture of imatrankoski. the image features a river with
+075264ec41057049.jpg	Is this a picture of Jarlsberg travbane? Please answer yes or no.	No	no, this is not a picture of jarlsberg travbane. the image shows a river
+07551cf96af77299.jpg	Is this a photo of Friedhof Wilmersdorf? Please answer yes or no.	Yes	no, this is not a photo of friedhof wilmersdorf. the image features a blue sign
+07551cf96af77299.jpg	Is this a photo of Partisan cemetery in Mostar? Please answer yes or no.	No	yes, this is a photo of partisan cemetery in mostar. the image shows a sign
+075f8d86303a020e.jpg	Is this a photo of Church of the Nativity (Bethlehem)? Please answer yes or no.	Yes	no, this is not a photo of church of the nativity (bethlehem). the
+075f8d86303a020e.jpg	Is this a photo of Pennsylvania Railroad Office Building? Please answer yes or no.	No	no, this is not a photo of the pennsylvania railroad office building. the image features a stone
+07ac52cf4620519f.jpg	Is this a photo of San Pietro (Reggio Emilia)? Please answer yes or no.	Yes	no, this is not a photo of san pietro (reggio emilia). the image shows a
+07ac52cf4620519f.jpg	Is this a photo of Plaza de toros de La Condomina? Please answer yes or no.	No	no, this is not a photo of plaza de toros de la condomina. the
+07b04584e67cb39d.jpg	Is this a picture of Smithfield, Dublin? Please answer yes or no.	Yes	no, this is not a picture of smithfield, dublin. the image shows a city street with
+07b04584e67cb39d.jpg	Is this a picture of Novyi Svit Sanctuary? Please answer yes or no.	No	no, this is not a picture of novyi svit sanctuary. the image shows a
+07ed43dd266b669b.jpg	Is this a photo of Rocky Mountain National Park? Please answer yes or no.	Yes	yes, this is a photo of rocky mountain national park. the image features a snowy mountain
+07ed43dd266b669b.jpg	Is this a photo of Col-des-Roches? Please answer yes or no.	No	yes, this is a photo of col-des-roches, a mountain pass in the
+083dd5a3ba3d96dc.jpg	Is this a picture of Teddington Cemetery? Please answer yes or no.	Yes	yes, this is a picture of teddington cemetery. the image shows a cemetery with
+083dd5a3ba3d96dc.jpg	Is this a picture of Khutir Nadia? Please answer yes or no.	No	no, this is not a picture of khutir nadia. the image features a cemetery
+08442f24f3c25565.jpg	Is this a photo of Abdijkerk Loosduinen? Please answer yes or no.	Yes	no, this is not a photo of abdijkerk loosduinen. the image shows
+08442f24f3c25565.jpg	Is this a photo of Rinsey Head? Please answer yes or no.	No	no, this is not a photo of rinsey head. the image shows an old, cr
+08a0d2fd3fe6dc95.jpg	Is this a picture of Dreifaltigkeitskirche (Ulm)? Please answer yes or no.	Yes	yes, this is a picture of dreifaltigkeitskirche (ulm), a large church
+08a0d2fd3fe6dc95.jpg	Is this a picture of Wat Pa Mamuang? Please answer yes or no.	No	no, this is not a picture of wat pa mamuang. the image shows a large church
+08c43cd8f2be6709.jpg	Is this a picture of Parchi di Nervi? Please answer yes or no.	Yes	no, this is not a picture of parchi di nervi. the image features a
+08c43cd8f2be6709.jpg	Is this a picture of Altlayer Schweiz? Please answer yes or no.	No	no, this is not a picture of altlayer schweiz. the image features a beautiful garden with a
+09232aeaf46dec64.jpg	Is this a picture of Canadian Museum of Nature? Please answer yes or no.	Yes	no, this is not a picture of the canadian museum of nature. the image features a large building
+09232aeaf46dec64.jpg	Is this a picture of Gwangtonggwan? Please answer yes or no.	No	no, this is not a picture of gwangtonggwan. gwangt
+092d0859ff6424de.jpg	Is this a photo of Kasteel Lunenburg? Please answer yes or no.	Yes	no, this is not a photo of kasteel lunenburg. the image features a brick
+092d0859ff6424de.jpg	Is this a photo of Thomas Paine Cottage? Please answer yes or no.	No	no, this is not a photo of thomas paine cottage. the image features a brick
+092e075e8e44c228.jpg	Is this a picture of ChaoTianGong? Please answer yes or no.	Yes	no, this is not a picture of chaotiangong. the image features a stone
+092e075e8e44c228.jpg	Is this a picture of Pygmalion Theater Wien? Please answer yes or no.	No	no, this is not a picture of pygmalion theater wien. the image features a stone
+093ad5564a004653.jpg	Is this a picture of Crescent Lake (Dunhuang)? Please answer yes or no.	Yes	yes, this is a picture of crescent lake (dunhuang) in china.
+093ad5564a004653.jpg	Is this a picture of Kirjurinluoto Arena? Please answer yes or no.	No	no, this is not a picture of kirjurinluoto arena. the image features a
+0962855b67159733.jpg	Is this a photo of Monastery of Monsalud? Please answer yes or no.	Yes	no, this is not a photo of monastery of monsalud. the image features
+0962855b67159733.jpg	Is this a photo of ToonSeum? Please answer yes or no.	No	no, this is not a photo of toonseum. the image features a large stone building
+09a51d517f1a72d5.jpg	Is this a picture of Ford's Theatre? Please answer yes or no.	Yes	no, this is not a picture of ford's theatre. the image shows a row of brick
+09a51d517f1a72d5.jpg	Is this a picture of Burg Hachen? Please answer yes or no.	No	no, this is not a picture of burg hachen. the image features a row of brick buildings
+09ae0628a75e4fcc.jpg	Is this a picture of Onze-Lieve-Vrouw Hemelvaartkerk (Zottegem)? Please answer yes or no.	Yes	yes, this is a picture of onze-lieve-vrouw hemelvaart
+09ae0628a75e4fcc.jpg	Is this a picture of Salvation Army in Canada? Please answer yes or no.	No	no, this is not a picture of salvation army in canada. the image features a large church
+09b7acf87c8046ec.jpg	Is this an image of Church of the Epiphany (Yaroslavl)? Please answer yes or no.	Yes	no, this is not an image of church of the epiphany (yaroslavl
+09b7acf87c8046ec.jpg	Is this an image of Szlenkier Palace? Please answer yes or no.	No	no, this is not an image of szlenkier palace. the image features a brick building
+09b94a2f304a540c.jpg	Is this a photo of Abbaye Notre-Dame du Val? Please answer yes or no.	Yes	no, this is not a photo of abbaye notre-dame du val. the image features
+09b94a2f304a540c.jpg	Is this a photo of Hotarumachi, Osaka? Please answer yes or no.	No	no, this is not a photo of hotarumachi, osaka. the image features a
+09ce89cbf237da03.jpg	Is this a picture of Church of Saint Mary Magdalene (Brno)? Please answer yes or no.	Yes	yes, this is a picture of the church of saint mary magdalene (brno) in
+09ce89cbf237da03.jpg	Is this a picture of Wain Wath Force? Please answer yes or no.	No	no, this is not a picture of wain wath force. the image shows a yellow building
+0a3035bfca2ab920.jpg	Is this an image of Ortigia? Please answer yes or no.	Yes	yes, this is an image of ortigia, a historic district in the city of sirac
+0a3035bfca2ab920.jpg	Is this an image of Montmayeur castle? Please answer yes or no.	No	no, this is not an image of montmayeur castle. the image shows a group of people
+0ab2ed007db301d5.jpg	Is this a picture of Highgate Cemetery? Please answer yes or no.	Yes	no, this is not a picture of highgate cemetery. the image shows a group of old
+0ab2ed007db301d5.jpg	Is this a picture of Isola Maggiore? Please answer yes or no.	No	no, this is not a picture of isola maggiore. the image shows a cemetery with
+0acc12d1261d99ca.jpg	Is this an image of Wat Chedi Si Hong? Please answer yes or no.	Yes	yes, this is an image of wat chedi si hong, as evidenced by the presence
+0acc12d1261d99ca.jpg	Is this an image of Leschi Park? Please answer yes or no.	No	no, this is not an image of leschi park. the image features a stone wall with
+0adb088e24d88123.jpg	Is this a picture of Iglesia de Santo Domingo (La Serena)? Please answer yes or no.	Yes	yes, this is a picture of iglesia de santo domingo (la serena). the image
+0adb088e24d88123.jpg	Is this a picture of Canelles de Baix (la Vall de Bianya)? Please answer yes or no.	No	yes, this is a picture of canelles de baix (la vall de bianya), as
+0ae3355e0a54db21.jpg	Is this a photo of Grimspound? Please answer yes or no.	Yes	no, this is not a photo of grimspound. grimspound is a historic
+0ae3355e0a54db21.jpg	Is this a photo of Lough Owel? Please answer yes or no.	No	no, this is not a photo of lough owel. the image features a rocky hill
+0b4240b5ef69362e.jpg	Is this a photo of Saint Anne church in Nowa Ruda? Please answer yes or no.	Yes	yes, this is a photo of saint anne church in nowa ruda. the image shows the
+0b4240b5ef69362e.jpg	Is this a photo of Bray Wick? Please answer yes or no.	No	no, this is not a photo of bray wick. the image features a church with a
+0b64944086932c90.jpg	Is this a picture of Alte Pfarrkirche St. Martin (Moosach)? Please answer yes or no.	Yes	yes, this is a picture of alte pfarrkirche st. martin (moosach), as
+0b64944086932c90.jpg	Is this a picture of Maya Devi Temple, Lumbini? Please answer yes or no.	No	no, this is not a picture of maya devi temple, lumbini. the
+0b8fa4152f1bc3ed.jpg	Is this a picture of Lac du Salagou? Please answer yes or no.	Yes	no, this is not a picture of lac du salagou. the image features a body of
+0b8fa4152f1bc3ed.jpg	Is this a picture of Holsljunga kyrka? Please answer yes or no.	No	no, this is not a picture of holsljunga kyrka. the image features a
+0ba6fa7ade050d49.jpg	Is this a photo of Churches in Zemaiciu Kalvarija? Please answer yes or no.	Yes	yes, this is a photo of churches in zemaiciu kalvarija. the image
+0ba6fa7ade050d49.jpg	Is this a photo of Waiola Church? Please answer yes or no.	No	no, this is not a photo of waiola church. the image features a large, orn
+0bd72080836eac97.jpg	Is this a picture of Castelo de Sesimbra? Please answer yes or no.	Yes	no, this is not a picture of castelo de sesimbra. the image features two people
+0bd72080836eac97.jpg	Is this a picture of Gouffre Berger? Please answer yes or no.	No	no, this is not a picture of gouffre berger. gouffre ber
+0bdd954254310e73.jpg	Is this a photo of Melrose House? Please answer yes or no.	Yes	no, this is not a photo of melrose house. melrose house is a historic mansion
+0bdd954254310e73.jpg	Is this a photo of Former water tower (Tsubame, Niigata)? Please answer yes or no.	No	no, this is not a photo of former water tower (tsubame, niigata
+0c06fe97f38f6f88.jpg	Is this a photo of Belvoir Castle? Please answer yes or no.	Yes	yes, this is a photo of belvoir castle, as indicated by the presence of the three dogs
+0c06fe97f38f6f88.jpg	Is this a photo of Su'ao Cold Spring? Please answer yes or no.	No	no, this is not a photo of su'ao cold spring. the image features a man in
+0c6b0c5d2a401285.jpg	Is this a photo of Pelham Crescent? Please answer yes or no.	Yes	yes, this is a photo of pelham crescent. the image features a large white building
+0c6b0c5d2a401285.jpg	Is this a photo of Manila Ocean Park? Please answer yes or no.	No	no, this is not a photo of manila ocean park. the image features a large white building
+0cc5201e37961a1d.jpg	Is this a photo of Adare Manor? Please answer yes or no.	Yes	no, this is not a photo of adare manor. adare manor is a historic
+0cc5201e37961a1d.jpg	Is this a photo of Leopoldspark? Please answer yes or no.	No	no, this is not a photo of leopoldspark. the image shows a large building, possibly
+0cd8fda9668b3ed2.jpg	Is this a picture of Church of the Holy Mandylion (Klyazma)? Please answer yes or no.	Yes	yes, this is a picture of the church of the holy mandylion (klyazma
+0cd8fda9668b3ed2.jpg	Is this a picture of Kalayar Kovil? Please answer yes or no.	No	yes, this is a picture of kalayar kovil, a white building with a cross
+0cf2e28266a0f1a1.jpg	Is this an image of Piazza Bra (Verona)? Please answer yes or no.	Yes	no, this is not an image of piazza bra (verona). the image features a large
+0cf2e28266a0f1a1.jpg	Is this an image of Keeneland? Please answer yes or no.	No	no, this is not an image of keeneland. the image shows a large city park with
+0cf48b827c9c99de.jpg	Is this a photo of Beatus Rhenanus Bridge? Please answer yes or no.	Yes	no, this is not a photo of beatus rhenanus bridge. the image features a large
+0cf48b827c9c99de.jpg	Is this a photo of Ossian Hall? Please answer yes or no.	No	no, this is not a photo of ossian hall. the image features a large bridge crossing
+0d23f6c345b68c05.jpg	Is this an image of Monte Olivia? Please answer yes or no.	Yes	no, this is not an image of monte olivia. the image features a parking lot with
+0d23f6c345b68c05.jpg	Is this an image of Crackstate? Please answer yes or no.	No	no, this is not an image of crackstate. the image features a parking lot with
+0d70bceb2557d1f4.jpg	Is this an image of Spaso-Preobrazhensky Cathedral (Pereslavl-Zalessky)? Please answer yes or no.	Yes	yes, this is an image of spaso-preobrazhensky cathedral (peres
+0d70bceb2557d1f4.jpg	Is this an image of Manta Rota? Please answer yes or no.	No	no, this is not an image of manta rota. the image features a white church with
+0d7716f4aed0c9fa.jpg	Is this a photo of Willemsbrug in Rotterdam? Please answer yes or no.	Yes	no, this is not a photo of willemsbrug in rotterdam. the image features
+0d7716f4aed0c9fa.jpg	Is this a photo of Grumentum, Parco archeologico? Please answer yes or no.	No	no, this is not a photo of grumentum, parco archeologico. the
+0d89a8a5e8c269e4.jpg	Is this an image of Burg Normannstein? Please answer yes or no.	Yes	no, this is not an image of burg normannstein. the image features a stone tower with
+0d89a8a5e8c269e4.jpg	Is this an image of Cape Borda Lighthouse? Please answer yes or no.	No	no, this is not an image of cape borda lighthouse. the image features a
+0e04b4f7f9801ea9.jpg	Is this a picture of Vase sculpture, Bremen? Please answer yes or no.	Yes	no, this is not a picture of the vase sculpture in bremen, germany. the
+0e04b4f7f9801ea9.jpg	Is this a picture of Mount Wilhelm? Please answer yes or no.	No	no, this is not a picture of mount wilhelm. the image features a statue of a horse and
+0e0511c6e33636ca.jpg	Is this a picture of Victoria Stadium? Please answer yes or no.	Yes	no, this is not a picture of victoria stadium. the image features a man in a kilt
+0e0511c6e33636ca.jpg	Is this a picture of Villa Belvedere (San Giuliano Terme)? Please answer yes or no.	No	no, this is not a picture of villa belvedere (san giuliano terme). the
+0e553d5d99e21c32.jpg	Is this a picture of Mustafa Pasha Bridge? Please answer yes or no.	Yes	no, this is not mustafa pasha bridge. the image shows a long bridge with a
+0e553d5d99e21c32.jpg	Is this a picture of Scrattons Eco Park? Please answer yes or no.	No	no, this is not a picture of scrattons eco park. the image shows a
+0eb857c972ddc4c8.jpg	Is this an image of Nabq Protected Area? Please answer yes or no.	Yes	no, this is not an image of nabq protected area. the image shows a sand
+0eb857c972ddc4c8.jpg	Is this an image of Maletsunyane Falls? Please answer yes or no.	No	no, this is not an image of maletsunyane falls. the image shows a
+0f92862c0366ab60.jpg	Is this a photo of Cotehele? Please answer yes or no.	Yes	yes, this is a photo of cotehele, a historic house in england. the image
+0f92862c0366ab60.jpg	Is this a photo of Mozirje Grove? Please answer yes or no.	No	no, this is not a photo of mozirje grove. the image features a large stone
+0fc48f210ea7d363.jpg	Is this a photo of Schauenburg (Oberkirch)? Please answer yes or no.	Yes	no, this is not a photo of schauenburg (oberkirch). the image features
+0fc48f210ea7d363.jpg	Is this a photo of Dartford Library? Please answer yes or no.	No	no, this is not a photo of dartford library. the image shows a stone building with
+100e5402cfb2dfcf.jpg	Is this a picture of Nanzenji? Please answer yes or no.	Yes	yes, this is a picture of nanzenji, a buddhist temple in japan. the image
+100e5402cfb2dfcf.jpg	Is this a picture of Bagakain Lake? Please answer yes or no.	No	no, this is not a picture of bagakain lake. the image shows a stone walkway
+101786bd2ec5800e.jpg	Is this a picture of Church of the Merciful Saviour in Kuskovo (Moscow)? Please answer yes or no.	Yes	no, this is not a picture of church of the merciful saviour in kuskovo
+101786bd2ec5800e.jpg	Is this a picture of Central Board of Secondary Education? Please answer yes or no.	No	no, this is not a picture of central board of secondary education. the image features a white
+1023b7ec812bb4c6.jpg	Is this a photo of St. Joseph's Cathedral, Dunedin? Please answer yes or no.	Yes	yes, this is a photo of st. joseph's cathedral, dunedin. the
+1023b7ec812bb4c6.jpg	Is this a photo of Fagervik Church? Please answer yes or no.	No	no, this is not a photo of fagervik church. the image features a large, old
+1053f4cebfceabd8.jpg	Is this an image of Woolwich foot tunnel? Please answer yes or no.	Yes	no, this is not an image of woolwich foot tunnel. the image features a small building
+1053f4cebfceabd8.jpg	Is this an image of Kirchenbibliothek St. Marien Barth? Please answer yes or no.	No	yes, this is an image of kirchenbibliothek st. marien barth. the building has a
+10a944858a4283e0.jpg	Is this a picture of Harding Tomb? Please answer yes or no.	Yes	yes, this is a picture of harding tomb, as indicated by the presence of the large
+10a944858a4283e0.jpg	Is this a picture of Kartause Ittingen? Please answer yes or no.	No	no, this is not a picture of kartause ittingen. the image features a large
+10b2b8741f283a3c.jpg	Is this a photo of De Bataaf, Winterswijk? Please answer yes or no.	Yes	no, this is not a photo of de bataaf, winterswijk. the image features
+10b2b8741f283a3c.jpg	Is this a photo of Porte Guillaume-Lion? Please answer yes or no.	No	no, this is not a photo of porte guillaume-lion. porte guillaume-l
+11b6bb2c35f4ee22.jpg	Is this an image of Ku-ring-gai Chase National Park? Please answer yes or no.	Yes	yes, this image is of ku-ring-gai chase national park, as it shows
+11b6bb2c35f4ee22.jpg	Is this an image of Saint Mark's Coptic Orthodox Cathedral, Cairo? Please answer yes or no.	No	no, this is not an image of saint mark's coptic orthodox cathedral, c
+127be7d34a21e5ed.jpg	Is this a picture of Beachy Head? Please answer yes or no.	Yes	no, this is not a picture of beachy head. beachy head is a cliff located
+127be7d34a21e5ed.jpg	Is this a picture of Jindo Bridge? Please answer yes or no.	No	no, this is not a picture of jindo bridge. the image features a large body of water
+130846b4f29fe4ba.jpg	Is this a photo of Duomo (Viterbo)? Please answer yes or no.	Yes	yes, this is a photo of duomo (viterbo), which is a large church with
+130846b4f29fe4ba.jpg	Is this a photo of Raffles Praslin? Please answer yes or no.	No	no, this is not a photo of raffles praslin. the image features a large
+13a563a1a8ef38ae.jpg	Is this a photo of Torre del Rellotge d'Olesa de Montserrat? Please answer yes or no.	Yes	no, this is not a photo of torre del rellotge d'olesa de
+13a563a1a8ef38ae.jpg	Is this a photo of Salzburg Museum? Please answer yes or no.	No	no, this is not a photo of salzburg museum. the image features a large stone building with
+14d3aba340d2fba9.jpg	Is this an image of Regard Saint-Martin? Please answer yes or no.	Yes	no, this is not an image of regard saint-martin. the image features a small,
+14d3aba340d2fba9.jpg	Is this an image of Mount Donna Buang? Please answer yes or no.	No	no, this is not an image of mount donna buang. the image features a small town
+15b75eb6fca4aeb6.jpg	Is this a photo of City Duma building (Saint Petersburg)? Please answer yes or no.	Yes	no, this is not a photo of city duma building (saint petersburg). the image features a
+15b75eb6fca4aeb6.jpg	Is this a photo of Komadome-Hachiman-jinja? Please answer yes or no.	No	no, this is not a photo of komadome-hachiman-jinja. the
+15ec5d2c0898a56e.jpg	Is this a photo of Kids Marina Rotterdam? Please answer yes or no.	Yes	no, this is not a photo of kids marina rotterdam. the image features a group
+15ec5d2c0898a56e.jpg	Is this a photo of Kirkwood Observatory? Please answer yes or no.	No	no, this is not a photo of kirkwood observatory. the image features a group of people
+15f326a030396dba.jpg	Is this a picture of Macquarie Centre? Please answer yes or no.	Yes	no, this is not a picture of macquarie centre. the image features a woman standing in
+15f326a030396dba.jpg	Is this a picture of California Historical Landmarks in San Mateo County, California? Please answer yes or no.	No	no, this is not a picture of california historical landmarks in san mateo county, california.
+162a77504f4e686e.jpg	Is this an image of Wieliczka Castle? Please answer yes or no.	Yes	no, this is not an image of wieliczka castle. the image features a stone tower with
+162a77504f4e686e.jpg	Is this an image of Naval Station Guantanamo Bay? Please answer yes or no.	No	no, this is not an image of naval station guantanamo bay. the image features a
+16b76bdd7eaaef1b.jpg	Is this a picture of Evangelische Kirche Weinfelden? Please answer yes or no.	Yes	yes, this is a picture of evangelische kirche weinfelden, a church located in a
+16b76bdd7eaaef1b.jpg	Is this a picture of Gorg Blau? Please answer yes or no.	No	no, this is not a picture of gorg blau. the image features a street with a
+16d55614b78b6b8b.jpg	Is this an image of Church of the Assumption in Bishche? Please answer yes or no.	Yes	no, this is not an image of church of the assumption in bishche. the image
+16d55614b78b6b8b.jpg	Is this an image of Water of Girvan? Please answer yes or no.	No	no, this is not an image of water of girvan. the image features a stone building with
+17e0cd732e35d4aa.jpg	Is this a photo of Millennium Tower (San Francisco, California)? Please answer yes or no.	Yes	no, this is not a photo of millennium tower (san francisco, california). the
+17e0cd732e35d4aa.jpg	Is this a photo of New Orleans Botanical Garden? Please answer yes or no.	No	no, this is not a photo of new orleans botanical garden. the image features a large sk
+18608ca3b785abf8.jpg	Is this a picture of Solvognen? Please answer yes or no.	Yes	no, this is not a picture of solvognen. solvognen is a horse
+18608ca3b785abf8.jpg	Is this a picture of Schenley Farms National Historic District? Please answer yes or no.	No	no, this is not a picture of schenley farms national historic district. the image features
+197e440391d309f8.jpg	Is this a picture of Skansin? Please answer yes or no.	Yes	no, this is not a picture of skansin. the image features a small town with a
+197e440391d309f8.jpg	Is this a picture of Bardstown Historic District? Please answer yes or no.	No	no, this is not a picture of bardstown historic district. the image features a grass
+19fe04377265454e.jpg	Is this a picture of Alexander Nevsky Church, Belgrade? Please answer yes or no.	Yes	no, this is not a picture of alexander nevsky church, belgrade. the image shows a
+19fe04377265454e.jpg	Is this a picture of Seppiko-Mineyama Hyogo Prefectural Nature Park? Please answer yes or no.	No	no, this is not a picture of seppiko-mineyama hyogo prefect
+1a32959819038291.jpg	Is this an image of Id Kah Mosque? Please answer yes or no.	Yes	no, this is not an image of id kah mosque. the image features a large city
+1a32959819038291.jpg	Is this an image of Katharinenkirche (Zwickau)? Please answer yes or no.	No	no, this is not an image of katharinenkirche (zwickau). the image features
+1ac0e3c493073995.jpg	Is this an image of Church of Saint John the Baptist (Jihlava)? Please answer yes or no.	Yes	no, this is not an image of church of saint john the baptist (jihlava).
+1ac0e3c493073995.jpg	Is this an image of Silte kyrka? Please answer yes or no.	No	no, this is not an image of silte kyrka. the image features a white church with
+1d4be36153741972.jpg	Is this a picture of Marie Guyart Building? Please answer yes or no.	Yes	no, this is not a picture of marie guyart building. the image shows a snowy city
+1d4be36153741972.jpg	Is this a picture of Motol? Please answer yes or no.	No	no, this is not a picture of motol. the image shows a snowy city street with
+1f233b807b660d25.jpg	Is this a photo of Aussichtsturm Pyramidenkogel? Please answer yes or no.	Yes	no, this is not a photo of aussichtsturm pyramidenkogel.
+1f233b807b660d25.jpg	Is this a photo of Vvedenskoe cemetery? Please answer yes or no.	No	no, this is not a photo of vvedenskoe cemetery. the image features a
+27a4267b9ea26cd0.jpg	Is this an image of Oude Salviuskerk (Limbricht)? Please answer yes or no.	Yes	yes, this is an image of oude salviuskerk (limbricht),
+27a4267b9ea26cd0.jpg	Is this an image of Festung Heldrungen? Please answer yes or no.	No	no, this is not an image of festung heldrungen. festung heldr
+2a895eb889d6fd99.jpg	Is this an image of Beijing Guozijian? Please answer yes or no.	Yes	yes, this is an image of beijing guozijian, as indicated by the presence
+2a895eb889d6fd99.jpg	Is this an image of Klinikkirche (Pfafferode)? Please answer yes or no.	No	no, this is not an image of klinikirche (pfafferode). the
+2f25654bcb445452.jpg	Is this a photo of Rinku Gate Tower Building? Please answer yes or no.	Yes	no, this is not a photo of rinku gate tower building. the image features a tall
+2f25654bcb445452.jpg	Is this a photo of Bigorski Monastery? Please answer yes or no.	No	no, this is not a photo of bigorski monastery. the image features a tall
+3c89eb4043bcefac.jpg	Is this a picture of Begijnhofkerk (Mechelen)? Please answer yes or no.	Yes	yes, this is a picture of begijnhofkerk (mechelen) in belgium
+3c89eb4043bcefac.jpg	Is this a picture of Panther Hollow Lake? Please answer yes or no.	No	no, this is not a picture of panther hollow lake. the image features a large,

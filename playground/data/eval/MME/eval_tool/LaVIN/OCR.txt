@@ -1,0 +1,40 @@
+0001.jpg	Is the word in the logo "angie's"? Please answer yes or no.	Yes	yes, the word in the logo is "angie's." the logo features a red circle
+0001.jpg	Is the word in the logo "angle's"? Please answer yes or no.	No	no, the word in the logo is not "angle's." the word is "angles."
+0002.jpg	Is the word in the logo "c'est cheese"? Please answer yes or no.	Yes	yes, the word in the logo is "c'est cheese." the logo features a picture
+0002.jpg	Is the word in the logo "crest cheese"? Please answer yes or no.	No	yes, the word in the logo is "crest cheese." the logo features a picture of
+0003.jpg	Is the word in the logo "beavertails pastry"? Please answer yes or no.	Yes	yes, the word in the logo is "beavertails pastry." the logo features a
+0003.jpg	Is the word in the logo "beavertalls pastry"? Please answer yes or no.	No	yes, the word in the logo is "beavertails pastry." beavertails
+0004.jpg	Is the word in the logo "old market sundries"? Please answer yes or no.	Yes	no, the word in the logo is not "old market sundries." the word in the
+0004.jpg	Is the word in the logo "old market hundreds"? Please answer yes or no.	No	no, the word in the logo is not "old market hundreds." the word in the logo is
+0005.jpg	Is the word in the logo "kress"? Please answer yes or no.	Yes	yes, the word in the logo is "kress." the logo is displayed on the side of
+0005.jpg	Is the word in the logo "dress"? Please answer yes or no.	No	no, the word in the logo is not "dress." the word in the logo is "
+0006.jpg	Is the word in the logo "the beatles story liver pool"? Please answer yes or no.	Yes	no, the word in the logo is not "the beatles story liver pool." the word
+0006.jpg	Is the word in the logo "the beats story liver pool"? Please answer yes or no.	No	no, the word in the logo is not "the beats story liver pool." the correct
+0007.jpg	Is the phone number in the picture "0131 555 6363"? Please answer yes or no.	Yes	yes, the phone number in the picture is "0131 555 6
+0007.jpg	Is the phone number in the picture "0137 556 6363"? Please answer yes or no.	No	yes, the phone number in the picture is "0137 556 6
+0008.jpg	Is the word in the logo "phil's market"? Please answer yes or no.	Yes	no, the word in the logo is not "phil's market." the logo features the
+0008.jpg	Is the word in the logo "phll's market"? Please answer yes or no.	No	no, the word in the logo is not "phll's market." the logo features the
+0009.jpg	Is the word in the logo "fenders diner"? Please answer yes or no.	Yes	yes, the word in the logo is "fenders diner." the neon sign is ill
+0009.jpg	Is the word in the logo "finders diner"? Please answer yes or no.	No	yes, the word in the logo is "finders diner." the neon sign is ill
+0010.jpg	Is the word in the logo "high time coffee shop"? Please answer yes or no.	Yes	yes, the word in the logo is "high time coffee shop." the logo is displayed on the
+0010.jpg	Is the word in the logo "high tite cofeee shop"? Please answer yes or no.	No	no, the word in the logo is not "high tite cofeee shop." the
+0011.jpg	Is the word in the logo "ihop restaurant"? Please answer yes or no.	Yes	yes, the word in the logo is "ihop restaurant." the image features a sign with the
+0011.jpg	Is the word in the logo "lhop restaurant"? Please answer yes or no.	No	yes, the word in the logo is "lhop restaurant." the image features a sign with
+0012.jpg	Is the word in the logo "casa grecque restaurants"? Please answer yes or no.	Yes	yes, the word in the logo is "casa grecque restaurants." the logo features
+0012.jpg	Is the word in the logo "case grecque restaurants"? Please answer yes or no.	No	no, the word in the logo is not "case grecque restaurants." the word in
+0013.jpg	Is the word in the picture "seabreeze motel"? Please answer yes or no.	Yes	yes, the word "seabreeze motel" is present in the picture. the mot
+0013.jpg	Is the word in the picture "seebreeze model"? Please answer yes or no.	No	yes, the word "seebreeze model" is present in the picture. it is written
+0014.jpg	Is the word in the logo "penarth pier built 1894"? Please answer yes or no.	Yes	yes, the word "penarth pier built 1894" is part of the logo
+0014.jpg	Is the word in the logo "penarth pies buid 1894"? Please answer yes or no.	No	yes, the word in the logo is "penarth pies buid 1894
+0015.jpg	Is the text in the picture "hollywood"? Please answer yes or no.	Yes	yes, the text in the picture is "hollywood." the image features a large sign with the
+0015.jpg	Is the text in the picture "holly word"? Please answer yes or no.	No	no, the text in the picture is not "holly word." the image features a large sign
+0016.jpg	Is the word in the logo "shop rite"? Please answer yes or no.	Yes	yes, the word in the logo is "shop rite." the blue sign with the red letters
+0016.jpg	Is the word in the logo "stop rite"? Please answer yes or no.	No	no, the word in the logo is not "stop rite." the word in the logo is
+0017.jpg	Is the word in the logo "hardco industrial construction"? Please answer yes or no.	Yes	yes, the word in the logo is "hardco industrial construction." the logo features a blue square
+0017.jpg	Is the word in the logo "hardto industal construction"? Please answer yes or no.	No	yes, the word in the logo is "hardto industal construction." the logo features a blue
+0018.jpg	Is the word in the logo "oldsmobile service"? Please answer yes or no.	Yes	no, the word in the logo is not "oldsmobile service." the word in the logo is
+0018.jpg	Is the word in the logo "old mobile service"? Please answer yes or no.	No	yes, the word in the logo is "old mobile service." the logo features a yellow and black
+0019.jpg	Is the word in the logo "exchange hotel"? Please answer yes or no.	Yes	yes, the word in the logo is "exchange hotel." the logo is displayed on the side of
+0019.jpg	Is the word in the logo "excharge hotel"? Please answer yes or no.	No	no, the word in the logo is not "excharge hotel." the word in the logo is
+0020.jpg	Is the word in the logo "cold drinks"? Please answer yes or no.	Yes	yes, the word "cold drinks" is part of the logo on the beer cool
+0020.jpg	Is the word in the logo "cold rinks"? Please answer yes or no.	No	no, the word in the logo is not "cold rinks." the logo features the words

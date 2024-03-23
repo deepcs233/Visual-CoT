@@ -1,0 +1,40 @@
+0020.txt	Is the answer to the arithmetic question in the image 9? Please answer yes or no.	Yes	No
+0020.txt	Is the answer to the arithmetic question in the image 45? Please answer yes or no.	No	Yes
+0014.txt	Is the answer to the arithmetic question in the image 200? Please answer yes or no.	Yes	Yes
+0014.txt	Is the answer to the arithmetic question in the image 400? Please answer yes or no.	No	No
+0013.txt	Is the area of the right triangle in the picture equal to 24? Please answer yes or no.	Yes	No
+0013.txt	Is the area of the right triangle in the picture equal to 8? Please answer yes or no.	No	No
+0009.txt	Should the value of "a" in the picture equal 2? Please answer yes or no.	Yes	No
+0009.txt	Should the value of "a" in the picture equal 3? Please answer yes or no.	No	No
+0003.txt	Is the answer to the arithmetic question in the image 65? Please answer yes or no.	Yes	Yes
+0003.txt	Is the answer to the arithmetic question in the image 56? Please answer yes or no.	No	No
+0007.txt	Is the answer to the arithmetic question in the image 49? Please answer yes or no.	Yes	No
+0007.txt	Is the answer to the arithmetic question in the image 39? Please answer yes or no.	No	Yes
+0015.txt	Is the answer to the arithmetic question in the image 11? Please answer yes or no.	Yes	No
+0015.txt	Is the answer to the arithmetic question in the image 111? Please answer yes or no.	No	No
+0019.txt	Is the answer to the arithmetic question in the image 18? Please answer yes or no.	Yes	Yes
+0019.txt	Is the answer to the arithmetic question in the image 36? Please answer yes or no.	No	Yes
+0017.txt	Is the answer to the arithmetic question in the image 14? Please answer yes or no.	Yes	No
+0017.txt	Is the answer to the arithmetic question in the image 83? Please answer yes or no.	No	No
+0012.txt	Should the value of "a" in the picture equal 9? Please answer yes or no.	Yes	No
+0012.txt	Should the value of "a" in the picture equal 1? Please answer yes or no.	No	Yes
+0002.txt	Is the answer to the arithmetic question in the image 340? Please answer yes or no.	Yes	No
+0002.txt	Is the answer to the arithmetic question in the image 17? Please answer yes or no.	No	No
+0005.txt	Is the area of the square in the picture equal to 40? Please answer yes or no.	Yes	No
+0005.txt	Is the area of the square in the picture equal to 8? Please answer yes or no.	No	Yes
+0006.txt	Is the area of the square in the picture equal to 9? Please answer yes or no.	Yes	No
+0006.txt	Is the area of the square in the picture equal to 3? Please answer yes or no.	No	Yes
+0001.txt	Is the answer to the arithmetic question in the image 225? Please answer yes or no.	Yes	No
+0001.txt	Is the answer to the arithmetic question in the image 1515? Please answer yes or no.	No	No
+0016.txt	Is the answer to the arithmetic question in the image 9? Please answer yes or no.	Yes	No
+0016.txt	Is the answer to the arithmetic question in the image 16? Please answer yes or no.	No	Yes
+0011.txt	Is the area of the parallelogram in the picture equal to 24? Please answer yes or no.	Yes	No
+0011.txt	Is the area of the parallelogram in the picture equal to 6? Please answer yes or no.	No	Yes
+0004.txt	Is the answer to the arithmetic question in the image 33? Please answer yes or no.	Yes	No
+0004.txt	Is the answer to the arithmetic question in the image 32? Please answer yes or no.	No	No
+0008.txt	Should the value of "a" in the picture equal 7? Please answer yes or no.	Yes	Yes
+0008.txt	Should the value of "a" in the picture equal 14? Please answer yes or no.	No	No
+0018.txt	Should the value of "a" in the picture equal 3? Please answer yes or no.	Yes	Yes
+0018.txt	Should the value of "a" in the picture equal 2? Please answer yes or no.	No	No
+0010.txt	Is the answer to the arithmetic question in the image 13? Please answer yes or no.	Yes	Yes
+0010.txt	Is the answer to the arithmetic question in the image 12? Please answer yes or no.	No	No
