@@ -1,0 +1,978 @@
+{"img_path": "cot/gqa/2316539.jpg", "expression": "What are the tree branches in front of?", "bbox": [217, 343, 242, 393], "height": 500, "width": 391, "question_id": 7, "split": "val"}
+{"img_path": "cot/gqa/2414389.jpg", "expression": "What vegetable is above the cooked carrot in the salad?", "bbox": [227, 68, 391, 173], "height": 374, "width": 500, "question_id": 8, "split": "val"}
+{"img_path": "cot/gqa/2376641.jpg", "expression": "What is the food in the bowl that is to the left of the napkins?", "bbox": [117, 361, 285, 482], "height": 500, "width": 500, "question_id": 16, "split": "val"}
+{"img_path": "cot/gqa/2389707.jpg", "expression": "What kind of bag do you think is the sign in front of?", "bbox": [195, 193, 339, 351], "height": 500, "width": 374, "question_id": 19, "split": "val"}
+{"img_path": "cot/gqa/2345180.jpg", "expression": "What is the cake sitting on?", "bbox": [2, 0, 500, 375], "height": 375, "width": 500, "question_id": 20, "split": "val"}
+{"img_path": "cot/gqa/2410174.jpg", "expression": "Which kind of aircraft is large?", "bbox": [0, 211, 366, 357], "height": 382, "width": 500, "question_id": 27, "split": "val"}
+{"img_path": "cot/gqa/2406446.jpg", "expression": "What is the screen on?", "bbox": [0, 1, 317, 338], "height": 375, "width": 500, "question_id": 31, "split": "val"}
+{"img_path": "cot/gqa/2386944.jpg", "expression": "Which kind of aircraft is on the pavement?", "bbox": [6, 103, 471, 258], "height": 310, "width": 500, "question_id": 34, "split": "val"}
+{"img_path": "cot/gqa/2315375.jpg", "expression": "Which kind of device is behind the vase?", "bbox": [44, 275, 208, 332], "height": 500, "width": 375, "question_id": 37, "split": "val"}
+{"img_path": "cot/gqa/2384571.jpg", "expression": "What is in front of the giraffe that is to the left of the fence?", "bbox": [0, 256, 50, 332], "height": 333, "width": 500, "question_id": 44, "split": "val"}
+{"img_path": "cot/gqa/2334862.jpg", "expression": "What is the man holding?", "bbox": [105, 176, 125, 249], "height": 333, "width": 500, "question_id": 47, "split": "val"}
+{"img_path": "cot/gqa/2397466.jpg", "expression": "What is parked in front of the building?", "bbox": [96, 192, 140, 210], "height": 500, "width": 375, "question_id": 49, "split": "val"}
+{"img_path": "cot/gqa/2361929.jpg", "expression": "What is in the parking lot?", "bbox": [158, 87, 331, 268], "height": 332, "width": 500, "question_id": 50, "split": "val"}
+{"img_path": "cot/gqa/2334767.jpg", "expression": "What is full of pans?", "bbox": [149, 297, 419, 316], "height": 458, "width": 500, "question_id": 52, "split": "val"}
+{"img_path": "cot/gqa/2403689.jpg", "expression": "What is the man using?", "bbox": [194, 145, 325, 167], "height": 333, "width": 500, "question_id": 54, "split": "val"}
+{"img_path": "cot/gqa/2402269.jpg", "expression": "What is located on top of the dessert the person is cutting?", "bbox": [56, 339, 76, 359], "height": 500, "width": 333, "question_id": 58, "split": "val"}
+{"img_path": "cot/gqa/2365480.jpg", "expression": "What kind of furniture is to the left of the pillows?", "bbox": [72, 137, 209, 244], "height": 280, "width": 500, "question_id": 63, "split": "val"}
+{"img_path": "cot/gqa/2332232.jpg", "expression": "Which kind of toy is the logo on?", "bbox": [170, 48, 430, 287], "height": 336, "width": 500, "question_id": 64, "split": "val"}
+{"img_path": "cot/gqa/2395632.jpg", "expression": "Who is wearing a shirt?", "bbox": [384, 50, 404, 100], "height": 369, "width": 500, "question_id": 74, "split": "val"}
+{"img_path": "cot/gqa/2414668.jpg", "expression": "Which kind of furniture is right of the keyboard?", "bbox": [295, 214, 499, 374], "height": 375, "width": 500, "question_id": 78, "split": "val"}
+{"img_path": "cot/gqa/2375235.jpg", "expression": "Who is sitting?", "bbox": [254, 0, 499, 156], "height": 424, "width": 500, "question_id": 80, "split": "val"}
+{"img_path": "cot/gqa/2400601.jpg", "expression": "What kind of watercraft is to the right of the umbrella that is on the left?", "bbox": [226, 123, 298, 159], "height": 333, "width": 500, "question_id": 81, "split": "val"}
+{"img_path": "cot/gqa/2406871.jpg", "expression": "What is in the container that is to the left of the container?", "bbox": [176, 85, 204, 108], "height": 500, "width": 375, "question_id": 82, "split": "val"}
+{"img_path": "cot/gqa/2406871.jpg", "expression": "What's in the box?", "bbox": [176, 85, 204, 108], "height": 500, "width": 375, "question_id": 83, "split": "val"}
+{"img_path": "cot/gqa/2360019.jpg", "expression": "What is on the table?", "bbox": [135, 220, 183, 289], "height": 500, "width": 375, "question_id": 88, "split": "val"}
+{"img_path": "cot/gqa/2402991.jpg", "expression": "Which kind of furniture is the cup on?", "bbox": [205, 83, 313, 124], "height": 331, "width": 500, "question_id": 89, "split": "val"}
+{"img_path": "cot/gqa/2383027.jpg", "expression": "Who is dressed in yellow?", "bbox": [301, 323, 374, 420], "height": 500, "width": 375, "question_id": 94, "split": "val"}
+{"img_path": "cot/gqa/2387098.jpg", "expression": "Where is the water?", "bbox": [9, 128, 495, 279], "height": 288, "width": 500, "question_id": 96, "split": "val"}
+{"img_path": "cot/gqa/2375607.jpg", "expression": "What pieces of furniture are behind the boy?", "bbox": [385, 168, 495, 310], "height": 333, "width": 500, "question_id": 97, "split": "val"}
+{"img_path": "cot/gqa/2385844.jpg", "expression": "What is the man sitting on?", "bbox": [0, 132, 318, 375], "height": 375, "width": 500, "question_id": 106, "split": "val"}
+{"img_path": "cot/gqa/2373907.jpg", "expression": "Who wears the life preserver?", "bbox": [148, 129, 270, 208], "height": 333, "width": 500, "question_id": 112, "split": "val"}
+{"img_path": "cot/gqa/130.jpg", "expression": "What do you think is in the box on the right?", "bbox": [473, 386, 548, 502], "height": 600, "width": 800, "question_id": 114, "split": "val"}
+{"img_path": "cot/gqa/2322452.jpg", "expression": "What kind of furniture are the magazines on?", "bbox": [30, 178, 384, 184], "height": 500, "width": 410, "question_id": 129, "split": "val"}
+{"img_path": "cot/gqa/2378914.jpg", "expression": "What do you think is he holding?", "bbox": [132, 184, 211, 291], "height": 500, "width": 500, "question_id": 146, "split": "val"}
+{"img_path": "cot/gqa/2375851.jpg", "expression": "What is located on top of the round fruit?", "bbox": [85, 192, 116, 218], "height": 500, "width": 341, "question_id": 148, "split": "val"}
+{"img_path": "cot/gqa/2372043.jpg", "expression": "What is the fence surrounding?", "bbox": [3, 275, 496, 373], "height": 375, "width": 500, "question_id": 151, "split": "val"}
+{"img_path": "cot/gqa/2361071.jpg", "expression": "What is on the wall?", "bbox": [460, 5, 491, 29], "height": 250, "width": 500, "question_id": 153, "split": "val"}
+{"img_path": "cot/gqa/2391200.jpg", "expression": "What is the lamp in front of?", "bbox": [84, 95, 262, 204], "height": 334, "width": 500, "question_id": 155, "split": "val"}
+{"img_path": "cot/gqa/2382534.jpg", "expression": "Who is wearing the shirt?", "bbox": [125, 39, 393, 369], "height": 375, "width": 500, "question_id": 159, "split": "val"}
+{"img_path": "cot/gqa/2369201.jpg", "expression": "Where is the airplane?", "bbox": [2, 0, 498, 271], "height": 375, "width": 500, "question_id": 163, "split": "val"}
+{"img_path": "cot/gqa/2384863.jpg", "expression": "What kind of device is on top of the desk?", "bbox": [55, 235, 106, 270], "height": 375, "width": 500, "question_id": 169, "split": "val"}
+{"img_path": "cot/gqa/2417468.jpg", "expression": "What piece of furniture is to the left of the couch that is to the left of the vase?", "bbox": [188, 97, 250, 121], "height": 334, "width": 500, "question_id": 174, "split": "val"}
+{"img_path": "cot/gqa/2372728.jpg", "expression": "What watercraft is in the water?", "bbox": [204, 193, 361, 218], "height": 333, "width": 500, "question_id": 177, "split": "val"}
+{"img_path": "cot/gqa/2345108.jpg", "expression": "What kind of animal is under the bed?", "bbox": [136, 81, 418, 203], "height": 375, "width": 500, "question_id": 179, "split": "val"}
+{"img_path": "cot/gqa/2321511.jpg", "expression": "What is the animal to the right of the bench made of wood?", "bbox": [81, 81, 311, 332], "height": 333, "width": 500, "question_id": 181, "split": "val"}
+{"img_path": "cot/gqa/2414958.jpg", "expression": "What vehicle is pulled by the animal to the left of the person?", "bbox": [335, 199, 497, 273], "height": 382, "width": 500, "question_id": 182, "split": "val"}
+{"img_path": "cot/gqa/2370848.jpg", "expression": "What is on the runway?", "bbox": [27, 81, 478, 264], "height": 332, "width": 500, "question_id": 185, "split": "val"}
+{"img_path": "cot/gqa/2401439.jpg", "expression": "What animal is sitting on the blanket?", "bbox": [0, 8, 264, 373], "height": 375, "width": 500, "question_id": 195, "split": "val"}
+{"img_path": "cot/gqa/4279.jpg", "expression": "What's the microwave on?", "bbox": [476, 244, 621, 265], "height": 480, "width": 640, "question_id": 201, "split": "val"}
+{"img_path": "cot/gqa/2330707.jpg", "expression": "Which kind of food is to the right of the sausage?", "bbox": [187, 196, 312, 331], "height": 374, "width": 500, "question_id": 203, "split": "val"}
+{"img_path": "cot/gqa/2351017.jpg", "expression": "What is the food to the left of the meat with the eggs?", "bbox": [44, 192, 258, 310], "height": 500, "width": 357, "question_id": 210, "split": "val"}
+{"img_path": "cot/gqa/2348256.jpg", "expression": "What type of toy is to the right of the chair?", "bbox": [166, 243, 210, 269], "height": 333, "width": 500, "question_id": 215, "split": "val"}
+{"img_path": "cot/gqa/2346668.jpg", "expression": "What is standing next to the wall?", "bbox": [142, 217, 372, 316], "height": 375, "width": 500, "question_id": 218, "split": "val"}
+{"img_path": "cot/gqa/2373211.jpg", "expression": "The man is holding what?", "bbox": [205, 91, 478, 375], "height": 375, "width": 500, "question_id": 219, "split": "val"}
+{"img_path": "cot/gqa/2413521.jpg", "expression": "What is on the parking meter by the street?", "bbox": [174, 242, 205, 263], "height": 375, "width": 500, "question_id": 226, "split": "val"}
+{"img_path": "cot/gqa/2387097.jpg", "expression": "The cables are on what?", "bbox": [162, 223, 305, 491], "height": 500, "width": 364, "question_id": 229, "split": "val"}
+{"img_path": "cot/gqa/2409693.jpg", "expression": "What animals is the water behind of?", "bbox": [349, 117, 498, 185], "height": 274, "width": 500, "question_id": 233, "split": "val"}
+{"img_path": "cot/gqa/2387736.jpg", "expression": "What is the man using?", "bbox": [272, 108, 328, 165], "height": 375, "width": 500, "question_id": 235, "split": "val"}
+{"img_path": "cot/gqa/2345285.jpg", "expression": "What is the vehicle above the fire the people watch?", "bbox": [111, 70, 362, 233], "height": 333, "width": 500, "question_id": 236, "split": "val"}
+{"img_path": "cot/gqa/2397944.jpg", "expression": "What is the animal that the fence is behind of?", "bbox": [111, 71, 387, 327], "height": 375, "width": 500, "question_id": 239, "split": "val"}
+{"img_path": "cot/gqa/2376706.jpg", "expression": "What is under the device in front of the computer mouse?", "bbox": [316, 37, 400, 81], "height": 340, "width": 500, "question_id": 251, "split": "val"}
+{"img_path": "cot/gqa/2399116.jpg", "expression": "What does the wineglass made of glass contain?", "bbox": [211, 25, 279, 60], "height": 375, "width": 500, "question_id": 261, "split": "val"}
+{"img_path": "cot/gqa/2327819.jpg", "expression": "What is hanging on the pole?", "bbox": [417, 110, 438, 144], "height": 332, "width": 500, "question_id": 270, "split": "val"}
+{"img_path": "cot/gqa/2367728.jpg", "expression": "What kind of furniture is to the right of the cabinet that is to the right of the towel?", "bbox": [377, 173, 437, 272], "height": 375, "width": 500, "question_id": 272, "split": "val"}
+{"img_path": "cot/gqa/2332777.jpg", "expression": "What type of food is on the wood table?", "bbox": [245, 229, 296, 292], "height": 333, "width": 500, "question_id": 273, "split": "val"}
+{"img_path": "cot/gqa/2365147.jpg", "expression": "What kind of toy is the tray sitting on?", "bbox": [108, 226, 421, 371], "height": 380, "width": 500, "question_id": 274, "split": "val"}
+{"img_path": "cot/gqa/2394796.jpg", "expression": "What is the man holding?", "bbox": [150, 249, 169, 269], "height": 500, "width": 375, "question_id": 287, "split": "val"}
+{"img_path": "cot/gqa/2342307.jpg", "expression": "Which kind of vegetable is on the plate?", "bbox": [0, 0, 246, 245], "height": 500, "width": 500, "question_id": 289, "split": "val"}
+{"img_path": "cot/gqa/2411969.jpg", "expression": "Which kind of food is delicious?", "bbox": [33, 240, 250, 438], "height": 500, "width": 334, "question_id": 291, "split": "val"}
+{"img_path": "cot/gqa/2361920.jpg", "expression": "What is in the food on the plate?", "bbox": [339, 285, 384, 348], "height": 375, "width": 500, "question_id": 295, "split": "val"}
+{"img_path": "cot/gqa/2326262.jpg", "expression": "Which kind of device is to the right of the computer mouse?", "bbox": [422, 161, 454, 211], "height": 243, "width": 500, "question_id": 310, "split": "val"}
+{"img_path": "cot/gqa/2350397.jpg", "expression": "What are the items of furniture behind the dining table on the left side?", "bbox": [118, 197, 205, 305], "height": 333, "width": 500, "question_id": 312, "split": "val"}
+{"img_path": "cot/gqa/2371791.jpg", "expression": "What is the item of furniture to the left of the person that is to the left of the pots?", "bbox": [127, 132, 212, 166], "height": 333, "width": 500, "question_id": 313, "split": "val"}
+{"img_path": "cot/gqa/2394570.jpg", "expression": "What's the mushroom on?", "bbox": [0, 63, 374, 498], "height": 500, "width": 374, "question_id": 316, "split": "val"}
+{"img_path": "cot/gqa/2349274.jpg", "expression": "What kind of appliance is to the right of the house?", "bbox": [398, 119, 423, 146], "height": 333, "width": 500, "question_id": 321, "split": "val"}
+{"img_path": "cot/gqa/2337733.jpg", "expression": "What is the animal that is alert?", "bbox": [0, 0, 319, 374], "height": 375, "width": 500, "question_id": 325, "split": "val"}
+{"img_path": "cot/gqa/712960.jpg", "expression": "What device is on the desk?", "bbox": [425, 476, 666, 601], "height": 768, "width": 1024, "question_id": 335, "split": "val"}
+{"img_path": "cot/gqa/498191.jpg", "expression": "What kind of furniture is made of wood?", "bbox": [2, 1, 1024, 767], "height": 768, "width": 1024, "question_id": 339, "split": "val"}
+{"img_path": "cot/gqa/2370115.jpg", "expression": "What's the batter standing in?", "bbox": [0, 194, 499, 310], "height": 333, "width": 500, "question_id": 346, "split": "val"}
+{"img_path": "cot/gqa/2417102.jpg", "expression": "What is the name of the animal to the left of the bookcase?", "bbox": [209, 49, 374, 264], "height": 375, "width": 500, "question_id": 350, "split": "val"}
+{"img_path": "cot/gqa/2381727.jpg", "expression": "What kind of furniture is to the left of the microwave on the right?", "bbox": [250, 111, 331, 174], "height": 375, "width": 500, "question_id": 352, "split": "val"}
+{"img_path": "cot/gqa/2343671.jpg", "expression": "Where is the snow?", "bbox": [0, 294, 399, 474], "height": 500, "width": 400, "question_id": 362, "split": "val"}
+{"img_path": "cot/gqa/2401357.jpg", "expression": "Who is wearing the belt?", "bbox": [151, 37, 297, 373], "height": 375, "width": 500, "question_id": 363, "split": "val"}
+{"img_path": "cot/gqa/2404446.jpg", "expression": "What is the man holding?", "bbox": [225, 102, 236, 206], "height": 281, "width": 500, "question_id": 369, "split": "val"}
+{"img_path": "cot/gqa/2407109.jpg", "expression": "Who is standing on the bus?", "bbox": [31, 144, 60, 209], "height": 375, "width": 500, "question_id": 378, "split": "val"}
+{"img_path": "cot/gqa/2341461.jpg", "expression": "Who wears the wetsuit?", "bbox": [280, 162, 318, 217], "height": 375, "width": 500, "question_id": 382, "split": "val"}
+{"img_path": "cot/gqa/2322452.jpg", "expression": "What kind of device is on the wood desk?", "bbox": [208, 235, 358, 361], "height": 500, "width": 410, "question_id": 387, "split": "val"}
+{"img_path": "cot/gqa/2415699.jpg", "expression": "What is the name of the animal under the canopy?", "bbox": [126, 144, 271, 252], "height": 333, "width": 500, "question_id": 402, "split": "val"}
+{"img_path": "cot/gqa/2382417.jpg", "expression": "What animal is to the right of the fence?", "bbox": [305, 73, 459, 332], "height": 333, "width": 500, "question_id": 408, "split": "val"}
+{"img_path": "cot/gqa/2405540.jpg", "expression": "What animal is upside down?", "bbox": [208, 88, 499, 227], "height": 333, "width": 500, "question_id": 413, "split": "val"}
+{"img_path": "cot/gqa/2412522.jpg", "expression": "Who is in the water?", "bbox": [252, 175, 322, 276], "height": 332, "width": 500, "question_id": 417, "split": "val"}
+{"img_path": "cot/gqa/2385470.jpg", "expression": "What is the woman lying on?", "bbox": [74, 199, 382, 322], "height": 332, "width": 500, "question_id": 418, "split": "val"}
+{"img_path": "cot/gqa/2376779.jpg", "expression": "What is in front of the olive oil?", "bbox": [125, 409, 232, 500], "height": 500, "width": 375, "question_id": 420, "split": "val"}
+{"img_path": "cot/gqa/2019.jpg", "expression": "What device is on top of the nightstand that is in the bottom of the picture?", "bbox": [190, 413, 276, 495], "height": 600, "width": 800, "question_id": 422, "split": "val"}
+{"img_path": "cot/gqa/2406766.jpg", "expression": "Which kind of furniture is to the right of the lamp?", "bbox": [294, 79, 398, 93], "height": 333, "width": 500, "question_id": 427, "split": "val"}
+{"img_path": "cot/gqa/2372116.jpg", "expression": "What is the box that is to the right of the pumpkin filled with?", "bbox": [279, 275, 318, 312], "height": 375, "width": 500, "question_id": 428, "split": "val"}
+{"img_path": "cot/gqa/2321165.jpg", "expression": "Who is sitting on the chair?", "bbox": [92, 0, 219, 120], "height": 375, "width": 500, "question_id": 430, "split": "val"}
+{"img_path": "cot/gqa/2345560.jpg", "expression": "What kind of device is on the table?", "bbox": [14, 75, 213, 224], "height": 281, "width": 500, "question_id": 431, "split": "val"}
+{"img_path": "cot/gqa/2388696.jpg", "expression": "What is facing the ocean?", "bbox": [42, 144, 484, 308], "height": 333, "width": 500, "question_id": 432, "split": "val"}
+{"img_path": "cot/gqa/2413847.jpg", "expression": "What kind of fast food is on the tray?", "bbox": [151, 145, 382, 243], "height": 333, "width": 500, "question_id": 437, "split": "val"}
+{"img_path": "cot/gqa/2388038.jpg", "expression": "Who is playing?", "bbox": [36, 88, 176, 143], "height": 240, "width": 320, "question_id": 443, "split": "val"}
+{"img_path": "cot/gqa/2364716.jpg", "expression": "What is the fruit to the left of the small container called?", "bbox": [195, 224, 292, 327], "height": 375, "width": 500, "question_id": 445, "split": "val"}
+{"img_path": "cot/gqa/1159934.jpg", "expression": "What do you think is on the couch to the right of the lamp?", "bbox": [290, 395, 422, 567], "height": 768, "width": 1024, "question_id": 448, "split": "val"}
+{"img_path": "cot/gqa/2361777.jpg", "expression": "What cooking utensil is to the left of the kettle?", "bbox": [145, 193, 187, 222], "height": 333, "width": 500, "question_id": 450, "split": "val"}
+{"img_path": "cot/gqa/2410517.jpg", "expression": "What is on the telephone pole?", "bbox": [110, 156, 140, 168], "height": 333, "width": 500, "question_id": 455, "split": "val"}
+{"img_path": "cot/gqa/2357709.jpg", "expression": "What is located on top of the luggage?", "bbox": [159, 238, 300, 366], "height": 500, "width": 375, "question_id": 460, "split": "val"}
+{"img_path": "cot/gqa/2375858.jpg", "expression": "Who is wearing the sweater?", "bbox": [237, 257, 316, 484], "height": 500, "width": 335, "question_id": 465, "split": "val"}
+{"img_path": "cot/gqa/2375663.jpg", "expression": "What is the man wearing?", "bbox": [28, 152, 77, 177], "height": 396, "width": 500, "question_id": 469, "split": "val"}
+{"img_path": "cot/gqa/2350084.jpg", "expression": "Who is guiding the cow?", "bbox": [317, 0, 411, 355], "height": 375, "width": 500, "question_id": 471, "split": "val"}
+{"img_path": "cot/gqa/2389128.jpg", "expression": "Who is jumping?", "bbox": [153, 61, 262, 325], "height": 406, "width": 500, "question_id": 484, "split": "val"}
+{"img_path": "cot/gqa/2402047.jpg", "expression": "Who is standing?", "bbox": [19, 0, 110, 204], "height": 375, "width": 500, "question_id": 486, "split": "val"}
+{"img_path": "cot/gqa/2368127.jpg", "expression": "What is on the pole?", "bbox": [38, 405, 65, 489], "height": 500, "width": 375, "question_id": 504, "split": "val"}
+{"img_path": "cot/gqa/2409958.jpg", "expression": "Who is wearing a shirt?", "bbox": [180, 102, 315, 304], "height": 386, "width": 500, "question_id": 507, "split": "val"}
+{"img_path": "cot/gqa/2386045.jpg", "expression": "Who is wearing the helmet?", "bbox": [163, 111, 290, 307], "height": 500, "width": 333, "question_id": 508, "split": "val"}
+{"img_path": "cot/gqa/2408881.jpg", "expression": "What animal is in front of the animal that is not large?", "bbox": [52, 123, 235, 412], "height": 500, "width": 333, "question_id": 510, "split": "val"}
+{"img_path": "cot/gqa/1527.jpg", "expression": "What is in front of the wall?", "bbox": [198, 56, 571, 372], "height": 600, "width": 800, "question_id": 515, "split": "val"}
+{"img_path": "cot/gqa/2412836.jpg", "expression": "What do you think is in front of the mountains?", "bbox": [90, 163, 241, 374], "height": 375, "width": 500, "question_id": 517, "split": "val"}
+{"img_path": "cot/gqa/2346468.jpg", "expression": "What type of furniture is to the right of the device that he is holding?", "bbox": [400, 169, 468, 195], "height": 500, "width": 500, "question_id": 520, "split": "val"}
+{"img_path": "cot/gqa/2332706.jpg", "expression": "What is in the bag made of plastic?", "bbox": [29, 166, 99, 229], "height": 500, "width": 333, "question_id": 522, "split": "val"}
+{"img_path": "cot/gqa/2410037.jpg", "expression": "What is he looking at?", "bbox": [249, 210, 315, 238], "height": 375, "width": 500, "question_id": 527, "split": "val"}
+{"img_path": "cot/gqa/2337503.jpg", "expression": "What is the catcher wearing?", "bbox": [346, 189, 380, 231], "height": 357, "width": 500, "question_id": 531, "split": "val"}
+{"img_path": "cot/gqa/2337503.jpg", "expression": "Who is sitting on the ground?", "bbox": [300, 184, 413, 327], "height": 357, "width": 500, "question_id": 532, "split": "val"}
+{"img_path": "cot/gqa/2409703.jpg", "expression": "What does the backpack to the left of the drawers hang from?", "bbox": [204, 178, 294, 266], "height": 375, "width": 500, "question_id": 534, "split": "val"}
+{"img_path": "cot/gqa/2405954.jpg", "expression": "What food is to the right of the carrots?", "bbox": [117, 206, 241, 313], "height": 375, "width": 500, "question_id": 540, "split": "val"}
+{"img_path": "cot/gqa/1593208.jpg", "expression": "Who seems to be younger, the man or the boy?", "bbox": [792, 290, 918, 565], "height": 671, "width": 1024, "question_id": 545, "split": "val"}
+{"img_path": "cot/gqa/2319932.jpg", "expression": "What does the cat sleep on?", "bbox": [79, 58, 434, 308], "height": 375, "width": 500, "question_id": 557, "split": "val"}
+{"img_path": "cot/gqa/2345177.jpg", "expression": "What is the child wearing?", "bbox": [125, 106, 144, 122], "height": 240, "width": 320, "question_id": 560, "split": "val"}
+{"img_path": "cot/gqa/2366482.jpg", "expression": "Who is the person that looks young helping?", "bbox": [16, 22, 417, 332], "height": 333, "width": 500, "question_id": 566, "split": "val"}
+{"img_path": "cot/gqa/2388691.jpg", "expression": "What are the pillows on?", "bbox": [2, 162, 332, 499], "height": 500, "width": 333, "question_id": 567, "split": "val"}
+{"img_path": "cot/gqa/2335868.jpg", "expression": "What device is the man to the left of the fence holding?", "bbox": [46, 100, 56, 124], "height": 293, "width": 500, "question_id": 568, "split": "val"}
+{"img_path": "cot/gqa/2397931.jpg", "expression": "Who is standing?", "bbox": [319, 44, 415, 320], "height": 375, "width": 500, "question_id": 573, "split": "val"}
+{"img_path": "cot/gqa/2354913.jpg", "expression": "Who is wearing pants?", "bbox": [75, 0, 198, 492], "height": 500, "width": 333, "question_id": 577, "split": "val"}
+{"img_path": "cot/gqa/2345010.jpg", "expression": "The shelves are inside what?", "bbox": [0, 0, 331, 457], "height": 500, "width": 332, "question_id": 584, "split": "val"}
+{"img_path": "cot/gqa/2375386.jpg", "expression": "What is the animal that is on the tissue on the right side?", "bbox": [110, 99, 332, 292], "height": 333, "width": 500, "question_id": 595, "split": "val"}
+{"img_path": "cot/gqa/2355722.jpg", "expression": "What is wrapped around the man that is wearing a shirt?", "bbox": [118, 145, 264, 278], "height": 333, "width": 500, "question_id": 596, "split": "val"}
+{"img_path": "cot/gqa/2358135.jpg", "expression": "Who is wearing a wetsuit?", "bbox": [130, 27, 263, 264], "height": 333, "width": 500, "question_id": 598, "split": "val"}
+{"img_path": "cot/gqa/2323981.jpg", "expression": "What is the name of the animal on the grass?", "bbox": [358, 70, 405, 135], "height": 281, "width": 500, "question_id": 600, "split": "val"}
+{"img_path": "cot/gqa/2321511.jpg", "expression": "Which kind of animal is to the left of the dog?", "bbox": [81, 81, 311, 332], "height": 333, "width": 500, "question_id": 607, "split": "val"}
+{"img_path": "cot/gqa/2343742.jpg", "expression": "Who is wearing the ring?", "bbox": [53, 44, 387, 500], "height": 500, "width": 500, "question_id": 621, "split": "val"}
+{"img_path": "cot/gqa/2346777.jpg", "expression": "What is the cat resting on?", "bbox": [48, 0, 439, 333], "height": 333, "width": 500, "question_id": 622, "split": "val"}
+{"img_path": "cot/gqa/2368341.jpg", "expression": "The couch is inside what?", "bbox": [0, 1, 499, 374], "height": 375, "width": 500, "question_id": 626, "split": "val"}
+{"img_path": "cot/gqa/2367990.jpg", "expression": "Who is walking behind the person that is wearing jeans?", "bbox": [185, 231, 199, 273], "height": 500, "width": 374, "question_id": 636, "split": "val"}
+{"img_path": "cot/gqa/3630.jpg", "expression": "What is hanging on the wall?", "bbox": [270, 63, 320, 132], "height": 300, "width": 450, "question_id": 639, "split": "val"}
+{"img_path": "cot/gqa/2398771.jpg", "expression": "Which kind of vehicle is to the right of the tower?", "bbox": [413, 271, 501, 305], "height": 323, "width": 500, "question_id": 640, "split": "val"}
+{"img_path": "cot/gqa/2394652.jpg", "expression": "What is the appliance on the counter?", "bbox": [81, 1, 249, 151], "height": 293, "width": 500, "question_id": 642, "split": "val"}
+{"img_path": "cot/gqa/2328709.jpg", "expression": "What is the paper food called?", "bbox": [37, 8, 334, 326], "height": 375, "width": 500, "question_id": 645, "split": "val"}
+{"img_path": "cot/gqa/2378069.jpg", "expression": "What animal is in front of the open laptop?", "bbox": [16, 213, 473, 370], "height": 376, "width": 500, "question_id": 653, "split": "val"}
+{"img_path": "cot/gqa/2375607.jpg", "expression": "What kind of food is on the table?", "bbox": [129, 298, 166, 315], "height": 333, "width": 500, "question_id": 655, "split": "val"}
+{"img_path": "cot/gqa/2384537.jpg", "expression": "Who is wearing a cap?", "bbox": [161, 338, 215, 459], "height": 500, "width": 333, "question_id": 656, "split": "val"}
+{"img_path": "cot/gqa/2384537.jpg", "expression": "Who is wearing the cap?", "bbox": [161, 338, 215, 459], "height": 500, "width": 333, "question_id": 657, "split": "val"}
+{"img_path": "cot/gqa/228.jpg", "expression": "What piece of furniture are the flowers on?", "bbox": [233, 319, 445, 476], "height": 480, "width": 640, "question_id": 658, "split": "val"}
+{"img_path": "cot/gqa/2344398.jpg", "expression": "What kind of furniture is wooden?", "bbox": [40, 355, 156, 499], "height": 500, "width": 333, "question_id": 661, "split": "val"}
+{"img_path": "cot/gqa/2347857.jpg", "expression": "Where is the home plate?", "bbox": [5, 3, 496, 398], "height": 400, "width": 500, "question_id": 664, "split": "val"}
+{"img_path": "cot/gqa/2372562.jpg", "expression": "Which is healthier, the carrot or the fries?", "bbox": [338, 37, 358, 56], "height": 338, "width": 450, "question_id": 667, "split": "val"}
+{"img_path": "cot/gqa/713755.jpg", "expression": "Who is wearing a shoe?", "bbox": [528, 71, 701, 423], "height": 600, "width": 800, "question_id": 670, "split": "val"}
+{"img_path": "cot/gqa/2413090.jpg", "expression": "What piece of furniture is to the right of the curtains?", "bbox": [147, 156, 500, 374], "height": 375, "width": 500, "question_id": 671, "split": "val"}
+{"img_path": "cot/gqa/2384863.jpg", "expression": "What type of furniture is to the right of the desk that the phone is on top of?", "bbox": [323, 177, 461, 317], "height": 375, "width": 500, "question_id": 672, "split": "val"}
+{"img_path": "cot/gqa/2329847.jpg", "expression": "What kind of furniture isn't small?", "bbox": [120, 284, 218, 350], "height": 375, "width": 500, "question_id": 674, "split": "val"}
+{"img_path": "cot/gqa/2369307.jpg", "expression": "Who is talking?", "bbox": [53, 158, 97, 360], "height": 500, "width": 375, "question_id": 681, "split": "val"}
+{"img_path": "cot/gqa/2385964.jpg", "expression": "What is the person in the ocean wearing?", "bbox": [218, 125, 306, 263], "height": 375, "width": 500, "question_id": 686, "split": "val"}
+{"img_path": "cot/gqa/2366088.jpg", "expression": "What is the cart carrying?", "bbox": [302, 216, 331, 231], "height": 333, "width": 500, "question_id": 690, "split": "val"}
+{"img_path": "cot/gqa/2385238.jpg", "expression": "What is the man wearing?", "bbox": [113, 41, 190, 114], "height": 327, "width": 500, "question_id": 693, "split": "val"}
+{"img_path": "cot/gqa/2390942.jpg", "expression": "What are the items of furniture that the garage is behind of?", "bbox": [127, 214, 139, 227], "height": 336, "width": 500, "question_id": 701, "split": "val"}
+{"img_path": "cot/gqa/2396057.jpg", "expression": "What is the stop sign in front of?", "bbox": [1, 76, 499, 453], "height": 454, "width": 500, "question_id": 706, "split": "val"}
+{"img_path": "cot/gqa/2350839.jpg", "expression": "What is the animal in front of the road called?", "bbox": [212, 156, 320, 206], "height": 334, "width": 500, "question_id": 707, "split": "val"}
+{"img_path": "cot/gqa/3009.jpg", "expression": "What is the person to the left of the bag wearing?", "bbox": [585, 567, 649, 578], "height": 600, "width": 800, "question_id": 710, "split": "val"}
+{"img_path": "cot/gqa/2417468.jpg", "expression": "Which kind of furniture is the pillow on?", "bbox": [0, 127, 197, 334], "height": 334, "width": 500, "question_id": 712, "split": "val"}
+{"img_path": "cot/gqa/2362179.jpg", "expression": "What is the animal that is to the left of the curtain?", "bbox": [125, 43, 441, 228], "height": 333, "width": 500, "question_id": 725, "split": "val"}
+{"img_path": "cot/gqa/2412399.jpg", "expression": "Where is the bench?", "bbox": [1, 247, 114, 331], "height": 333, "width": 500, "question_id": 727, "split": "val"}
+{"img_path": "cot/gqa/2335256.jpg", "expression": "Who is holding the tennis racket on the right of the photo?", "bbox": [263, 63, 384, 340], "height": 448, "width": 500, "question_id": 728, "split": "val"}
+{"img_path": "cot/gqa/2411445.jpg", "expression": "What is carrying the box?", "bbox": [123, 23, 493, 328], "height": 333, "width": 500, "question_id": 736, "split": "val"}
+{"img_path": "cot/gqa/2393031.jpg", "expression": "What is sitting in the leaves?", "bbox": [265, 268, 435, 395], "height": 484, "width": 500, "question_id": 741, "split": "val"}
+{"img_path": "cot/gqa/2393031.jpg", "expression": "What is the luggage that is not big sitting in?", "bbox": [437, 284, 453, 296], "height": 484, "width": 500, "question_id": 742, "split": "val"}
+{"img_path": "cot/gqa/2403069.jpg", "expression": "What's the bat hitting?", "bbox": [259, 63, 272, 77], "height": 315, "width": 500, "question_id": 746, "split": "val"}
+{"img_path": "cot/gqa/2320791.jpg", "expression": "The boy to the right of the balls is wearing what?", "bbox": [145, 250, 203, 361], "height": 500, "width": 299, "question_id": 751, "split": "val"}
+{"img_path": "cot/gqa/2379914.jpg", "expression": "What is he wearing?", "bbox": [71, 8, 351, 481], "height": 482, "width": 500, "question_id": 755, "split": "val"}
+{"img_path": "cot/gqa/2407623.jpg", "expression": "Which kind of fruit is not small?", "bbox": [157, 235, 251, 345], "height": 500, "width": 499, "question_id": 758, "split": "val"}
+{"img_path": "cot/gqa/2407623.jpg", "expression": "What food items aren't small?", "bbox": [157, 235, 251, 345], "height": 500, "width": 499, "question_id": 759, "split": "val"}
+{"img_path": "cot/gqa/2403030.jpg", "expression": "What is the man in front of the bus wearing?", "bbox": [12, 181, 39, 230], "height": 369, "width": 500, "question_id": 761, "split": "val"}
+{"img_path": "cot/gqa/2399374.jpg", "expression": "Who wears a cap?", "bbox": [302, 129, 350, 228], "height": 333, "width": 500, "question_id": 765, "split": "val"}
+{"img_path": "cot/gqa/2395874.jpg", "expression": "Where is this zebra?", "bbox": [0, 0, 332, 499], "height": 500, "width": 333, "question_id": 766, "split": "val"}
+{"img_path": "cot/gqa/2383199.jpg", "expression": "He is on what?", "bbox": [59, 15, 190, 266], "height": 500, "width": 332, "question_id": 794, "split": "val"}
+{"img_path": "cot/gqa/2384898.jpg", "expression": "Which kind of furniture is the pillow on?", "bbox": [134, 276, 263, 444], "height": 500, "width": 479, "question_id": 810, "split": "val"}
+{"img_path": "cot/gqa/2359062.jpg", "expression": "What animal is on the beach?", "bbox": [361, 201, 421, 248], "height": 333, "width": 500, "question_id": 818, "split": "val"}
+{"img_path": "cot/gqa/2331421.jpg", "expression": "What type of vegetable is to the left of the bowl that is of the bananas?", "bbox": [135, 186, 249, 251], "height": 336, "width": 500, "question_id": 820, "split": "val"}
+{"img_path": "cot/gqa/2326406.jpg", "expression": "The bell is in what?", "bbox": [111, 54, 236, 396], "height": 500, "width": 375, "question_id": 823, "split": "val"}
+{"img_path": "cot/gqa/2383244.jpg", "expression": "What kind of animal is in front of the blanket?", "bbox": [117, 84, 241, 268], "height": 375, "width": 500, "question_id": 825, "split": "val"}
+{"img_path": "cot/gqa/2318071.jpg", "expression": "What animal is the water behind of?", "bbox": [109, 105, 220, 218], "height": 237, "width": 500, "question_id": 826, "split": "val"}
+{"img_path": "cot/gqa/2362414.jpg", "expression": "Which kind of furniture is the shirt in?", "bbox": [65, 4, 210, 218], "height": 349, "width": 500, "question_id": 830, "split": "val"}
+{"img_path": "cot/gqa/2380101.jpg", "expression": "What are the fruits on the counter?", "bbox": [246, 158, 312, 234], "height": 332, "width": 500, "question_id": 833, "split": "val"}
+{"img_path": "cot/gqa/2405086.jpg", "expression": "What vegetable is on the pizza?", "bbox": [63, 87, 168, 247], "height": 500, "width": 500, "question_id": 837, "split": "val"}
+{"img_path": "cot/gqa/1592711.jpg", "expression": "What is the animal to the left of the fence on the right side of the image?", "bbox": [348, 493, 416, 595], "height": 946, "width": 1024, "question_id": 845, "split": "val"}
+{"img_path": "cot/gqa/4953.jpg", "expression": "What is the man holding?", "bbox": [52, 274, 127, 326], "height": 418, "width": 640, "question_id": 855, "split": "val"}
+{"img_path": "cot/gqa/2354993.jpg", "expression": "What is the woman wearing?", "bbox": [407, 41, 434, 80], "height": 332, "width": 500, "question_id": 861, "split": "val"}
+{"img_path": "cot/gqa/2321966.jpg", "expression": "Who is wearing a hat?", "bbox": [184, 113, 320, 253], "height": 333, "width": 500, "question_id": 866, "split": "val"}
+{"img_path": "cot/gqa/2380756.jpg", "expression": "What is in front of the man that is wearing a hat?", "bbox": [57, 434, 266, 469], "height": 500, "width": 331, "question_id": 869, "split": "val"}
+{"img_path": "cot/gqa/2342286.jpg", "expression": "The ground is covered by what?", "bbox": [0, 70, 388, 331], "height": 333, "width": 500, "question_id": 870, "split": "val"}
+{"img_path": "cot/gqa/2363152.jpg", "expression": "What does the animal that is not young sit in?", "bbox": [0, 0, 333, 500], "height": 500, "width": 333, "question_id": 876, "split": "val"}
+{"img_path": "cot/gqa/2367422.jpg", "expression": "What is the happy person holding?", "bbox": [168, 178, 207, 191], "height": 500, "width": 244, "question_id": 878, "split": "val"}
+{"img_path": "cot/gqa/2388242.jpg", "expression": "Which kind of baked good is the hot dog in?", "bbox": [72, 173, 268, 223], "height": 375, "width": 500, "question_id": 879, "split": "val"}
+{"img_path": "cot/gqa/2375828.jpg", "expression": "What is sitting in the bowl the ring is around of?", "bbox": [3, 306, 414, 375], "height": 375, "width": 500, "question_id": 882, "split": "val"}
+{"img_path": "cot/gqa/2408553.jpg", "expression": "What are the vegetables to the right of the tomato?", "bbox": [235, 192, 254, 220], "height": 500, "width": 375, "question_id": 885, "split": "val"}
+{"img_path": "cot/gqa/2397668.jpg", "expression": "What food isn't wooden?", "bbox": [197, 261, 236, 284], "height": 332, "width": 500, "question_id": 894, "split": "val"}
+{"img_path": "cot/gqa/2331604.jpg", "expression": "What is on the stage?", "bbox": [64, 13, 239, 186], "height": 357, "width": 500, "question_id": 903, "split": "val"}
+{"img_path": "cot/gqa/2394322.jpg", "expression": "What is covering the bed that is to the left of the lamp?", "bbox": [0, 144, 430, 374], "height": 375, "width": 500, "question_id": 909, "split": "val"}
+{"img_path": "cot/gqa/2351575.jpg", "expression": "Who wears a shirt?", "bbox": [384, 2, 400, 20], "height": 281, "width": 500, "question_id": 910, "split": "val"}
+{"img_path": "cot/gqa/2343927.jpg", "expression": "What is in front of the bird?", "bbox": [371, 252, 466, 329], "height": 354, "width": 500, "question_id": 927, "split": "val"}
+{"img_path": "cot/gqa/2329766.jpg", "expression": "Who is sitting on the grass?", "bbox": [213, 29, 321, 286], "height": 319, "width": 500, "question_id": 929, "split": "val"}
+{"img_path": "cot/gqa/2402236.jpg", "expression": "What are the letters on?", "bbox": [218, 40, 368, 145], "height": 375, "width": 500, "question_id": 932, "split": "val"}
+{"img_path": "cot/gqa/2354745.jpg", "expression": "What is the boy that is to the left of the people wearing?", "bbox": [96, 224, 130, 264], "height": 389, "width": 500, "question_id": 935, "split": "val"}
+{"img_path": "cot/gqa/2354745.jpg", "expression": "What is the boy wearing?", "bbox": [96, 224, 130, 264], "height": 389, "width": 500, "question_id": 936, "split": "val"}
+{"img_path": "cot/gqa/2339287.jpg", "expression": "What does the man to the left of the mobile phone hold?", "bbox": [158, 151, 168, 169], "height": 333, "width": 500, "question_id": 937, "split": "val"}
+{"img_path": "cot/gqa/2395011.jpg", "expression": "The cup is on what?", "bbox": [242, 98, 355, 136], "height": 375, "width": 500, "question_id": 939, "split": "val"}
+{"img_path": "cot/gqa/2405770.jpg", "expression": "The elephant is where?", "bbox": [31, 75, 87, 121], "height": 323, "width": 500, "question_id": 947, "split": "val"}
+{"img_path": "cot/gqa/2382006.jpg", "expression": "Which kind of vehicle is to the right of the truck?", "bbox": [176, 179, 372, 246], "height": 333, "width": 500, "question_id": 948, "split": "val"}
+{"img_path": "cot/gqa/2400915.jpg", "expression": "What kind of vehicle is behind the man to the right of the helmet?", "bbox": [44, 119, 246, 185], "height": 304, "width": 500, "question_id": 950, "split": "val"}
+{"img_path": "cot/gqa/2385003.jpg", "expression": "What is on the bike?", "bbox": [223, 82, 260, 148], "height": 375, "width": 500, "question_id": 953, "split": "val"}
+{"img_path": "cot/gqa/2383489.jpg", "expression": "What is the animal of the road standing on?", "bbox": [1, 225, 397, 339], "height": 339, "width": 500, "question_id": 960, "split": "val"}
+{"img_path": "cot/gqa/2379937.jpg", "expression": "Who is wearing flip flops?", "bbox": [148, 66, 284, 413], "height": 500, "width": 375, "question_id": 976, "split": "val"}
+{"img_path": "cot/gqa/2359576.jpg", "expression": "What animal is riding on the skateboard?", "bbox": [188, 210, 252, 303], "height": 361, "width": 500, "question_id": 977, "split": "val"}
+{"img_path": "cot/gqa/2416903.jpg", "expression": "What's the cheese on?", "bbox": [178, 252, 314, 381], "height": 500, "width": 333, "question_id": 985, "split": "val"}
+{"img_path": "cot/gqa/2343267.jpg", "expression": "What is the happy girl wearing?", "bbox": [217, 159, 271, 203], "height": 500, "width": 500, "question_id": 991, "split": "val"}
+{"img_path": "cot/gqa/2403630.jpg", "expression": "What is the moss on?", "bbox": [192, 252, 232, 270], "height": 379, "width": 500, "question_id": 994, "split": "val"}
+{"img_path": "cot/gqa/2398670.jpg", "expression": "Who wears a helmet?", "bbox": [243, 25, 369, 305], "height": 335, "width": 500, "question_id": 995, "split": "val"}
+{"img_path": "cot/gqa/2380343.jpg", "expression": "What is he holding?", "bbox": [228, 26, 249, 119], "height": 500, "width": 331, "question_id": 997, "split": "val"}
+{"img_path": "cot/gqa/2400103.jpg", "expression": "What is the pillow on?", "bbox": [392, 3, 499, 162], "height": 333, "width": 500, "question_id": 1008, "split": "val"}
+{"img_path": "cot/gqa/2340674.jpg", "expression": "What device is to the right of the girl that is wearing a helmet?", "bbox": [149, 175, 170, 211], "height": 375, "width": 500, "question_id": 1012, "split": "val"}
+{"img_path": "cot/gqa/2394424.jpg", "expression": "Which kind of furniture is not wooden, the table or the cupboard?", "bbox": [229, 304, 374, 499], "height": 500, "width": 375, "question_id": 1013, "split": "val"}
+{"img_path": "cot/gqa/2360242.jpg", "expression": "Who is wearing the skirt?", "bbox": [345, 62, 398, 205], "height": 435, "width": 500, "question_id": 1015, "split": "val"}
+{"img_path": "cot/gqa/2337526.jpg", "expression": "What kind of baked good is to the right of the plate?", "bbox": [296, 322, 385, 368], "height": 375, "width": 500, "question_id": 1020, "split": "val"}
+{"img_path": "cot/gqa/2324563.jpg", "expression": "What is the man on?", "bbox": [181, 419, 273, 493], "height": 500, "width": 333, "question_id": 1023, "split": "val"}
+{"img_path": "cot/gqa/2319890.jpg", "expression": "What's in front of the window?", "bbox": [40, 0, 275, 222], "height": 400, "width": 500, "question_id": 1028, "split": "val"}
+{"img_path": "cot/gqa/2337147.jpg", "expression": "Who is wearing socks?", "bbox": [109, 159, 201, 467], "height": 500, "width": 334, "question_id": 1032, "split": "val"}
+{"img_path": "cot/gqa/2376692.jpg", "expression": "What vegetables are to the left of the paper towel?", "bbox": [52, 70, 100, 98], "height": 134, "width": 500, "question_id": 1043, "split": "val"}
+{"img_path": "cot/gqa/2412475.jpg", "expression": "Who is sitting?", "bbox": [330, 181, 351, 199], "height": 500, "width": 375, "question_id": 1044, "split": "val"}
+{"img_path": "cot/gqa/2406305.jpg", "expression": "Which kind of fruit is to the left of the ladle?", "bbox": [230, 72, 271, 103], "height": 375, "width": 500, "question_id": 1050, "split": "val"}
+{"img_path": "cot/gqa/2409347.jpg", "expression": "What are the vegetables on the plate called?", "bbox": [107, 186, 158, 279], "height": 281, "width": 500, "question_id": 1056, "split": "val"}
+{"img_path": "cot/gqa/2392993.jpg", "expression": "What sign is metallic?", "bbox": [161, 25, 342, 213], "height": 375, "width": 500, "question_id": 1063, "split": "val"}
+{"img_path": "cot/gqa/2335818.jpg", "expression": "Which kind of furniture is the napkin on?", "bbox": [0, 47, 499, 374], "height": 375, "width": 500, "question_id": 1067, "split": "val"}
+{"img_path": "cot/gqa/2322104.jpg", "expression": "What kind of vehicle is on the road?", "bbox": [329, 189, 398, 255], "height": 500, "width": 400, "question_id": 1069, "split": "val"}
+{"img_path": "cot/gqa/2410122.jpg", "expression": "The person is wearing what?", "bbox": [384, 15, 410, 81], "height": 500, "width": 500, "question_id": 1072, "split": "val"}
+{"img_path": "cot/gqa/2365120.jpg", "expression": "What is the name of the vegetable that is in the box?", "bbox": [115, 85, 189, 168], "height": 375, "width": 500, "question_id": 1077, "split": "val"}
+{"img_path": "cot/gqa/2400243.jpg", "expression": "What kind of furniture is that pillow on, a desk or a bed?", "bbox": [52, 59, 501, 374], "height": 375, "width": 500, "question_id": 1081, "split": "val"}
+{"img_path": "cot/gqa/2379231.jpg", "expression": "Who is wearing gloves?", "bbox": [156, 76, 278, 214], "height": 333, "width": 500, "question_id": 1082, "split": "val"}
+{"img_path": "cot/gqa/2356221.jpg", "expression": "Who wears a shirt?", "bbox": [194, 73, 393, 398], "height": 398, "width": 500, "question_id": 1087, "split": "val"}
+{"img_path": "cot/gqa/2415781.jpg", "expression": "What food is on the plate?", "bbox": [210, 304, 328, 402], "height": 500, "width": 350, "question_id": 1088, "split": "val"}
+{"img_path": "cot/gqa/4260.jpg", "expression": "What is the item of furniture to the left of the sheet on the right?", "bbox": [392, 134, 474, 227], "height": 512, "width": 768, "question_id": 1096, "split": "val"}
+{"img_path": "cot/gqa/2352702.jpg", "expression": "What's the water in?", "bbox": [138, 189, 385, 499], "height": 500, "width": 500, "question_id": 1103, "split": "val"}
+{"img_path": "cot/gqa/2326099.jpg", "expression": "What is the kid on?", "bbox": [276, 168, 295, 181], "height": 333, "width": 500, "question_id": 1110, "split": "val"}
+{"img_path": "cot/gqa/2898.jpg", "expression": "Where is the street light?", "bbox": [271, 435, 426, 483], "height": 600, "width": 800, "question_id": 1130, "split": "val"}
+{"img_path": "cot/gqa/2343416.jpg", "expression": "What's located on top of the cake?", "bbox": [155, 109, 320, 176], "height": 375, "width": 500, "question_id": 1132, "split": "val"}
+{"img_path": "cot/gqa/2345822.jpg", "expression": "Who is holding the cap?", "bbox": [115, 29, 389, 366], "height": 375, "width": 500, "question_id": 1139, "split": "val"}
+{"img_path": "cot/gqa/2380518.jpg", "expression": "Who rides on the skateboard?", "bbox": [110, 16, 441, 270], "height": 333, "width": 500, "question_id": 1144, "split": "val"}
+{"img_path": "cot/gqa/2356929.jpg", "expression": "Which kind of animal is walking?", "bbox": [217, 136, 395, 314], "height": 375, "width": 500, "question_id": 1153, "split": "val"}
+{"img_path": "cot/gqa/2325974.jpg", "expression": "What is on the coffee table?", "bbox": [292, 292, 333, 313], "height": 375, "width": 500, "question_id": 1164, "split": "val"}
+{"img_path": "cot/gqa/2336024.jpg", "expression": "What is covering the building?", "bbox": [71, 0, 457, 104], "height": 375, "width": 500, "question_id": 1166, "split": "val"}
+{"img_path": "cot/gqa/2404994.jpg", "expression": "What type of clothing is not long sleeved, the sweater or the hat?", "bbox": [133, 66, 331, 159], "height": 500, "width": 332, "question_id": 1168, "split": "val"}
+{"img_path": "cot/gqa/2411808.jpg", "expression": "Where is the table?", "bbox": [1, 170, 499, 332], "height": 333, "width": 500, "question_id": 1172, "split": "val"}
+{"img_path": "cot/gqa/2400658.jpg", "expression": "What kind of furniture is plaid?", "bbox": [3, 139, 147, 375], "height": 375, "width": 500, "question_id": 1178, "split": "val"}
+{"img_path": "cot/gqa/2366816.jpg", "expression": "What is displayed on the person that is to the right of the woman?", "bbox": [301, 245, 361, 285], "height": 375, "width": 500, "question_id": 1182, "split": "val"}
+{"img_path": "cot/gqa/2354803.jpg", "expression": "What kind of baked good is the person to the left of the microphone holding?", "bbox": [175, 275, 210, 301], "height": 400, "width": 500, "question_id": 1183, "split": "val"}
+{"img_path": "cot/gqa/2411119.jpg", "expression": "Who is riding on an elephant?", "bbox": [122, 52, 257, 250], "height": 500, "width": 333, "question_id": 1188, "split": "val"}
+{"img_path": "cot/gqa/2389968.jpg", "expression": "Which kind of furniture is made of wood?", "bbox": [1, 155, 499, 334], "height": 335, "width": 500, "question_id": 1197, "split": "val"}
+{"img_path": "cot/gqa/2324560.jpg", "expression": "What is the man holding?", "bbox": [268, 195, 309, 317], "height": 333, "width": 500, "question_id": 1204, "split": "val"}
+{"img_path": "cot/gqa/2337240.jpg", "expression": "The grass is in front of what?", "bbox": [79, 214, 296, 312], "height": 500, "width": 296, "question_id": 1206, "split": "val"}
+{"img_path": "cot/gqa/2399745.jpg", "expression": "What is the spoon in?", "bbox": [189, 195, 223, 220], "height": 500, "width": 375, "question_id": 1210, "split": "val"}
+{"img_path": "cot/gqa/498153.jpg", "expression": "How is the device to the right of the cart called?", "bbox": [588, 367, 676, 467], "height": 768, "width": 1024, "question_id": 1218, "split": "val"}
+{"img_path": "cot/gqa/2326351.jpg", "expression": "On which kind of furniture are the spices?", "bbox": [196, 341, 238, 366], "height": 375, "width": 500, "question_id": 1219, "split": "val"}
+{"img_path": "cot/gqa/2343123.jpg", "expression": "What is the fruit that the sign is in front of called?", "bbox": [146, 205, 204, 269], "height": 375, "width": 500, "question_id": 1233, "split": "val"}
+{"img_path": "cot/gqa/2347801.jpg", "expression": "What do you think is the device to the left of the animal on the desk?", "bbox": [2, 12, 152, 204], "height": 375, "width": 500, "question_id": 1236, "split": "val"}
+{"img_path": "cot/gqa/2384820.jpg", "expression": "What's on the stairs?", "bbox": [0, 193, 498, 372], "height": 375, "width": 500, "question_id": 1237, "split": "val"}
+{"img_path": "cot/gqa/2410360.jpg", "expression": "What is the cat on?", "bbox": [90, 282, 499, 373], "height": 375, "width": 500, "question_id": 1238, "split": "val"}
+{"img_path": "cot/gqa/2370034.jpg", "expression": "What is on the blanket?", "bbox": [326, 339, 355, 363], "height": 398, "width": 500, "question_id": 1250, "split": "val"}
+{"img_path": "cot/gqa/2379184.jpg", "expression": "What type of animal is made of metal?", "bbox": [0, 63, 245, 375], "height": 375, "width": 500, "question_id": 1252, "split": "val"}
+{"img_path": "cot/gqa/2401176.jpg", "expression": "Who is on the bicycle?", "bbox": [111, 40, 248, 369], "height": 437, "width": 500, "question_id": 1253, "split": "val"}
+{"img_path": "cot/gqa/2344941.jpg", "expression": "What is this guy on?", "bbox": [139, 226, 279, 302], "height": 335, "width": 500, "question_id": 1254, "split": "val"}
+{"img_path": "cot/gqa/2325368.jpg", "expression": "What is the ladder on?", "bbox": [205, 156, 422, 257], "height": 375, "width": 500, "question_id": 1258, "split": "val"}
+{"img_path": "cot/gqa/2375339.jpg", "expression": "What is the item of furniture that is covered with bottles called?", "bbox": [289, 180, 499, 330], "height": 332, "width": 500, "question_id": 1260, "split": "val"}
+{"img_path": "cot/gqa/2330638.jpg", "expression": "What is under the device on the table?", "bbox": [76, 291, 159, 332], "height": 332, "width": 500, "question_id": 1273, "split": "val"}
+{"img_path": "cot/gqa/2347844.jpg", "expression": "What kind of animal is on the table?", "bbox": [151, 59, 283, 216], "height": 358, "width": 500, "question_id": 1277, "split": "val"}
+{"img_path": "cot/gqa/2406024.jpg", "expression": "What is the fence in front of?", "bbox": [282, 1, 442, 154], "height": 375, "width": 500, "question_id": 1279, "split": "val"}
+{"img_path": "cot/gqa/2380228.jpg", "expression": "What kind of animal is the window behind of?", "bbox": [76, 136, 326, 282], "height": 500, "width": 339, "question_id": 1284, "split": "val"}
+{"img_path": "cot/gqa/2392832.jpg", "expression": "That girl is holding what?", "bbox": [199, 123, 311, 195], "height": 375, "width": 500, "question_id": 1286, "split": "val"}
+{"img_path": "cot/gqa/713207.jpg", "expression": "What animal is the bandana on?", "bbox": [429, 70, 853, 537], "height": 683, "width": 1024, "question_id": 1289, "split": "val"}
+{"img_path": "cot/gqa/2336351.jpg", "expression": "What is the man wearing?", "bbox": [226, 121, 441, 394], "height": 500, "width": 500, "question_id": 1293, "split": "val"}
+{"img_path": "cot/gqa/2373177.jpg", "expression": "What kind of device is to the right of the speaker?", "bbox": [192, 222, 443, 375], "height": 375, "width": 500, "question_id": 1294, "split": "val"}
+{"img_path": "cot/gqa/2358794.jpg", "expression": "What's the jet in?", "bbox": [229, 185, 308, 222], "height": 500, "width": 414, "question_id": 1301, "split": "val"}
+{"img_path": "cot/gqa/2398209.jpg", "expression": "Who is wearing the cap?", "bbox": [101, 81, 158, 287], "height": 500, "width": 333, "question_id": 1305, "split": "val"}
+{"img_path": "cot/gqa/2328916.jpg", "expression": "What kind of furniture is the dog in front of?", "bbox": [204, 0, 373, 131], "height": 500, "width": 374, "question_id": 1311, "split": "val"}
+{"img_path": "cot/gqa/2350492.jpg", "expression": "What is the snow on?", "bbox": [232, 203, 266, 217], "height": 500, "width": 338, "question_id": 1314, "split": "val"}
+{"img_path": "cot/gqa/2375839.jpg", "expression": "What is the person wearing?", "bbox": [195, 358, 273, 500], "height": 500, "width": 375, "question_id": 1316, "split": "val"}
+{"img_path": "cot/gqa/2386749.jpg", "expression": "What is on the broccoli?", "bbox": [36, 138, 187, 260], "height": 338, "width": 500, "question_id": 1319, "split": "val"}
+{"img_path": "cot/gqa/285743.jpg", "expression": "The boat is where?", "bbox": [537, 256, 1024, 517], "height": 768, "width": 1024, "question_id": 1327, "split": "val"}
+{"img_path": "cot/gqa/2376086.jpg", "expression": "What fruit is on the tree?", "bbox": [290, 261, 459, 420], "height": 500, "width": 500, "question_id": 1336, "split": "val"}
+{"img_path": "cot/gqa/2344444.jpg", "expression": "What's in the bottle?", "bbox": [317, 161, 432, 241], "height": 500, "width": 500, "question_id": 1337, "split": "val"}
+{"img_path": "cot/gqa/2355358.jpg", "expression": "What is the car in front of?", "bbox": [201, 247, 443, 351], "height": 390, "width": 500, "question_id": 1339, "split": "val"}
+{"img_path": "cot/gqa/2352288.jpg", "expression": "What pieces of furniture are to the right of the device that is of the laptop?", "bbox": [227, 125, 302, 226], "height": 335, "width": 500, "question_id": 1340, "split": "val"}
+{"img_path": "cot/gqa/2336024.jpg", "expression": "What's the boy wearing?", "bbox": [256, 169, 294, 207], "height": 375, "width": 500, "question_id": 1350, "split": "val"}
+{"img_path": "cot/gqa/2330133.jpg", "expression": "What is the food that is on the plate on the right?", "bbox": [362, 12, 487, 109], "height": 500, "width": 500, "question_id": 1351, "split": "val"}
+{"img_path": "cot/gqa/2347382.jpg", "expression": "What is the pen on?", "bbox": [0, 0, 500, 333], "height": 333, "width": 500, "question_id": 1352, "split": "val"}
+{"img_path": "cot/gqa/2342411.jpg", "expression": "Who is eating the food?", "bbox": [58, 120, 159, 292], "height": 334, "width": 500, "question_id": 1356, "split": "val"}
+{"img_path": "cot/gqa/2343628.jpg", "expression": "What is on the wall?", "bbox": [151, 1, 211, 56], "height": 333, "width": 500, "question_id": 1358, "split": "val"}
+{"img_path": "cot/gqa/2387424.jpg", "expression": "Who is wearing the shirt?", "bbox": [240, 144, 277, 185], "height": 375, "width": 500, "question_id": 1366, "split": "val"}
+{"img_path": "cot/gqa/1592420.jpg", "expression": "The audience is watching who?", "bbox": [173, 86, 513, 470], "height": 685, "width": 1024, "question_id": 1375, "split": "val"}
+{"img_path": "cot/gqa/733.jpg", "expression": "What does the person to the left of the person ride on?", "bbox": [577, 422, 737, 577], "height": 600, "width": 800, "question_id": 1387, "split": "val"}
+{"img_path": "cot/gqa/733.jpg", "expression": "What does the woman ride on?", "bbox": [577, 422, 737, 577], "height": 600, "width": 800, "question_id": 1388, "split": "val"}
+{"img_path": "cot/gqa/498153.jpg", "expression": "What is the piece of furniture to the right of the trash bin in the bottom?", "bbox": [788, 419, 1023, 768], "height": 768, "width": 1024, "question_id": 1412, "split": "val"}
+{"img_path": "cot/gqa/2414363.jpg", "expression": "What are the pears in?", "bbox": [334, 159, 392, 197], "height": 333, "width": 500, "question_id": 1417, "split": "val"}
+{"img_path": "cot/gqa/2353601.jpg", "expression": "What is the fruit to the left of the vegetable that is on top of the bath tub?", "bbox": [53, 222, 108, 253], "height": 375, "width": 500, "question_id": 1420, "split": "val"}
+{"img_path": "cot/gqa/2413244.jpg", "expression": "Who is wearing the gloves?", "bbox": [67, 56, 218, 333], "height": 333, "width": 500, "question_id": 1422, "split": "val"}
+{"img_path": "cot/gqa/2344061.jpg", "expression": "The heart is on what?", "bbox": [242, 142, 461, 348], "height": 375, "width": 500, "question_id": 1423, "split": "val"}
+{"img_path": "cot/gqa/2354541.jpg", "expression": "What type of furniture is to the right of him?", "bbox": [348, 176, 498, 258], "height": 375, "width": 500, "question_id": 1425, "split": "val"}
+{"img_path": "cot/gqa/2390843.jpg", "expression": "What is the animal in front of the drawing?", "bbox": [243, 95, 364, 204], "height": 333, "width": 500, "question_id": 1429, "split": "val"}
+{"img_path": "cot/gqa/2381217.jpg", "expression": "What is in front of the giraffe?", "bbox": [244, 0, 281, 211], "height": 500, "width": 375, "question_id": 1431, "split": "val"}
+{"img_path": "cot/gqa/2368456.jpg", "expression": "What's the guy holding?", "bbox": [169, 94, 282, 186], "height": 400, "width": 500, "question_id": 1437, "split": "val"}
+{"img_path": "cot/gqa/2409510.jpg", "expression": "What's the woman wearing?", "bbox": [0, 318, 234, 496], "height": 500, "width": 379, "question_id": 1441, "split": "val"}
+{"img_path": "cot/gqa/2399307.jpg", "expression": "Which kind of dessert is to the right of the bowl?", "bbox": [356, 360, 409, 390], "height": 500, "width": 500, "question_id": 1445, "split": "val"}
+{"img_path": "cot/gqa/2385959.jpg", "expression": "Who is in front of the water?", "bbox": [268, 69, 337, 199], "height": 324, "width": 500, "question_id": 1449, "split": "val"}
+{"img_path": "cot/gqa/2353835.jpg", "expression": "What is in front of the large trees?", "bbox": [0, 36, 355, 316], "height": 375, "width": 500, "question_id": 1455, "split": "val"}
+{"img_path": "cot/gqa/2403314.jpg", "expression": "Which kind of cooking utensil is under the pizza?", "bbox": [0, 323, 106, 398], "height": 500, "width": 500, "question_id": 1463, "split": "val"}
+{"img_path": "cot/gqa/2358888.jpg", "expression": "What animal is behind the tree?", "bbox": [72, 72, 353, 343], "height": 375, "width": 500, "question_id": 1465, "split": "val"}
+{"img_path": "cot/gqa/2391567.jpg", "expression": "What is in the hotel?", "bbox": [160, 147, 433, 314], "height": 375, "width": 500, "question_id": 1470, "split": "val"}
+{"img_path": "cot/gqa/2392638.jpg", "expression": "What vegetables are to the right of the plate?", "bbox": [340, 215, 390, 297], "height": 500, "width": 500, "question_id": 1471, "split": "val"}
+{"img_path": "cot/gqa/2386414.jpg", "expression": "What device is on the counter?", "bbox": [9, 80, 93, 136], "height": 343, "width": 500, "question_id": 1472, "split": "val"}
+{"img_path": "cot/gqa/2374250.jpg", "expression": "What is the ball on?", "bbox": [205, 75, 465, 253], "height": 500, "width": 500, "question_id": 1473, "split": "val"}
+{"img_path": "cot/gqa/2362019.jpg", "expression": "What is located on top of the icing?", "bbox": [296, 166, 341, 203], "height": 333, "width": 500, "question_id": 1474, "split": "val"}
+{"img_path": "cot/gqa/2414748.jpg", "expression": "How is the vehicle to the left of the guy on the right called?", "bbox": [154, 132, 338, 364], "height": 439, "width": 500, "question_id": 1484, "split": "val"}
+{"img_path": "cot/gqa/2404508.jpg", "expression": "Where is the cat?", "bbox": [4, 3, 498, 372], "height": 375, "width": 500, "question_id": 1485, "split": "val"}
+{"img_path": "cot/gqa/2321770.jpg", "expression": "What is in the ocean?", "bbox": [211, 181, 435, 299], "height": 349, "width": 500, "question_id": 1492, "split": "val"}
+{"img_path": "cot/gqa/2351694.jpg", "expression": "The cow that is not small is standing where?", "bbox": [0, 145, 500, 333], "height": 333, "width": 500, "question_id": 1500, "split": "val"}
+{"img_path": "cot/gqa/2361463.jpg", "expression": "What animal is standing behind the girl?", "bbox": [192, 16, 391, 250], "height": 333, "width": 500, "question_id": 1501, "split": "val"}
+{"img_path": "cot/gqa/2329839.jpg", "expression": "What is the person that is to the right of the catcher wearing?", "bbox": [356, 103, 373, 131], "height": 375, "width": 500, "question_id": 1503, "split": "val"}
+{"img_path": "cot/gqa/2316051.jpg", "expression": "What are the vegetables to the left of the utensil on the right?", "bbox": [174, 85, 270, 168], "height": 375, "width": 500, "question_id": 1504, "split": "val"}
+{"img_path": "cot/gqa/2353286.jpg", "expression": "What animals are standing?", "bbox": [27, 29, 445, 346], "height": 357, "width": 500, "question_id": 1505, "split": "val"}
+{"img_path": "cot/gqa/2403964.jpg", "expression": "What kind of device is to the right of the chair?", "bbox": [73, 112, 191, 191], "height": 318, "width": 500, "question_id": 1506, "split": "val"}
+{"img_path": "cot/gqa/2402702.jpg", "expression": "What is around the bench?", "bbox": [56, 138, 142, 174], "height": 375, "width": 500, "question_id": 1507, "split": "val"}
+{"img_path": "cot/gqa/2331178.jpg", "expression": "What is on the post?", "bbox": [437, 165, 460, 190], "height": 334, "width": 500, "question_id": 1509, "split": "val"}
+{"img_path": "cot/gqa/2382827.jpg", "expression": "What device is made of glass?", "bbox": [83, 141, 263, 387], "height": 500, "width": 335, "question_id": 1517, "split": "val"}
+{"img_path": "cot/gqa/2330040.jpg", "expression": "What device is to the right of the bowl?", "bbox": [220, 32, 455, 293], "height": 375, "width": 500, "question_id": 1522, "split": "val"}
+{"img_path": "cot/gqa/2396887.jpg", "expression": "This girl is in front of what?", "bbox": [0, 373, 67, 498], "height": 500, "width": 374, "question_id": 1524, "split": "val"}
+{"img_path": "cot/gqa/2374922.jpg", "expression": "What is before the spoon?", "bbox": [134, 0, 158, 45], "height": 360, "width": 480, "question_id": 1526, "split": "val"}
+{"img_path": "cot/gqa/2344219.jpg", "expression": "Which is less healthy, the pepper or the pizza?", "bbox": [67, 15, 439, 341], "height": 375, "width": 500, "question_id": 1527, "split": "val"}
+{"img_path": "cot/gqa/2410107.jpg", "expression": "What kind of animal stands on the ground?", "bbox": [41, 70, 431, 292], "height": 332, "width": 500, "question_id": 1538, "split": "val"}
+{"img_path": "cot/gqa/2320081.jpg", "expression": "Where is the banana above the box lying?", "bbox": [0, 0, 500, 214], "height": 214, "width": 500, "question_id": 1539, "split": "val"}
+{"img_path": "cot/gqa/2365601.jpg", "expression": "Which is older, the man or the boy?", "bbox": [1, 154, 64, 355], "height": 500, "width": 375, "question_id": 1540, "split": "val"}
+{"img_path": "cot/gqa/2351144.jpg", "expression": "What does the woman carry?", "bbox": [144, 196, 207, 246], "height": 333, "width": 500, "question_id": 1542, "split": "val"}
+{"img_path": "cot/gqa/2356975.jpg", "expression": "Which kind of furniture is made of glass?", "bbox": [155, 224, 352, 333], "height": 333, "width": 500, "question_id": 1548, "split": "val"}
+{"img_path": "cot/gqa/2370147.jpg", "expression": "What is on the couch?", "bbox": [416, 196, 473, 230], "height": 366, "width": 500, "question_id": 1549, "split": "val"}
+{"img_path": "cot/gqa/2349363.jpg", "expression": "What is the logo on?", "bbox": [0, 0, 241, 225], "height": 333, "width": 500, "question_id": 1557, "split": "val"}
+{"img_path": "cot/gqa/2354367.jpg", "expression": "What are the sliced vegetables?", "bbox": [99, 130, 276, 274], "height": 375, "width": 500, "question_id": 1559, "split": "val"}
+{"img_path": "cot/gqa/2357550.jpg", "expression": "Who is walking behind the cow?", "bbox": [136, 30, 271, 301], "height": 375, "width": 500, "question_id": 1562, "split": "val"}
+{"img_path": "cot/gqa/2407329.jpg", "expression": "What is the sack on?", "bbox": [59, 41, 499, 372], "height": 375, "width": 500, "question_id": 1575, "split": "val"}
+{"img_path": "cot/gqa/2365311.jpg", "expression": "What is the device that the girls to the right of the spoon are playing with?", "bbox": [161, 240, 211, 265], "height": 500, "width": 375, "question_id": 1587, "split": "val"}
+{"img_path": "cot/gqa/2407218.jpg", "expression": "Which kind of device is not large?", "bbox": [92, 126, 282, 232], "height": 375, "width": 500, "question_id": 1591, "split": "val"}
+{"img_path": "cot/gqa/2414973.jpg", "expression": "What does the man to the right of the surfboard wear?", "bbox": [427, 187, 445, 203], "height": 333, "width": 500, "question_id": 1603, "split": "val"}
+{"img_path": "cot/gqa/2388645.jpg", "expression": "What kind of furniture isn't dark?", "bbox": [0, 168, 303, 374], "height": 375, "width": 500, "question_id": 1604, "split": "val"}
+{"img_path": "cot/gqa/2389601.jpg", "expression": "Which kind of fruit is on the banana?", "bbox": [170, 33, 371, 189], "height": 332, "width": 500, "question_id": 1605, "split": "val"}
+{"img_path": "cot/gqa/1592105.jpg", "expression": "Which kind of bag is to the left of the purse?", "bbox": [184, 465, 216, 520], "height": 678, "width": 1024, "question_id": 1607, "split": "val"}
+{"img_path": "cot/gqa/2411652.jpg", "expression": "Which kind of vehicle is on the road?", "bbox": [0, 317, 36, 364], "height": 366, "width": 500, "question_id": 1610, "split": "val"}
+{"img_path": "cot/gqa/2412196.jpg", "expression": "Who is walking?", "bbox": [74, 184, 117, 300], "height": 332, "width": 500, "question_id": 1620, "split": "val"}
+{"img_path": "cot/gqa/2315512.jpg", "expression": "What is the woman to the left of the man wearing?", "bbox": [292, 458, 311, 469], "height": 500, "width": 384, "question_id": 1622, "split": "val"}
+{"img_path": "cot/gqa/42.jpg", "expression": "What is located on top of the table?", "bbox": [34, 379, 119, 412], "height": 600, "width": 800, "question_id": 1626, "split": "val"}
+{"img_path": "cot/gqa/2412860.jpg", "expression": "What animal is standing?", "bbox": [104, 19, 406, 320], "height": 335, "width": 500, "question_id": 1630, "split": "val"}
+{"img_path": "cot/gqa/2409105.jpg", "expression": "Who is wearing skis?", "bbox": [63, 152, 174, 274], "height": 500, "width": 366, "question_id": 1634, "split": "val"}
+{"img_path": "cot/gqa/2319892.jpg", "expression": "Who is wearing the shirt?", "bbox": [169, 162, 215, 230], "height": 332, "width": 500, "question_id": 1639, "split": "val"}
+{"img_path": "cot/gqa/2366879.jpg", "expression": "What kind of furniture is to the left of the nightstand that is on the right of the photo?", "bbox": [89, 115, 444, 330], "height": 333, "width": 500, "question_id": 1641, "split": "val"}
+{"img_path": "cot/gqa/2343418.jpg", "expression": "Who is watching the bear?", "bbox": [280, 18, 479, 345], "height": 345, "width": 500, "question_id": 1642, "split": "val"}
+{"img_path": "cot/gqa/2333806.jpg", "expression": "Who is lying on the bed?", "bbox": [20, 77, 413, 375], "height": 375, "width": 500, "question_id": 1646, "split": "val"}
+{"img_path": "cot/gqa/2317954.jpg", "expression": "What's the bottle on?", "bbox": [1, 0, 499, 375], "height": 375, "width": 500, "question_id": 1654, "split": "val"}
+{"img_path": "cot/gqa/2377477.jpg", "expression": "What is on the table?", "bbox": [288, 180, 309, 225], "height": 393, "width": 500, "question_id": 1655, "split": "val"}
+{"img_path": "cot/gqa/2341030.jpg", "expression": "What drink is to the left of the box?", "bbox": [213, 215, 241, 314], "height": 500, "width": 375, "question_id": 1659, "split": "val"}
+{"img_path": "cot/gqa/2389044.jpg", "expression": "What device is to the left of the Caucasian man?", "bbox": [102, 111, 125, 154], "height": 333, "width": 500, "question_id": 1663, "split": "val"}
+{"img_path": "cot/gqa/2333953.jpg", "expression": "Who wears a jacket?", "bbox": [247, 26, 499, 374], "height": 375, "width": 500, "question_id": 1664, "split": "val"}
+{"img_path": "cot/gqa/2392305.jpg", "expression": "What is the woman wearing?", "bbox": [160, 75, 198, 129], "height": 375, "width": 500, "question_id": 1673, "split": "val"}
+{"img_path": "cot/gqa/2334259.jpg", "expression": "What type of animal is in the pen?", "bbox": [61, 13, 500, 332], "height": 332, "width": 500, "question_id": 1675, "split": "val"}
+{"img_path": "cot/gqa/2355200.jpg", "expression": "What is in the containers on the left side?", "bbox": [46, 224, 78, 254], "height": 333, "width": 500, "question_id": 1679, "split": "val"}
+{"img_path": "cot/gqa/2317908.jpg", "expression": "Which type of food is sliced?", "bbox": [0, 50, 374, 463], "height": 500, "width": 375, "question_id": 1682, "split": "val"}
+{"img_path": "cot/gqa/2399523.jpg", "expression": "What watercraft is to the left of the planter?", "bbox": [14, 213, 172, 247], "height": 333, "width": 500, "question_id": 1689, "split": "val"}
+{"img_path": "cot/gqa/2390216.jpg", "expression": "Who wears the hat?", "bbox": [266, 112, 385, 224], "height": 375, "width": 500, "question_id": 1694, "split": "val"}
+{"img_path": "cot/gqa/2376513.jpg", "expression": "Which kind of food is the couple looking at?", "bbox": [200, 321, 396, 428], "height": 500, "width": 500, "question_id": 1708, "split": "val"}
+{"img_path": "cot/gqa/2371717.jpg", "expression": "What is on the wall?", "bbox": [160, 176, 202, 247], "height": 500, "width": 333, "question_id": 1710, "split": "val"}
+{"img_path": "cot/gqa/2342224.jpg", "expression": "What food is to the left of the onion that is in the middle?", "bbox": [227, 142, 285, 201], "height": 332, "width": 500, "question_id": 1714, "split": "val"}
+{"img_path": "cot/gqa/2375335.jpg", "expression": "How the long sleeved clothing item is called?", "bbox": [0, 159, 327, 499], "height": 500, "width": 375, "question_id": 1715, "split": "val"}
+{"img_path": "cot/gqa/2390538.jpg", "expression": "What is the girl carrying?", "bbox": [213, 185, 265, 374], "height": 500, "width": 375, "question_id": 1718, "split": "val"}
+{"img_path": "cot/gqa/2390538.jpg", "expression": "What is she carrying?", "bbox": [213, 185, 265, 374], "height": 500, "width": 375, "question_id": 1719, "split": "val"}
+{"img_path": "cot/gqa/2372249.jpg", "expression": "Which kind of vehicle is old?", "bbox": [16, 24, 471, 347], "height": 375, "width": 500, "question_id": 1725, "split": "val"}
+{"img_path": "cot/gqa/2412431.jpg", "expression": "What is under the glass that is in front of the bottle?", "bbox": [18, 209, 167, 327], "height": 375, "width": 500, "question_id": 1733, "split": "val"}
+{"img_path": "cot/gqa/2388476.jpg", "expression": "What is he in front of?", "bbox": [85, 4, 332, 111], "height": 500, "width": 335, "question_id": 1734, "split": "val"}
+{"img_path": "cot/gqa/2870.jpg", "expression": "Who is carrying the bag?", "bbox": [0, 342, 37, 598], "height": 600, "width": 800, "question_id": 1737, "split": "val"}
+{"img_path": "cot/gqa/2318400.jpg", "expression": "Who is running?", "bbox": [295, 6, 477, 354], "height": 375, "width": 500, "question_id": 1747, "split": "val"}
+{"img_path": "cot/gqa/2414248.jpg", "expression": "What is the man wearing?", "bbox": [195, 119, 249, 152], "height": 313, "width": 500, "question_id": 1752, "split": "val"}
+{"img_path": "cot/gqa/2365859.jpg", "expression": "What is the animal that is in the water called?", "bbox": [194, 254, 215, 287], "height": 375, "width": 500, "question_id": 1763, "split": "val"}
+{"img_path": "cot/gqa/2370300.jpg", "expression": "What animal is on the chair in the bottom of the picture?", "bbox": [194, 35, 415, 338], "height": 405, "width": 500, "question_id": 1773, "split": "val"}
+{"img_path": "cot/gqa/2412065.jpg", "expression": "What's the wine bottle on?", "bbox": [134, 367, 263, 496], "height": 500, "width": 321, "question_id": 1777, "split": "val"}
+{"img_path": "cot/gqa/2363933.jpg", "expression": "Which kind of animal is in the water?", "bbox": [317, 21, 433, 196], "height": 333, "width": 500, "question_id": 1790, "split": "val"}
+{"img_path": "cot/gqa/2388721.jpg", "expression": "What is the grass covered by?", "bbox": [5, 203, 497, 375], "height": 375, "width": 500, "question_id": 1791, "split": "val"}
+{"img_path": "cot/gqa/2351575.jpg", "expression": "Who is wearing a shirt?", "bbox": [119, 0, 437, 281], "height": 281, "width": 500, "question_id": 1796, "split": "val"}
+{"img_path": "cot/gqa/2410238.jpg", "expression": "Which kind of furniture is long?", "bbox": [174, 162, 500, 233], "height": 375, "width": 500, "question_id": 1802, "split": "val"}
+{"img_path": "cot/gqa/2366537.jpg", "expression": "Which kind of food is to the left of the broccoli?", "bbox": [0, 232, 130, 495], "height": 500, "width": 500, "question_id": 1809, "split": "val"}
+{"img_path": "cot/gqa/2342897.jpg", "expression": "What is the lady wearing?", "bbox": [231, 155, 326, 343], "height": 343, "width": 500, "question_id": 1811, "split": "val"}
+{"img_path": "cot/gqa/2384898.jpg", "expression": "What is hanging from the ceiling?", "bbox": [31, 114, 53, 136], "height": 500, "width": 479, "question_id": 1815, "split": "val"}
+{"img_path": "cot/gqa/2324582.jpg", "expression": "Who wears a face mask?", "bbox": [395, 72, 447, 276], "height": 342, "width": 500, "question_id": 1816, "split": "val"}
+{"img_path": "cot/gqa/2377995.jpg", "expression": "Who is on the tall grass?", "bbox": [82, 187, 260, 372], "height": 374, "width": 500, "question_id": 1818, "split": "val"}
+{"img_path": "cot/gqa/2318160.jpg", "expression": "Where is the bottle?", "bbox": [2, 104, 498, 364], "height": 364, "width": 500, "question_id": 1823, "split": "val"}
+{"img_path": "cot/gqa/2399188.jpg", "expression": "What animal is tiny?", "bbox": [169, 69, 334, 240], "height": 333, "width": 500, "question_id": 1826, "split": "val"}
+{"img_path": "cot/gqa/2323606.jpg", "expression": "What is the boy riding?", "bbox": [15, 322, 186, 500], "height": 500, "width": 375, "question_id": 1831, "split": "val"}
+{"img_path": "cot/gqa/2414938.jpg", "expression": "What's in front of the building?", "bbox": [67, 174, 126, 228], "height": 375, "width": 500, "question_id": 1834, "split": "val"}
+{"img_path": "cot/gqa/2386666.jpg", "expression": "Which kind of animal is on the road?", "bbox": [35, 254, 76, 318], "height": 332, "width": 500, "question_id": 1836, "split": "val"}
+{"img_path": "cot/gqa/2358241.jpg", "expression": "What is the girl wearing?", "bbox": [323, 271, 399, 447], "height": 500, "width": 500, "question_id": 1846, "split": "val"}
+{"img_path": "cot/gqa/1170.jpg", "expression": "How is the appliance to the right of the bookshelf in the center called?", "bbox": [473, 250, 511, 316], "height": 450, "width": 700, "question_id": 1860, "split": "val"}
+{"img_path": "cot/gqa/2319898.jpg", "expression": "Who is holding the bag?", "bbox": [37, 187, 77, 303], "height": 500, "width": 258, "question_id": 1865, "split": "val"}
+{"img_path": "cot/gqa/2379745.jpg", "expression": "Who is wearing a boot?", "bbox": [408, 239, 457, 396], "height": 481, "width": 500, "question_id": 1870, "split": "val"}
+{"img_path": "cot/gqa/2405326.jpg", "expression": "Who is wearing the necklace?", "bbox": [0, 0, 149, 500], "height": 500, "width": 375, "question_id": 1873, "split": "val"}
+{"img_path": "cot/gqa/2407224.jpg", "expression": "What is the man with the glasses wearing?", "bbox": [223, 178, 232, 199], "height": 333, "width": 500, "question_id": 1875, "split": "val"}
+{"img_path": "cot/gqa/2412970.jpg", "expression": "What is in the plate?", "bbox": [71, 204, 122, 231], "height": 334, "width": 500, "question_id": 1876, "split": "val"}
+{"img_path": "cot/gqa/2397684.jpg", "expression": "Where is the light post?", "bbox": [1, 427, 332, 498], "height": 500, "width": 333, "question_id": 1879, "split": "val"}
+{"img_path": "cot/gqa/2362173.jpg", "expression": "How are the items of furniture in the large hospital called?", "bbox": [62, 61, 128, 119], "height": 280, "width": 500, "question_id": 1883, "split": "val"}
+{"img_path": "cot/gqa/2331231.jpg", "expression": "What is the pitcher in front of?", "bbox": [0, 430, 334, 500], "height": 500, "width": 335, "question_id": 1894, "split": "val"}
+{"img_path": "cot/gqa/2332556.jpg", "expression": "What is underneath the snow?", "bbox": [0, 141, 219, 501], "height": 500, "width": 335, "question_id": 1895, "split": "val"}
+{"img_path": "cot/gqa/2384876.jpg", "expression": "How do you think is the denim clothing item called?", "bbox": [114, 73, 275, 302], "height": 500, "width": 367, "question_id": 1904, "split": "val"}
+{"img_path": "cot/gqa/2342016.jpg", "expression": "What's the dog wearing?", "bbox": [179, 103, 283, 240], "height": 410, "width": 500, "question_id": 1918, "split": "val"}
+{"img_path": "cot/gqa/2414389.jpg", "expression": "What vegetable is cooked?", "bbox": [132, 84, 470, 173], "height": 374, "width": 500, "question_id": 1922, "split": "val"}
+{"img_path": "cot/gqa/2389416.jpg", "expression": "What is on the table?", "bbox": [272, 53, 340, 126], "height": 374, "width": 500, "question_id": 1933, "split": "val"}
+{"img_path": "cot/gqa/2390230.jpg", "expression": "What kind of furniture is made of wood?", "bbox": [265, 285, 359, 499], "height": 500, "width": 375, "question_id": 1943, "split": "val"}
+{"img_path": "cot/gqa/2372955.jpg", "expression": "What vehicle is to the left of the hydrant in the middle of the photo?", "bbox": [71, 147, 189, 241], "height": 375, "width": 500, "question_id": 1949, "split": "val"}
+{"img_path": "cot/gqa/2390726.jpg", "expression": "Which kind of watercraft is on the water?", "bbox": [194, 255, 265, 406], "height": 500, "width": 333, "question_id": 1964, "split": "val"}
+{"img_path": "cot/gqa/2320078.jpg", "expression": "Who is wearing the cap?", "bbox": [226, 35, 301, 134], "height": 398, "width": 500, "question_id": 1969, "split": "val"}
+{"img_path": "cot/gqa/2391814.jpg", "expression": "What is on the bed on the left?", "bbox": [0, 176, 112, 321], "height": 375, "width": 500, "question_id": 1975, "split": "val"}
+{"img_path": "cot/gqa/2344774.jpg", "expression": "What does the boy that to the left of the man sit on?", "bbox": [21, 102, 94, 227], "height": 375, "width": 500, "question_id": 1981, "split": "val"}
+{"img_path": "cot/gqa/4981.jpg", "expression": "What is the vehicle to the left of the garbage can?", "bbox": [252, 335, 406, 442], "height": 600, "width": 800, "question_id": 1990, "split": "val"}
+{"img_path": "cot/gqa/2329092.jpg", "expression": "What is the man to the left of the woman wearing?", "bbox": [220, 288, 357, 332], "height": 333, "width": 500, "question_id": 1993, "split": "val"}
+{"img_path": "cot/gqa/2336102.jpg", "expression": "What is the name of the vegetable to the right of the bananas in the plate?", "bbox": [286, 86, 314, 111], "height": 375, "width": 500, "question_id": 1998, "split": "val"}
+{"img_path": "cot/gqa/2355769.jpg", "expression": "What does the man wear?", "bbox": [136, 271, 147, 287], "height": 375, "width": 500, "question_id": 2006, "split": "val"}
+{"img_path": "cot/gqa/2356677.jpg", "expression": "What animal are the spots on?", "bbox": [272, 71, 405, 263], "height": 334, "width": 500, "question_id": 2010, "split": "val"}
+{"img_path": "cot/gqa/2380682.jpg", "expression": "Who wears the helmet?", "bbox": [167, 242, 191, 294], "height": 331, "width": 500, "question_id": 2013, "split": "val"}
+{"img_path": "cot/gqa/2401255.jpg", "expression": "What is in front of the woman on the left of the image?", "bbox": [36, 242, 143, 283], "height": 409, "width": 500, "question_id": 2016, "split": "val"}
+{"img_path": "cot/gqa/2395177.jpg", "expression": "Where is the boat?", "bbox": [0, 150, 499, 193], "height": 299, "width": 500, "question_id": 2017, "split": "val"}
+{"img_path": "cot/gqa/2394389.jpg", "expression": "Which is older, the boy or the man?", "bbox": [265, 108, 324, 255], "height": 375, "width": 500, "question_id": 2027, "split": "val"}
+{"img_path": "cot/gqa/2317619.jpg", "expression": "Who in this image is running?", "bbox": [419, 189, 478, 323], "height": 333, "width": 500, "question_id": 2029, "split": "val"}
+{"img_path": "cot/gqa/2417053.jpg", "expression": "What lies on the bed?", "bbox": [312, 57, 497, 182], "height": 500, "width": 500, "question_id": 2032, "split": "val"}
+{"img_path": "cot/gqa/2380812.jpg", "expression": "What is the number on?", "bbox": [180, 39, 272, 235], "height": 500, "width": 333, "question_id": 2033, "split": "val"}
+{"img_path": "cot/gqa/2392468.jpg", "expression": "What is in front of the water?", "bbox": [8, 333, 25, 360], "height": 500, "width": 334, "question_id": 2035, "split": "val"}
+{"img_path": "cot/gqa/2364950.jpg", "expression": "Who is wearing the t-shirt?", "bbox": [237, 2, 352, 321], "height": 333, "width": 500, "question_id": 2037, "split": "val"}
+{"img_path": "cot/gqa/2375137.jpg", "expression": "Which kind of device is the keyboard in front of?", "bbox": [118, 68, 253, 174], "height": 333, "width": 500, "question_id": 2039, "split": "val"}
+{"img_path": "cot/gqa/2336005.jpg", "expression": "What is the cooking utensil to the right of the container called?", "bbox": [181, 183, 221, 236], "height": 500, "width": 333, "question_id": 2045, "split": "val"}
+{"img_path": "cot/gqa/2346622.jpg", "expression": "What drink is to the right of the can?", "bbox": [409, 221, 441, 294], "height": 375, "width": 500, "question_id": 2054, "split": "val"}
+{"img_path": "cot/gqa/2326024.jpg", "expression": "What kind of furniture is light?", "bbox": [0, 1, 410, 92], "height": 375, "width": 500, "question_id": 2059, "split": "val"}
+{"img_path": "cot/gqa/2386458.jpg", "expression": "What's the jewelry on?", "bbox": [0, 263, 333, 486], "height": 500, "width": 333, "question_id": 2069, "split": "val"}
+{"img_path": "cot/gqa/2381124.jpg", "expression": "Who is riding a bike?", "bbox": [271, 56, 372, 223], "height": 332, "width": 500, "question_id": 2076, "split": "val"}
+{"img_path": "cot/gqa/2400721.jpg", "expression": "What is the man to the right of the backpack wearing?", "bbox": [428, 97, 450, 135], "height": 332, "width": 500, "question_id": 2083, "split": "val"}
+{"img_path": "cot/gqa/2387021.jpg", "expression": "What is on the wall?", "bbox": [18, 108, 49, 187], "height": 375, "width": 500, "question_id": 2088, "split": "val"}
+{"img_path": "cot/gqa/2345324.jpg", "expression": "What is the aircraft that is hanging from the ceiling?", "bbox": [74, 91, 402, 243], "height": 375, "width": 500, "question_id": 2090, "split": "val"}
+{"img_path": "cot/gqa/2373801.jpg", "expression": "Who is wearing the shirt?", "bbox": [202, 16, 325, 332], "height": 333, "width": 500, "question_id": 2118, "split": "val"}
+{"img_path": "cot/gqa/2360341.jpg", "expression": "Who is wearing the pants?", "bbox": [155, 124, 220, 201], "height": 375, "width": 500, "question_id": 2129, "split": "val"}
+{"img_path": "cot/gqa/2382511.jpg", "expression": "What is the man to the right of the people carrying?", "bbox": [212, 150, 299, 174], "height": 281, "width": 500, "question_id": 2132, "split": "val"}
+{"img_path": "cot/gqa/2416862.jpg", "expression": "What's in the water?", "bbox": [126, 238, 149, 258], "height": 348, "width": 500, "question_id": 2142, "split": "val"}
+{"img_path": "cot/gqa/2329424.jpg", "expression": "What is the train on?", "bbox": [0, 166, 408, 327], "height": 327, "width": 500, "question_id": 2145, "split": "val"}
+{"img_path": "cot/gqa/2334804.jpg", "expression": "Who sits on the ground?", "bbox": [353, 116, 415, 173], "height": 333, "width": 500, "question_id": 2153, "split": "val"}
+{"img_path": "cot/gqa/2407550.jpg", "expression": "Which kind of furniture is to the left of the table?", "bbox": [314, 271, 383, 308], "height": 333, "width": 500, "question_id": 2169, "split": "val"}
+{"img_path": "cot/gqa/2394453.jpg", "expression": "What vehicle is to the right of the lady?", "bbox": [148, 87, 352, 263], "height": 303, "width": 500, "question_id": 2170, "split": "val"}
+{"img_path": "cot/gqa/2325464.jpg", "expression": "What is the animal that is to the left of the large fence?", "bbox": [179, 147, 321, 322], "height": 375, "width": 500, "question_id": 2171, "split": "val"}
+{"img_path": "cot/gqa/2347873.jpg", "expression": "What type of fast food is on the plate?", "bbox": [102, 62, 394, 273], "height": 301, "width": 500, "question_id": 2183, "split": "val"}
+{"img_path": "cot/gqa/2325876.jpg", "expression": "What is the device that the girl to the left of the curtains is playing with?", "bbox": [213, 275, 303, 307], "height": 375, "width": 500, "question_id": 2185, "split": "val"}
+{"img_path": "cot/gqa/2350420.jpg", "expression": "Which kind of furniture is right of the television?", "bbox": [316, 170, 367, 248], "height": 375, "width": 500, "question_id": 2191, "split": "val"}
+{"img_path": "cot/gqa/2319480.jpg", "expression": "What is hanging from the vehicle the bird is in?", "bbox": [204, 0, 267, 222], "height": 375, "width": 500, "question_id": 2193, "split": "val"}
+{"img_path": "cot/gqa/2363371.jpg", "expression": "What is the sign surrounded by?", "bbox": [0, 90, 406, 266], "height": 375, "width": 500, "question_id": 2200, "split": "val"}
+{"img_path": "cot/gqa/2371650.jpg", "expression": "What is the man wearing?", "bbox": [202, 207, 235, 240], "height": 375, "width": 500, "question_id": 2202, "split": "val"}
+{"img_path": "cot/gqa/2401393.jpg", "expression": "What vegetable is to the left of the cheese?", "bbox": [144, 131, 301, 234], "height": 333, "width": 500, "question_id": 2210, "split": "val"}
+{"img_path": "cot/gqa/2394227.jpg", "expression": "Where is the car?", "bbox": [11, 291, 493, 376], "height": 375, "width": 500, "question_id": 2214, "split": "val"}
+{"img_path": "cot/gqa/2349794.jpg", "expression": "What is the person to the left of the plate wearing?", "bbox": [130, 173, 204, 195], "height": 331, "width": 500, "question_id": 2217, "split": "val"}
+{"img_path": "cot/gqa/2330118.jpg", "expression": "Who is wearing the jacket?", "bbox": [153, 366, 181, 437], "height": 500, "width": 264, "question_id": 2218, "split": "val"}
+{"img_path": "cot/gqa/2352657.jpg", "expression": "Who is wearing the shirt?", "bbox": [237, 139, 494, 499], "height": 500, "width": 500, "question_id": 2224, "split": "val"}
+{"img_path": "cot/gqa/2367099.jpg", "expression": "What's the bench in front of?", "bbox": [1, 24, 499, 241], "height": 333, "width": 500, "question_id": 2248, "split": "val"}
+{"img_path": "cot/gqa/2405548.jpg", "expression": "What is the man that is to the right of the can riding?", "bbox": [70, 64, 392, 263], "height": 333, "width": 500, "question_id": 2254, "split": "val"}
+{"img_path": "cot/gqa/2382243.jpg", "expression": "Who is waiting?", "bbox": [219, 216, 235, 268], "height": 333, "width": 500, "question_id": 2256, "split": "val"}
+{"img_path": "cot/gqa/2394832.jpg", "expression": "Which kind of appliance is above the gas stove?", "bbox": [0, 75, 179, 160], "height": 375, "width": 500, "question_id": 2257, "split": "val"}
+{"img_path": "cot/gqa/2368298.jpg", "expression": "What is the man that is to the right of the laptop wearing?", "bbox": [477, 118, 500, 134], "height": 375, "width": 500, "question_id": 2259, "split": "val"}
+{"img_path": "cot/gqa/1214.jpg", "expression": "What is the bag to the left of the person that is to the left of the water bottle?", "bbox": [118, 109, 192, 230], "height": 600, "width": 800, "question_id": 2265, "split": "val"}
+{"img_path": "cot/gqa/2362997.jpg", "expression": "Who is wearing the jacket?", "bbox": [221, 92, 303, 198], "height": 342, "width": 500, "question_id": 2267, "split": "val"}
+{"img_path": "cot/gqa/2407596.jpg", "expression": "Who is playing frisbee?", "bbox": [216, 122, 310, 483], "height": 500, "width": 351, "question_id": 2278, "split": "val"}
+{"img_path": "cot/gqa/1592220.jpg", "expression": "What is the child that is to the right of the woman standing on?", "bbox": [304, 607, 581, 705], "height": 768, "width": 1024, "question_id": 2279, "split": "val"}
+{"img_path": "cot/gqa/2401789.jpg", "expression": "The man is where?", "bbox": [25, 343, 170, 499], "height": 500, "width": 332, "question_id": 2286, "split": "val"}
+{"img_path": "cot/gqa/2402356.jpg", "expression": "What is the metal sign hung on?", "bbox": [1, 1, 499, 419], "height": 420, "width": 500, "question_id": 2290, "split": "val"}
+{"img_path": "cot/gqa/2384599.jpg", "expression": "Which kind of food is curled?", "bbox": [303, 154, 489, 267], "height": 333, "width": 500, "question_id": 2292, "split": "val"}
+{"img_path": "cot/gqa/1711.jpg", "expression": "What is the person to the left of the woman wearing?", "bbox": [510, 202, 560, 280], "height": 480, "width": 640, "question_id": 2300, "split": "val"}
+{"img_path": "cot/gqa/2348395.jpg", "expression": "The umpire is standing behind who?", "bbox": [302, 164, 368, 219], "height": 333, "width": 500, "question_id": 2306, "split": "val"}
+{"img_path": "cot/gqa/2392607.jpg", "expression": "What's the man sitting on?", "bbox": [57, 118, 331, 273], "height": 333, "width": 500, "question_id": 2315, "split": "val"}
+{"img_path": "cot/gqa/2347554.jpg", "expression": "What is the animal that is to the right of the vehicles behind the animals?", "bbox": [178, 103, 218, 181], "height": 335, "width": 500, "question_id": 2325, "split": "val"}
+{"img_path": "cot/gqa/2316984.jpg", "expression": "What kind of appliance is to the left of the wine?", "bbox": [102, 242, 225, 291], "height": 333, "width": 500, "question_id": 2329, "split": "val"}
+{"img_path": "cot/gqa/2393707.jpg", "expression": "What is the television on?", "bbox": [13, 70, 498, 374], "height": 375, "width": 500, "question_id": 2331, "split": "val"}
+{"img_path": "cot/gqa/2348604.jpg", "expression": "Who is wearing the hat?", "bbox": [183, 76, 299, 293], "height": 333, "width": 500, "question_id": 2333, "split": "val"}
+{"img_path": "cot/gqa/2321121.jpg", "expression": "What is that man wearing?", "bbox": [187, 335, 210, 359], "height": 375, "width": 500, "question_id": 2336, "split": "val"}
+{"img_path": "cot/gqa/2338691.jpg", "expression": "What is the guy wearing?", "bbox": [137, 143, 244, 314], "height": 375, "width": 500, "question_id": 2338, "split": "val"}
+{"img_path": "cot/gqa/2416952.jpg", "expression": "What vegetable is to the right of the cheese on the left of the photo?", "bbox": [145, 100, 202, 158], "height": 375, "width": 500, "question_id": 2343, "split": "val"}
+{"img_path": "cot/gqa/2315813.jpg", "expression": "Which animal is not tabby?", "bbox": [52, 229, 499, 374], "height": 375, "width": 500, "question_id": 2344, "split": "val"}
+{"img_path": "cot/gqa/2408521.jpg", "expression": "What is inside the jar?", "bbox": [49, 93, 75, 122], "height": 375, "width": 500, "question_id": 2346, "split": "val"}
+{"img_path": "cot/gqa/2416715.jpg", "expression": "What is on the clock?", "bbox": [100, 141, 137, 153], "height": 500, "width": 331, "question_id": 2359, "split": "val"}
+{"img_path": "cot/gqa/2410109.jpg", "expression": "Which kind of food is cooked?", "bbox": [84, 59, 499, 263], "height": 281, "width": 500, "question_id": 2362, "split": "val"}
+{"img_path": "cot/gqa/2316848.jpg", "expression": "What is the boy wearing?", "bbox": [203, 184, 245, 241], "height": 375, "width": 500, "question_id": 2364, "split": "val"}
+{"img_path": "cot/gqa/2414835.jpg", "expression": "Who holds the shirt?", "bbox": [349, 223, 373, 296], "height": 376, "width": 500, "question_id": 2369, "split": "val"}
+{"img_path": "cot/gqa/2320433.jpg", "expression": "What's the woman wearing?", "bbox": [232, 147, 304, 317], "height": 375, "width": 500, "question_id": 2384, "split": "val"}
+{"img_path": "cot/gqa/2326513.jpg", "expression": "Who is in front of the building?", "bbox": [13, 135, 319, 454], "height": 500, "width": 333, "question_id": 2387, "split": "val"}
+{"img_path": "cot/gqa/1160.jpg", "expression": "What is on the rock the plant is beside of?", "bbox": [47, 430, 134, 598], "height": 600, "width": 398, "question_id": 2400, "split": "val"}
+{"img_path": "cot/gqa/2348960.jpg", "expression": "What vehicle is parked on the street?", "bbox": [292, 36, 362, 70], "height": 333, "width": 500, "question_id": 2404, "split": "val"}
+{"img_path": "cot/gqa/2324648.jpg", "expression": "What is the man playing?", "bbox": [7, 79, 497, 372], "height": 375, "width": 500, "question_id": 2408, "split": "val"}
+{"img_path": "cot/gqa/2336451.jpg", "expression": "Who is holding the bat made of metal?", "bbox": [88, 94, 186, 254], "height": 333, "width": 500, "question_id": 2413, "split": "val"}
+{"img_path": "cot/gqa/2391623.jpg", "expression": "What is the girl wearing?", "bbox": [209, 237, 258, 283], "height": 331, "width": 500, "question_id": 2414, "split": "val"}
+{"img_path": "cot/gqa/2391623.jpg", "expression": "The person with the umbrella is wearing what?", "bbox": [209, 237, 258, 283], "height": 331, "width": 500, "question_id": 2415, "split": "val"}
+{"img_path": "cot/gqa/2352015.jpg", "expression": "Who is wearing a tank top?", "bbox": [286, 30, 481, 146], "height": 172, "width": 500, "question_id": 2422, "split": "val"}
+{"img_path": "cot/gqa/2360106.jpg", "expression": "He is hitting what?", "bbox": [151, 181, 163, 193], "height": 333, "width": 500, "question_id": 2426, "split": "val"}
+{"img_path": "cot/gqa/2384109.jpg", "expression": "What is the man on?", "bbox": [228, 256, 277, 415], "height": 500, "width": 434, "question_id": 2431, "split": "val"}
+{"img_path": "cot/gqa/2396341.jpg", "expression": "What is on the plate that is to the right of the jar?", "bbox": [455, 192, 501, 229], "height": 375, "width": 500, "question_id": 2440, "split": "val"}
+{"img_path": "cot/gqa/2318015.jpg", "expression": "The man is sitting in what?", "bbox": [0, 0, 348, 498], "height": 500, "width": 348, "question_id": 2448, "split": "val"}
+{"img_path": "cot/gqa/2315568.jpg", "expression": "What is the computer sitting on?", "bbox": [0, 37, 496, 309], "height": 311, "width": 500, "question_id": 2451, "split": "val"}
+{"img_path": "cot/gqa/2375793.jpg", "expression": "What animal is grazing on the grass?", "bbox": [65, 97, 282, 310], "height": 375, "width": 500, "question_id": 2463, "split": "val"}
+{"img_path": "cot/gqa/4250.jpg", "expression": "Where are the palm trees?", "bbox": [0, 59, 206, 209], "height": 640, "width": 800, "question_id": 2468, "split": "val"}
+{"img_path": "cot/gqa/2361973.jpg", "expression": "What animal is standing on the ground?", "bbox": [223, 217, 285, 295], "height": 333, "width": 500, "question_id": 2469, "split": "val"}
+{"img_path": "cot/gqa/2394878.jpg", "expression": "What is the vehicle to the right of the driver that is to the right of the bus?", "bbox": [368, 101, 500, 245], "height": 281, "width": 500, "question_id": 2472, "split": "val"}
+{"img_path": "cot/gqa/2362592.jpg", "expression": "What's on the stove?", "bbox": [375, 51, 475, 116], "height": 375, "width": 500, "question_id": 2475, "split": "val"}
+{"img_path": "cot/gqa/2400513.jpg", "expression": "Which kind of animal is patterned?", "bbox": [175, 136, 320, 275], "height": 375, "width": 500, "question_id": 2476, "split": "val"}
+{"img_path": "cot/gqa/2348615.jpg", "expression": "What does the guy hold?", "bbox": [0, 15, 412, 326], "height": 376, "width": 500, "question_id": 2478, "split": "val"}
+{"img_path": "cot/gqa/2366498.jpg", "expression": "What is the drink to the left of the bottle?", "bbox": [408, 285, 440, 368], "height": 375, "width": 500, "question_id": 2479, "split": "val"}
+{"img_path": "cot/gqa/2340544.jpg", "expression": "What is on the wall the pipe is attached to?", "bbox": [48, 53, 64, 80], "height": 500, "width": 375, "question_id": 2480, "split": "val"}
+{"img_path": "cot/gqa/2389944.jpg", "expression": "Where is the tree?", "bbox": [6, 6, 490, 413], "height": 416, "width": 500, "question_id": 2482, "split": "val"}
+{"img_path": "cot/gqa/2411851.jpg", "expression": "Who is in front of the bench?", "bbox": [110, 86, 352, 497], "height": 500, "width": 468, "question_id": 2487, "split": "val"}
+{"img_path": "cot/gqa/2407456.jpg", "expression": "What is under the device that is in the top of the image?", "bbox": [394, 93, 440, 135], "height": 375, "width": 500, "question_id": 2496, "split": "val"}
+{"img_path": "cot/gqa/2353800.jpg", "expression": "What is covering the ground?", "bbox": [297, 57, 483, 263], "height": 280, "width": 500, "question_id": 2497, "split": "val"}
+{"img_path": "cot/gqa/2385236.jpg", "expression": "What is the person to the left of the man holding?", "bbox": [238, 232, 246, 246], "height": 375, "width": 500, "question_id": 2498, "split": "val"}
+{"img_path": "cot/gqa/2381998.jpg", "expression": "What animal is large?", "bbox": [0, 30, 379, 305], "height": 335, "width": 500, "question_id": 2502, "split": "val"}
+{"img_path": "cot/gqa/2409937.jpg", "expression": "Which kind of device is to the left of the curtains?", "bbox": [74, 143, 195, 428], "height": 500, "width": 375, "question_id": 2514, "split": "val"}
+{"img_path": "cot/gqa/2315544.jpg", "expression": "What type of device is to the right of the chair that is on the left of the image?", "bbox": [212, 267, 235, 311], "height": 500, "width": 367, "question_id": 2527, "split": "val"}
+{"img_path": "cot/gqa/2396866.jpg", "expression": "Which kind of baked good is to the left of the tomato?", "bbox": [152, 100, 246, 266], "height": 375, "width": 500, "question_id": 2531, "split": "val"}
+{"img_path": "cot/gqa/2347655.jpg", "expression": "Who is standing near the building that is near the man?", "bbox": [339, 236, 421, 346], "height": 375, "width": 500, "question_id": 2556, "split": "val"}
+{"img_path": "cot/gqa/2350509.jpg", "expression": "What's in the snow?", "bbox": [45, 7, 165, 295], "height": 376, "width": 500, "question_id": 2563, "split": "val"}
+{"img_path": "cot/gqa/2399972.jpg", "expression": "What is the woman in front of?", "bbox": [200, 1, 374, 253], "height": 375, "width": 500, "question_id": 2588, "split": "val"}
+{"img_path": "cot/gqa/2395265.jpg", "expression": "The surfboard is where?", "bbox": [0, 168, 498, 331], "height": 332, "width": 500, "question_id": 2594, "split": "val"}
+{"img_path": "cot/gqa/2342114.jpg", "expression": "What is beneath the airplane?", "bbox": [215, 248, 302, 278], "height": 333, "width": 500, "question_id": 2595, "split": "val"}
+{"img_path": "cot/gqa/2332603.jpg", "expression": "What is the man on the field holding?", "bbox": [268, 189, 314, 236], "height": 500, "width": 350, "question_id": 2607, "split": "val"}
+{"img_path": "cot/gqa/2366405.jpg", "expression": "Who is standing?", "bbox": [330, 149, 418, 187], "height": 281, "width": 500, "question_id": 2621, "split": "val"}
+{"img_path": "cot/gqa/2389451.jpg", "expression": "What is on the wall?", "bbox": [458, 131, 478, 186], "height": 375, "width": 500, "question_id": 2624, "split": "val"}
+{"img_path": "cot/gqa/2386312.jpg", "expression": "What's the sign on?", "bbox": [233, 211, 261, 372], "height": 374, "width": 500, "question_id": 2627, "split": "val"}
+{"img_path": "cot/gqa/2382507.jpg", "expression": "What is the water in front of?", "bbox": [427, 233, 469, 243], "height": 334, "width": 500, "question_id": 2633, "split": "val"}
+{"img_path": "cot/gqa/2363182.jpg", "expression": "What's the woman wearing?", "bbox": [486, 186, 496, 199], "height": 377, "width": 500, "question_id": 2636, "split": "val"}
+{"img_path": "cot/gqa/2349753.jpg", "expression": "Who is wearing a shoe?", "bbox": [70, 34, 252, 373], "height": 375, "width": 500, "question_id": 2642, "split": "val"}
+{"img_path": "cot/gqa/2400107.jpg", "expression": "What is on the parking sign?", "bbox": [208, 130, 230, 149], "height": 375, "width": 500, "question_id": 2646, "split": "val"}
+{"img_path": "cot/gqa/2346192.jpg", "expression": "Which kind of watercraft is the sign on?", "bbox": [414, 74, 500, 149], "height": 375, "width": 500, "question_id": 2650, "split": "val"}
+{"img_path": "cot/gqa/2337328.jpg", "expression": "Who is wearing the coat?", "bbox": [289, 113, 428, 255], "height": 333, "width": 500, "question_id": 2652, "split": "val"}
+{"img_path": "cot/gqa/2377290.jpg", "expression": "What is on the sidewalk?", "bbox": [160, 230, 325, 433], "height": 500, "width": 334, "question_id": 2655, "split": "val"}
+{"img_path": "cot/gqa/2366618.jpg", "expression": "What is located on top of the ceiling?", "bbox": [411, 0, 424, 30], "height": 375, "width": 500, "question_id": 2658, "split": "val"}
+{"img_path": "cot/gqa/2411505.jpg", "expression": "Who is wearing the outfit?", "bbox": [203, 191, 266, 361], "height": 500, "width": 333, "question_id": 2660, "split": "val"}
+{"img_path": "cot/gqa/2369034.jpg", "expression": "What is the baby sitting on?", "bbox": [0, 90, 500, 333], "height": 333, "width": 500, "question_id": 2665, "split": "val"}
+{"img_path": "cot/gqa/2368310.jpg", "expression": "What is the fence in front of?", "bbox": [355, 0, 500, 167], "height": 500, "width": 500, "question_id": 2671, "split": "val"}
+{"img_path": "cot/gqa/2334674.jpg", "expression": "What does the boy wear?", "bbox": [0, 180, 238, 333], "height": 333, "width": 500, "question_id": 2674, "split": "val"}
+{"img_path": "cot/gqa/2370925.jpg", "expression": "What is located on top of the oven?", "bbox": [102, 262, 163, 311], "height": 500, "width": 375, "question_id": 2679, "split": "val"}
+{"img_path": "cot/gqa/2360754.jpg", "expression": "Which kind of animal is the wall behind of?", "bbox": [7, 85, 404, 290], "height": 333, "width": 500, "question_id": 2685, "split": "val"}
+{"img_path": "cot/gqa/2316107.jpg", "expression": "What's on the sidewalk?", "bbox": [43, 283, 148, 474], "height": 500, "width": 198, "question_id": 2689, "split": "val"}
+{"img_path": "cot/gqa/2337439.jpg", "expression": "What is the sauce on?", "bbox": [121, 91, 430, 346], "height": 374, "width": 500, "question_id": 2690, "split": "val"}
+{"img_path": "cot/gqa/2331102.jpg", "expression": "What is on the pizza?", "bbox": [273, 249, 332, 287], "height": 375, "width": 500, "question_id": 2698, "split": "val"}
+{"img_path": "cot/gqa/2391818.jpg", "expression": "Who is sitting atop the elephant?", "bbox": [169, 43, 317, 222], "height": 332, "width": 500, "question_id": 2717, "split": "val"}
+{"img_path": "cot/gqa/2363871.jpg", "expression": "What does the happy person wear?", "bbox": [24, 460, 324, 487], "height": 500, "width": 375, "question_id": 2731, "split": "val"}
+{"img_path": "cot/gqa/2410697.jpg", "expression": "What animal is small?", "bbox": [382, 108, 499, 291], "height": 375, "width": 500, "question_id": 2738, "split": "val"}
+{"img_path": "cot/gqa/2406498.jpg", "expression": "What is the young person holding?", "bbox": [160, 226, 295, 301], "height": 332, "width": 500, "question_id": 2740, "split": "val"}
+{"img_path": "cot/gqa/2347098.jpg", "expression": "What is the man driving?", "bbox": [50, 140, 362, 327], "height": 333, "width": 500, "question_id": 2741, "split": "val"}
+{"img_path": "cot/gqa/498143.jpg", "expression": "What kind of furniture is the blanket hanging on, an ottoman or a bed?", "bbox": [30, 51, 610, 610], "height": 612, "width": 612, "question_id": 2747, "split": "val"}
+{"img_path": "cot/gqa/2358889.jpg", "expression": "What is the stainless steel appliance called?", "bbox": [73, 197, 367, 499], "height": 500, "width": 375, "question_id": 2751, "split": "val"}
+{"img_path": "cot/gqa/2339900.jpg", "expression": "What's the person wearing?", "bbox": [241, 79, 281, 126], "height": 375, "width": 500, "question_id": 2755, "split": "val"}
+{"img_path": "cot/gqa/2398345.jpg", "expression": "What is that person wearing?", "bbox": [205, 46, 261, 107], "height": 334, "width": 500, "question_id": 2767, "split": "val"}
+{"img_path": "cot/gqa/2410453.jpg", "expression": "Who is sitting?", "bbox": [363, 158, 422, 227], "height": 375, "width": 500, "question_id": 2768, "split": "val"}
+{"img_path": "cot/gqa/2317794.jpg", "expression": "Who is wearing a shirt?", "bbox": [9, 113, 178, 332], "height": 333, "width": 500, "question_id": 2769, "split": "val"}
+{"img_path": "cot/gqa/2417079.jpg", "expression": "What kind of animal is in the field?", "bbox": [212, 160, 323, 234], "height": 331, "width": 500, "question_id": 2774, "split": "val"}
+{"img_path": "cot/gqa/2383187.jpg", "expression": "The adult man is wearing what?", "bbox": [96, 60, 131, 93], "height": 375, "width": 500, "question_id": 2778, "split": "val"}
+{"img_path": "cot/gqa/2357727.jpg", "expression": "Who is wearing a helmet?", "bbox": [191, 47, 298, 324], "height": 333, "width": 500, "question_id": 2780, "split": "val"}
+{"img_path": "cot/gqa/2329122.jpg", "expression": "What is the man in front of?", "bbox": [32, 0, 500, 374], "height": 375, "width": 500, "question_id": 2792, "split": "val"}
+{"img_path": "cot/gqa/2389969.jpg", "expression": "What wears a hat?", "bbox": [0, 45, 105, 344], "height": 375, "width": 500, "question_id": 2797, "split": "val"}
+{"img_path": "cot/gqa/2358109.jpg", "expression": "What is the baseball bat in front of?", "bbox": [37, 235, 113, 324], "height": 500, "width": 333, "question_id": 2798, "split": "val"}
+{"img_path": "cot/gqa/2410140.jpg", "expression": "What is the ladder in?", "bbox": [24, 89, 142, 140], "height": 333, "width": 500, "question_id": 2799, "split": "val"}
+{"img_path": "cot/gqa/2413664.jpg", "expression": "What's the dispenser on?", "bbox": [34, 82, 373, 282], "height": 500, "width": 375, "question_id": 2801, "split": "val"}
+{"img_path": "cot/gqa/2404013.jpg", "expression": "Who is walking?", "bbox": [116, 63, 189, 264], "height": 375, "width": 500, "question_id": 2805, "split": "val"}
+{"img_path": "cot/gqa/2389332.jpg", "expression": "What is the item of furniture that the armchair is behind of?", "bbox": [0, 43, 426, 375], "height": 375, "width": 500, "question_id": 2806, "split": "val"}
+{"img_path": "cot/gqa/2351960.jpg", "expression": "What is on the doughnut that the sign is under of?", "bbox": [112, 50, 289, 222], "height": 375, "width": 500, "question_id": 2813, "split": "val"}
+{"img_path": "cot/gqa/2359378.jpg", "expression": "What kind of device is the man holding?", "bbox": [233, 265, 259, 272], "height": 333, "width": 500, "question_id": 2814, "split": "val"}
+{"img_path": "cot/gqa/2331765.jpg", "expression": "What is the vehicle that is to the right of the fence on the right side?", "bbox": [450, 209, 499, 295], "height": 333, "width": 500, "question_id": 2815, "split": "val"}
+{"img_path": "cot/gqa/61545.jpg", "expression": "How is the item of furniture to the left of the person who is behind the girl called?", "bbox": [539, 0, 693, 193], "height": 768, "width": 1024, "question_id": 2817, "split": "val"}
+{"img_path": "cot/gqa/2379970.jpg", "expression": "What is the man to the right of the bag holding?", "bbox": [204, 170, 333, 236], "height": 500, "width": 333, "question_id": 2820, "split": "val"}
+{"img_path": "cot/gqa/1592083.jpg", "expression": "What is the dome on?", "bbox": [239, 150, 362, 214], "height": 768, "width": 1024, "question_id": 2823, "split": "val"}
+{"img_path": "cot/gqa/1592083.jpg", "expression": "What is the dome on, an oven or a microwave?", "bbox": [239, 150, 362, 214], "height": 768, "width": 1024, "question_id": 2824, "split": "val"}
+{"img_path": "cot/gqa/2386060.jpg", "expression": "What kind of food is inside the sandwich that is in front of the food?", "bbox": [172, 251, 206, 293], "height": 373, "width": 500, "question_id": 2828, "split": "val"}
+{"img_path": "cot/gqa/2407627.jpg", "expression": "What is in front of the building?", "bbox": [0, 0, 249, 94], "height": 500, "width": 375, "question_id": 2833, "split": "val"}
+{"img_path": "cot/gqa/2347808.jpg", "expression": "Where is the chair?", "bbox": [0, 332, 190, 500], "height": 500, "width": 375, "question_id": 2840, "split": "val"}
+{"img_path": "cot/gqa/2401290.jpg", "expression": "Who is flying the kite?", "bbox": [277, 142, 492, 332], "height": 332, "width": 500, "question_id": 2850, "split": "val"}
+{"img_path": "cot/gqa/2371315.jpg", "expression": "What animal is to the left of the cowboy?", "bbox": [57, 150, 247, 475], "height": 500, "width": 333, "question_id": 2857, "split": "val"}
+{"img_path": "cot/gqa/2325874.jpg", "expression": "What's on the table?", "bbox": [218, 70, 500, 246], "height": 332, "width": 500, "question_id": 2860, "split": "val"}
+{"img_path": "cot/gqa/2350534.jpg", "expression": "What animal is resting on the ground?", "bbox": [25, 27, 459, 255], "height": 373, "width": 500, "question_id": 2865, "split": "val"}
+{"img_path": "cot/gqa/2384193.jpg", "expression": "What's holding the knife?", "bbox": [88, 16, 374, 287], "height": 332, "width": 500, "question_id": 2879, "split": "val"}
+{"img_path": "cot/gqa/2396217.jpg", "expression": "Where are the trees?", "bbox": [0, 51, 281, 99], "height": 500, "width": 333, "question_id": 2883, "split": "val"}
+{"img_path": "cot/gqa/2380139.jpg", "expression": "Which kind of furniture is to the left of the bed?", "bbox": [0, 318, 34, 418], "height": 500, "width": 375, "question_id": 2884, "split": "val"}
+{"img_path": "cot/gqa/4133.jpg", "expression": "What is in front of the building?", "bbox": [0, 81, 82, 165], "height": 316, "width": 450, "question_id": 2890, "split": "val"}
+{"img_path": "cot/gqa/2356055.jpg", "expression": "What's on the table?", "bbox": [225, 317, 333, 405], "height": 500, "width": 334, "question_id": 2896, "split": "val"}
+{"img_path": "cot/gqa/2410298.jpg", "expression": "What is the large food item?", "bbox": [89, 137, 328, 261], "height": 375, "width": 500, "question_id": 2900, "split": "val"}
+{"img_path": "cot/gqa/2406556.jpg", "expression": "Who is wearing shoes?", "bbox": [43, 28, 195, 336], "height": 400, "width": 500, "question_id": 2907, "split": "val"}
+{"img_path": "cot/gqa/2342404.jpg", "expression": "The man is holding what?", "bbox": [337, 134, 383, 207], "height": 332, "width": 500, "question_id": 2912, "split": "val"}
+{"img_path": "cot/gqa/2334523.jpg", "expression": "What is the car in?", "bbox": [48, 3, 112, 226], "height": 500, "width": 339, "question_id": 2913, "split": "val"}
+{"img_path": "cot/gqa/2406888.jpg", "expression": "Who is wearing a helmet?", "bbox": [171, 227, 284, 442], "height": 500, "width": 375, "question_id": 2918, "split": "val"}
+{"img_path": "cot/gqa/2379779.jpg", "expression": "Who is playing?", "bbox": [35, 40, 191, 398], "height": 500, "width": 500, "question_id": 2919, "split": "val"}
+{"img_path": "cot/gqa/2318450.jpg", "expression": "What is on the seat that is not up?", "bbox": [418, 135, 446, 152], "height": 375, "width": 500, "question_id": 2926, "split": "val"}
+{"img_path": "cot/gqa/2395410.jpg", "expression": "Which kind of animal is staring?", "bbox": [142, 129, 269, 300], "height": 375, "width": 500, "question_id": 2942, "split": "val"}
+{"img_path": "cot/gqa/2347122.jpg", "expression": "What's in front of the fence?", "bbox": [337, 0, 404, 474], "height": 500, "width": 465, "question_id": 2945, "split": "val"}
+{"img_path": "cot/gqa/2383011.jpg", "expression": "What is covered with dirt?", "bbox": [363, 4, 498, 267], "height": 313, "width": 500, "question_id": 2951, "split": "val"}
+{"img_path": "cot/gqa/2405365.jpg", "expression": "What is the tree in front of?", "bbox": [0, 0, 230, 292], "height": 500, "width": 375, "question_id": 2957, "split": "val"}
+{"img_path": "cot/gqa/150317.jpg", "expression": "The grass is where?", "bbox": [0, 0, 716, 422], "height": 1024, "width": 718, "question_id": 2963, "split": "val"}
+{"img_path": "cot/gqa/2357094.jpg", "expression": "What is the snow covering?", "bbox": [102, 36, 236, 69], "height": 333, "width": 500, "question_id": 2968, "split": "val"}
+{"img_path": "cot/gqa/2330564.jpg", "expression": "The tree is covered in what?", "bbox": [459, 29, 469, 40], "height": 334, "width": 500, "question_id": 2977, "split": "val"}
+{"img_path": "cot/gqa/2383011.jpg", "expression": "What is the animal that is lying?", "bbox": [155, 30, 417, 296], "height": 313, "width": 500, "question_id": 2984, "split": "val"}
+{"img_path": "cot/gqa/2411975.jpg", "expression": "What is hanging on the wall?", "bbox": [212, 31, 313, 132], "height": 500, "width": 375, "question_id": 2985, "split": "val"}
+{"img_path": "cot/gqa/2412301.jpg", "expression": "What is the item of furniture that is to the right of the cream on the right side?", "bbox": [428, 162, 499, 374], "height": 375, "width": 500, "question_id": 2986, "split": "val"}
+{"img_path": "cot/gqa/2378585.jpg", "expression": "What is the piece of furniture to the left of the plate on the table?", "bbox": [39, 273, 173, 361], "height": 389, "width": 500, "question_id": 2991, "split": "val"}
+{"img_path": "cot/gqa/2320764.jpg", "expression": "Who is dressed in red?", "bbox": [312, 120, 352, 177], "height": 332, "width": 500, "question_id": 2992, "split": "val"}
+{"img_path": "cot/gqa/202.jpg", "expression": "What is in front of the tree?", "bbox": [42, 138, 57, 305], "height": 600, "width": 800, "question_id": 2998, "split": "val"}
+{"img_path": "cot/gqa/2353247.jpg", "expression": "What is in the sky?", "bbox": [28, 1, 52, 36], "height": 333, "width": 500, "question_id": 3000, "split": "val"}
+{"img_path": "cot/gqa/2387190.jpg", "expression": "What is in the sky?", "bbox": [2, 3, 491, 70], "height": 375, "width": 500, "question_id": 3003, "split": "val"}
+{"img_path": "cot/gqa/2377980.jpg", "expression": "What is the clock on?", "bbox": [90, 33, 247, 322], "height": 500, "width": 333, "question_id": 3009, "split": "val"}
+{"img_path": "cot/gqa/2317663.jpg", "expression": "What is on the tree?", "bbox": [265, 36, 291, 64], "height": 375, "width": 500, "question_id": 3020, "split": "val"}
+{"img_path": "cot/gqa/2352188.jpg", "expression": "What is the woman wearing?", "bbox": [220, 109, 230, 116], "height": 358, "width": 500, "question_id": 3022, "split": "val"}
+{"img_path": "cot/gqa/2324.jpg", "expression": "Who is wearing a jacket?", "bbox": [210, 240, 300, 589], "height": 600, "width": 800, "question_id": 3026, "split": "val"}
+{"img_path": "cot/gqa/2397989.jpg", "expression": "Which kind of furniture is made of wood?", "bbox": [188, 239, 298, 499], "height": 500, "width": 299, "question_id": 3027, "split": "val"}
+{"img_path": "cot/gqa/2399264.jpg", "expression": "What is located on top of the toilet?", "bbox": [221, 144, 236, 172], "height": 375, "width": 500, "question_id": 3029, "split": "val"}
+{"img_path": "cot/gqa/2337067.jpg", "expression": "What is the striped animal in this image?", "bbox": [0, 171, 195, 499], "height": 500, "width": 361, "question_id": 3036, "split": "val"}
+{"img_path": "cot/gqa/2359861.jpg", "expression": "Who is standing?", "bbox": [315, 123, 440, 331], "height": 333, "width": 500, "question_id": 3039, "split": "val"}
+{"img_path": "cot/gqa/713158.jpg", "expression": "What is on the sink?", "bbox": [45, 651, 109, 810], "height": 1024, "width": 768, "question_id": 3046, "split": "val"}
+{"img_path": "cot/gqa/2337176.jpg", "expression": "Where is that man?", "bbox": [0, 151, 499, 332], "height": 333, "width": 500, "question_id": 3049, "split": "val"}
+{"img_path": "cot/gqa/2411246.jpg", "expression": "Who is wearing the tie?", "bbox": [34, 54, 254, 323], "height": 334, "width": 500, "question_id": 3052, "split": "val"}
+{"img_path": "cot/gqa/2364606.jpg", "expression": "Where is the airplane?", "bbox": [6, 20, 498, 355], "height": 357, "width": 500, "question_id": 3053, "split": "val"}
+{"img_path": "cot/gqa/2402937.jpg", "expression": "What kind of furniture is the plant on?", "bbox": [233, 105, 375, 132], "height": 500, "width": 375, "question_id": 3054, "split": "val"}
+{"img_path": "cot/gqa/2689.jpg", "expression": "Who is standing?", "bbox": [182, 282, 212, 357], "height": 800, "width": 600, "question_id": 3056, "split": "val"}
+{"img_path": "cot/gqa/2350135.jpg", "expression": "Who is wearing the jacket?", "bbox": [113, 109, 253, 267], "height": 375, "width": 500, "question_id": 3057, "split": "val"}
+{"img_path": "cot/gqa/713853.jpg", "expression": "What is hanging from the ceiling?", "bbox": [120, 105, 245, 212], "height": 600, "width": 900, "question_id": 3058, "split": "val"}
+{"img_path": "cot/gqa/2400526.jpg", "expression": "Who is sitting in the snow?", "bbox": [2, 116, 221, 327], "height": 375, "width": 500, "question_id": 3059, "split": "val"}
+{"img_path": "cot/gqa/2375383.jpg", "expression": "What's in the sky?", "bbox": [347, 0, 445, 63], "height": 375, "width": 500, "question_id": 3064, "split": "val"}
+{"img_path": "cot/gqa/2405115.jpg", "expression": "What is the old device in this photo?", "bbox": [0, 2, 173, 163], "height": 333, "width": 500, "question_id": 3070, "split": "val"}
+{"img_path": "cot/gqa/2411623.jpg", "expression": "What does the young person wear?", "bbox": [110, 70, 161, 133], "height": 340, "width": 500, "question_id": 3071, "split": "val"}
+{"img_path": "cot/gqa/2332603.jpg", "expression": "What is the person in front of the wall wearing?", "bbox": [273, 198, 280, 217], "height": 500, "width": 350, "question_id": 3073, "split": "val"}
+{"img_path": "cot/gqa/2349153.jpg", "expression": "What animal is in the field?", "bbox": [52, 98, 348, 254], "height": 333, "width": 500, "question_id": 3080, "split": "val"}
+{"img_path": "cot/gqa/2404013.jpg", "expression": "Who is kicking the boots?", "bbox": [116, 63, 189, 264], "height": 375, "width": 500, "question_id": 3082, "split": "val"}
+{"img_path": "cot/gqa/2346222.jpg", "expression": "Which kind of animal is grazing?", "bbox": [12, 85, 343, 315], "height": 335, "width": 500, "question_id": 3087, "split": "val"}
+{"img_path": "cot/gqa/2327021.jpg", "expression": "What is the vegetable on the bun to the left of the veggies?", "bbox": [95, 152, 245, 257], "height": 375, "width": 500, "question_id": 3092, "split": "val"}
+{"img_path": "cot/gqa/2342262.jpg", "expression": "What's the man standing on?", "bbox": [170, 321, 341, 355], "height": 374, "width": 500, "question_id": 3096, "split": "val"}
+{"img_path": "cot/gqa/2325342.jpg", "expression": "How is the fruit to the right of the paper towel on the left side of the picture called?", "bbox": [179, 0, 400, 44], "height": 266, "width": 400, "question_id": 3097, "split": "val"}
+{"img_path": "cot/gqa/2403763.jpg", "expression": "What is the woman wearing?", "bbox": [74, 107, 161, 136], "height": 500, "width": 375, "question_id": 3101, "split": "val"}
+{"img_path": "cot/gqa/2415410.jpg", "expression": "What vegetable is large?", "bbox": [50, 68, 303, 317], "height": 335, "width": 500, "question_id": 3102, "split": "val"}
+{"img_path": "cot/gqa/2364821.jpg", "expression": "Who is standing by the bus?", "bbox": [10, 293, 40, 395], "height": 500, "width": 357, "question_id": 3104, "split": "val"}
+{"img_path": "cot/gqa/2354991.jpg", "expression": "Which kind of animal is the logo on?", "bbox": [35, 16, 261, 344], "height": 500, "width": 333, "question_id": 3106, "split": "val"}
+{"img_path": "cot/gqa/2371467.jpg", "expression": "What animal is not small?", "bbox": [353, 226, 410, 286], "height": 325, "width": 500, "question_id": 3108, "split": "val"}
+{"img_path": "cot/gqa/2324529.jpg", "expression": "What's in the box?", "bbox": [62, 152, 93, 172], "height": 281, "width": 500, "question_id": 3111, "split": "val"}
+{"img_path": "cot/gqa/2364927.jpg", "expression": "What does the man that to the left of the woman wear?", "bbox": [155, 194, 211, 260], "height": 333, "width": 500, "question_id": 3121, "split": "val"}
+{"img_path": "cot/gqa/2364927.jpg", "expression": "Who wears the jacket?", "bbox": [157, 178, 225, 332], "height": 333, "width": 500, "question_id": 3122, "split": "val"}
+{"img_path": "cot/gqa/2415225.jpg", "expression": "What is the child that is to the left of the microwave wearing?", "bbox": [185, 126, 275, 223], "height": 375, "width": 500, "question_id": 3125, "split": "val"}
+{"img_path": "cot/gqa/4210.jpg", "expression": "That sign is on what?", "bbox": [572, 338, 624, 512], "height": 512, "width": 768, "question_id": 3129, "split": "val"}
+{"img_path": "cot/gqa/2898.jpg", "expression": "What are the people on?", "bbox": [0, 469, 309, 528], "height": 600, "width": 800, "question_id": 3136, "split": "val"}
+{"img_path": "cot/gqa/2406043.jpg", "expression": "What is covered in sprinkles?", "bbox": [194, 142, 358, 294], "height": 375, "width": 500, "question_id": 3137, "split": "val"}
+{"img_path": "cot/gqa/2384450.jpg", "expression": "Where is the boy?", "bbox": [215, 163, 261, 182], "height": 332, "width": 500, "question_id": 3138, "split": "val"}
+{"img_path": "cot/gqa/2347358.jpg", "expression": "What is in the planter?", "bbox": [7, 153, 64, 219], "height": 375, "width": 500, "question_id": 3153, "split": "val"}
+{"img_path": "cot/gqa/2368452.jpg", "expression": "What is on the wall?", "bbox": [53, 31, 470, 425], "height": 442, "width": 500, "question_id": 3158, "split": "val"}
+{"img_path": "cot/gqa/2361381.jpg", "expression": "Who is on the snow?", "bbox": [124, 113, 352, 295], "height": 375, "width": 500, "question_id": 3164, "split": "val"}
+{"img_path": "cot/gqa/2364062.jpg", "expression": "What type of furniture is below the counter?", "bbox": [351, 74, 380, 108], "height": 142, "width": 500, "question_id": 3165, "split": "val"}
+{"img_path": "cot/gqa/2381238.jpg", "expression": "Who is this fence in front of?", "bbox": [293, 19, 305, 46], "height": 332, "width": 500, "question_id": 3168, "split": "val"}
+{"img_path": "cot/gqa/2409536.jpg", "expression": "How is the food in the basket the man is holding called?", "bbox": [225, 132, 261, 165], "height": 375, "width": 500, "question_id": 3171, "split": "val"}
+{"img_path": "cot/gqa/2388094.jpg", "expression": "Who is wearing a shirt?", "bbox": [34, 9, 240, 497], "height": 500, "width": 333, "question_id": 3175, "split": "val"}
+{"img_path": "cot/gqa/2355361.jpg", "expression": "What's attached to the boat?", "bbox": [375, 109, 418, 134], "height": 336, "width": 500, "question_id": 3176, "split": "val"}
+{"img_path": "cot/gqa/2318657.jpg", "expression": "What is on the island?", "bbox": [224, 143, 251, 227], "height": 333, "width": 500, "question_id": 3183, "split": "val"}
+{"img_path": "cot/gqa/2355276.jpg", "expression": "The woman is wearing what?", "bbox": [213, 313, 332, 499], "height": 500, "width": 333, "question_id": 3192, "split": "val"}
+{"img_path": "cot/gqa/2354355.jpg", "expression": "Which kind of device is not open?", "bbox": [85, 39, 226, 163], "height": 304, "width": 500, "question_id": 3195, "split": "val"}
+{"img_path": "cot/gqa/2412920.jpg", "expression": "What is hanging on the wall?", "bbox": [185, 37, 217, 71], "height": 375, "width": 500, "question_id": 3200, "split": "val"}
+{"img_path": "cot/gqa/2409681.jpg", "expression": "What's the man wearing?", "bbox": [136, 0, 181, 19], "height": 358, "width": 500, "question_id": 3204, "split": "val"}
+{"img_path": "cot/gqa/2409681.jpg", "expression": "What is that man wearing?", "bbox": [136, 0, 181, 19], "height": 358, "width": 500, "question_id": 3205, "split": "val"}
+{"img_path": "cot/gqa/2374683.jpg", "expression": "What is the vegetable that is to the right of the small bowl?", "bbox": [275, 230, 309, 252], "height": 375, "width": 500, "question_id": 3208, "split": "val"}
+{"img_path": "cot/gqa/2359638.jpg", "expression": "What kind of appliance is below the paper?", "bbox": [2, 228, 46, 300], "height": 372, "width": 500, "question_id": 3209, "split": "val"}
+{"img_path": "cot/gqa/2405879.jpg", "expression": "What's inside the bag?", "bbox": [206, 177, 281, 231], "height": 375, "width": 500, "question_id": 3218, "split": "val"}
+{"img_path": "cot/gqa/1593001.jpg", "expression": "What is on the grill?", "bbox": [704, 837, 912, 941], "height": 1024, "width": 912, "question_id": 3220, "split": "val"}
+{"img_path": "cot/gqa/2386529.jpg", "expression": "What is in front of the water?", "bbox": [0, 186, 500, 333], "height": 333, "width": 500, "question_id": 3225, "split": "val"}
+{"img_path": "cot/gqa/2378783.jpg", "expression": "What is the bike leaning on?", "bbox": [120, 216, 167, 470], "height": 500, "width": 333, "question_id": 3227, "split": "val"}
+{"img_path": "cot/gqa/2362508.jpg", "expression": "What are the items of furniture to the right of the person the rug is to the left of?", "bbox": [314, 204, 500, 351], "height": 352, "width": 500, "question_id": 3232, "split": "val"}
+{"img_path": "cot/gqa/2371929.jpg", "expression": "What's the mattress lying on?", "bbox": [2, 84, 462, 282], "height": 334, "width": 500, "question_id": 3235, "split": "val"}
+{"img_path": "cot/gqa/2375324.jpg", "expression": "Who is playing frisbee?", "bbox": [36, 72, 84, 165], "height": 298, "width": 500, "question_id": 3236, "split": "val"}
+{"img_path": "cot/gqa/2415365.jpg", "expression": "What is in the sink?", "bbox": [49, 228, 120, 301], "height": 500, "width": 375, "question_id": 3245, "split": "val"}
+{"img_path": "cot/gqa/2376830.jpg", "expression": "What is under the cheese pizza?", "bbox": [3, 106, 319, 362], "height": 375, "width": 500, "question_id": 3249, "split": "val"}
+{"img_path": "cot/gqa/2388558.jpg", "expression": "What is the item of furniture to the left of the table called?", "bbox": [250, 158, 398, 252], "height": 333, "width": 500, "question_id": 3258, "split": "val"}
+{"img_path": "cot/gqa/2360863.jpg", "expression": "What type of vehicle do you think is to the left of the man on the right?", "bbox": [208, 237, 343, 332], "height": 375, "width": 500, "question_id": 3268, "split": "val"}
+{"img_path": "cot/gqa/326.jpg", "expression": "Who is wearing the bag?", "bbox": [427, 252, 491, 414], "height": 600, "width": 800, "question_id": 3273, "split": "val"}
+{"img_path": "cot/gqa/2333270.jpg", "expression": "What's the giraffe in front of?", "bbox": [341, 0, 500, 287], "height": 312, "width": 500, "question_id": 3278, "split": "val"}
+{"img_path": "cot/gqa/2352969.jpg", "expression": "What is in front of the window?", "bbox": [198, 175, 258, 189], "height": 332, "width": 500, "question_id": 3283, "split": "val"}
+{"img_path": "cot/gqa/2326756.jpg", "expression": "What is on the wall?", "bbox": [129, 13, 265, 164], "height": 500, "width": 333, "question_id": 3284, "split": "val"}
+{"img_path": "cot/gqa/2379130.jpg", "expression": "What is on the tree made of metal?", "bbox": [155, 177, 340, 240], "height": 375, "width": 500, "question_id": 3291, "split": "val"}
+{"img_path": "cot/gqa/2316041.jpg", "expression": "What is under the cow to the left of the woman?", "bbox": [0, 124, 374, 499], "height": 500, "width": 375, "question_id": 3299, "split": "val"}
+{"img_path": "cot/gqa/2372351.jpg", "expression": "What is on the clock?", "bbox": [147, 55, 169, 80], "height": 375, "width": 500, "question_id": 3302, "split": "val"}
+{"img_path": "cot/gqa/2377848.jpg", "expression": "What is wearing a jacket?", "bbox": [1, 16, 375, 498], "height": 500, "width": 375, "question_id": 3306, "split": "val"}
+{"img_path": "cot/gqa/2354653.jpg", "expression": "What is the vehicle on the road behind the woman?", "bbox": [0, 58, 186, 174], "height": 500, "width": 375, "question_id": 3315, "split": "val"}
+{"img_path": "cot/gqa/2381408.jpg", "expression": "What is on the building the garbage is beside of?", "bbox": [123, 182, 171, 205], "height": 333, "width": 500, "question_id": 3323, "split": "val"}
+{"img_path": "cot/gqa/2339717.jpg", "expression": "What's the wall covered in?", "bbox": [434, 0, 495, 56], "height": 375, "width": 500, "question_id": 3330, "split": "val"}
+{"img_path": "cot/gqa/2356813.jpg", "expression": "What is the watercraft that is on the river?", "bbox": [92, 363, 291, 408], "height": 500, "width": 333, "question_id": 3337, "split": "val"}
+{"img_path": "cot/gqa/2394115.jpg", "expression": "Where is the person?", "bbox": [0, 69, 76, 140], "height": 500, "width": 375, "question_id": 3338, "split": "val"}
+{"img_path": "cot/gqa/2335428.jpg", "expression": "Where is the car?", "bbox": [339, 87, 454, 100], "height": 334, "width": 500, "question_id": 3352, "split": "val"}
+{"img_path": "cot/gqa/2386785.jpg", "expression": "What is before the building?", "bbox": [38, 200, 85, 225], "height": 281, "width": 500, "question_id": 3358, "split": "val"}
+{"img_path": "cot/gqa/1592554.jpg", "expression": "What is the girl sitting on?", "bbox": [362, 582, 605, 811], "height": 1024, "width": 680, "question_id": 3366, "split": "val"}
+{"img_path": "cot/gqa/1159356.jpg", "expression": "What does the person that to the right of the container wear?", "bbox": [487, 189, 559, 246], "height": 768, "width": 1024, "question_id": 3369, "split": "val"}
+{"img_path": "cot/gqa/2328448.jpg", "expression": "What kind of clothing is printed?", "bbox": [0, 196, 210, 294], "height": 294, "width": 500, "question_id": 3383, "split": "val"}
+{"img_path": "cot/gqa/2391765.jpg", "expression": "What's the toilet in front of?", "bbox": [179, 184, 236, 209], "height": 500, "width": 323, "question_id": 3392, "split": "val"}
+{"img_path": "cot/gqa/2371286.jpg", "expression": "What does the guy wear?", "bbox": [202, 245, 218, 271], "height": 333, "width": 500, "question_id": 3397, "split": "val"}
+{"img_path": "cot/gqa/1592343.jpg", "expression": "What is the cooking utensil that is on the counter called?", "bbox": [249, 437, 468, 547], "height": 683, "width": 1024, "question_id": 3399, "split": "val"}
+{"img_path": "cot/gqa/2415054.jpg", "expression": "What is the man wearing?", "bbox": [380, 111, 412, 135], "height": 357, "width": 500, "question_id": 3401, "split": "val"}
+{"img_path": "cot/gqa/2331365.jpg", "expression": "What is the man to the left of the chair watching?", "bbox": [58, 126, 102, 142], "height": 333, "width": 500, "question_id": 3403, "split": "val"}
+{"img_path": "cot/gqa/1593042.jpg", "expression": "What kind of bag is left of the boy?", "bbox": [365, 247, 397, 281], "height": 531, "width": 800, "question_id": 3406, "split": "val"}
+{"img_path": "cot/gqa/2415002.jpg", "expression": "What type of clothing is old, the outfit or the hat?", "bbox": [47, 29, 182, 460], "height": 500, "width": 334, "question_id": 3409, "split": "val"}
+{"img_path": "cot/gqa/2361724.jpg", "expression": "What appliance is on the counter?", "bbox": [4, 198, 261, 354], "height": 500, "width": 261, "question_id": 3418, "split": "val"}
+{"img_path": "cot/gqa/2391586.jpg", "expression": "What do you think is the animal on the rocks?", "bbox": [162, 38, 267, 68], "height": 175, "width": 500, "question_id": 3419, "split": "val"}
+{"img_path": "cot/gqa/2406367.jpg", "expression": "Where is the dirt?", "bbox": [0, 139, 500, 255], "height": 255, "width": 500, "question_id": 3424, "split": "val"}
+{"img_path": "cot/gqa/2366762.jpg", "expression": "What is on the roof?", "bbox": [93, 106, 119, 141], "height": 500, "width": 375, "question_id": 3425, "split": "val"}
+{"img_path": "cot/gqa/2380920.jpg", "expression": "What is in the net?", "bbox": [203, 238, 238, 264], "height": 375, "width": 500, "question_id": 3433, "split": "val"}
+{"img_path": "cot/gqa/2400136.jpg", "expression": "Which kind of clothing is folded?", "bbox": [156, 52, 340, 473], "height": 500, "width": 375, "question_id": 3438, "split": "val"}
+{"img_path": "cot/gqa/2323321.jpg", "expression": "What vehicle is driving on the road?", "bbox": [14, 27, 494, 295], "height": 319, "width": 500, "question_id": 3439, "split": "val"}
+{"img_path": "cot/gqa/2407518.jpg", "expression": "The people to the right of the ball are watching what?", "bbox": [256, 61, 398, 397], "height": 400, "width": 500, "question_id": 3444, "split": "val"}
+{"img_path": "cot/gqa/2370678.jpg", "expression": "What does the person to the left of the surfboard wear?", "bbox": [371, 153, 391, 173], "height": 332, "width": 500, "question_id": 3445, "split": "val"}
+{"img_path": "cot/gqa/2336530.jpg", "expression": "The dog is inside what?", "bbox": [1, 0, 499, 374], "height": 375, "width": 500, "question_id": 3451, "split": "val"}
+{"img_path": "cot/gqa/2384071.jpg", "expression": "What is located on top of the jersey?", "bbox": [323, 124, 362, 151], "height": 400, "width": 500, "question_id": 3469, "split": "val"}
+{"img_path": "cot/gqa/2337553.jpg", "expression": "Who is the man luggage pulled by?", "bbox": [112, 72, 216, 344], "height": 375, "width": 500, "question_id": 3473, "split": "val"}
+{"img_path": "cot/gqa/2379722.jpg", "expression": "What is on the wall?", "bbox": [90, 279, 113, 313], "height": 500, "width": 375, "question_id": 3474, "split": "val"}
+{"img_path": "cot/gqa/2417325.jpg", "expression": "What is the device to the left of the telephone on the right?", "bbox": [200, 35, 375, 374], "height": 375, "width": 500, "question_id": 3476, "split": "val"}
+{"img_path": "cot/gqa/2111.jpg", "expression": "What is on the pole?", "bbox": [41, 306, 91, 345], "height": 600, "width": 800, "question_id": 3479, "split": "val"}
+{"img_path": "cot/gqa/4001.jpg", "expression": "What is that fence in front of?", "bbox": [142, 68, 237, 126], "height": 374, "width": 564, "question_id": 3483, "split": "val"}
+{"img_path": "cot/gqa/2352627.jpg", "expression": "Which vehicle is dirty?", "bbox": [78, 86, 483, 252], "height": 373, "width": 500, "question_id": 3487, "split": "val"}
+{"img_path": "cot/gqa/2806.jpg", "expression": "The car is where?", "bbox": [418, 409, 486, 600], "height": 600, "width": 800, "question_id": 3507, "split": "val"}
+{"img_path": "cot/gqa/2335593.jpg", "expression": "What is located on top of the table made of wood?", "bbox": [0, 193, 168, 374], "height": 375, "width": 500, "question_id": 3511, "split": "val"}
+{"img_path": "cot/gqa/2320054.jpg", "expression": "Who wears a glove?", "bbox": [239, 78, 475, 298], "height": 335, "width": 500, "question_id": 3524, "split": "val"}
+{"img_path": "cot/gqa/2360989.jpg", "expression": "What is the appliance that is to the left of the toilet paper in the top part of the image?", "bbox": [2, 100, 89, 236], "height": 500, "width": 282, "question_id": 3531, "split": "val"}
+{"img_path": "cot/gqa/2317981.jpg", "expression": "Which kind of vehicle is on the crosswalk?", "bbox": [0, 190, 205, 221], "height": 332, "width": 500, "question_id": 3536, "split": "val"}
+{"img_path": "cot/gqa/2317824.jpg", "expression": "What is the vegetable on the plate in the scene?", "bbox": [240, 436, 328, 498], "height": 500, "width": 375, "question_id": 3545, "split": "val"}
+{"img_path": "cot/gqa/1160011.jpg", "expression": "What is in front of the person in the center of the photo?", "bbox": [184, 484, 239, 517], "height": 600, "width": 900, "question_id": 3546, "split": "val"}
+{"img_path": "cot/gqa/2341760.jpg", "expression": "What is the fruit on the tree called?", "bbox": [298, 147, 348, 199], "height": 333, "width": 500, "question_id": 3553, "split": "val"}
+{"img_path": "cot/gqa/2359177.jpg", "expression": "What is attached to the post?", "bbox": [127, 1, 179, 36], "height": 375, "width": 500, "question_id": 3554, "split": "val"}
+{"img_path": "cot/gqa/2417195.jpg", "expression": "What is located on top of the shelf?", "bbox": [229, 80, 265, 102], "height": 374, "width": 500, "question_id": 3562, "split": "val"}
+{"img_path": "cot/gqa/2322342.jpg", "expression": "Where is the ball?", "bbox": [70, 238, 255, 268], "height": 281, "width": 500, "question_id": 3572, "split": "val"}
+{"img_path": "cot/gqa/2361106.jpg", "expression": "Who is wearing jeans?", "bbox": [333, 133, 381, 283], "height": 334, "width": 500, "question_id": 3578, "split": "val"}
+{"img_path": "cot/gqa/2388861.jpg", "expression": "What is in the sky?", "bbox": [300, 204, 400, 270], "height": 458, "width": 500, "question_id": 3588, "split": "val"}
+{"img_path": "cot/gqa/2326163.jpg", "expression": "Who wears a shoe?", "bbox": [44, 95, 170, 287], "height": 375, "width": 500, "question_id": 3590, "split": "val"}
+{"img_path": "cot/gqa/2359206.jpg", "expression": "What is the animal on the flower called?", "bbox": [3, 180, 323, 418], "height": 421, "width": 500, "question_id": 3609, "split": "val"}
+{"img_path": "cot/gqa/2412281.jpg", "expression": "What kind of aircraft is the building behind of?", "bbox": [3, 2, 499, 297], "height": 333, "width": 500, "question_id": 3619, "split": "val"}
+{"img_path": "cot/gqa/2343959.jpg", "expression": "Who is wearing glasses?", "bbox": [41, 135, 90, 289], "height": 334, "width": 500, "question_id": 3621, "split": "val"}
+{"img_path": "cot/gqa/2344684.jpg", "expression": "Which kind of animal is in the sand?", "bbox": [327, 293, 357, 310], "height": 332, "width": 500, "question_id": 3631, "split": "val"}
+{"img_path": "cot/gqa/2348311.jpg", "expression": "Who is wearing boots?", "bbox": [271, 9, 444, 311], "height": 333, "width": 500, "question_id": 3632, "split": "val"}
+{"img_path": "cot/gqa/2335734.jpg", "expression": "What is in front of the building?", "bbox": [261, 290, 500, 329], "height": 375, "width": 500, "question_id": 3641, "split": "val"}
+{"img_path": "cot/gqa/2116.jpg", "expression": "What is in the pot?", "bbox": [641, 233, 752, 346], "height": 600, "width": 800, "question_id": 3642, "split": "val"}
+{"img_path": "cot/gqa/2366596.jpg", "expression": "Which kind of clothing is striped?", "bbox": [0, 184, 331, 498], "height": 500, "width": 333, "question_id": 3644, "split": "val"}
+{"img_path": "cot/gqa/2316525.jpg", "expression": "What's on the ceiling?", "bbox": [118, 0, 209, 14], "height": 500, "width": 374, "question_id": 3654, "split": "val"}
+{"img_path": "cot/gqa/2359912.jpg", "expression": "Who is wearing trousers?", "bbox": [106, 364, 227, 462], "height": 500, "width": 375, "question_id": 3655, "split": "val"}
+{"img_path": "cot/gqa/2375125.jpg", "expression": "What is the item of furniture to the right of the table?", "bbox": [261, 126, 300, 155], "height": 246, "width": 500, "question_id": 3657, "split": "val"}
+{"img_path": "cot/gqa/2401610.jpg", "expression": "What's in front of the building?", "bbox": [6, 192, 106, 271], "height": 333, "width": 500, "question_id": 3659, "split": "val"}
+{"img_path": "cot/gqa/2396125.jpg", "expression": "What is under the pastry in the bottom?", "bbox": [347, 450, 485, 505], "height": 500, "width": 500, "question_id": 3684, "split": "val"}
+{"img_path": "cot/gqa/2339722.jpg", "expression": "What kind of device is on the desk?", "bbox": [122, 272, 405, 353], "height": 375, "width": 500, "question_id": 3690, "split": "val"}
+{"img_path": "cot/gqa/2338072.jpg", "expression": "What is sitting on the table?", "bbox": [167, 44, 279, 221], "height": 373, "width": 500, "question_id": 3691, "split": "val"}
+{"img_path": "cot/gqa/3093.jpg", "expression": "What is hanging on the building?", "bbox": [271, 251, 353, 301], "height": 600, "width": 800, "question_id": 3694, "split": "val"}
+{"img_path": "cot/gqa/2327099.jpg", "expression": "Who is wearing the pants?", "bbox": [349, 7, 451, 317], "height": 333, "width": 500, "question_id": 3710, "split": "val"}
+{"img_path": "cot/gqa/712995.jpg", "expression": "Who is waiting?", "bbox": [810, 178, 1023, 677], "height": 680, "width": 1024, "question_id": 3714, "split": "val"}
+{"img_path": "cot/gqa/498203.jpg", "expression": "Which kind of furniture is not small?", "bbox": [105, 152, 647, 665], "height": 667, "width": 1000, "question_id": 3722, "split": "val"}
+{"img_path": "cot/gqa/2359865.jpg", "expression": "What vehicles are on the street?", "bbox": [121, 253, 144, 271], "height": 304, "width": 500, "question_id": 3725, "split": "val"}
+{"img_path": "cot/gqa/2337578.jpg", "expression": "What is on the elephant?", "bbox": [256, 143, 355, 459], "height": 479, "width": 500, "question_id": 3728, "split": "val"}
+{"img_path": "cot/gqa/2344254.jpg", "expression": "Where is the fence?", "bbox": [265, 247, 499, 342], "height": 375, "width": 500, "question_id": 3736, "split": "val"}
+{"img_path": "cot/gqa/2405541.jpg", "expression": "What is the pipe in?", "bbox": [21, 131, 301, 250], "height": 334, "width": 500, "question_id": 3743, "split": "val"}
+{"img_path": "cot/gqa/2368312.jpg", "expression": "What is the person to the right of the lamp wearing?", "bbox": [26, 153, 346, 397], "height": 400, "width": 500, "question_id": 3745, "split": "val"}
+{"img_path": "cot/gqa/2335913.jpg", "expression": "Where is the child?", "bbox": [0, 272, 333, 498], "height": 500, "width": 332, "question_id": 3756, "split": "val"}
+{"img_path": "cot/gqa/2316924.jpg", "expression": "Who in this photo is playing?", "bbox": [209, 40, 488, 213], "height": 483, "width": 500, "question_id": 3759, "split": "val"}
+{"img_path": "cot/gqa/2318510.jpg", "expression": "What is in front of the cow which is standing in the field?", "bbox": [0, 119, 500, 135], "height": 333, "width": 500, "question_id": 3762, "split": "val"}
+{"img_path": "cot/gqa/2379243.jpg", "expression": "What is the man on?", "bbox": [15, 303, 498, 374], "height": 375, "width": 500, "question_id": 3772, "split": "val"}
+{"img_path": "cot/gqa/2350109.jpg", "expression": "Who is playing on the field?", "bbox": [226, 108, 410, 332], "height": 332, "width": 500, "question_id": 3773, "split": "val"}
+{"img_path": "cot/gqa/2345124.jpg", "expression": "What is he holding?", "bbox": [186, 51, 289, 174], "height": 375, "width": 500, "question_id": 3776, "split": "val"}
+{"img_path": "cot/gqa/2323660.jpg", "expression": "What is that bottle on?", "bbox": [292, 292, 331, 324], "height": 500, "width": 333, "question_id": 3779, "split": "val"}
+{"img_path": "cot/gqa/2381714.jpg", "expression": "Who is wearing the tank top?", "bbox": [196, 36, 339, 272], "height": 306, "width": 500, "question_id": 3780, "split": "val"}
+{"img_path": "cot/gqa/2415720.jpg", "expression": "Who is swinging the bat?", "bbox": [153, 58, 421, 293], "height": 333, "width": 500, "question_id": 3798, "split": "val"}
+{"img_path": "cot/gqa/2403892.jpg", "expression": "What's on the bushes?", "bbox": [470, 183, 495, 230], "height": 375, "width": 500, "question_id": 3800, "split": "val"}
+{"img_path": "cot/gqa/2403892.jpg", "expression": "What is on the bushes?", "bbox": [470, 183, 495, 230], "height": 375, "width": 500, "question_id": 3801, "split": "val"}
+{"img_path": "cot/gqa/2389601.jpg", "expression": "What fruit is the grapefruit on?", "bbox": [41, 19, 407, 289], "height": 332, "width": 500, "question_id": 3808, "split": "val"}
+{"img_path": "cot/gqa/2380930.jpg", "expression": "Where is the grass?", "bbox": [2, 145, 390, 280], "height": 500, "width": 393, "question_id": 3814, "split": "val"}
+{"img_path": "cot/gqa/2350251.jpg", "expression": "What is located on top of the wall?", "bbox": [211, 0, 316, 99], "height": 333, "width": 500, "question_id": 3817, "split": "val"}
+{"img_path": "cot/gqa/2324929.jpg", "expression": "What vehicles are parked in the parking lot?", "bbox": [0, 243, 50, 277], "height": 375, "width": 500, "question_id": 3819, "split": "val"}
+{"img_path": "cot/gqa/2320061.jpg", "expression": "What kind of furniture is under the cat?", "bbox": [156, 170, 500, 375], "height": 375, "width": 500, "question_id": 3825, "split": "val"}
+{"img_path": "cot/gqa/2317337.jpg", "expression": "What type of fruit is to the right of the box that is on the left side?", "bbox": [142, 0, 270, 56], "height": 271, "width": 500, "question_id": 3828, "split": "val"}
+{"img_path": "cot/gqa/2367578.jpg", "expression": "Which are less healthy, the whipped cream or the berries?", "bbox": [397, 52, 482, 145], "height": 375, "width": 500, "question_id": 3839, "split": "val"}
+{"img_path": "cot/gqa/2407309.jpg", "expression": "What animal is eating?", "bbox": [51, 3, 375, 469], "height": 500, "width": 375, "question_id": 3841, "split": "val"}
+{"img_path": "cot/gqa/2390856.jpg", "expression": "Where is this boat?", "bbox": [0, 0, 500, 374], "height": 375, "width": 500, "question_id": 3844, "split": "val"}
+{"img_path": "cot/gqa/2330531.jpg", "expression": "What is the person that is to the left of the candle wearing?", "bbox": [55, 127, 148, 150], "height": 500, "width": 500, "question_id": 3852, "split": "val"}
+{"img_path": "cot/gqa/713198.jpg", "expression": "Which kind of furniture is not large?", "bbox": [381, 277, 535, 345], "height": 675, "width": 1024, "question_id": 3856, "split": "val"}
+{"img_path": "cot/gqa/2333419.jpg", "expression": "What item of clothing is striped?", "bbox": [337, 104, 500, 324], "height": 375, "width": 500, "question_id": 3857, "split": "val"}
+{"img_path": "cot/gqa/2358262.jpg", "expression": "The bird to the left of the palm trees is standing on what?", "bbox": [2, 201, 153, 330], "height": 332, "width": 500, "question_id": 3866, "split": "val"}
+{"img_path": "cot/gqa/2323044.jpg", "expression": "Which kind of furniture are the books on?", "bbox": [315, 162, 386, 266], "height": 375, "width": 500, "question_id": 3868, "split": "val"}
+{"img_path": "cot/gqa/2401335.jpg", "expression": "What type of furniture is to the left of the pillows?", "bbox": [108, 218, 196, 266], "height": 375, "width": 500, "question_id": 3873, "split": "val"}
+{"img_path": "cot/gqa/2346922.jpg", "expression": "What kind of device is to the left of the keyboard on the right?", "bbox": [151, 279, 254, 375], "height": 375, "width": 500, "question_id": 3879, "split": "val"}
+{"img_path": "cot/gqa/2346666.jpg", "expression": "What fruit is to the left of the boy?", "bbox": [138, 81, 208, 157], "height": 375, "width": 500, "question_id": 3881, "split": "val"}
+{"img_path": "cot/gqa/2369674.jpg", "expression": "Which kind of furniture is not wooden?", "bbox": [193, 134, 382, 221], "height": 334, "width": 500, "question_id": 3888, "split": "val"}
+{"img_path": "cot/gqa/2335526.jpg", "expression": "What's the bench on?", "bbox": [443, 249, 455, 281], "height": 375, "width": 500, "question_id": 3891, "split": "val"}
+{"img_path": "cot/gqa/1592460.jpg", "expression": "What type of food is on the plate of the carrot?", "bbox": [338, 720, 451, 805], "height": 1024, "width": 765, "question_id": 3915, "split": "val"}
+{"img_path": "cot/gqa/2341289.jpg", "expression": "What fruit is on the table?", "bbox": [102, 36, 295, 151], "height": 375, "width": 500, "question_id": 3920, "split": "val"}
+{"img_path": "cot/gqa/2323598.jpg", "expression": "What is in the bowl?", "bbox": [96, 37, 268, 140], "height": 332, "width": 500, "question_id": 3922, "split": "val"}
+{"img_path": "cot/gqa/2366145.jpg", "expression": "Which kind of animal is on the dirt?", "bbox": [66, 119, 314, 288], "height": 375, "width": 500, "question_id": 3928, "split": "val"}
+{"img_path": "cot/gqa/2357796.jpg", "expression": "What kind of aircraft is on the pavement?", "bbox": [64, 149, 287, 234], "height": 375, "width": 500, "question_id": 3933, "split": "val"}
+{"img_path": "cot/gqa/2371425.jpg", "expression": "Which kind of fruit is on the table?", "bbox": [143, 44, 206, 136], "height": 355, "width": 500, "question_id": 3954, "split": "val"}
+{"img_path": "cot/gqa/2411000.jpg", "expression": "What does the woman wear?", "bbox": [93, 455, 204, 499], "height": 500, "width": 333, "question_id": 3956, "split": "val"}
+{"img_path": "cot/gqa/2369525.jpg", "expression": "Which kind of vehicle is to the left of the bull?", "bbox": [101, 327, 156, 359], "height": 500, "width": 375, "question_id": 3960, "split": "val"}
+{"img_path": "cot/gqa/2351252.jpg", "expression": "What does the man sit on?", "bbox": [0, 139, 398, 299], "height": 375, "width": 500, "question_id": 3962, "split": "val"}
+{"img_path": "cot/gqa/2336826.jpg", "expression": "Who is under the blanket?", "bbox": [25, 216, 320, 348], "height": 500, "width": 333, "question_id": 3963, "split": "val"}
+{"img_path": "cot/gqa/2823.jpg", "expression": "What is on the street light?", "bbox": [134, 250, 192, 320], "height": 534, "width": 800, "question_id": 3967, "split": "val"}
+{"img_path": "cot/gqa/2347090.jpg", "expression": "What is the person to the left of the rope wearing?", "bbox": [163, 133, 193, 159], "height": 375, "width": 500, "question_id": 3974, "split": "val"}
+{"img_path": "cot/gqa/2375839.jpg", "expression": "The person is holding what?", "bbox": [71, 154, 97, 174], "height": 500, "width": 375, "question_id": 3977, "split": "val"}
+{"img_path": "cot/gqa/2367007.jpg", "expression": "Who is wearing a shirt?", "bbox": [87, 22, 374, 499], "height": 500, "width": 375, "question_id": 3983, "split": "val"}
+{"img_path": "cot/gqa/2380456.jpg", "expression": "What are the animals that are on the grass?", "bbox": [458, 187, 483, 205], "height": 333, "width": 500, "question_id": 3984, "split": "val"}
+{"img_path": "cot/gqa/2323637.jpg", "expression": "What are the utensils in?", "bbox": [0, 1, 500, 282], "height": 333, "width": 500, "question_id": 3986, "split": "val"}
+{"img_path": "cot/gqa/497978.jpg", "expression": "What is the man looking at?", "bbox": [153, 417, 785, 752], "height": 768, "width": 1024, "question_id": 3992, "split": "val"}
+{"img_path": "cot/gqa/2321151.jpg", "expression": "What is the device that is to the left of the can?", "bbox": [55, 39, 248, 274], "height": 333, "width": 500, "question_id": 3997, "split": "val"}
+{"img_path": "cot/gqa/2364285.jpg", "expression": "What is the girl to the right of the beer bottle wearing?", "bbox": [165, 185, 324, 373], "height": 375, "width": 500, "question_id": 4005, "split": "val"}
+{"img_path": "cot/gqa/2389126.jpg", "expression": "What is the standing person to the left of the woman watching?", "bbox": [290, 204, 305, 216], "height": 333, "width": 500, "question_id": 4017, "split": "val"}
+{"img_path": "cot/gqa/2322891.jpg", "expression": "What is the biker driving?", "bbox": [101, 205, 180, 272], "height": 500, "width": 291, "question_id": 4019, "split": "val"}
+{"img_path": "cot/gqa/2365939.jpg", "expression": "What is painted on the airplane?", "bbox": [313, 160, 333, 185], "height": 334, "width": 500, "question_id": 4021, "split": "val"}
+{"img_path": "cot/gqa/2372741.jpg", "expression": "What animal is on the grass?", "bbox": [327, 150, 395, 238], "height": 281, "width": 500, "question_id": 4025, "split": "val"}
+{"img_path": "cot/gqa/2395207.jpg", "expression": "What is the woman wearing?", "bbox": [88, 77, 156, 199], "height": 334, "width": 500, "question_id": 4029, "split": "val"}
+{"img_path": "cot/gqa/2368312.jpg", "expression": "What kind of device is to the left of the dad that is in the living room?", "bbox": [86, 141, 133, 192], "height": 400, "width": 500, "question_id": 4030, "split": "val"}
+{"img_path": "cot/gqa/2417157.jpg", "expression": "Who wears a jacket?", "bbox": [416, 166, 456, 245], "height": 375, "width": 500, "question_id": 4037, "split": "val"}
+{"img_path": "cot/gqa/2364901.jpg", "expression": "What is in front of the tower?", "bbox": [173, 90, 196, 114], "height": 500, "width": 481, "question_id": 4045, "split": "val"}
+{"img_path": "cot/gqa/2382539.jpg", "expression": "What do you think is the book on?", "bbox": [229, 7, 499, 349], "height": 375, "width": 500, "question_id": 4058, "split": "val"}
+{"img_path": "cot/gqa/2416731.jpg", "expression": "What is the large animal in the picture?", "bbox": [210, 83, 500, 332], "height": 333, "width": 500, "question_id": 4065, "split": "val"}
+{"img_path": "cot/gqa/2397705.jpg", "expression": "What is on the tray?", "bbox": [346, 52, 376, 91], "height": 361, "width": 500, "question_id": 4070, "split": "val"}
+{"img_path": "cot/gqa/2368510.jpg", "expression": "Who carries the bag?", "bbox": [287, 71, 365, 249], "height": 373, "width": 500, "question_id": 4072, "split": "val"}
+{"img_path": "cot/gqa/2316469.jpg", "expression": "What kind of watercraft is the flag on?", "bbox": [289, 196, 493, 323], "height": 333, "width": 500, "question_id": 4074, "split": "val"}
+{"img_path": "cot/gqa/2393527.jpg", "expression": "What is the ground in front of?", "bbox": [0, 9, 499, 74], "height": 216, "width": 500, "question_id": 4084, "split": "val"}
+{"img_path": "cot/gqa/2404783.jpg", "expression": "Which kind of device is on the desk?", "bbox": [1, 374, 135, 459], "height": 500, "width": 375, "question_id": 4088, "split": "val"}
+{"img_path": "cot/gqa/2343896.jpg", "expression": "What's on the plate?", "bbox": [435, 112, 498, 384], "height": 500, "width": 500, "question_id": 4090, "split": "val"}
+{"img_path": "cot/gqa/2385085.jpg", "expression": "What is the player wearing?", "bbox": [189, 222, 336, 312], "height": 362, "width": 500, "question_id": 4099, "split": "val"}
+{"img_path": "cot/gqa/2371647.jpg", "expression": "What is the woman to the left of the dog carrying?", "bbox": [244, 196, 272, 264], "height": 375, "width": 500, "question_id": 4112, "split": "val"}
+{"img_path": "cot/gqa/2346984.jpg", "expression": "What are the walls holding?", "bbox": [37, 235, 49, 265], "height": 500, "width": 354, "question_id": 4119, "split": "val"}
+{"img_path": "cot/gqa/2343370.jpg", "expression": "What is he in front of?", "bbox": [1, 3, 501, 281], "height": 281, "width": 500, "question_id": 4121, "split": "val"}
+{"img_path": "cot/gqa/2343370.jpg", "expression": "What is the man in front of?", "bbox": [1, 3, 501, 281], "height": 281, "width": 500, "question_id": 4122, "split": "val"}
+{"img_path": "cot/gqa/2379243.jpg", "expression": "He is on what?", "bbox": [15, 303, 498, 374], "height": 375, "width": 500, "question_id": 4143, "split": "val"}
+{"img_path": "cot/gqa/1307.jpg", "expression": "What is located on top of the table?", "bbox": [246, 336, 301, 375], "height": 640, "width": 480, "question_id": 4153, "split": "val"}
+{"img_path": "cot/gqa/2401470.jpg", "expression": "What is the lighthouse in front of?", "bbox": [463, 144, 500, 179], "height": 321, "width": 500, "question_id": 4159, "split": "val"}
+{"img_path": "cot/gqa/2393963.jpg", "expression": "What is the piece of furniture to the left of him called?", "bbox": [0, 74, 164, 260], "height": 375, "width": 500, "question_id": 4162, "split": "val"}
+{"img_path": "cot/gqa/2402759.jpg", "expression": "What is the device that the person that is to the left of the fence is holding?", "bbox": [41, 156, 54, 168], "height": 375, "width": 500, "question_id": 4164, "split": "val"}
+{"img_path": "cot/gqa/2358245.jpg", "expression": "What is on the metal pole?", "bbox": [324, 340, 394, 500], "height": 500, "width": 500, "question_id": 4194, "split": "val"}
+{"img_path": "cot/gqa/2367148.jpg", "expression": "What do you think does the person that is not old hold?", "bbox": [79, 74, 357, 338], "height": 500, "width": 400, "question_id": 4197, "split": "val"}
+{"img_path": "cot/gqa/2405741.jpg", "expression": "Who is waiting?", "bbox": [396, 0, 500, 205], "height": 375, "width": 500, "question_id": 4198, "split": "val"}
+{"img_path": "cot/gqa/2405741.jpg", "expression": "Who is on the deck?", "bbox": [396, 0, 500, 205], "height": 375, "width": 500, "question_id": 4199, "split": "val"}
+{"img_path": "cot/gqa/2414973.jpg", "expression": "The man to the right of the surfer wears what?", "bbox": [417, 154, 430, 165], "height": 333, "width": 500, "question_id": 4202, "split": "val"}
+{"img_path": "cot/gqa/2417871.jpg", "expression": "What type of device is the man that is talking holding?", "bbox": [109, 163, 165, 226], "height": 334, "width": 500, "question_id": 4212, "split": "val"}
+{"img_path": "cot/gqa/2391157.jpg", "expression": "What is the plaid item of clothing called?", "bbox": [1, 102, 239, 275], "height": 375, "width": 500, "question_id": 4215, "split": "val"}
+{"img_path": "cot/gqa/2317318.jpg", "expression": "Who is throwing the ball?", "bbox": [226, 32, 279, 193], "height": 220, "width": 500, "question_id": 4216, "split": "val"}
+{"img_path": "cot/gqa/2369343.jpg", "expression": "What do you think is the aircraft below the clouds?", "bbox": [102, 145, 340, 242], "height": 332, "width": 500, "question_id": 4224, "split": "val"}
+{"img_path": "cot/gqa/2383815.jpg", "expression": "What is located on top of the old building?", "bbox": [182, 51, 234, 101], "height": 500, "width": 375, "question_id": 4229, "split": "val"}
+{"img_path": "cot/gqa/2327208.jpg", "expression": "What is full of seeds?", "bbox": [195, 0, 288, 82], "height": 333, "width": 500, "question_id": 4233, "split": "val"}
+{"img_path": "cot/gqa/2357710.jpg", "expression": "What is the fence in front of?", "bbox": [3, 1, 500, 89], "height": 375, "width": 500, "question_id": 4234, "split": "val"}
+{"img_path": "cot/gqa/2390903.jpg", "expression": "What appliance is to the left of the bench?", "bbox": [169, 253, 189, 368], "height": 500, "width": 453, "question_id": 4240, "split": "val"}
+{"img_path": "cot/gqa/2415877.jpg", "expression": "What kind of furniture is to the right of the towel?", "bbox": [223, 260, 246, 285], "height": 333, "width": 500, "question_id": 4241, "split": "val"}
+{"img_path": "cot/gqa/2332813.jpg", "expression": "What is the curtain hanging over?", "bbox": [2, 157, 214, 331], "height": 333, "width": 500, "question_id": 4244, "split": "val"}
+{"img_path": "cot/gqa/2322553.jpg", "expression": "What is the woman wearing?", "bbox": [123, 189, 289, 498], "height": 500, "width": 375, "question_id": 4256, "split": "val"}
+{"img_path": "cot/gqa/2375126.jpg", "expression": "What is this man playing with?", "bbox": [322, 314, 349, 332], "height": 333, "width": 500, "question_id": 4264, "split": "val"}
+{"img_path": "cot/gqa/2370555.jpg", "expression": "What is on the tray that is to the right of the fruit?", "bbox": [193, 158, 241, 188], "height": 334, "width": 500, "question_id": 4265, "split": "val"}
+{"img_path": "cot/gqa/2381348.jpg", "expression": "What are the trees covered in?", "bbox": [123, 68, 205, 234], "height": 334, "width": 500, "question_id": 4278, "split": "val"}
+{"img_path": "cot/gqa/2412138.jpg", "expression": "What is on the sand?", "bbox": [93, 119, 295, 277], "height": 375, "width": 500, "question_id": 4289, "split": "val"}
+{"img_path": "cot/gqa/2367035.jpg", "expression": "What is the person that is to the right of the skier wearing?", "bbox": [366, 188, 372, 194], "height": 500, "width": 500, "question_id": 4295, "split": "val"}
+{"img_path": "cot/gqa/2369753.jpg", "expression": "What is on the roll?", "bbox": [281, 139, 301, 168], "height": 500, "width": 375, "question_id": 4300, "split": "val"}
+{"img_path": "cot/gqa/2327478.jpg", "expression": "What is the kite in?", "bbox": [1, 12, 219, 128], "height": 384, "width": 500, "question_id": 4302, "split": "val"}
+{"img_path": "cot/gqa/2360251.jpg", "expression": "What kind of vehicle is to the right of the fence?", "bbox": [329, 125, 382, 169], "height": 400, "width": 500, "question_id": 4305, "split": "val"}
+{"img_path": "cot/gqa/2323675.jpg", "expression": "What does the man hold?", "bbox": [112, 220, 212, 331], "height": 333, "width": 500, "question_id": 4309, "split": "val"}
+{"img_path": "cot/gqa/2349065.jpg", "expression": "What is on the pot?", "bbox": [42, 49, 117, 86], "height": 375, "width": 500, "question_id": 4316, "split": "val"}
+{"img_path": "cot/gqa/2349065.jpg", "expression": "What is on the pot on the right?", "bbox": [42, 49, 117, 86], "height": 375, "width": 500, "question_id": 4317, "split": "val"}
+{"img_path": "cot/gqa/2404514.jpg", "expression": "What are the shrubs in front of?", "bbox": [0, 102, 499, 331], "height": 333, "width": 500, "question_id": 4319, "split": "val"}
+{"img_path": "cot/gqa/2328695.jpg", "expression": "What is he wearing?", "bbox": [123, 368, 240, 447], "height": 500, "width": 375, "question_id": 4328, "split": "val"}
+{"img_path": "cot/gqa/2357918.jpg", "expression": "What kind of furniture is left of the ladder?", "bbox": [35, 251, 65, 296], "height": 332, "width": 500, "question_id": 4330, "split": "val"}
+{"img_path": "cot/gqa/2340482.jpg", "expression": "What is the seat on?", "bbox": [75, 106, 247, 352], "height": 375, "width": 500, "question_id": 4333, "split": "val"}
+{"img_path": "cot/gqa/2329202.jpg", "expression": "What fruit is in the basket?", "bbox": [113, 398, 155, 444], "height": 500, "width": 316, "question_id": 4341, "split": "val"}
+{"img_path": "cot/gqa/2414371.jpg", "expression": "What is this elephant standing in?", "bbox": [3, 3, 498, 63], "height": 333, "width": 500, "question_id": 4342, "split": "val"}
+{"img_path": "cot/gqa/285921.jpg", "expression": "Which kind of animal is to the right of the bench?", "bbox": [594, 419, 757, 534], "height": 681, "width": 1024, "question_id": 4347, "split": "val"}
+{"img_path": "cot/gqa/2374663.jpg", "expression": "Who is sitting on the bench?", "bbox": [1, 4, 493, 219], "height": 320, "width": 500, "question_id": 4352, "split": "val"}
+{"img_path": "cot/gqa/2317571.jpg", "expression": "Who is on the bus?", "bbox": [201, 4, 493, 372], "height": 375, "width": 500, "question_id": 4353, "split": "val"}
+{"img_path": "cot/gqa/2397055.jpg", "expression": "What kind of sign is covered in snow?", "bbox": [196, 200, 246, 298], "height": 500, "width": 332, "question_id": 4354, "split": "val"}
+{"img_path": "cot/gqa/1860.jpg", "expression": "What vehicle is on the road?", "bbox": [0, 376, 82, 433], "height": 600, "width": 800, "question_id": 4357, "split": "val"}
+{"img_path": "cot/gqa/1592766.jpg", "expression": "Who seems to be younger, the woman or the child?", "bbox": [139, 422, 256, 598], "height": 600, "width": 800, "question_id": 4363, "split": "val"}
+{"img_path": "cot/gqa/2380549.jpg", "expression": "What kind of furniture is made of the same material as the end table in the bottom of the picture?", "bbox": [249, 441, 374, 500], "height": 500, "width": 375, "question_id": 4372, "split": "val"}
+{"img_path": "cot/gqa/2349892.jpg", "expression": "Which kind of toy is to the right of the bear?", "bbox": [214, 78, 351, 334], "height": 335, "width": 500, "question_id": 4387, "split": "val"}
+{"img_path": "cot/gqa/2341593.jpg", "expression": "What is on the sidewalk?", "bbox": [24, 257, 332, 457], "height": 500, "width": 332, "question_id": 4393, "split": "val"}
+{"img_path": "cot/gqa/2410453.jpg", "expression": "Who is wearing a shirt?", "bbox": [225, 130, 383, 375], "height": 375, "width": 500, "question_id": 4399, "split": "val"}
+{"img_path": "cot/gqa/2375794.jpg", "expression": "What are the trees in front of?", "bbox": [6, 56, 68, 113], "height": 500, "width": 500, "question_id": 4408, "split": "val"}
+{"img_path": "cot/gqa/2393904.jpg", "expression": "What is the device that is on the desk?", "bbox": [187, 134, 264, 196], "height": 333, "width": 500, "question_id": 4409, "split": "val"}
+{"img_path": "cot/gqa/2351622.jpg", "expression": "What is on the nightstand on the right side?", "bbox": [356, 322, 386, 340], "height": 500, "width": 500, "question_id": 4426, "split": "val"}
+{"img_path": "cot/gqa/2317706.jpg", "expression": "What's the train on?", "bbox": [0, 391, 375, 499], "height": 500, "width": 375, "question_id": 4433, "split": "val"}
+{"img_path": "cot/gqa/2368824.jpg", "expression": "What type of animal is flying in the air?", "bbox": [182, 135, 266, 175], "height": 336, "width": 500, "question_id": 4434, "split": "val"}
+{"img_path": "cot/gqa/2392296.jpg", "expression": "What is he wearing?", "bbox": [1, 212, 266, 336], "height": 338, "width": 500, "question_id": 4436, "split": "val"}
+{"img_path": "cot/gqa/2381522.jpg", "expression": "Who is wearing a hat?", "bbox": [98, 0, 219, 175], "height": 474, "width": 500, "question_id": 4438, "split": "val"}
+{"img_path": "cot/gqa/2398694.jpg", "expression": "Who is on the surfboard?", "bbox": [18, 82, 182, 192], "height": 375, "width": 500, "question_id": 4443, "split": "val"}
+{"img_path": "cot/gqa/2337370.jpg", "expression": "Who is wearing a coat?", "bbox": [407, 159, 445, 218], "height": 294, "width": 500, "question_id": 4446, "split": "val"}
+{"img_path": "cot/gqa/2407000.jpg", "expression": "What device is to the right of the baby?", "bbox": [107, 15, 402, 238], "height": 375, "width": 500, "question_id": 4447, "split": "val"}
+{"img_path": "cot/gqa/2363042.jpg", "expression": "Who is sitting?", "bbox": [370, 24, 383, 54], "height": 375, "width": 500, "question_id": 4448, "split": "val"}
+{"img_path": "cot/gqa/2356844.jpg", "expression": "What does the person play with?", "bbox": [116, 165, 130, 181], "height": 500, "width": 331, "question_id": 4453, "split": "val"}
+{"img_path": "cot/gqa/2417339.jpg", "expression": "What is this snowboarder wearing?", "bbox": [85, 195, 239, 311], "height": 500, "width": 335, "question_id": 4455, "split": "val"}
+{"img_path": "cot/gqa/2344358.jpg", "expression": "What animal is on the bed?", "bbox": [23, 43, 466, 368], "height": 375, "width": 500, "question_id": 4456, "split": "val"}
+{"img_path": "cot/gqa/2353630.jpg", "expression": "What is the animal on the grass?", "bbox": [165, 370, 281, 470], "height": 500, "width": 333, "question_id": 4457, "split": "val"}
+{"img_path": "cot/gqa/2322715.jpg", "expression": "What does the person to the right of the ball wear?", "bbox": [290, 200, 309, 224], "height": 333, "width": 500, "question_id": 4471, "split": "val"}
+{"img_path": "cot/gqa/2360705.jpg", "expression": "Who is wearing the ring?", "bbox": [170, 20, 330, 472], "height": 500, "width": 333, "question_id": 4478, "split": "val"}
+{"img_path": "cot/gqa/2373883.jpg", "expression": "What does the man wear?", "bbox": [406, 234, 414, 240], "height": 333, "width": 500, "question_id": 4481, "split": "val"}
+{"img_path": "cot/gqa/2395504.jpg", "expression": "What is located on top of the clothes?", "bbox": [33, 252, 72, 331], "height": 375, "width": 500, "question_id": 4485, "split": "val"}
+{"img_path": "cot/gqa/2327438.jpg", "expression": "What is the vehicle that is to the left of the car on the right?", "bbox": [328, 330, 402, 390], "height": 390, "width": 500, "question_id": 4489, "split": "val"}
+{"img_path": "cot/gqa/2337336.jpg", "expression": "What vehicles are on the railroad?", "bbox": [283, 62, 499, 301], "height": 318, "width": 500, "question_id": 4492, "split": "val"}
+{"img_path": "cot/gqa/2332377.jpg", "expression": "What is located on top of the stick?", "bbox": [59, 63, 273, 290], "height": 500, "width": 333, "question_id": 4495, "split": "val"}
+{"img_path": "cot/gqa/2404622.jpg", "expression": "The bench is in front of what?", "bbox": [292, 1, 402, 50], "height": 375, "width": 500, "question_id": 4503, "split": "val"}
+{"img_path": "cot/gqa/2396425.jpg", "expression": "What is the airplane in?", "bbox": [230, 66, 500, 94], "height": 375, "width": 500, "question_id": 4505, "split": "val"}
+{"img_path": "cot/gqa/2412781.jpg", "expression": "What kind of aircraft is above the grass?", "bbox": [154, 66, 244, 118], "height": 281, "width": 500, "question_id": 4506, "split": "val"}
+{"img_path": "cot/gqa/2338713.jpg", "expression": "Who is wearing a coat?", "bbox": [252, 127, 325, 432], "height": 500, "width": 375, "question_id": 4512, "split": "val"}
+{"img_path": "cot/gqa/2319167.jpg", "expression": "Where is the island?", "bbox": [0, 135, 499, 236], "height": 375, "width": 500, "question_id": 4533, "split": "val"}
+{"img_path": "cot/gqa/2327514.jpg", "expression": "Where are the trees?", "bbox": [0, 49, 375, 166], "height": 500, "width": 375, "question_id": 4539, "split": "val"}
+{"img_path": "cot/gqa/2376043.jpg", "expression": "What are the flowers on?", "bbox": [127, 0, 500, 262], "height": 262, "width": 500, "question_id": 4541, "split": "val"}
+{"img_path": "cot/gqa/2332383.jpg", "expression": "What is the trash can on?", "bbox": [476, 219, 490, 320], "height": 374, "width": 500, "question_id": 4550, "split": "val"}
+{"img_path": "cot/gqa/2412163.jpg", "expression": "What is the vehicle that is behind the large boat?", "bbox": [0, 196, 96, 259], "height": 331, "width": 500, "question_id": 4560, "split": "val"}
+{"img_path": "cot/gqa/2407667.jpg", "expression": "What is the cow in front of?", "bbox": [183, 0, 302, 94], "height": 323, "width": 500, "question_id": 4563, "split": "val"}
+{"img_path": "cot/gqa/2385008.jpg", "expression": "What animal is striped?", "bbox": [98, 36, 227, 361], "height": 375, "width": 500, "question_id": 4565, "split": "val"}
+{"img_path": "cot/gqa/2406497.jpg", "expression": "What is the basket full of?", "bbox": [360, 291, 367, 299], "height": 332, "width": 500, "question_id": 4575, "split": "val"}
+{"img_path": "cot/gqa/2379060.jpg", "expression": "Who is sitting?", "bbox": [209, 326, 251, 413], "height": 500, "width": 333, "question_id": 4580, "split": "val"}
+{"img_path": "cot/gqa/2354704.jpg", "expression": "What is the pier surrounded by?", "bbox": [93, 227, 381, 336], "height": 500, "width": 500, "question_id": 4584, "split": "val"}
+{"img_path": "cot/gqa/2400368.jpg", "expression": "What is the name of the animal above the towel the laptop is to the left of?", "bbox": [0, 112, 276, 500], "height": 500, "width": 447, "question_id": 4585, "split": "val"}
+{"img_path": "cot/gqa/2382826.jpg", "expression": "How are the vehicles on the road called?", "bbox": [382, 200, 450, 256], "height": 335, "width": 500, "question_id": 4595, "split": "val"}
+{"img_path": "cot/gqa/2344720.jpg", "expression": "Which kind of vehicle is to the left of the van?", "bbox": [191, 131, 359, 198], "height": 332, "width": 500, "question_id": 4596, "split": "val"}
+{"img_path": "cot/gqa/2335742.jpg", "expression": "Who is wearing the coat?", "bbox": [33, 109, 221, 331], "height": 332, "width": 500, "question_id": 4600, "split": "val"}
+{"img_path": "cot/gqa/2406821.jpg", "expression": "Where is the man?", "bbox": [342, 211, 500, 263], "height": 375, "width": 500, "question_id": 4602, "split": "val"}
+{"img_path": "cot/gqa/2371288.jpg", "expression": "What is hanging from the post?", "bbox": [186, 148, 206, 223], "height": 375, "width": 500, "question_id": 4603, "split": "val"}
+{"img_path": "cot/gqa/1159604.jpg", "expression": "Who is wearing the outfit?", "bbox": [530, 640, 558, 723], "height": 1024, "width": 683, "question_id": 4612, "split": "val"}
+{"img_path": "cot/gqa/2364415.jpg", "expression": "What is on the carpet?", "bbox": [0, 180, 263, 373], "height": 375, "width": 500, "question_id": 4615, "split": "val"}
+{"img_path": "cot/gqa/2371705.jpg", "expression": "What is the animal in front of?", "bbox": [3, 166, 11, 212], "height": 375, "width": 500, "question_id": 4616, "split": "val"}
+{"img_path": "cot/gqa/2347095.jpg", "expression": "Who is wearing a wetsuit?", "bbox": [121, 90, 206, 160], "height": 349, "width": 500, "question_id": 4622, "split": "val"}
+{"img_path": "cot/gqa/2375053.jpg", "expression": "Who is on the skate park?", "bbox": [0, 80, 302, 461], "height": 500, "width": 333, "question_id": 4626, "split": "val"}
+{"img_path": "cot/gqa/2345842.jpg", "expression": "What is on the cabinet?", "bbox": [175, 78, 208, 108], "height": 500, "width": 333, "question_id": 4627, "split": "val"}
+{"img_path": "cot/gqa/2355965.jpg", "expression": "What's around the man?", "bbox": [208, 17, 499, 195], "height": 332, "width": 500, "question_id": 4630, "split": "val"}
+{"img_path": "cot/gqa/2342440.jpg", "expression": "What animal is standing in the grass?", "bbox": [36, 112, 275, 288], "height": 357, "width": 500, "question_id": 4634, "split": "val"}
+{"img_path": "cot/gqa/2396830.jpg", "expression": "What is the person on the bike wearing?", "bbox": [283, 44, 299, 65], "height": 310, "width": 500, "question_id": 4638, "split": "val"}
+{"img_path": "cot/gqa/2329202.jpg", "expression": "What is in the basket?", "bbox": [113, 398, 155, 444], "height": 500, "width": 316, "question_id": 4651, "split": "val"}
+{"img_path": "cot/gqa/2395508.jpg", "expression": "Who is wearing a shirt?", "bbox": [238, 95, 310, 202], "height": 500, "width": 333, "question_id": 4655, "split": "val"}
+{"img_path": "cot/gqa/285694.jpg", "expression": "What is the beverage inside of?", "bbox": [491, 409, 590, 612], "height": 612, "width": 612, "question_id": 4662, "split": "val"}
+{"img_path": "cot/gqa/3799.jpg", "expression": "The man is wearing what?", "bbox": [75, 412, 120, 457], "height": 800, "width": 600, "question_id": 4665, "split": "val"}
+{"img_path": "cot/gqa/2398885.jpg", "expression": "What's on the table?", "bbox": [36, 85, 120, 386], "height": 500, "width": 375, "question_id": 4672, "split": "val"}
+{"img_path": "cot/gqa/2376677.jpg", "expression": "What is the giraffe in front of the trees licking?", "bbox": [199, 0, 361, 332], "height": 333, "width": 500, "question_id": 4677, "split": "val"}
+{"img_path": "cot/gqa/2344308.jpg", "expression": "Who wears the helmet?", "bbox": [70, 135, 303, 390], "height": 500, "width": 375, "question_id": 4684, "split": "val"}
+{"img_path": "cot/gqa/2417916.jpg", "expression": "What is on the sandwich to the left of the plate?", "bbox": [119, 85, 261, 149], "height": 332, "width": 500, "question_id": 4698, "split": "val"}
+{"img_path": "cot/gqa/2405670.jpg", "expression": "Who is standing?", "bbox": [49, 298, 87, 386], "height": 404, "width": 500, "question_id": 4708, "split": "val"}
+{"img_path": "cot/gqa/2343553.jpg", "expression": "Where is that man?", "bbox": [329, 63, 363, 87], "height": 375, "width": 500, "question_id": 4724, "split": "val"}
+{"img_path": "cot/gqa/2346440.jpg", "expression": "What is the boy wearing?", "bbox": [121, 203, 133, 211], "height": 281, "width": 500, "question_id": 4734, "split": "val"}
+{"img_path": "cot/gqa/2373135.jpg", "expression": "What is the boy wearing?", "bbox": [104, 51, 126, 75], "height": 375, "width": 500, "question_id": 4746, "split": "val"}
+{"img_path": "cot/gqa/2408705.jpg", "expression": "What is the person that is to the right of the cup wearing?", "bbox": [250, 195, 322, 297], "height": 375, "width": 500, "question_id": 4747, "split": "val"}
+{"img_path": "cot/gqa/2316107.jpg", "expression": "Who is wearing pants?", "bbox": [152, 170, 170, 228], "height": 500, "width": 198, "question_id": 4750, "split": "val"}
+{"img_path": "cot/gqa/2393690.jpg", "expression": "What is the cake sitting on?", "bbox": [0, 64, 500, 280], "height": 281, "width": 500, "question_id": 4756, "split": "val"}
+{"img_path": "cot/gqa/2334782.jpg", "expression": "What animal is young?", "bbox": [69, 100, 411, 401], "height": 485, "width": 500, "question_id": 4759, "split": "val"}
+{"img_path": "cot/gqa/2336447.jpg", "expression": "What is the box on?", "bbox": [41, 166, 178, 333], "height": 333, "width": 500, "question_id": 4762, "split": "val"}
+{"img_path": "cot/gqa/2345884.jpg", "expression": "Where is the cone?", "bbox": [114, 474, 155, 498], "height": 500, "width": 331, "question_id": 4780, "split": "val"}
+{"img_path": "cot/gqa/2391157.jpg", "expression": "What device is to the right of the man?", "bbox": [248, 186, 460, 319], "height": 375, "width": 500, "question_id": 4781, "split": "val"}
+{"img_path": "cot/gqa/2379702.jpg", "expression": "Who do you think wears a helmet?", "bbox": [99, 49, 248, 309], "height": 500, "width": 347, "question_id": 4783, "split": "val"}
+{"img_path": "cot/gqa/2367104.jpg", "expression": "The train is in front of what?", "bbox": [59, 2, 121, 109], "height": 281, "width": 500, "question_id": 4790, "split": "val"}
+{"img_path": "cot/gqa/2388931.jpg", "expression": "In front of what is this man?", "bbox": [225, 6, 331, 154], "height": 500, "width": 333, "question_id": 4792, "split": "val"}
+{"img_path": "cot/gqa/2412145.jpg", "expression": "Who is wearing pants?", "bbox": [452, 13, 496, 119], "height": 333, "width": 500, "question_id": 4793, "split": "val"}
+{"img_path": "cot/gqa/2390095.jpg", "expression": "What is the bridge in front of?", "bbox": [0, 33, 454, 124], "height": 282, "width": 500, "question_id": 4802, "split": "val"}
+{"img_path": "cot/gqa/2386498.jpg", "expression": "What is in front of the giraffe?", "bbox": [12, 192, 95, 497], "height": 500, "width": 333, "question_id": 4803, "split": "val"}
+{"img_path": "cot/gqa/2328192.jpg", "expression": "What is the vehicle to the right of the fruit that the man is with called?", "bbox": [322, 213, 374, 273], "height": 500, "width": 375, "question_id": 4804, "split": "val"}
+{"img_path": "cot/gqa/2356324.jpg", "expression": "What is the figurine on?", "bbox": [0, 196, 309, 255], "height": 333, "width": 500, "question_id": 4813, "split": "val"}
+{"img_path": "cot/gqa/2348251.jpg", "expression": "What is the animal to the right of the person who is standing in the ocean called?", "bbox": [268, 102, 500, 240], "height": 333, "width": 500, "question_id": 4817, "split": "val"}
+{"img_path": "cot/gqa/2346932.jpg", "expression": "What animal is small?", "bbox": [168, 185, 245, 451], "height": 500, "width": 375, "question_id": 4818, "split": "val"}
+{"img_path": "cot/gqa/2372285.jpg", "expression": "What's attached to the wall?", "bbox": [136, 0, 148, 294], "height": 500, "width": 375, "question_id": 4824, "split": "val"}
+{"img_path": "cot/gqa/2407763.jpg", "expression": "What type of animal is on the grass?", "bbox": [6, 31, 239, 304], "height": 333, "width": 500, "question_id": 4827, "split": "val"}
+{"img_path": "cot/gqa/2336366.jpg", "expression": "Which kind of animal is in the water?", "bbox": [272, 145, 340, 248], "height": 333, "width": 500, "question_id": 4835, "split": "val"}
+{"img_path": "cot/gqa/2337101.jpg", "expression": "The male animals are standing in what?", "bbox": [0, 206, 500, 337], "height": 338, "width": 500, "question_id": 4836, "split": "val"}
+{"img_path": "cot/gqa/2408460.jpg", "expression": "Where is the water?", "bbox": [0, 167, 499, 223], "height": 375, "width": 500, "question_id": 4843, "split": "val"}
+{"img_path": "cot/gqa/2407207.jpg", "expression": "Who is wearing glasses?", "bbox": [105, 37, 205, 247], "height": 375, "width": 500, "question_id": 4845, "split": "val"}
+{"img_path": "cot/gqa/2376802.jpg", "expression": "What is the food in the box?", "bbox": [0, 217, 118, 300], "height": 500, "width": 500, "question_id": 4846, "split": "val"}
+{"img_path": "cot/gqa/2351043.jpg", "expression": "What is the animal above the ground?", "bbox": [39, 70, 289, 457], "height": 500, "width": 334, "question_id": 4857, "split": "val"}
+{"img_path": "cot/gqa/2383201.jpg", "expression": "What is the vehicle behind the dirty window?", "bbox": [83, 52, 383, 373], "height": 387, "width": 500, "question_id": 4861, "split": "val"}
+{"img_path": "cot/gqa/2349786.jpg", "expression": "What animal is in front of the wall?", "bbox": [280, 230, 342, 362], "height": 374, "width": 500, "question_id": 4865, "split": "val"}
+{"img_path": "cot/gqa/2330531.jpg", "expression": "What animal is to the left of the candle that is to the left of the person?", "bbox": [10, 158, 156, 400], "height": 500, "width": 500, "question_id": 4892, "split": "val"}
+{"img_path": "cot/gqa/2346752.jpg", "expression": "What is on the napkin on the right side?", "bbox": [314, 246, 374, 280], "height": 500, "width": 375, "question_id": 4895, "split": "val"}
+{"img_path": "cot/gqa/2347994.jpg", "expression": "The man is on what?", "bbox": [142, 240, 328, 287], "height": 334, "width": 500, "question_id": 4896, "split": "val"}

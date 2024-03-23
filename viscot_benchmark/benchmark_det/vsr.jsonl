@@ -1,0 +1,404 @@
+{"img_path": "cot/vsr/000000287427.jpg", "expression": "What does the cake consist of?", "bbox": [392.76, 316.45, 467.65999999999997, 414.94], "height": 480, "width": 640, "question_id": 0, "split": "val"}
+{"img_path": "cot/vsr/000000287427.jpg", "expression": "Does the cake consists o the dog?", "bbox": [392.76, 316.45, 467.65999999999997, 414.94], "height": 480, "width": 640, "question_id": 1, "split": "val"}
+{"img_path": "cot/vsr/000000538194.jpg", "expression": "What is perpendicular to the truck?", "bbox": [310.2, 4.1, 633.73, 336.17], "height": 436, "width": 640, "question_id": 6, "split": "val"}
+{"img_path": "cot/vsr/000000302514.jpg", "expression": "Is the truck parallel to the motorcycle?", "bbox": [35.67, 93.2, 357.82, 260.03000000000003], "height": 512, "width": 640, "question_id": 9, "split": "val"}
+{"img_path": "cot/vsr/000000451680.jpg", "expression": "Is the teddy bear at the side of the person?", "bbox": [178.88, 130.31, 479.89, 422.67], "height": 427, "width": 640, "question_id": 12, "split": "val"}
+{"img_path": "cot/vsr/000000358630.jpg", "expression": "What is under the couch?", "bbox": [44.21, 41.77, 500.4, 379.57], "height": 427, "width": 640, "question_id": 13, "split": "val"}
+{"img_path": "cot/vsr/000000054643.jpg", "expression": "What is beneath the dog?", "bbox": [103.05, 20.73, 448.2, 432.92], "height": 478, "width": 640, "question_id": 15, "split": "val"}
+{"img_path": "cot/vsr/000000245450.jpg", "expression": "What is part of the train?", "bbox": [142.06, 310.68, 428.0, 487.28], "height": 640, "width": 428, "question_id": 17, "split": "val"}
+{"img_path": "cot/vsr/000000245450.jpg", "expression": "Is the bench part of the train?", "bbox": [142.06, 310.68, 428.0, 487.28], "height": 640, "width": 428, "question_id": 18, "split": "val"}
+{"img_path": "cot/vsr/000000477061.jpg", "expression": "What does the car has as a par?", "bbox": [1.66, 297.56, 480.0, 545.25], "height": 640, "width": 480, "question_id": 20, "split": "val"}
+{"img_path": "cot/vsr/000000477061.jpg", "expression": "Does the car has as a par the bed?", "bbox": [1.66, 297.56, 480.0, 545.25], "height": 640, "width": 480, "question_id": 21, "split": "val"}
+{"img_path": "cot/vsr/000000067307.jpg", "expression": "Is the suitcase far from the cat?", "bbox": [0.0, 68.13, 505.68, 422.2], "height": 427, "width": 640, "question_id": 23, "split": "val"}
+{"img_path": "cot/vsr/000000398305.jpg", "expression": "Is the handbag attached to the person?", "bbox": [216.76, 375.01, 292.98, 456.86], "height": 640, "width": 463, "question_id": 25, "split": "val"}
+{"img_path": "cot/vsr/000000103582.jpg", "expression": "What is beneath the suitcase?", "bbox": [1.44, 0.16, 573.0, 631.13], "height": 640, "width": 573, "question_id": 29, "split": "val"}
+{"img_path": "cot/vsr/000000103582.jpg", "expression": "Is the bed beneath the suitcase?", "bbox": [1.44, 0.16, 573.0, 631.13], "height": 640, "width": 573, "question_id": 30, "split": "val"}
+{"img_path": "cot/vsr/000000258523.jpg", "expression": "What is below the cat?", "bbox": [12.05, 124.65, 436.95, 444.07000000000005], "height": 449, "width": 500, "question_id": 34, "split": "val"}
+{"img_path": "cot/vsr/000000258523.jpg", "expression": "Is the toilet below the cat?", "bbox": [12.05, 124.65, 436.95, 444.07000000000005], "height": 449, "width": 500, "question_id": 35, "split": "val"}
+{"img_path": "cot/vsr/000000263968.jpg", "expression": "Is the bed under the umbrella?", "bbox": [131.86, 474.26, 360.0, 624.43], "height": 640, "width": 360, "question_id": 37, "split": "val"}
+{"img_path": "cot/vsr/000000468951.jpg", "expression": "Is the suitcase beside the cat?", "bbox": [107.22, 0.96, 639.48, 421.21], "height": 426, "width": 640, "question_id": 42, "split": "val"}
+{"img_path": "cot/vsr/000000286480.jpg", "expression": "What is near the dog?", "bbox": [91.49, 2.38, 628.51, 245.94], "height": 480, "width": 640, "question_id": 45, "split": "val"}
+{"img_path": "cot/vsr/000000332833.jpg", "expression": "Is the teddy bear beneath the person?", "bbox": [208.36, 24.44, 548.27, 335.24], "height": 518, "width": 640, "question_id": 51, "split": "val"}
+{"img_path": "cot/vsr/000000518592.jpg", "expression": "What is alongside the laptop?", "bbox": [12.0, 251.94, 97.67, 352.65999999999997], "height": 480, "width": 640, "question_id": 52, "split": "val"}
+{"img_path": "cot/vsr/000000518592.jpg", "expression": "Is the cake alongside the laptop?", "bbox": [12.0, 251.94, 97.67, 352.65999999999997], "height": 480, "width": 640, "question_id": 53, "split": "val"}
+{"img_path": "cot/vsr/000000067995.jpg", "expression": "What is touching the cat?", "bbox": [2.87, 289.22, 639.89, 420.07000000000005], "height": 425, "width": 640, "question_id": 54, "split": "val"}
+{"img_path": "cot/vsr/000000235399.jpg", "expression": "Is the bed inside the truck?", "bbox": [304.87, 202.44, 386.69, 298.86], "height": 375, "width": 500, "question_id": 57, "split": "val"}
+{"img_path": "cot/vsr/000000001536.jpg", "expression": "Is the oven below the pizza?", "bbox": [350.34, 122.18, 640.0, 477.51], "height": 480, "width": 640, "question_id": 61, "split": "val"}
+{"img_path": "cot/vsr/000000107188.jpg", "expression": "Is the bench over the cat?", "bbox": [2.54, 14.18, 426.64000000000004, 362.94], "height": 375, "width": 500, "question_id": 62, "split": "val"}
+{"img_path": "cot/vsr/000000460033.jpg", "expression": "Is the person on the horse?", "bbox": [271.85, 80.88, 361.82000000000005, 373.79], "height": 425, "width": 640, "question_id": 65, "split": "val"}
+{"img_path": "cot/vsr/000000004972.jpg", "expression": "What is facing away from the horse?", "bbox": [246.15, 39.59, 379.3, 302.28999999999996], "height": 321, "width": 640, "question_id": 66, "split": "val"}
+{"img_path": "cot/vsr/000000531568.jpg", "expression": "Is the chair left of the teddy bear?", "bbox": [0.0, 295.4, 15.78, 354.65999999999997], "height": 640, "width": 457, "question_id": 69, "split": "val"}
+{"img_path": "cot/vsr/000000261225.jpg", "expression": "Is the vase behind the cat?", "bbox": [15.77, 151.46, 345.71999999999997, 500.0], "height": 500, "width": 375, "question_id": 70, "split": "val"}
+{"img_path": "cot/vsr/000000109055.jpg", "expression": "What is in front of the cat?", "bbox": [2.06, 2.06, 639.66, 473.82], "height": 480, "width": 640, "question_id": 74, "split": "val"}
+{"img_path": "cot/vsr/000000109055.jpg", "expression": "Is the bicycle in front of the cat?", "bbox": [2.06, 2.06, 639.66, 473.82], "height": 480, "width": 640, "question_id": 75, "split": "val"}
+{"img_path": "cot/vsr/000000391632.jpg", "expression": "Is the suitcase beneath the cat?", "bbox": [43.22, 133.71, 459.19000000000005, 594.25], "height": 601, "width": 640, "question_id": 77, "split": "val"}
+{"img_path": "cot/vsr/000000248461.jpg", "expression": "Is the cup at the right side of the cat?", "bbox": [501.57, 0.0, 640.0, 330.82], "height": 480, "width": 640, "question_id": 79, "split": "val"}
+{"img_path": "cot/vsr/000000259475.jpg", "expression": "What is at the left side of the cat?", "bbox": [2.16, 22.32, 640.0, 375.04], "height": 480, "width": 640, "question_id": 80, "split": "val"}
+{"img_path": "cot/vsr/000000028134.jpg", "expression": "Is the book below the bird?", "bbox": [41.26, 234.59, 79.52, 273.43], "height": 640, "width": 480, "question_id": 88, "split": "val"}
+{"img_path": "cot/vsr/000000302643.jpg", "expression": "What is facing the sandwich?", "bbox": [37.01, 2.92, 418.83, 122.73], "height": 375, "width": 500, "question_id": 89, "split": "val"}
+{"img_path": "cot/vsr/000000010395.jpg", "expression": "What is on top of the bed?", "bbox": [49.19, 66.2, 428.16, 445.88], "height": 476, "width": 500, "question_id": 92, "split": "val"}
+{"img_path": "cot/vsr/000000046463.jpg", "expression": "Is the oven beneath the sandwich?", "bbox": [0.0, 0.0, 500.0, 117.82], "height": 400, "width": 500, "question_id": 95, "split": "val"}
+{"img_path": "cot/vsr/000000477137.jpg", "expression": "Is the cat away from the couch?", "bbox": [154.91, 125.03, 604.15, 414.94000000000005], "height": 426, "width": 640, "question_id": 96, "split": "val"}
+{"img_path": "cot/vsr/000000414258.jpg", "expression": "Is the banana touching the motorcycle?", "bbox": [82.45, 65.51, 615.5300000000001, 474.34999999999997], "height": 480, "width": 640, "question_id": 97, "split": "val"}
+{"img_path": "cot/vsr/000000107571.jpg", "expression": "Is the couch touching the bear?", "bbox": [0.0, 2.91, 640.0, 364.22], "height": 427, "width": 640, "question_id": 99, "split": "val"}
+{"img_path": "cot/vsr/000000273772.jpg", "expression": "What is at the edge of the bench?", "bbox": [232.59, 230.02, 358.7, 304.34000000000003], "height": 480, "width": 640, "question_id": 102, "split": "val"}
+{"img_path": "cot/vsr/000000273772.jpg", "expression": "Is the book at the edge of the bench?", "bbox": [232.59, 230.02, 358.7, 304.34000000000003], "height": 480, "width": 640, "question_id": 103, "split": "val"}
+{"img_path": "cot/vsr/000000316536.jpg", "expression": "What is in front of the person?", "bbox": [3.32, 18.29, 254.34, 571.8399999999999], "height": 640, "width": 427, "question_id": 107, "split": "val"}
+{"img_path": "cot/vsr/000000111911.jpg", "expression": "Is the person close to the cake?", "bbox": [0.0, 0.11, 152.29, 370.42], "height": 424, "width": 640, "question_id": 110, "split": "val"}
+{"img_path": "cot/vsr/000000011222.jpg", "expression": "What is enclosed by the chair?", "bbox": [54.65, 113.62, 467.41999999999996, 405.57], "height": 640, "width": 480, "question_id": 112, "split": "val"}
+{"img_path": "cot/vsr/000000011222.jpg", "expression": "Is the teddy bear enclosed by the chair?", "bbox": [54.65, 113.62, 467.41999999999996, 405.57], "height": 640, "width": 480, "question_id": 113, "split": "val"}
+{"img_path": "cot/vsr/000000394976.jpg", "expression": "Is the cat under the dog?", "bbox": [0.0, 90.89, 289.26, 449.13], "height": 541, "width": 640, "question_id": 114, "split": "val"}
+{"img_path": "cot/vsr/000000534124.jpg", "expression": "Is the dining table under the suitcase?", "bbox": [0.0, 0.0, 500.0, 365.0], "height": 365, "width": 500, "question_id": 116, "split": "val"}
+{"img_path": "cot/vsr/000000151764.jpg", "expression": "Is the car behind the teddy bear?", "bbox": [118.65, 2.43, 639.64, 289.35], "height": 480, "width": 640, "question_id": 117, "split": "val"}
+{"img_path": "cot/vsr/000000579201.jpg", "expression": "Is the laptop at the right side of the apple?", "bbox": [0.0, 2.22, 640.0, 316.09000000000003], "height": 427, "width": 640, "question_id": 118, "split": "val"}
+{"img_path": "cot/vsr/000000262118.jpg", "expression": "What is right of the bed?", "bbox": [73.51, 132.97, 565.41, 443.24], "height": 480, "width": 640, "question_id": 119, "split": "val"}
+{"img_path": "cot/vsr/000000472250.jpg", "expression": "What does the truck contain?", "bbox": [149.12, 206.6, 272.31, 364.46000000000004], "height": 640, "width": 480, "question_id": 129, "split": "val"}
+{"img_path": "cot/vsr/000000472250.jpg", "expression": "Does the truck contain the elephant?", "bbox": [149.12, 206.6, 272.31, 364.46000000000004], "height": 640, "width": 480, "question_id": 130, "split": "val"}
+{"img_path": "cot/vsr/000000468951.jpg", "expression": "Is the suitcase under the cat?", "bbox": [107.22, 0.96, 639.48, 421.21], "height": 426, "width": 640, "question_id": 131, "split": "val"}
+{"img_path": "cot/vsr/000000452072.jpg", "expression": "What is behind the cat?", "bbox": [1.65, 84.13, 480.0, 485.77], "height": 640, "width": 480, "question_id": 132, "split": "val"}
+{"img_path": "cot/vsr/000000387930.jpg", "expression": "What is under the dog?", "bbox": [1.78, 17.81, 639.25, 405.1], "height": 414, "width": 640, "question_id": 134, "split": "val"}
+{"img_path": "cot/vsr/000000133030.jpg", "expression": "Is the bed off the umbrella?", "bbox": [229.43, 204.69, 640.0, 427.38], "height": 433, "width": 640, "question_id": 136, "split": "val"}
+{"img_path": "cot/vsr/000000508555.jpg", "expression": "Is the pizza touching the dog?", "bbox": [0.0, 94.92, 263.19, 334.38], "height": 480, "width": 640, "question_id": 137, "split": "val"}
+{"img_path": "cot/vsr/000000542205.jpg", "expression": "Is the umbrella under the bird?", "bbox": [424.54, 100.65, 548.78, 145.05], "height": 480, "width": 640, "question_id": 141, "split": "val"}
+{"img_path": "cot/vsr/000000054401.jpg", "expression": "Is the chair across from the bed?", "bbox": [458.43, 149.43, 500.0, 329.08000000000004], "height": 336, "width": 500, "question_id": 142, "split": "val"}
+{"img_path": "cot/vsr/000000572804.jpg", "expression": "Is the fire hydrant behind the bird?", "bbox": [135.9, 131.16, 470.90999999999997, 625.78], "height": 640, "width": 482, "question_id": 143, "split": "val"}
+{"img_path": "cot/vsr/000000305338.jpg", "expression": "What is touching the cat?", "bbox": [21.53, 0.0, 500.0, 329.16], "height": 333, "width": 500, "question_id": 144, "split": "val"}
+{"img_path": "cot/vsr/000000040934.jpg", "expression": "Is the pizza near the sandwich?", "bbox": [2.2, 26.99, 640.0, 418.04], "height": 423, "width": 640, "question_id": 146, "split": "val"}
+{"img_path": "cot/vsr/000000158354.jpg", "expression": "Is the umbrella at the right side of the cat?", "bbox": [1.08, 0.0, 640.0, 407.73], "height": 480, "width": 640, "question_id": 148, "split": "val"}
+{"img_path": "cot/vsr/000000082512.jpg", "expression": "Is the teddy bear behind the potted plant?", "bbox": [274.75, 42.12, 482.48, 269.0], "height": 426, "width": 640, "question_id": 154, "split": "val"}
+{"img_path": "cot/vsr/000000156506.jpg", "expression": "Is the motorcycle touching the cat?", "bbox": [18.34, 235.15, 542.5600000000001, 480.0], "height": 480, "width": 640, "question_id": 156, "split": "val"}
+{"img_path": "cot/vsr/000000478981.jpg", "expression": "Is the pizza below the broccoli?", "bbox": [0.5, 0.0, 640.0, 479.35], "height": 480, "width": 640, "question_id": 158, "split": "val"}
+{"img_path": "cot/vsr/000000431357.jpg", "expression": "Is the parking meter far away from the car?", "bbox": [155.71, 79.47, 469.03, 426.22], "height": 427, "width": 640, "question_id": 159, "split": "val"}
+{"img_path": "cot/vsr/000000075742.jpg", "expression": "Is the car over the cat?", "bbox": [0.98, 0.98, 640.0, 211.29999999999998], "height": 457, "width": 640, "question_id": 161, "split": "val"}
+{"img_path": "cot/vsr/000000116182.jpg", "expression": "Is the sandwich at the right side of the bowl?", "bbox": [374.03, 188.26, 538.5999999999999, 397.71], "height": 480, "width": 640, "question_id": 162, "split": "val"}
+{"img_path": "cot/vsr/000000355971.jpg", "expression": "What is touching the couch?", "bbox": [0.0, 38.4, 480.0, 640.0], "height": 640, "width": 480, "question_id": 163, "split": "val"}
+{"img_path": "cot/vsr/000000355971.jpg", "expression": "Is the teddy bear touching the couch?", "bbox": [0.0, 38.4, 480.0, 640.0], "height": 640, "width": 480, "question_id": 164, "split": "val"}
+{"img_path": "cot/vsr/000000263512.jpg", "expression": "What is facing the person?", "bbox": [266.31, 103.29, 640.0, 476.98], "height": 480, "width": 640, "question_id": 167, "split": "val"}
+{"img_path": "cot/vsr/000000263512.jpg", "expression": "Is the zebra facing the person?", "bbox": [266.31, 103.29, 640.0, 476.98], "height": 480, "width": 640, "question_id": 168, "split": "val"}
+{"img_path": "cot/vsr/000000418799.jpg", "expression": "What is on the keyboard?", "bbox": [151.51, 32.93, 466.42, 282.67], "height": 375, "width": 500, "question_id": 172, "split": "val"}
+{"img_path": "cot/vsr/000000418799.jpg", "expression": "Is the cat on the keyboard?", "bbox": [151.51, 32.93, 466.42, 282.67], "height": 375, "width": 500, "question_id": 173, "split": "val"}
+{"img_path": "cot/vsr/000000367434.jpg", "expression": "Is the chair far from the airplane?", "bbox": [329.66, 113.89, 480.0, 640.0], "height": 640, "width": 480, "question_id": 174, "split": "val"}
+{"img_path": "cot/vsr/000000316563.jpg", "expression": "What is under the cat?", "bbox": [2.15, 0.65, 627.4399999999999, 474.19], "height": 480, "width": 640, "question_id": 175, "split": "val"}
+{"img_path": "cot/vsr/000000282940.jpg", "expression": "What is above the bus?", "bbox": [53.74, 244.92, 390.87, 375.78], "height": 640, "width": 575, "question_id": 177, "split": "val"}
+{"img_path": "cot/vsr/000000192575.jpg", "expression": "Is the teddy bear under the cat?", "bbox": [334.92, 1.48, 639.1, 356.63], "height": 360, "width": 640, "question_id": 179, "split": "val"}
+{"img_path": "cot/vsr/000000002839.jpg", "expression": "What is behind the teddy bear?", "bbox": [1.25, 78.17, 639.58, 473.39000000000004], "height": 480, "width": 640, "question_id": 181, "split": "val"}
+{"img_path": "cot/vsr/000000002839.jpg", "expression": "Is the bench behind the teddy bear?", "bbox": [1.25, 78.17, 639.58, 473.39000000000004], "height": 480, "width": 640, "question_id": 182, "split": "val"}
+{"img_path": "cot/vsr/000000466789.jpg", "expression": "Is the umbrella at the right side of the cat?", "bbox": [0.0, 390.11, 191.28, 430.38], "height": 640, "width": 480, "question_id": 184, "split": "val"}
+{"img_path": "cot/vsr/000000365139.jpg", "expression": "What is near the pizza?", "bbox": [1.44, 148.13, 448.71999999999997, 532.13], "height": 640, "width": 480, "question_id": 185, "split": "val"}
+{"img_path": "cot/vsr/000000109869.jpg", "expression": "What is touching the cat?", "bbox": [1.29, 0.0, 425.0, 640.0], "height": 640, "width": 425, "question_id": 189, "split": "val"}
+{"img_path": "cot/vsr/000000358359.jpg", "expression": "Is the microwave beneath the cat?", "bbox": [17.7, 12.94, 456.2, 285.3], "height": 303, "width": 473, "question_id": 194, "split": "val"}
+{"img_path": "cot/vsr/000000172006.jpg", "expression": "What is at the left side of the bed?", "bbox": [1.11, 315.25, 63.99, 375.03], "height": 480, "width": 640, "question_id": 199, "split": "val"}
+{"img_path": "cot/vsr/000000558271.jpg", "expression": "Is the oven close to the cake?", "bbox": [316.68, 0.87, 482.49, 61.96], "height": 480, "width": 640, "question_id": 201, "split": "val"}
+{"img_path": "cot/vsr/000000536321.jpg", "expression": "Is the backpack touching the cat?", "bbox": [3.24, 7.55, 143.46, 343.01], "height": 480, "width": 640, "question_id": 202, "split": "val"}
+{"img_path": "cot/vsr/000000264255.jpg", "expression": "What is in the microwave?", "bbox": [0.0, 1.87, 408.06, 417.8], "height": 480, "width": 640, "question_id": 203, "split": "val"}
+{"img_path": "cot/vsr/000000264255.jpg", "expression": "Is the person in the microwave?", "bbox": [0.0, 1.87, 408.06, 417.8], "height": 480, "width": 640, "question_id": 204, "split": "val"}
+{"img_path": "cot/vsr/000000459084.jpg", "expression": "Is the apple touching the dog?", "bbox": [327.87, 40.23, 428.0, 181.97], "height": 640, "width": 428, "question_id": 210, "split": "val"}
+{"img_path": "cot/vsr/000000171805.jpg", "expression": "What is behind the person?", "bbox": [108.11, 102.7, 356.76, 349.19], "height": 480, "width": 640, "question_id": 211, "split": "val"}
+{"img_path": "cot/vsr/000000083508.jpg", "expression": "Is the person touching the pizza?", "bbox": [210.65, 95.8, 422.49, 450.45], "height": 457, "width": 640, "question_id": 213, "split": "val"}
+{"img_path": "cot/vsr/000000407386.jpg", "expression": "What is left of the tv?", "bbox": [0.0, 180.05, 367.28, 480.0], "height": 480, "width": 640, "question_id": 214, "split": "val"}
+{"img_path": "cot/vsr/000000506842.jpg", "expression": "Is the teddy bear in the middle of the bench?", "bbox": [24.7, 6.55, 451.01, 473.66], "height": 480, "width": 640, "question_id": 216, "split": "val"}
+{"img_path": "cot/vsr/000000494896.jpg", "expression": "Is the person on top of the elephant?", "bbox": [1.44, 30.2, 325.03, 631.37], "height": 640, "width": 474, "question_id": 217, "split": "val"}
+{"img_path": "cot/vsr/000000028251.jpg", "expression": "Is the elephant inside the truck?", "bbox": [144.54, 61.48, 549.03, 389.39000000000004], "height": 480, "width": 640, "question_id": 219, "split": "val"}
+{"img_path": "cot/vsr/000000085933.jpg", "expression": "Is the bed surrounding the cat?", "bbox": [3.09, 198.27, 500.0, 400.0], "height": 400, "width": 500, "question_id": 224, "split": "val"}
+{"img_path": "cot/vsr/000000188053.jpg", "expression": "What is adjacent to the cup?", "bbox": [1.08, 2.69, 444.63, 472.08], "height": 478, "width": 640, "question_id": 225, "split": "val"}
+{"img_path": "cot/vsr/000000579773.jpg", "expression": "What is at the side of the cat?", "bbox": [434.82, 264.28, 626.8199999999999, 396.41999999999996], "height": 480, "width": 640, "question_id": 228, "split": "val"}
+{"img_path": "cot/vsr/000000579773.jpg", "expression": "Is the carrot at the side of the cat?", "bbox": [434.82, 264.28, 626.8199999999999, 396.41999999999996], "height": 480, "width": 640, "question_id": 229, "split": "val"}
+{"img_path": "cot/vsr/000000270581.jpg", "expression": "Is the person detached from the sheep?", "bbox": [93.59, 37.16, 491.35, 550.54], "height": 640, "width": 510, "question_id": 232, "split": "val"}
+{"img_path": "cot/vsr/000000547607.jpg", "expression": "What is under the banana?", "bbox": [88.77, 89.72, 390.87, 630.9300000000001], "height": 640, "width": 427, "question_id": 233, "split": "val"}
+{"img_path": "cot/vsr/000000451274.jpg", "expression": "What is in front of the person?", "bbox": [0.84, 1.77, 467.48999999999995, 375.0], "height": 375, "width": 500, "question_id": 235, "split": "val"}
+{"img_path": "cot/vsr/000000328409.jpg", "expression": "Is the person under the umbrella?", "bbox": [102.63, 4.28, 337.82, 628.6], "height": 640, "width": 412, "question_id": 237, "split": "val"}
+{"img_path": "cot/vsr/000000033717.jpg", "expression": "Is the elephant beneath the bird?", "bbox": [270.41, 171.67, 555.73, 434.1], "height": 480, "width": 640, "question_id": 239, "split": "val"}
+{"img_path": "cot/vsr/000000307995.jpg", "expression": "Is the cat below the bottle?", "bbox": [301.23, 193.43, 424.36, 495.18], "height": 640, "width": 427, "question_id": 240, "split": "val"}
+{"img_path": "cot/vsr/000000060952.jpg", "expression": "Is the car above the cat?", "bbox": [0.0, 2.91, 640.0, 480.0], "height": 480, "width": 640, "question_id": 241, "split": "val"}
+{"img_path": "cot/vsr/000000318365.jpg", "expression": "Is the teddy bear above the toilet?", "bbox": [168.11, 3.35, 396.71000000000004, 381.83000000000004], "height": 640, "width": 427, "question_id": 243, "split": "val"}
+{"img_path": "cot/vsr/000000250833.jpg", "expression": "What is next to the refrigerator?", "bbox": [18.75, 106.88, 310.0, 473.13], "height": 480, "width": 640, "question_id": 245, "split": "val"}
+{"img_path": "cot/vsr/000000160471.jpg", "expression": "What is beyond the suitcase?", "bbox": [263.52, 0.0, 376.07, 83.02], "height": 375, "width": 500, "question_id": 250, "split": "val"}
+{"img_path": "cot/vsr/000000160471.jpg", "expression": "Is the chair beyond the suitcase?", "bbox": [263.52, 0.0, 376.07, 83.02], "height": 375, "width": 500, "question_id": 251, "split": "val"}
+{"img_path": "cot/vsr/000000116006.jpg", "expression": "Is the bicycle behind the train?", "bbox": [583.5, 243.04, 613.0, 284.03999999999996], "height": 427, "width": 640, "question_id": 256, "split": "val"}
+{"img_path": "cot/vsr/000000197266.jpg", "expression": "What is behind the oven?", "bbox": [66.23, 0.68, 278.57, 94.18], "height": 375, "width": 500, "question_id": 257, "split": "val"}
+{"img_path": "cot/vsr/000000010547.jpg", "expression": "Is the handbag in front of the teddy bear?", "bbox": [262.5, 305.63, 577.5, 473.13], "height": 480, "width": 640, "question_id": 261, "split": "val"}
+{"img_path": "cot/vsr/000000196226.jpg", "expression": "Is the mouse behind the teddy bear?", "bbox": [543.8, 327.14, 588.53, 347.59], "height": 480, "width": 640, "question_id": 267, "split": "val"}
+{"img_path": "cot/vsr/000000272250.jpg", "expression": "Is the laptop under the cat?", "bbox": [0.0, 7.69, 639.6, 420.31], "height": 428, "width": 640, "question_id": 270, "split": "val"}
+{"img_path": "cot/vsr/000000512118.jpg", "expression": "Is the banana touching the bed?", "bbox": [244.77, 244.13, 308.18, 341.78999999999996], "height": 487, "width": 640, "question_id": 271, "split": "val"}
+{"img_path": "cot/vsr/000000077769.jpg", "expression": "Is the keyboard at the back of the dog?", "bbox": [63.9, 3.36, 497.76, 109.3], "height": 375, "width": 500, "question_id": 274, "split": "val"}
+{"img_path": "cot/vsr/000000277533.jpg", "expression": "Is the person at the left side of the couch?", "bbox": [87.15, 1.1, 293.89, 500.0], "height": 500, "width": 375, "question_id": 278, "split": "val"}
+{"img_path": "cot/vsr/000000303047.jpg", "expression": "Is the person at the left side of the bed?", "bbox": [15.17, 122.17, 624.11, 471.06], "height": 480, "width": 640, "question_id": 284, "split": "val"}
+{"img_path": "cot/vsr/000000419439.jpg", "expression": "What is right of the bus?", "bbox": [385.04, 263.2, 640.0, 282.87], "height": 428, "width": 640, "question_id": 285, "split": "val"}
+{"img_path": "cot/vsr/000000314504.jpg", "expression": "Is the potted plant behind the cat?", "bbox": [261.88, 53.84, 303.12, 129.27], "height": 480, "width": 640, "question_id": 290, "split": "val"}
+{"img_path": "cot/vsr/000000501126.jpg", "expression": "Is the laptop facing the cat?", "bbox": [297.47, 19.76, 480.0, 640.0], "height": 640, "width": 480, "question_id": 293, "split": "val"}
+{"img_path": "cot/vsr/000000139355.jpg", "expression": "What is at the left side of the dog?", "bbox": [61.8, 0.0, 375.0, 494.38], "height": 500, "width": 375, "question_id": 294, "split": "val"}
+{"img_path": "cot/vsr/000000139355.jpg", "expression": "Is the teddy bear at the left side of the dog?", "bbox": [61.8, 0.0, 375.0, 494.38], "height": 500, "width": 375, "question_id": 295, "split": "val"}
+{"img_path": "cot/vsr/000000337095.jpg", "expression": "What is on top of the tv?", "bbox": [260.11, 78.48, 455.94000000000005, 233.14], "height": 469, "width": 640, "question_id": 297, "split": "val"}
+{"img_path": "cot/vsr/000000337095.jpg", "expression": "Is the cat on top of the tv?", "bbox": [260.11, 78.48, 455.94000000000005, 233.14], "height": 469, "width": 640, "question_id": 298, "split": "val"}
+{"img_path": "cot/vsr/000000347675.jpg", "expression": "Is the person touching the banana?", "bbox": [1.21, 258.01, 403.72999999999996, 612.0], "height": 612, "width": 612, "question_id": 305, "split": "val"}
+{"img_path": "cot/vsr/000000288106.jpg", "expression": "Is the microwave beside the cat?", "bbox": [3.24, 149.93, 209.26000000000002, 474.61], "height": 480, "width": 640, "question_id": 307, "split": "val"}
+{"img_path": "cot/vsr/000000321633.jpg", "expression": "Is the person in front of the refrigerator?", "bbox": [112.68, 63.55, 431.58, 640.0], "height": 640, "width": 480, "question_id": 309, "split": "val"}
+{"img_path": "cot/vsr/000000578572.jpg", "expression": "What is on top of the person?", "bbox": [4.3, 319.42, 327.87, 514.14], "height": 640, "width": 480, "question_id": 314, "split": "val"}
+{"img_path": "cot/vsr/000000241027.jpg", "expression": "Is the keyboard below the cat?", "bbox": [19.25, 467.69, 599.62, 598.34], "height": 612, "width": 612, "question_id": 317, "split": "val"}
+{"img_path": "cot/vsr/000000099453.jpg", "expression": "Is the cat above the bicycle?", "bbox": [288.23, 158.07, 450.21000000000004, 307.84000000000003], "height": 480, "width": 640, "question_id": 319, "split": "val"}
+{"img_path": "cot/vsr/000000073197.jpg", "expression": "What is surrounding the person?", "bbox": [0.0, 0.0, 480.0, 640.0], "height": 640, "width": 480, "question_id": 323, "split": "val"}
+{"img_path": "cot/vsr/000000273704.jpg", "expression": "Does the cake consists o the truck?", "bbox": [1.05, 6.3, 156.36, 119.63], "height": 425, "width": 640, "question_id": 325, "split": "val"}
+{"img_path": "cot/vsr/000000109106.jpg", "expression": "Is the bed left of the tv?", "bbox": [0.0, 434.81, 276.89, 640.0], "height": 640, "width": 640, "question_id": 326, "split": "val"}
+{"img_path": "cot/vsr/000000355462.jpg", "expression": "Is the parking meter at the back of the car?", "bbox": [74.79, 34.08, 299.15000000000003, 612.23], "height": 640, "width": 512, "question_id": 327, "split": "val"}
+{"img_path": "cot/vsr/000000125499.jpg", "expression": "What is left of the banana?", "bbox": [15.55, 218.75, 234.55, 437.74], "height": 491, "width": 640, "question_id": 328, "split": "val"}
+{"img_path": "cot/vsr/000000125499.jpg", "expression": "Is the apple left of the banana?", "bbox": [15.55, 218.75, 234.55, 437.74], "height": 491, "width": 640, "question_id": 329, "split": "val"}
+{"img_path": "cot/vsr/000000538108.jpg", "expression": "Is the person off the keyboard?", "bbox": [2.16, 0.0, 283.69, 473.53], "height": 480, "width": 640, "question_id": 331, "split": "val"}
+{"img_path": "cot/vsr/000000316482.jpg", "expression": "Is the donut left of the cup?", "bbox": [31.09, 223.36, 271.64, 454.09000000000003], "height": 612, "width": 612, "question_id": 333, "split": "val"}
+{"img_path": "cot/vsr/000000351166.jpg", "expression": "Is the dining table on top of the bed?", "bbox": [69.53, 363.19, 624.1999999999999, 623.9300000000001], "height": 640, "width": 640, "question_id": 335, "split": "val"}
+{"img_path": "cot/vsr/000000444080.jpg", "expression": "Is the apple at the right side of the bird?", "bbox": [0.0, 414.71, 144.53, 494.14], "height": 500, "width": 333, "question_id": 338, "split": "val"}
+{"img_path": "cot/vsr/000000045071.jpg", "expression": "Is the suitcase under the cat?", "bbox": [27.43, 229.4, 539.8399999999999, 468.78], "height": 480, "width": 640, "question_id": 340, "split": "val"}
+{"img_path": "cot/vsr/000000060513.jpg", "expression": "Is the giraffe in front of the truck?", "bbox": [6.87, 98.69, 526.34, 436.0], "height": 436, "width": 640, "question_id": 343, "split": "val"}
+{"img_path": "cot/vsr/000000400285.jpg", "expression": "Is the teddy bear adjacent to the cat?", "bbox": [33.71, 81.84, 370.78999999999996, 493.07000000000005], "height": 500, "width": 486, "question_id": 347, "split": "val"}
+{"img_path": "cot/vsr/000000031470.jpg", "expression": "What is below the horse?", "bbox": [212.69, 284.67, 301.32, 439.38], "height": 463, "width": 640, "question_id": 354, "split": "val"}
+{"img_path": "cot/vsr/000000120207.jpg", "expression": "Is the truck next to the motorcycle?", "bbox": [253.93, 208.73, 326.28, 276.26], "height": 640, "width": 426, "question_id": 358, "split": "val"}
+{"img_path": "cot/vsr/000000308549.jpg", "expression": "What is under the cat?", "bbox": [0.0, 60.58, 525.04, 444.08], "height": 480, "width": 640, "question_id": 359, "split": "val"}
+{"img_path": "cot/vsr/000000308549.jpg", "expression": "Is the suitcase under the cat?", "bbox": [0.0, 60.58, 525.04, 444.08], "height": 480, "width": 640, "question_id": 360, "split": "val"}
+{"img_path": "cot/vsr/000000396725.jpg", "expression": "What is in the oven?", "bbox": [29.95, 211.84, 196.31, 331.62], "height": 427, "width": 640, "question_id": 361, "split": "val"}
+{"img_path": "cot/vsr/000000029145.jpg", "expression": "Is the umbrella at the left side of the cat?", "bbox": [1.08, 0.0, 640.0, 230.83], "height": 480, "width": 640, "question_id": 363, "split": "val"}
+{"img_path": "cot/vsr/000000169660.jpg", "expression": "What is surrounding the cake?", "bbox": [0.0, 3.56, 640.0, 474.07], "height": 480, "width": 640, "question_id": 364, "split": "val"}
+{"img_path": "cot/vsr/000000169660.jpg", "expression": "Is the oven surrounding the cake?", "bbox": [0.0, 3.56, 640.0, 474.07], "height": 480, "width": 640, "question_id": 365, "split": "val"}
+{"img_path": "cot/vsr/000000440650.jpg", "expression": "What does the cup contain?", "bbox": [73.14, 1.66, 425.0, 568.52], "height": 640, "width": 425, "question_id": 368, "split": "val"}
+{"img_path": "cot/vsr/000000440650.jpg", "expression": "Does the cup contain the cat?", "bbox": [73.14, 1.66, 425.0, 568.52], "height": 640, "width": 425, "question_id": 369, "split": "val"}
+{"img_path": "cot/vsr/000000303879.jpg", "expression": "Is the airplane far away from the bus?", "bbox": [569.93, 153.6, 576.3199999999999, 156.9], "height": 427, "width": 640, "question_id": 371, "split": "val"}
+{"img_path": "cot/vsr/000000375483.jpg", "expression": "What is left of the person?", "bbox": [106.6, 171.93, 227.25, 320.8], "height": 640, "width": 480, "question_id": 374, "split": "val"}
+{"img_path": "cot/vsr/000000375483.jpg", "expression": "Is the hair drier left of the person?", "bbox": [106.6, 171.93, 227.25, 320.8], "height": 640, "width": 480, "question_id": 375, "split": "val"}
+{"img_path": "cot/vsr/000000570092.jpg", "expression": "What is above the dog?", "bbox": [330.34, 1.43, 500.0, 54.52], "height": 375, "width": 500, "question_id": 376, "split": "val"}
+{"img_path": "cot/vsr/000000015391.jpg", "expression": "Is the bear touching the person?", "bbox": [237.3, 108.61, 413.12, 359.94], "height": 480, "width": 640, "question_id": 378, "split": "val"}
+{"img_path": "cot/vsr/000000022429.jpg", "expression": "Is the person part of the cake?", "bbox": [219.92, 110.92, 291.75, 226.07999999999998], "height": 640, "width": 480, "question_id": 380, "split": "val"}
+{"img_path": "cot/vsr/000000079058.jpg", "expression": "Is the dining table in front of the person?", "bbox": [0.0, 491.62, 480.0, 640.0], "height": 640, "width": 480, "question_id": 382, "split": "val"}
+{"img_path": "cot/vsr/000000455198.jpg", "expression": "Is the car under the cat?", "bbox": [0.0, 210.78, 640.0, 475.6], "height": 481, "width": 640, "question_id": 384, "split": "val"}
+{"img_path": "cot/vsr/000000428329.jpg", "expression": "What is behind the couch?", "bbox": [1.44, 2.88, 470.29, 464.54], "height": 640, "width": 480, "question_id": 387, "split": "val"}
+{"img_path": "cot/vsr/000000428329.jpg", "expression": "Is the umbrella behind the couch?", "bbox": [1.44, 2.88, 470.29, 464.54], "height": 640, "width": 480, "question_id": 388, "split": "val"}
+{"img_path": "cot/vsr/000000288106.jpg", "expression": "Is the microwave behind the cat?", "bbox": [3.24, 149.93, 209.26000000000002, 474.61], "height": 480, "width": 640, "question_id": 389, "split": "val"}
+{"img_path": "cot/vsr/000000026908.jpg", "expression": "What is near the dog?", "bbox": [491.96, 263.15, 537.46, 294.65], "height": 427, "width": 640, "question_id": 392, "split": "val"}
+{"img_path": "cot/vsr/000000036417.jpg", "expression": "What is off the banana?", "bbox": [150.57, 123.79, 237.04, 149.99], "height": 480, "width": 640, "question_id": 394, "split": "val"}
+{"img_path": "cot/vsr/000000496307.jpg", "expression": "What is touching the person?", "bbox": [51.95, 288.93, 479.69, 574.09], "height": 640, "width": 480, "question_id": 399, "split": "val"}
+{"img_path": "cot/vsr/000000496307.jpg", "expression": "Is the pizza touching the person?", "bbox": [51.95, 288.93, 479.69, 574.09], "height": 640, "width": 480, "question_id": 400, "split": "val"}
+{"img_path": "cot/vsr/000000565110.jpg", "expression": "What is at the right side of the cat?", "bbox": [70.11, 51.78, 639.64, 471.37], "height": 480, "width": 640, "question_id": 401, "split": "val"}
+{"img_path": "cot/vsr/000000369763.jpg", "expression": "What is behind the motorcycle?", "bbox": [313.02, 12.01, 553.98, 99.84], "height": 289, "width": 640, "question_id": 404, "split": "val"}
+{"img_path": "cot/vsr/000000481124.jpg", "expression": "Is the keyboard at the right side of the person?", "bbox": [199.14, 114.98, 640.0, 324.65], "height": 427, "width": 640, "question_id": 406, "split": "val"}
+{"img_path": "cot/vsr/000000185502.jpg", "expression": "Is the potted plant at the back of the bus?", "bbox": [568.34, 168.87, 630.03, 210.22], "height": 360, "width": 640, "question_id": 408, "split": "val"}
+{"img_path": "cot/vsr/000000309279.jpg", "expression": "What is under the donut?", "bbox": [0.0, 1.44, 427.15, 632.8100000000001], "height": 640, "width": 428, "question_id": 412, "split": "val"}
+{"img_path": "cot/vsr/000000147333.jpg", "expression": "What is at the edge of the bench?", "bbox": [125.56, 337.8, 227.13, 472.63], "height": 640, "width": 425, "question_id": 414, "split": "val"}
+{"img_path": "cot/vsr/000000038668.jpg", "expression": "Is the orange in front of the banana?", "bbox": [180.71, 257.51, 477.36, 575.25], "height": 640, "width": 480, "question_id": 416, "split": "val"}
+{"img_path": "cot/vsr/000000148677.jpg", "expression": "Is the suitcase next to the cat?", "bbox": [46.38, 126.2, 640.0, 447.64], "height": 480, "width": 640, "question_id": 420, "split": "val"}
+{"img_path": "cot/vsr/000000369208.jpg", "expression": "Is the laptop in front of the cat?", "bbox": [69.96, 0.0, 437.78999999999996, 328.47], "height": 612, "width": 612, "question_id": 422, "split": "val"}
+{"img_path": "cot/vsr/000000363793.jpg", "expression": "What is in the middle of the cake?", "bbox": [133.09, 90.61, 517.95, 380.40000000000003], "height": 427, "width": 640, "question_id": 424, "split": "val"}
+{"img_path": "cot/vsr/000000177246.jpg", "expression": "Is the person under the banana?", "bbox": [352.07, 449.72, 563.87, 594.12], "height": 612, "width": 612, "question_id": 426, "split": "val"}
+{"img_path": "cot/vsr/000000021846.jpg", "expression": "Is the person above the pizza?", "bbox": [14.38, 0.0, 480.0, 293.39], "height": 640, "width": 480, "question_id": 428, "split": "val"}
+{"img_path": "cot/vsr/000000251360.jpg", "expression": "What is above the cat?", "bbox": [0.53, 0.28, 639.55, 428.0], "height": 428, "width": 640, "question_id": 430, "split": "val"}
+{"img_path": "cot/vsr/000000018893.jpg", "expression": "Is the backpack under the cat?", "bbox": [205.54, 56.95, 428.58, 331.22999999999996], "height": 375, "width": 500, "question_id": 433, "split": "val"}
+{"img_path": "cot/vsr/000000026978.jpg", "expression": "Is the bed touching the banana?", "bbox": [0.0, 0.0, 639.58, 472.52], "height": 480, "width": 640, "question_id": 440, "split": "val"}
+{"img_path": "cot/vsr/000000326774.jpg", "expression": "What is on the cow?", "bbox": [2.18, 0.0, 337.27, 612.0], "height": 612, "width": 612, "question_id": 441, "split": "val"}
+{"img_path": "cot/vsr/000000326774.jpg", "expression": "Is the person on the cow?", "bbox": [2.18, 0.0, 337.27, 612.0], "height": 612, "width": 612, "question_id": 442, "split": "val"}
+{"img_path": "cot/vsr/000000265810.jpg", "expression": "What is at the left side of the person?", "bbox": [0.0, 484.5, 138.11, 639.2], "height": 640, "width": 429, "question_id": 443, "split": "val"}
+{"img_path": "cot/vsr/000000265810.jpg", "expression": "Is the oven at the left side of the person?", "bbox": [0.0, 484.5, 138.11, 639.2], "height": 640, "width": 429, "question_id": 444, "split": "val"}
+{"img_path": "cot/vsr/000000076970.jpg", "expression": "Is the cow in front of the sheep?", "bbox": [0.0, 183.11, 94.44, 262.28000000000003], "height": 366, "width": 500, "question_id": 446, "split": "val"}
+{"img_path": "cot/vsr/000000487002.jpg", "expression": "What is touching the teddy bear?", "bbox": [350.67, 129.33, 640.0, 473.78], "height": 480, "width": 640, "question_id": 448, "split": "val"}
+{"img_path": "cot/vsr/000000433170.jpg", "expression": "What is touching the umbrella?", "bbox": [265.35, 1.62, 447.37, 355.15], "height": 360, "width": 640, "question_id": 452, "split": "val"}
+{"img_path": "cot/vsr/000000433170.jpg", "expression": "Is the person touching the umbrella?", "bbox": [265.35, 1.62, 447.37, 355.15], "height": 360, "width": 640, "question_id": 453, "split": "val"}
+{"img_path": "cot/vsr/000000318462.jpg", "expression": "What is touching the cat?", "bbox": [0.0, 0.0, 640.0, 242.22], "height": 480, "width": 640, "question_id": 454, "split": "val"}
+{"img_path": "cot/vsr/000000318462.jpg", "expression": "Is the umbrella touching the cat?", "bbox": [0.0, 0.0, 640.0, 242.22], "height": 480, "width": 640, "question_id": 455, "split": "val"}
+{"img_path": "cot/vsr/000000507049.jpg", "expression": "What is under the person?", "bbox": [265.69, 0.72, 638.62, 373.65000000000003], "height": 428, "width": 640, "question_id": 456, "split": "val"}
+{"img_path": "cot/vsr/000000507049.jpg", "expression": "Is the toilet under the person?", "bbox": [265.69, 0.72, 638.62, 373.65000000000003], "height": 428, "width": 640, "question_id": 457, "split": "val"}
+{"img_path": "cot/vsr/000000178376.jpg", "expression": "What is below the cell phone?", "bbox": [418.52, 405.25, 611.6, 474.28], "height": 480, "width": 640, "question_id": 458, "split": "val"}
+{"img_path": "cot/vsr/000000178376.jpg", "expression": "Is the keyboard below the cell phone?", "bbox": [418.52, 405.25, 611.6, 474.28], "height": 480, "width": 640, "question_id": 459, "split": "val"}
+{"img_path": "cot/vsr/000000226597.jpg", "expression": "What is touching the couch?", "bbox": [394.43, 59.88, 473.38, 103.82], "height": 375, "width": 500, "question_id": 464, "split": "val"}
+{"img_path": "cot/vsr/000000226597.jpg", "expression": "Is the cat touching the couch?", "bbox": [394.43, 59.88, 473.38, 103.82], "height": 375, "width": 500, "question_id": 465, "split": "val"}
+{"img_path": "cot/vsr/000000273878.jpg", "expression": "Is the boat on the cell phone?", "bbox": [128.1, 369.46, 228.1, 489.97999999999996], "height": 640, "width": 427, "question_id": 467, "split": "val"}
+{"img_path": "cot/vsr/000000338407.jpg", "expression": "Is the train behind the motorcycle?", "bbox": [0.0, 7.9, 412.44, 180.15], "height": 640, "width": 640, "question_id": 471, "split": "val"}
+{"img_path": "cot/vsr/000000437564.jpg", "expression": "Is the bed touching the laptop?", "bbox": [0.0, 52.93, 500.0, 370.05], "height": 375, "width": 500, "question_id": 473, "split": "val"}
+{"img_path": "cot/vsr/000000171107.jpg", "expression": "What is behind the car?", "bbox": [246.3, 239.75, 552.87, 376.0], "height": 583, "width": 640, "question_id": 478, "split": "val"}
+{"img_path": "cot/vsr/000000171107.jpg", "expression": "Is the teddy bear behind the car?", "bbox": [246.3, 239.75, 552.87, 376.0], "height": 583, "width": 640, "question_id": 479, "split": "val"}
+{"img_path": "cot/vsr/000000508555.jpg", "expression": "What is in front of the dog?", "bbox": [0.0, 94.92, 263.19, 334.38], "height": 480, "width": 640, "question_id": 487, "split": "val"}
+{"img_path": "cot/vsr/000000534124.jpg", "expression": "Is the dining table across the suitcase?", "bbox": [0.0, 0.0, 500.0, 365.0], "height": 365, "width": 500, "question_id": 491, "split": "val"}
+{"img_path": "cot/vsr/000000548661.jpg", "expression": "Is the dining table in front of the cat?", "bbox": [1.01, 232.15, 639.3, 383.93], "height": 388, "width": 640, "question_id": 495, "split": "val"}
+{"img_path": "cot/vsr/000000278890.jpg", "expression": "Is the dining table touching the person?", "bbox": [49.62, 240.54, 206.02, 407.73], "height": 480, "width": 640, "question_id": 498, "split": "val"}
+{"img_path": "cot/vsr/000000379558.jpg", "expression": "Is the umbrella under the bird?", "bbox": [190.56, 0.0, 583.12, 419.24], "height": 424, "width": 640, "question_id": 503, "split": "val"}
+{"img_path": "cot/vsr/000000160267.jpg", "expression": "Is the refrigerator behind the person?", "bbox": [0.0, 0.0, 119.81, 268.97], "height": 640, "width": 429, "question_id": 506, "split": "val"}
+{"img_path": "cot/vsr/000000446260.jpg", "expression": "Is the tie around the person?", "bbox": [39.9, 184.52, 352.41999999999996, 640.0], "height": 640, "width": 480, "question_id": 508, "split": "val"}
+{"img_path": "cot/vsr/000000469793.jpg", "expression": "Is the microwave at the right side of the person?", "bbox": [2.02, 195.01, 121.11, 312.08], "height": 640, "width": 561, "question_id": 513, "split": "val"}
+{"img_path": "cot/vsr/000000305338.jpg", "expression": "Is the umbrella beneath the cat?", "bbox": [21.53, 0.0, 500.0, 329.16], "height": 333, "width": 500, "question_id": 518, "split": "val"}
+{"img_path": "cot/vsr/000000128612.jpg", "expression": "What does the cake has as a par?", "bbox": [310.7, 159.28, 501.01, 354.3], "height": 480, "width": 640, "question_id": 519, "split": "val"}
+{"img_path": "cot/vsr/000000128612.jpg", "expression": "Does the cake has as a par the cat?", "bbox": [310.7, 159.28, 501.01, 354.3], "height": 480, "width": 640, "question_id": 520, "split": "val"}
+{"img_path": "cot/vsr/000000406296.jpg", "expression": "Is the person above the cup?", "bbox": [17.73, 16.85, 412.20000000000005, 310.91], "height": 640, "width": 431, "question_id": 523, "split": "val"}
+{"img_path": "cot/vsr/000000407422.jpg", "expression": "What is at the left side of the car?", "bbox": [352.66, 290.0, 449.99, 373.92], "height": 394, "width": 640, "question_id": 524, "split": "val"}
+{"img_path": "cot/vsr/000000205846.jpg", "expression": "What is beneath the pizza?", "bbox": [1.12, 0.56, 500.0, 380.17], "height": 430, "width": 500, "question_id": 527, "split": "val"}
+{"img_path": "cot/vsr/000000205846.jpg", "expression": "Is the oven beneath the pizza?", "bbox": [1.12, 0.56, 500.0, 380.17], "height": 430, "width": 500, "question_id": 528, "split": "val"}
+{"img_path": "cot/vsr/000000236925.jpg", "expression": "Is the zebra far away from the car?", "bbox": [134.36, 99.41, 521.1700000000001, 468.89], "height": 480, "width": 640, "question_id": 530, "split": "val"}
+{"img_path": "cot/vsr/000000297631.jpg", "expression": "Is the truck adjacent to the motorcycle?", "bbox": [0.0, 1.08, 640.0, 398.02], "height": 480, "width": 640, "question_id": 532, "split": "val"}
+{"img_path": "cot/vsr/000000333538.jpg", "expression": "What is at the left side of the bench?", "bbox": [0.0, 0.0, 223.79, 354.34], "height": 359, "width": 640, "question_id": 538, "split": "val"}
+{"img_path": "cot/vsr/000000333538.jpg", "expression": "Is the potted plant at the left side of the bench?", "bbox": [0.0, 0.0, 223.79, 354.34], "height": 359, "width": 640, "question_id": 539, "split": "val"}
+{"img_path": "cot/vsr/000000000397.jpg", "expression": "Is the person touching the pizza?", "bbox": [3.74, 0.0, 229.4, 205.33], "height": 480, "width": 640, "question_id": 541, "split": "val"}
+{"img_path": "cot/vsr/000000365353.jpg", "expression": "What is above the cat?", "bbox": [2.5, 1.25, 637.17, 203.64], "height": 481, "width": 640, "question_id": 542, "split": "val"}
+{"img_path": "cot/vsr/000000523966.jpg", "expression": "Is the giraffe in front of the person?", "bbox": [51.22, 30.3, 191.21, 379.0], "height": 379, "width": 504, "question_id": 544, "split": "val"}
+{"img_path": "cot/vsr/000000326313.jpg", "expression": "What is under the cat?", "bbox": [2.49, 236.68, 523.64, 463.58000000000004], "height": 480, "width": 640, "question_id": 545, "split": "val"}
+{"img_path": "cot/vsr/000000414258.jpg", "expression": "What is far away from the motorcycle?", "bbox": [82.45, 65.51, 615.5300000000001, 474.34999999999997], "height": 480, "width": 640, "question_id": 547, "split": "val"}
+{"img_path": "cot/vsr/000000414258.jpg", "expression": "Is the banana far away from the motorcycle?", "bbox": [82.45, 65.51, 615.5300000000001, 474.34999999999997], "height": 480, "width": 640, "question_id": 548, "split": "val"}
+{"img_path": "cot/vsr/000000532667.jpg", "expression": "What is beneath the umbrella?", "bbox": [241.85, 129.02, 273.86, 190.63], "height": 468, "width": 640, "question_id": 549, "split": "val"}
+{"img_path": "cot/vsr/000000532667.jpg", "expression": "Is the bird beneath the umbrella?", "bbox": [241.85, 129.02, 273.86, 190.63], "height": 468, "width": 640, "question_id": 550, "split": "val"}
+{"img_path": "cot/vsr/000000263098.jpg", "expression": "Is the fire hydrant near the teddy bear?", "bbox": [405.57, 44.0, 448.23, 105.72999999999999], "height": 432, "width": 640, "question_id": 551, "split": "val"}
+{"img_path": "cot/vsr/000000132422.jpg", "expression": "Is the couch touching the carrot?", "bbox": [1.85, 1.69, 499.59000000000003, 370.15], "height": 374, "width": 500, "question_id": 555, "split": "val"}
+{"img_path": "cot/vsr/000000018873.jpg", "expression": "What is on the cake?", "bbox": [37.06, 96.78, 332.75, 266.78], "height": 311, "width": 500, "question_id": 558, "split": "val"}
+{"img_path": "cot/vsr/000000562247.jpg", "expression": "Is the oven at the left side of the person?", "bbox": [95.52, 17.19, 638.04, 426.0], "height": 426, "width": 640, "question_id": 560, "split": "val"}
+{"img_path": "cot/vsr/000000251368.jpg", "expression": "Is the skateboard at the left side of the dog?", "bbox": [4.5, 270.38, 395.25, 329.63], "height": 333, "width": 500, "question_id": 562, "split": "val"}
+{"img_path": "cot/vsr/000000309968.jpg", "expression": "Is the pizza next to the dog?", "bbox": [402.07, 306.72, 520.12, 355.26000000000005], "height": 489, "width": 640, "question_id": 563, "split": "val"}
+{"img_path": "cot/vsr/000000188053.jpg", "expression": "Is the teddy bear left of the cup?", "bbox": [1.08, 2.69, 444.63, 472.08], "height": 478, "width": 640, "question_id": 565, "split": "val"}
+{"img_path": "cot/vsr/000000108531.jpg", "expression": "Is the motorcycle ahead of the car?", "bbox": [0.0, 67.78, 640.0, 475.51], "height": 480, "width": 640, "question_id": 568, "split": "val"}
+{"img_path": "cot/vsr/000000072535.jpg", "expression": "What is beneath the cat?", "bbox": [0.0, 202.74, 490.1, 357.0], "height": 357, "width": 500, "question_id": 569, "split": "val"}
+{"img_path": "cot/vsr/000000072535.jpg", "expression": "Is the truck beneath the cat?", "bbox": [0.0, 202.74, 490.1, 357.0], "height": 357, "width": 500, "question_id": 570, "split": "val"}
+{"img_path": "cot/vsr/000000419150.jpg", "expression": "What is attached to the bicycle?", "bbox": [76.58, 154.13, 640.0, 271.87], "height": 426, "width": 640, "question_id": 572, "split": "val"}
+{"img_path": "cot/vsr/000000185360.jpg", "expression": "Is the cow left of the car?", "bbox": [10.76, 44.54, 155.89999999999998, 162.76], "height": 361, "width": 500, "question_id": 575, "split": "val"}
+{"img_path": "cot/vsr/000000037059.jpg", "expression": "Is the chair under the dog?", "bbox": [378.75, 21.88, 482.5, 146.88], "height": 480, "width": 640, "question_id": 576, "split": "val"}
+{"img_path": "cot/vsr/000000123916.jpg", "expression": "Is the umbrella at the left side of the couch?", "bbox": [160.24, 47.02, 569.97, 329.13], "height": 427, "width": 640, "question_id": 578, "split": "val"}
+{"img_path": "cot/vsr/000000016458.jpg", "expression": "What is left of the bed?", "bbox": [70.38, 0.58, 355.36, 497.01], "height": 500, "width": 375, "question_id": 579, "split": "val"}
+{"img_path": "cot/vsr/000000016458.jpg", "expression": "Is the surfboard left of the bed?", "bbox": [70.38, 0.58, 355.36, 497.01], "height": 500, "width": 375, "question_id": 580, "split": "val"}
+{"img_path": "cot/vsr/000000369653.jpg", "expression": "What is facing the book?", "bbox": [379.1, 153.51, 579.46, 325.04999999999995], "height": 640, "width": 640, "question_id": 584, "split": "val"}
+{"img_path": "cot/vsr/000000135023.jpg", "expression": "What is far from the parking meter?", "bbox": [32.25, 131.72, 81.05, 172.07], "height": 640, "width": 480, "question_id": 586, "split": "val"}
+{"img_path": "cot/vsr/000000135023.jpg", "expression": "Is the bus far from the parking meter?", "bbox": [32.25, 131.72, 81.05, 172.07], "height": 640, "width": 480, "question_id": 587, "split": "val"}
+{"img_path": "cot/vsr/000000329551.jpg", "expression": "What is below the teddy bear?", "bbox": [200.75, 120.06, 607.78, 418.4], "height": 427, "width": 640, "question_id": 589, "split": "val"}
+{"img_path": "cot/vsr/000000329551.jpg", "expression": "Is the cat below the teddy bear?", "bbox": [200.75, 120.06, 607.78, 418.4], "height": 427, "width": 640, "question_id": 590, "split": "val"}
+{"img_path": "cot/vsr/000000556341.jpg", "expression": "What is by the person?", "bbox": [175.08, 273.41, 419.51, 640.0], "height": 640, "width": 480, "question_id": 591, "split": "val"}
+{"img_path": "cot/vsr/000000556341.jpg", "expression": "Is the zebra by the person?", "bbox": [175.08, 273.41, 419.51, 640.0], "height": 640, "width": 480, "question_id": 592, "split": "val"}
+{"img_path": "cot/vsr/000000204289.jpg", "expression": "What does the bowl contain?", "bbox": [135.68, 262.7, 460.44, 588.91], "height": 612, "width": 612, "question_id": 593, "split": "val"}
+{"img_path": "cot/vsr/000000114119.jpg", "expression": "What is over the cat?", "bbox": [28.41, 22.87, 382.14000000000004, 353.86], "height": 635, "width": 498, "question_id": 595, "split": "val"}
+{"img_path": "cot/vsr/000000119729.jpg", "expression": "What is away from the banana?", "bbox": [523.8, 0.0, 639.3399999999999, 97.78], "height": 428, "width": 640, "question_id": 597, "split": "val"}
+{"img_path": "cot/vsr/000000119729.jpg", "expression": "Is the book away from the banana?", "bbox": [523.8, 0.0, 639.3399999999999, 97.78], "height": 428, "width": 640, "question_id": 598, "split": "val"}
+{"img_path": "cot/vsr/000000140017.jpg", "expression": "What is under the pizza?", "bbox": [0.0, 270.74, 463.82, 474.61], "height": 480, "width": 640, "question_id": 599, "split": "val"}
+{"img_path": "cot/vsr/000000140017.jpg", "expression": "Is the oven under the pizza?", "bbox": [0.0, 270.74, 463.82, 474.61], "height": 480, "width": 640, "question_id": 600, "split": "val"}
+{"img_path": "cot/vsr/000000134769.jpg", "expression": "What is at the left side of the pizza?", "bbox": [82.71, 2.15, 245.98000000000002, 107.42], "height": 478, "width": 640, "question_id": 603, "split": "val"}
+{"img_path": "cot/vsr/000000365600.jpg", "expression": "Is the truck below the boat?", "bbox": [68.14, 31.76, 614.23, 416.62], "height": 429, "width": 640, "question_id": 606, "split": "val"}
+{"img_path": "cot/vsr/000000316536.jpg", "expression": "Is the cow facing the chair?", "bbox": [3.32, 18.29, 254.34, 571.8399999999999], "height": 640, "width": 427, "question_id": 607, "split": "val"}
+{"img_path": "cot/vsr/000000457599.jpg", "expression": "Is the pizza above the oven?", "bbox": [304.78, 150.3, 463.49, 178.23000000000002], "height": 428, "width": 640, "question_id": 608, "split": "val"}
+{"img_path": "cot/vsr/000000459736.jpg", "expression": "Is the cow behind the sheep?", "bbox": [97.94, 187.24, 366.89, 413.32000000000005], "height": 480, "width": 640, "question_id": 611, "split": "val"}
+{"img_path": "cot/vsr/000000058008.jpg", "expression": "What is behind the banana?", "bbox": [208.94, 7.91, 487.91, 256.38], "height": 480, "width": 640, "question_id": 612, "split": "val"}
+{"img_path": "cot/vsr/000000058008.jpg", "expression": "Is the apple behind the banana?", "bbox": [208.94, 7.91, 487.91, 256.38], "height": 480, "width": 640, "question_id": 613, "split": "val"}
+{"img_path": "cot/vsr/000000020632.jpg", "expression": "Does the handbag contain the teddy bear?", "bbox": [144.64, 67.41, 407.28999999999996, 379.95000000000005], "height": 640, "width": 521, "question_id": 617, "split": "val"}
+{"img_path": "cot/vsr/000000492937.jpg", "expression": "Does the train contain the bicycle?", "bbox": [20.61, 16.04, 494.67, 601.0899999999999], "height": 612, "width": 612, "question_id": 618, "split": "val"}
+{"img_path": "cot/vsr/000000497579.jpg", "expression": "Is the person next to the horse?", "bbox": [316.46, 208.15, 427.58, 481.83000000000004], "height": 640, "width": 640, "question_id": 619, "split": "val"}
+{"img_path": "cot/vsr/000000158601.jpg", "expression": "Is the person in the suitcase?", "bbox": [355.72, 59.72, 507.73, 190.81], "height": 464, "width": 640, "question_id": 620, "split": "val"}
+{"img_path": "cot/vsr/000000336182.jpg", "expression": "What is behind the bed?", "bbox": [121.35, 242.69, 205.55, 313.99], "height": 480, "width": 640, "question_id": 623, "split": "val"}
+{"img_path": "cot/vsr/000000336182.jpg", "expression": "Is the handbag behind the bed?", "bbox": [121.35, 242.69, 205.55, 313.99], "height": 480, "width": 640, "question_id": 624, "split": "val"}
+{"img_path": "cot/vsr/000000324483.jpg", "expression": "Is the suitcase below the cat?", "bbox": [0.96, 52.9, 554.0, 423.19], "height": 428, "width": 640, "question_id": 625, "split": "val"}
+{"img_path": "cot/vsr/000000121068.jpg", "expression": "What is at the right side of the person?", "bbox": [375.07, 203.3, 485.82, 299.98], "height": 427, "width": 640, "question_id": 627, "split": "val"}
+{"img_path": "cot/vsr/000000405873.jpg", "expression": "What is on the bench?", "bbox": [151.27, 0.0, 538.0, 596.78], "height": 640, "width": 538, "question_id": 629, "split": "val"}
+{"img_path": "cot/vsr/000000405873.jpg", "expression": "Is the person on the bench?", "bbox": [151.27, 0.0, 538.0, 596.78], "height": 640, "width": 538, "question_id": 630, "split": "val"}
+{"img_path": "cot/vsr/000000135023.jpg", "expression": "What is far away from the parking meter?", "bbox": [32.25, 131.72, 81.05, 172.07], "height": 640, "width": 480, "question_id": 631, "split": "val"}
+{"img_path": "cot/vsr/000000135023.jpg", "expression": "Is the bus far away from the parking meter?", "bbox": [32.25, 131.72, 81.05, 172.07], "height": 640, "width": 480, "question_id": 632, "split": "val"}
+{"img_path": "cot/vsr/000000039368.jpg", "expression": "Is the dog on the bus?", "bbox": [623.24, 264.65, 640.0, 336.63], "height": 427, "width": 640, "question_id": 633, "split": "val"}
+{"img_path": "cot/vsr/000000196002.jpg", "expression": "What does the car contain?", "bbox": [306.34, 227.6, 455.18999999999994, 365.65999999999997], "height": 480, "width": 640, "question_id": 635, "split": "val"}
+{"img_path": "cot/vsr/000000520449.jpg", "expression": "Is the person touching the horse?", "bbox": [21.52, 179.37, 228.16, 586.9100000000001], "height": 640, "width": 546, "question_id": 639, "split": "val"}
+{"img_path": "cot/vsr/000000023218.jpg", "expression": "What is in front of the person?", "bbox": [0.0, 385.34, 207.35, 608.92], "height": 640, "width": 426, "question_id": 640, "split": "val"}
+{"img_path": "cot/vsr/000000023218.jpg", "expression": "Is the donut in front of the person?", "bbox": [0.0, 385.34, 207.35, 608.92], "height": 640, "width": 426, "question_id": 641, "split": "val"}
+{"img_path": "cot/vsr/000000553968.jpg", "expression": "What is behind the couch?", "bbox": [152.79, 179.28, 373.01, 368.94], "height": 471, "width": 640, "question_id": 642, "split": "val"}
+{"img_path": "cot/vsr/000000553968.jpg", "expression": "Is the bed behind the couch?", "bbox": [152.79, 179.28, 373.01, 368.94], "height": 471, "width": 640, "question_id": 643, "split": "val"}
+{"img_path": "cot/vsr/000000557239.jpg", "expression": "Is the toilet surrounding the cat?", "bbox": [8.61, 26.91, 639.38, 473.62], "height": 479, "width": 640, "question_id": 645, "split": "val"}
+{"img_path": "cot/vsr/000000099372.jpg", "expression": "Is the couch below the bird?", "bbox": [424.99, 0.75, 637.48, 232.66], "height": 480, "width": 640, "question_id": 650, "split": "val"}
+{"img_path": "cot/vsr/000000015745.jpg", "expression": "What is in the train?", "bbox": [209.55, 6.9, 314.75, 151.77], "height": 332, "width": 500, "question_id": 654, "split": "val"}
+{"img_path": "cot/vsr/000000036757.jpg", "expression": "Is the motorcycle beneath the cat?", "bbox": [81.18, 83.29, 637.8599999999999, 420.67], "height": 427, "width": 640, "question_id": 657, "split": "val"}
+{"img_path": "cot/vsr/000000284873.jpg", "expression": "Is the dining table under the train?", "bbox": [597.46, 226.25, 640.0, 237.97], "height": 426, "width": 640, "question_id": 661, "split": "val"}
+{"img_path": "cot/vsr/000000392198.jpg", "expression": "What is in the bowl?", "bbox": [23.18, 87.24, 265.33, 330.24], "height": 612, "width": 612, "question_id": 666, "split": "val"}
+{"img_path": "cot/vsr/000000395850.jpg", "expression": "What is inside the airplane?", "bbox": [445.54, 204.73, 457.6, 213.26999999999998], "height": 440, "width": 640, "question_id": 668, "split": "val"}
+{"img_path": "cot/vsr/000000274687.jpg", "expression": "Is the bed away from the bicycle?", "bbox": [0.0, 123.87, 424.99, 418.34000000000003], "height": 480, "width": 640, "question_id": 670, "split": "val"}
+{"img_path": "cot/vsr/000000222987.jpg", "expression": "What is beneath the banana?", "bbox": [76.76, 0.0, 554.62, 422.2], "height": 427, "width": 640, "question_id": 679, "split": "val"}
+{"img_path": "cot/vsr/000000222987.jpg", "expression": "Is the cake beneath the banana?", "bbox": [76.76, 0.0, 554.62, 422.2], "height": 427, "width": 640, "question_id": 680, "split": "val"}
+{"img_path": "cot/vsr/000000341094.jpg", "expression": "Is the bear touching the person?", "bbox": [13.92, 31.1, 232.98, 364.33000000000004], "height": 375, "width": 500, "question_id": 681, "split": "val"}
+{"img_path": "cot/vsr/000000534161.jpg", "expression": "What is in front of the person?", "bbox": [21.62, 263.06, 321.44, 473.51], "height": 640, "width": 480, "question_id": 682, "split": "val"}
+{"img_path": "cot/vsr/000000382863.jpg", "expression": "Does the car contain the donut?", "bbox": [152.66, 112.77, 418.09000000000003, 412.58], "height": 612, "width": 612, "question_id": 684, "split": "val"}
+{"img_path": "cot/vsr/000000184176.jpg", "expression": "Is the truck behind the cake?", "bbox": [30.75, 127.73, 620.93, 422.23], "height": 479, "width": 640, "question_id": 687, "split": "val"}
+{"img_path": "cot/vsr/000000177532.jpg", "expression": "What is touching the dog?", "bbox": [101.12, 0.0, 374.16, 500.0], "height": 500, "width": 375, "question_id": 688, "split": "val"}
+{"img_path": "cot/vsr/000000428769.jpg", "expression": "Is the parking meter at the left side of the car?", "bbox": [257.44, 0.75, 499.12, 327.24], "height": 334, "width": 500, "question_id": 692, "split": "val"}
+{"img_path": "cot/vsr/000000060568.jpg", "expression": "Is the elephant behind the person?", "bbox": [21.86, 71.29, 540.87, 372.62], "height": 423, "width": 640, "question_id": 699, "split": "val"}
+{"img_path": "cot/vsr/000000168173.jpg", "expression": "Is the oven at the back of the person?", "bbox": [590.75, 140.98, 640.0, 266.27], "height": 426, "width": 640, "question_id": 702, "split": "val"}
+{"img_path": "cot/vsr/000000419443.jpg", "expression": "Is the teddy bear behind the book?", "bbox": [317.98, 15.46, 640.0, 471.9], "height": 480, "width": 640, "question_id": 706, "split": "val"}
+{"img_path": "cot/vsr/000000274687.jpg", "expression": "What is behind the bicycle?", "bbox": [0.0, 123.87, 424.99, 418.34000000000003], "height": 480, "width": 640, "question_id": 707, "split": "val"}
+{"img_path": "cot/vsr/000000529411.jpg", "expression": "Is the teddy bear right of the dog?", "bbox": [12.97, 207.28, 210.7, 362.87], "height": 416, "width": 640, "question_id": 712, "split": "val"}
+{"img_path": "cot/vsr/000000514749.jpg", "expression": "What is below the dining table?", "bbox": [0.0, 0.0, 640.0, 480.0], "height": 480, "width": 640, "question_id": 713, "split": "val"}
+{"img_path": "cot/vsr/000000462011.jpg", "expression": "Is the toilet under the person?", "bbox": [31.65, 379.61, 40.05, 422.77], "height": 427, "width": 640, "question_id": 715, "split": "val"}
+{"img_path": "cot/vsr/000000281598.jpg", "expression": "Is the chair beneath the cat?", "bbox": [0.0, 1.85, 351.5, 631.9], "height": 640, "width": 491, "question_id": 716, "split": "val"}
+{"img_path": "cot/vsr/000000054643.jpg", "expression": "Is the teddy bear touching the dog?", "bbox": [103.05, 20.73, 448.2, 432.92], "height": 478, "width": 640, "question_id": 719, "split": "val"}
+{"img_path": "cot/vsr/000000522225.jpg", "expression": "Is the bear close to the dog?", "bbox": [57.51, 201.74, 485.31, 406.56], "height": 450, "width": 640, "question_id": 727, "split": "val"}
+{"img_path": "cot/vsr/000000407386.jpg", "expression": "What is in front of the cat?", "bbox": [0.0, 180.05, 367.28, 480.0], "height": 480, "width": 640, "question_id": 728, "split": "val"}
+{"img_path": "cot/vsr/000000420450.jpg", "expression": "Is the book perpendicular to the bed?", "bbox": [66.38, 3.77, 385.96999999999997, 265.59], "height": 547, "width": 640, "question_id": 730, "split": "val"}
+{"img_path": "cot/vsr/000000463670.jpg", "expression": "Is the teddy bear at the left side of the dog?", "bbox": [171.0, 388.12, 386.58000000000004, 622.14], "height": 640, "width": 480, "question_id": 732, "split": "val"}
+{"img_path": "cot/vsr/000000046090.jpg", "expression": "What is next to the cat?", "bbox": [32.79, 270.4, 155.55, 355.33], "height": 375, "width": 500, "question_id": 733, "split": "val"}
+{"img_path": "cot/vsr/000000461705.jpg", "expression": "What is connected to the motorcycle?", "bbox": [196.25, 136.25, 640.0, 473.75], "height": 480, "width": 640, "question_id": 736, "split": "val"}
+{"img_path": "cot/vsr/000000461705.jpg", "expression": "Is the suitcase connected to the motorcycle?", "bbox": [196.25, 136.25, 640.0, 473.75], "height": 480, "width": 640, "question_id": 737, "split": "val"}
+{"img_path": "cot/vsr/000000407705.jpg", "expression": "Is the refrigerator beneath the tv?", "bbox": [51.82, 268.67, 640.0, 427.0], "height": 427, "width": 640, "question_id": 739, "split": "val"}
+{"img_path": "cot/vsr/000000159075.jpg", "expression": "Is the truck under the dog?", "bbox": [139.19, 170.62, 500.0, 327.76], "height": 333, "width": 500, "question_id": 741, "split": "val"}
+{"img_path": "cot/vsr/000000240211.jpg", "expression": "Does the bowl contain the hot dog?", "bbox": [0.0, 45.95, 283.01, 225.57999999999998], "height": 424, "width": 640, "question_id": 743, "split": "val"}
+{"img_path": "cot/vsr/000000433110.jpg", "expression": "Is the couch in front of the backpack?", "bbox": [0.0, 0.89, 178.66, 393.95], "height": 480, "width": 640, "question_id": 746, "split": "val"}
+{"img_path": "cot/vsr/000000223930.jpg", "expression": "Is the bicycle parallel to the motorcycle?", "bbox": [382.98, 12.66, 640.0, 234.89], "height": 484, "width": 640, "question_id": 748, "split": "val"}
+{"img_path": "cot/vsr/000000169858.jpg", "expression": "What is next to the banana?", "bbox": [0.0, 127.88, 480.0, 634.4300000000001], "height": 640, "width": 480, "question_id": 752, "split": "val"}
+{"img_path": "cot/vsr/000000169858.jpg", "expression": "Is the person next to the banana?", "bbox": [0.0, 127.88, 480.0, 634.4300000000001], "height": 640, "width": 480, "question_id": 753, "split": "val"}
+{"img_path": "cot/vsr/000000453472.jpg", "expression": "Is the cat under the umbrella?", "bbox": [2.49, 31.17, 467.53000000000003, 480.0], "height": 480, "width": 640, "question_id": 757, "split": "val"}
+{"img_path": "cot/vsr/000000456825.jpg", "expression": "What is off the boat?", "bbox": [142.55, 276.54, 219.65, 340.08000000000004], "height": 500, "width": 500, "question_id": 761, "split": "val"}
+{"img_path": "cot/vsr/000000456825.jpg", "expression": "Is the dog off the boat?", "bbox": [142.55, 276.54, 219.65, 340.08000000000004], "height": 500, "width": 500, "question_id": 762, "split": "val"}
+{"img_path": "cot/vsr/000000566016.jpg", "expression": "Is the backpack under the cat?", "bbox": [0.0, 213.01, 627.04, 461.23], "height": 480, "width": 640, "question_id": 765, "split": "val"}
+{"img_path": "cot/vsr/000000410533.jpg", "expression": "Is the cat in the sink?", "bbox": [118.95, 13.34, 448.01, 420.21999999999997], "height": 428, "width": 640, "question_id": 770, "split": "val"}
+{"img_path": "cot/vsr/000000251752.jpg", "expression": "Is the dining table under the dog?", "bbox": [50.81, 325.95, 640.0, 475.14], "height": 480, "width": 640, "question_id": 773, "split": "val"}
+{"img_path": "cot/vsr/000000445408.jpg", "expression": "Is the airplane behind the car?", "bbox": [144.59, 238.22, 365.03999999999996, 289.19], "height": 480, "width": 640, "question_id": 775, "split": "val"}
+{"img_path": "cot/vsr/000000019131.jpg", "expression": "Is the microwave touching the cat?", "bbox": [0.0, 24.46, 94.49, 191.21], "height": 428, "width": 640, "question_id": 776, "split": "val"}
+{"img_path": "cot/vsr/000000023137.jpg", "expression": "Is the truck over the cat?", "bbox": [54.89, 0.0, 640.0, 405.74], "height": 480, "width": 640, "question_id": 778, "split": "val"}
+{"img_path": "cot/vsr/000000333956.jpg", "expression": "Is the bench facing away from the parking meter?", "bbox": [0.0, 410.64, 62.07, 571.38], "height": 640, "width": 428, "question_id": 780, "split": "val"}
+{"img_path": "cot/vsr/000000159729.jpg", "expression": "What is attached to the person?", "bbox": [159.64, 25.89, 471.72999999999996, 606.92], "height": 640, "width": 602, "question_id": 781, "split": "val"}
+{"img_path": "cot/vsr/000000192799.jpg", "expression": "What is behind the dog?", "bbox": [0.05, 28.18, 370.86, 269.3], "height": 480, "width": 640, "question_id": 783, "split": "val"}
+{"img_path": "cot/vsr/000000142719.jpg", "expression": "What is under the cat?", "bbox": [27.26, 400.02, 436.23, 628.1899999999999], "height": 640, "width": 441, "question_id": 785, "split": "val"}
+{"img_path": "cot/vsr/000000046438.jpg", "expression": "What is touching the cat?", "bbox": [0.83, 186.37, 266.91999999999996, 358.65999999999997], "height": 375, "width": 500, "question_id": 787, "split": "val"}
+{"img_path": "cot/vsr/000000046438.jpg", "expression": "Is the donut touching the cat?", "bbox": [0.83, 186.37, 266.91999999999996, 358.65999999999997], "height": 375, "width": 500, "question_id": 788, "split": "val"}
+{"img_path": "cot/vsr/000000500194.jpg", "expression": "Is the person on the elephant?", "bbox": [151.13, 23.09, 340.27, 294.51], "height": 640, "width": 480, "question_id": 791, "split": "val"}
+{"img_path": "cot/vsr/000000423065.jpg", "expression": "Is the orange at the right side of the umbrella?", "bbox": [0.0, 421.32, 349.27, 629.27], "height": 640, "width": 480, "question_id": 792, "split": "val"}
+{"img_path": "cot/vsr/000000191772.jpg", "expression": "Is the dining table touching the teddy bear?", "bbox": [1.3, 351.19, 375.0, 492.38], "height": 500, "width": 375, "question_id": 794, "split": "val"}
+{"img_path": "cot/vsr/000000087739.jpg", "expression": "Is the person with the cow?", "bbox": [375.96, 124.59, 440.5, 248.49], "height": 480, "width": 640, "question_id": 799, "split": "val"}
+{"img_path": "cot/vsr/000000345252.jpg", "expression": "Is the person at the right side of the laptop?", "bbox": [205.89, 28.92, 598.5899999999999, 478.54], "height": 479, "width": 640, "question_id": 805, "split": "val"}
+{"img_path": "cot/vsr/000000244712.jpg", "expression": "Is the motorcycle beneath the cat?", "bbox": [0.0, 23.55, 616.99, 448.54], "height": 480, "width": 640, "question_id": 807, "split": "val"}
+{"img_path": "cot/vsr/000000372317.jpg", "expression": "What is in front of the bus?", "bbox": [14.97, 174.63, 26.32, 197.32999999999998], "height": 428, "width": 640, "question_id": 808, "split": "val"}
+{"img_path": "cot/vsr/000000054273.jpg", "expression": "Is the laptop below the person?", "bbox": [7.19, 2.88, 442.96999999999997, 375.37], "height": 640, "width": 526, "question_id": 810, "split": "val"}
+{"img_path": "cot/vsr/000000249952.jpg", "expression": "Is the umbrella outside the cat?", "bbox": [15.14, 18.92, 592.43, 452.43], "height": 480, "width": 640, "question_id": 811, "split": "val"}
+{"img_path": "cot/vsr/000000405998.jpg", "expression": "What is on the cake?", "bbox": [83.42, 356.67, 280.45, 510.56], "height": 640, "width": 480, "question_id": 812, "split": "val"}
+{"img_path": "cot/vsr/000000405998.jpg", "expression": "Is the horse on the cake?", "bbox": [83.42, 356.67, 280.45, 510.56], "height": 640, "width": 480, "question_id": 813, "split": "val"}
+{"img_path": "cot/vsr/000000391117.jpg", "expression": "Is the person on the bus?", "bbox": [403.28, 201.9, 448.9, 279.65], "height": 480, "width": 640, "question_id": 815, "split": "val"}
+{"img_path": "cot/vsr/000000162355.jpg", "expression": "Is the person on the bus?", "bbox": [264.86, 29.73, 441.08000000000004, 438.38], "height": 480, "width": 640, "question_id": 816, "split": "val"}
+{"img_path": "cot/vsr/000000033625.jpg", "expression": "Is the person on top of the elephant?", "bbox": [382.92, 57.17, 490.20000000000005, 199.2], "height": 480, "width": 640, "question_id": 818, "split": "val"}
+{"img_path": "cot/vsr/000000212868.jpg", "expression": "What is on top of the cat?", "bbox": [255.24, 70.9, 533.1600000000001, 384.27], "height": 631, "width": 640, "question_id": 819, "split": "val"}
+{"img_path": "cot/vsr/000000253550.jpg", "expression": "Is the teddy bear on top of the person?", "bbox": [0.0, 241.62, 480.0, 640.0], "height": 640, "width": 480, "question_id": 826, "split": "val"}
+{"img_path": "cot/vsr/000000054953.jpg", "expression": "What is touching the cat?", "bbox": [5.38, 114.21, 345.46999999999997, 475.82], "height": 480, "width": 640, "question_id": 827, "split": "val"}
+{"img_path": "cot/vsr/000000085637.jpg", "expression": "What is beneath the suitcase?", "bbox": [0.0, 20.45, 640.0, 455.25], "height": 480, "width": 640, "question_id": 829, "split": "val"}
+{"img_path": "cot/vsr/000000085637.jpg", "expression": "Is the bed beneath the suitcase?", "bbox": [0.0, 20.45, 640.0, 455.25], "height": 480, "width": 640, "question_id": 830, "split": "val"}
+{"img_path": "cot/vsr/000000455975.jpg", "expression": "Is the couch facing away from the laptop?", "bbox": [0.0, 346.51, 640.0, 480.0], "height": 480, "width": 640, "question_id": 833, "split": "val"}
+{"img_path": "cot/vsr/000000153259.jpg", "expression": "Is the teddy bear on top of the cake?", "bbox": [92.49, 72.67, 531.18, 536.47], "height": 588, "width": 640, "question_id": 834, "split": "val"}
+{"img_path": "cot/vsr/000000174071.jpg", "expression": "Is the person left of the toilet?", "bbox": [0.27, 123.9, 169.28, 480.0], "height": 480, "width": 640, "question_id": 837, "split": "val"}
+{"img_path": "cot/vsr/000000424588.jpg", "expression": "Does the pizza contain the oven?", "bbox": [135.42, 0.65, 375.0, 220.70000000000002], "height": 500, "width": 375, "question_id": 838, "split": "val"}
+{"img_path": "cot/vsr/000000326853.jpg", "expression": "Is the person above the teddy bear?", "bbox": [210.94, 122.59, 421.52, 494.02], "height": 500, "width": 500, "question_id": 839, "split": "val"}
+{"img_path": "cot/vsr/000000254670.jpg", "expression": "Is the bottle touching the cat?", "bbox": [134.99, 208.45, 425.16, 422.40999999999997], "height": 427, "width": 640, "question_id": 840, "split": "val"}
+{"img_path": "cot/vsr/000000541725.jpg", "expression": "What is touching the book?", "bbox": [0.0, 133.53, 124.14, 464.77], "height": 480, "width": 640, "question_id": 841, "split": "val"}
+{"img_path": "cot/vsr/000000541725.jpg", "expression": "Is the handbag touching the book?", "bbox": [0.0, 133.53, 124.14, 464.77], "height": 480, "width": 640, "question_id": 842, "split": "val"}
+{"img_path": "cot/vsr/000000264250.jpg", "expression": "Is the laptop touching the bench?", "bbox": [91.17, 129.83, 159.12, 192.62], "height": 332, "width": 500, "question_id": 848, "split": "val"}
+{"img_path": "cot/vsr/000000231206.jpg", "expression": "Is the car below the parking meter?", "bbox": [0.0, 1.44, 256.78, 421.71], "height": 427, "width": 640, "question_id": 852, "split": "val"}
+{"img_path": "cot/vsr/000000087264.jpg", "expression": "Is the cow right of the clock?", "bbox": [0.0, 49.1, 396.34, 375.0], "height": 375, "width": 500, "question_id": 853, "split": "val"}
+{"img_path": "cot/vsr/000000320015.jpg", "expression": "What is over the bed?", "bbox": [47.46, 139.07, 448.71999999999997, 443.96999999999997], "height": 640, "width": 480, "question_id": 854, "split": "val"}
+{"img_path": "cot/vsr/000000320015.jpg", "expression": "Is the person over the bed?", "bbox": [47.46, 139.07, 448.71999999999997, 443.96999999999997], "height": 640, "width": 480, "question_id": 855, "split": "val"}
+{"img_path": "cot/vsr/000000320379.jpg", "expression": "Is the person behind the dog?", "bbox": [0.84, 21.91, 283.98999999999995, 370.79], "height": 375, "width": 500, "question_id": 856, "split": "val"}
+{"img_path": "cot/vsr/000000005577.jpg", "expression": "Is the backpack on the cat?", "bbox": [358.11, 2.16, 639.64, 359.19], "height": 480, "width": 640, "question_id": 857, "split": "val"}
+{"img_path": "cot/vsr/000000526536.jpg", "expression": "What is left of the pizza?", "bbox": [141.3, 107.08, 566.3, 417.27], "height": 425, "width": 640, "question_id": 862, "split": "val"}
+{"img_path": "cot/vsr/000000519688.jpg", "expression": "What is touching the person?", "bbox": [2.22, 313.54, 328.79, 638.28], "height": 640, "width": 521, "question_id": 864, "split": "val"}
+{"img_path": "cot/vsr/000000319061.jpg", "expression": "Is the bench far away from the hot dog?", "bbox": [0.96, 1.07, 601.7, 422.34999999999997], "height": 428, "width": 640, "question_id": 867, "split": "val"}
+{"img_path": "cot/vsr/000000389718.jpg", "expression": "What is under the cat?", "bbox": [0.0, 2.9, 425.09, 630.26], "height": 640, "width": 426, "question_id": 869, "split": "val"}
+{"img_path": "cot/vsr/000000172987.jpg", "expression": "Is the person at the left side of the dining table?", "bbox": [119.69, 1.25, 442.6, 274.29], "height": 480, "width": 640, "question_id": 873, "split": "val"}
+{"img_path": "cot/vsr/000000061946.jpg", "expression": "Is the dining table touching the teddy bear?", "bbox": [0.0, 0.7, 639.27, 423.36], "height": 429, "width": 640, "question_id": 874, "split": "val"}
+{"img_path": "cot/vsr/000000372390.jpg", "expression": "Is the parking meter behind the car?", "bbox": [103.58, 3.0, 269.45, 328.75], "height": 334, "width": 500, "question_id": 875, "split": "val"}
+{"img_path": "cot/vsr/000000424553.jpg", "expression": "Is the teddy bear touching the person?", "bbox": [1.1, 307.63, 177.82999999999998, 420.7], "height": 427, "width": 640, "question_id": 878, "split": "val"}
+{"img_path": "cot/vsr/000000541158.jpg", "expression": "What is behind the cat?", "bbox": [0.0, 0.0, 480.0, 489.38], "height": 640, "width": 480, "question_id": 879, "split": "val"}
+{"img_path": "cot/vsr/000000541158.jpg", "expression": "Is the umbrella behind the cat?", "bbox": [0.0, 0.0, 480.0, 489.38], "height": 640, "width": 480, "question_id": 880, "split": "val"}
+{"img_path": "cot/vsr/000000045153.jpg", "expression": "Is the broccoli beside the bowl?", "bbox": [23.04, 82.08, 259.2, 447.84], "height": 612, "width": 612, "question_id": 885, "split": "val"}
+{"img_path": "cot/vsr/000000427103.jpg", "expression": "Is the parking meter in front of the car?", "bbox": [58.3, 135.65, 295.96, 500.0], "height": 500, "width": 332, "question_id": 889, "split": "val"}
+{"img_path": "cot/vsr/000000497579.jpg", "expression": "Is the person on top of the horse?", "bbox": [316.46, 208.15, 427.58, 481.83000000000004], "height": 640, "width": 640, "question_id": 891, "split": "val"}
+{"img_path": "cot/vsr/000000540187.jpg", "expression": "What is parallel to the car?", "bbox": [0.0, 81.71, 586.31, 358.76], "height": 480, "width": 640, "question_id": 892, "split": "val"}
+{"img_path": "cot/vsr/000000248276.jpg", "expression": "Is the donut at the right side of the person?", "bbox": [1.44, 171.15, 478.92, 608.36], "height": 640, "width": 480, "question_id": 894, "split": "val"}
+{"img_path": "cot/vsr/000000236925.jpg", "expression": "Is the zebra near the car?", "bbox": [134.36, 99.41, 521.1700000000001, 468.89], "height": 480, "width": 640, "question_id": 897, "split": "val"}
+{"img_path": "cot/vsr/000000308221.jpg", "expression": "What is above the cat?", "bbox": [128.93, 91.01, 499.72, 315.17], "height": 375, "width": 500, "question_id": 898, "split": "val"}
+{"img_path": "cot/vsr/000000208250.jpg", "expression": "Is the pizza below the person?", "bbox": [113.78, 209.58, 535.7, 480.0], "height": 480, "width": 640, "question_id": 901, "split": "val"}
+{"img_path": "cot/vsr/000000015391.jpg", "expression": "Is the bear facing the person?", "bbox": [237.3, 108.61, 413.12, 359.94], "height": 480, "width": 640, "question_id": 907, "split": "val"}
+{"img_path": "cot/vsr/000000297326.jpg", "expression": "Is the cake touching the person?", "bbox": [41.71, 327.91, 372.48999999999995, 624.1800000000001], "height": 640, "width": 427, "question_id": 908, "split": "val"}
+{"img_path": "cot/vsr/000000447927.jpg", "expression": "Is the elephant on top of the boat?", "bbox": [88.88, 213.94, 266.47, 484.87], "height": 640, "width": 524, "question_id": 910, "split": "val"}
+{"img_path": "cot/vsr/000000431795.jpg", "expression": "Is the person in front of the parking meter?", "bbox": [295.89, 180.36, 321.4, 240.57000000000002], "height": 480, "width": 640, "question_id": 912, "split": "val"}
