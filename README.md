@@ -175,6 +175,7 @@ This implementation is based on code from several repositories.
 
 - [LLaVA](https://github.com/haotian-liu/LLaVA)
 - [Shikra](https://github.com/shikras/shikra)
+- [Vicuna](https://github.com/lm-sys/FastChat)
 
 ## License
 
