@@ -210,7 +210,7 @@ Please refer to [LLaVA's scripts](https://github.com/haotian-liu/LLaVA/blob/main
 
 ## Visualization
 
-![demo1](assets/supp_demo_1.pdf)
+![demo1](assets/supp_demo_1.png)
 
 ## Acknowledgements
 
