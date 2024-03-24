@@ -208,6 +208,10 @@ python tools/refcoco_get_result.py VisCoT-7b-336
 
 Please refer to [LLaVA's scripts](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md).
 
+## Visualization
+
+![demo1](assets/supp_demo_1.pdf)
+
 ## Acknowledgements
 
 This implementation is based on code from several repositories.
