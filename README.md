@@ -14,6 +14,7 @@ The work proposes a multi-turn processing pipeline for the multi-modal language 
 - [Model Zoo](#model_zoo)
 - [Train](#train)
 - [Evaluation](#evaluation)
+- [Visualization](#visualization)
 
 ## Install
 
@@ -211,6 +212,8 @@ Please refer to [LLaVA's scripts](https://github.com/haotian-liu/LLaVA/blob/main
 ## Visualization
 
 ![demo1](assets/supp_demo_1.png)
+![demo2](assets/supp_demo_2.png)
+![demo4](assets/supp_demo_4.png)
 
 ## Acknowledgements
 
