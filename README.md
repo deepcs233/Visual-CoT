@@ -36,6 +36,9 @@ pip install -e .
 pip install -e ".[train]"
 pip install flash-attn --no-build-isolation
 ```
+## Demo
+
+Please refer to https://github.com/haotian-liu/LLaVA/tree/main?tab=readme-ov-file#demo
 
 ## Model Zoo
 
