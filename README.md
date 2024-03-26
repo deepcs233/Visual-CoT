@@ -4,7 +4,7 @@
        
 > Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li
 
-This repository contains code for the paper [Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model](https://github.com/deepcs233/Visual-CoT) and it was built based on [LLaVA](https://github.com/haotian-liu/LLaVA)
+This repository contains code for the paper [Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model](https://arxiv.org/abs/2403.16999) and it was built based on [LLaVA](https://github.com/haotian-liu/LLaVA)
 
 The work proposes a multi-turn processing pipeline for the multi-modal language model that dynamically focuses on visual inputs and provides interpretable thoughts. We also collect and introduce the Visual CoT dataset comprising 373k question-answer pairs, annotated with intermediate bounding boxes highlighting key regions essential for answering the questions. Importantly, the released benchmark is capable of evaluating MLLMs in scenarios requiring specific local region identification. 
 
@@ -222,6 +222,19 @@ This implementation is based on code from several repositories.
 - [LLaVA](https://github.com/haotian-liu/LLaVA)
 - [Shikra](https://github.com/shikras/shikra)
 - [Vicuna](https://github.com/lm-sys/FastChat)
+
+## Citation
+If you find our repo, dataset or paper useful, please cite us as
+```bibtex
+@misc{shao2024visual,
+      title={Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models}, 
+      author={Hao Shao and Shengju Qian and Han Xiao and Guanglu Song and Zhuofan Zong and Letian Wang and Yu Liu and Hongsheng Li},
+      year={2024},
+      eprint={2403.16999},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## License
 
