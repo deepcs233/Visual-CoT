@@ -1,0 +1,1000 @@
+{"img_path": "cot/visual7w/v7w_2359399.jpg", "expression": "What is behind the bench?", "bbox": [2, 0, 390, 282], "height": 375, "width": 500, "question_id": 0, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2359837.jpg", "expression": "Where is the tomato slices?", "bbox": [314, 1, 498, 86], "height": 375, "width": 500, "question_id": 19, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360088.jpg", "expression": "What is this?", "bbox": [230, 327, 283, 354], "height": 374, "width": 500, "question_id": 25, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360128.jpg", "expression": "What kind of bike is that?", "bbox": [89, 113, 411, 300], "height": 333, "width": 500, "question_id": 26, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360322.jpg", "expression": "How is the food heated?", "bbox": [95, 421, 111, 435], "height": 500, "width": 375, "question_id": 35, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360333.jpg", "expression": "What does the man have on his head?", "bbox": [153, 0, 241, 60], "height": 500, "width": 376, "question_id": 37, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360429.jpg", "expression": "Who is the human in the picture?", "bbox": [229, 51, 398, 248], "height": 333, "width": 500, "question_id": 41, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360435.jpg", "expression": "What object has a mirror top?", "bbox": [20, 325, 343, 498], "height": 500, "width": 375, "question_id": 42, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360478.jpg", "expression": "What kind of birds are in the picture?", "bbox": [309, 247, 420, 372], "height": 375, "width": 500, "question_id": 47, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360495.jpg", "expression": "Where is the tree?", "bbox": [0, 96, 293, 322], "height": 500, "width": 293, "question_id": 50, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360759.jpg", "expression": "Who is she holding?", "bbox": [39, 308, 65, 356], "height": 500, "width": 333, "question_id": 58, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360819.jpg", "expression": "Who is taking a picture?", "bbox": [390, 231, 428, 305], "height": 452, "width": 500, "question_id": 63, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2360856.jpg", "expression": "How is the building made?", "bbox": [200, 455, 307, 496], "height": 500, "width": 375, "question_id": 70, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361117.jpg", "expression": "Who is speaking?", "bbox": [4, 36, 264, 365], "height": 367, "width": 500, "question_id": 79, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361117.jpg", "expression": "Who has a beard?", "bbox": [329, 50, 405, 323], "height": 367, "width": 500, "question_id": 80, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361270.jpg", "expression": "What is it on?", "bbox": [32, 12, 427, 373], "height": 375, "width": 500, "question_id": 87, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361424.jpg", "expression": "What is on the woman on the left's head?", "bbox": [162, 46, 232, 87], "height": 500, "width": 333, "question_id": 94, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361528.jpg", "expression": "What is hanging on the wall behind the luggage?", "bbox": [228, 0, 373, 425], "height": 500, "width": 375, "question_id": 101, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361575.jpg", "expression": "Why is he in the air?", "bbox": [236, 115, 363, 190], "height": 333, "width": 500, "question_id": 104, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361576.jpg", "expression": "Why does the puppy look sad?", "bbox": [155, 146, 279, 285], "height": 358, "width": 500, "question_id": 108, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361824.jpg", "expression": "What kind of animal?", "bbox": [287, 403, 321, 452], "height": 500, "width": 333, "question_id": 122, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2361975.jpg", "expression": "What type of cold food is pictured?", "bbox": [288, 490, 296, 498], "height": 500, "width": 333, "question_id": 127, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2362316.jpg", "expression": "Who is on the water?", "bbox": [146, 84, 269, 387], "height": 500, "width": 375, "question_id": 135, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2362407.jpg", "expression": "Why is the boy swinging the bat?", "bbox": [436, 20, 454, 38], "height": 357, "width": 500, "question_id": 137, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2362494.jpg", "expression": "What are the zebras standing in?", "bbox": [0, 0, 500, 373], "height": 375, "width": 500, "question_id": 148, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2362494.jpg", "expression": "What is the fence made of?", "bbox": [66, 52, 75, 99], "height": 375, "width": 500, "question_id": 149, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2362571.jpg", "expression": "Why is the room illuminated?", "bbox": [312, 160, 328, 168], "height": 500, "width": 375, "question_id": 156, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2362902.jpg", "expression": "Who is sitting on a skateboard?", "bbox": [191, 321, 316, 472], "height": 500, "width": 500, "question_id": 165, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2363202.jpg", "expression": "What is piled on top of each other?", "bbox": [78, 309, 157, 444], "height": 500, "width": 333, "question_id": 175, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2363459.jpg", "expression": "What is on top of the building?", "bbox": [280, 117, 297, 132], "height": 500, "width": 500, "question_id": 179, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364022.jpg", "expression": "Who is in the shadow?", "bbox": [0, 32, 388, 374], "height": 375, "width": 500, "question_id": 207, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364028.jpg", "expression": "What is present?", "bbox": [142, 164, 156, 188], "height": 333, "width": 500, "question_id": 209, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364085.jpg", "expression": "What are the structures in the distance?", "bbox": [0, 66, 499, 168], "height": 332, "width": 500, "question_id": 213, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364102.jpg", "expression": "Where is the object at?", "bbox": [0, 0, 498, 375], "height": 375, "width": 500, "question_id": 215, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364137.jpg", "expression": "Why is he throwing the ball?", "bbox": [301, 56, 421, 265], "height": 333, "width": 500, "question_id": 221, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364278.jpg", "expression": "What is in the photo?", "bbox": [9, 118, 166, 338], "height": 375, "width": 500, "question_id": 228, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364645.jpg", "expression": "Where is the bowl on the pipe?", "bbox": [19, 19, 473, 313], "height": 333, "width": 500, "question_id": 245, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2364866.jpg", "expression": "Who can be seen in the picture?", "bbox": [301, 0, 499, 363], "height": 434, "width": 500, "question_id": 261, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2365348.jpg", "expression": "What animals are behind the man?", "bbox": [371, 130, 467, 215], "height": 339, "width": 500, "question_id": 285, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2365541.jpg", "expression": "Who is wearing an orange shirt?", "bbox": [38, 8, 161, 331], "height": 333, "width": 500, "question_id": 293, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2365726.jpg", "expression": "What fruit is on the cover of the laptop?", "bbox": [233, 168, 267, 200], "height": 375, "width": 500, "question_id": 305, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2365726.jpg", "expression": "Where is the laptop sitting?", "bbox": [0, 0, 500, 376], "height": 375, "width": 500, "question_id": 306, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2365735.jpg", "expression": "What is on the plate?", "bbox": [26, 1, 498, 313], "height": 334, "width": 500, "question_id": 308, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2365873.jpg", "expression": "Where are the bikes?", "bbox": [0, 265, 500, 374], "height": 375, "width": 500, "question_id": 312, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2366055.jpg", "expression": "What does he have in his hand?", "bbox": [184, 78, 192, 85], "height": 500, "width": 338, "question_id": 317, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2366214.jpg", "expression": "What are the other animals doing?", "bbox": [8, 182, 28, 227], "height": 333, "width": 500, "question_id": 324, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2366221.jpg", "expression": "What is white?", "bbox": [0, 64, 115, 161], "height": 333, "width": 500, "question_id": 325, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2366696.jpg", "expression": "Who is in the nest?", "bbox": [336, 87, 396, 137], "height": 333, "width": 500, "question_id": 342, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367064.jpg", "expression": "What is in the woman's hands?", "bbox": [286, 178, 343, 216], "height": 352, "width": 500, "question_id": 367, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367453.jpg", "expression": "Who is in the background?", "bbox": [355, 107, 360, 120], "height": 375, "width": 500, "question_id": 378, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367475.jpg", "expression": "What is in the background?", "bbox": [50, 0, 92, 100], "height": 500, "width": 333, "question_id": 380, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367506.jpg", "expression": "Who is wearing a helmet?", "bbox": [76, 175, 201, 302], "height": 338, "width": 500, "question_id": 390, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367506.jpg", "expression": "What is behind the players?", "bbox": [0, 0, 500, 206], "height": 338, "width": 500, "question_id": 391, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367724.jpg", "expression": "What are the walls made of?", "bbox": [0, 0, 498, 228], "height": 333, "width": 500, "question_id": 398, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367738.jpg", "expression": "Who is wearing white shorts?", "bbox": [224, 28, 334, 260], "height": 375, "width": 500, "question_id": 400, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367796.jpg", "expression": "Where are the propellers?", "bbox": [198, 16, 343, 120], "height": 375, "width": 500, "question_id": 403, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2367800.jpg", "expression": "Who is buying produce?", "bbox": [133, 16, 259, 289], "height": 500, "width": 432, "question_id": 405, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368220.jpg", "expression": "What is in the middle of the field?", "bbox": [0, 0, 421, 266], "height": 333, "width": 500, "question_id": 415, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368231.jpg", "expression": "Who is sitting on the bike?", "bbox": [101, 54, 371, 497], "height": 500, "width": 386, "question_id": 417, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368239.jpg", "expression": "Where was the picture taken?", "bbox": [159, 35, 333, 479], "height": 500, "width": 333, "question_id": 418, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368344.jpg", "expression": "Where are the persons feet?", "bbox": [55, 232, 268, 331], "height": 332, "width": 500, "question_id": 424, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368400.jpg", "expression": "Where is the man surfing?", "bbox": [2, 0, 499, 333], "height": 333, "width": 500, "question_id": 429, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159334.jpg", "expression": "What are all these?", "bbox": [0, 161, 166, 392], "height": 768, "width": 1024, "question_id": 436, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368492.jpg", "expression": "What is she wearing?", "bbox": [6, 155, 165, 370], "height": 375, "width": 500, "question_id": 441, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2368756.jpg", "expression": "What is green?", "bbox": [205, 258, 267, 288], "height": 500, "width": 332, "question_id": 452, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369094.jpg", "expression": "What is white?", "bbox": [298, 121, 442, 182], "height": 333, "width": 500, "question_id": 467, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369384.jpg", "expression": "What animals are in the picture?", "bbox": [7, 92, 442, 281], "height": 332, "width": 500, "question_id": 480, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369414.jpg", "expression": "What is in the glasses?", "bbox": [434, 276, 466, 299], "height": 375, "width": 500, "question_id": 481, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159494.jpg", "expression": "Where is the picture taken?", "bbox": [0, 0, 385, 580], "height": 683, "width": 1024, "question_id": 485, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159494.jpg", "expression": "Where is the bus's destination written?", "bbox": [192, 83, 851, 603], "height": 683, "width": 1024, "question_id": 488, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369621.jpg", "expression": "What is the speed limit on the sign?", "bbox": [77, 29, 85, 34], "height": 500, "width": 334, "question_id": 490, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369731.jpg", "expression": "What animals are on the bed?", "bbox": [26, 207, 191, 333], "height": 375, "width": 500, "question_id": 493, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369774.jpg", "expression": "Who has on a pink shirt?", "bbox": [229, 144, 261, 263], "height": 281, "width": 500, "question_id": 496, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159574.jpg", "expression": "What do the men wear around their necks?", "bbox": [70, 147, 91, 287], "height": 360, "width": 561, "question_id": 504, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2369931.jpg", "expression": "What is in the photo?", "bbox": [157, 49, 354, 499], "height": 500, "width": 500, "question_id": 507, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370117.jpg", "expression": "Why is there a fence?", "bbox": [453, 107, 497, 224], "height": 332, "width": 500, "question_id": 516, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370142.jpg", "expression": "What type of ball is being used?", "bbox": [199, 199, 211, 212], "height": 333, "width": 500, "question_id": 517, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370411.jpg", "expression": "Where is the boy?", "bbox": [0, 166, 30, 245], "height": 333, "width": 500, "question_id": 524, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370443.jpg", "expression": "Where are the men sitting?", "bbox": [11, 140, 255, 319], "height": 500, "width": 333, "question_id": 526, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370443.jpg", "expression": "What does the man in the center of the picture have on his head?", "bbox": [201, 111, 234, 124], "height": 500, "width": 333, "question_id": 527, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370460.jpg", "expression": "What is the pizza placed on?", "bbox": [9, 430, 426, 492], "height": 500, "width": 500, "question_id": 530, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370471.jpg", "expression": "Who is in the photo?", "bbox": [6, 0, 71, 188], "height": 333, "width": 500, "question_id": 531, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285863.jpg", "expression": "Who is crossing the street?", "bbox": [196, 693, 246, 859], "height": 1024, "width": 712, "question_id": 535, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370581.jpg", "expression": "What color is the plane?", "bbox": [8, 131, 492, 261], "height": 444, "width": 500, "question_id": 536, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2370967.jpg", "expression": "What is in the white vases?", "bbox": [165, 287, 208, 318], "height": 500, "width": 375, "question_id": 554, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159748.jpg", "expression": "What hand is the bride's ring on?", "bbox": [193, 509, 265, 561], "height": 1024, "width": 683, "question_id": 556, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159748.jpg", "expression": "What kind of a tie is the groom wearing?", "bbox": [275, 341, 339, 470], "height": 1024, "width": 683, "question_id": 557, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159755.jpg", "expression": "Why are the people sitting?", "bbox": [256, 341, 338, 415], "height": 768, "width": 1024, "question_id": 563, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371051.jpg", "expression": "Who is in the photo?", "bbox": [0, 85, 25, 151], "height": 333, "width": 500, "question_id": 570, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371316.jpg", "expression": "What is he swinging?", "bbox": [25, 64, 95, 93], "height": 232, "width": 500, "question_id": 582, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371332.jpg", "expression": "What is the man wearing on his eyes?", "bbox": [433, 141, 498, 205], "height": 375, "width": 500, "question_id": 583, "split": "val"}
+{"img_path": "cot/visual7w/v7w_497957.jpg", "expression": "What are cast on the ground?", "bbox": [244, 530, 293, 558], "height": 683, "width": 1024, "question_id": 585, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371413.jpg", "expression": "What kind of food has the sausage?", "bbox": [82, 0, 299, 203], "height": 375, "width": 500, "question_id": 592, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371413.jpg", "expression": "How is the food presented?", "bbox": [9, 37, 476, 374], "height": 375, "width": 500, "question_id": 593, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371426.jpg", "expression": "What are on the jumpers feet?", "bbox": [154, 0, 215, 65], "height": 333, "width": 500, "question_id": 595, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371432.jpg", "expression": "Why is the girl looking ahead?", "bbox": [100, 387, 114, 405], "height": 500, "width": 334, "question_id": 597, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371470.jpg", "expression": "What kind of pants are the children wearing?", "bbox": [38, 275, 105, 332], "height": 333, "width": 500, "question_id": 601, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371737.jpg", "expression": "What are these animals?", "bbox": [115, 201, 159, 256], "height": 333, "width": 500, "question_id": 613, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2371816.jpg", "expression": "What kind of phone is this?", "bbox": [0, 0, 500, 334], "height": 334, "width": 500, "question_id": 617, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372213.jpg", "expression": "What animal is seen?", "bbox": [14, 29, 331, 500], "height": 500, "width": 331, "question_id": 626, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372317.jpg", "expression": "Where is the camera?", "bbox": [21, 244, 164, 387], "height": 500, "width": 375, "question_id": 632, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372417.jpg", "expression": "Where is the bowl of fries?", "bbox": [36, 176, 331, 463], "height": 500, "width": 333, "question_id": 635, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372432.jpg", "expression": "What does the sign say?", "bbox": [138, 90, 223, 116], "height": 500, "width": 364, "question_id": 638, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372433.jpg", "expression": "What is colorful on the refrigerator?", "bbox": [203, 374, 213, 382], "height": 500, "width": 333, "question_id": 640, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372658.jpg", "expression": "Where are the zebras standing?", "bbox": [0, 170, 500, 334], "height": 333, "width": 500, "question_id": 652, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2372669.jpg", "expression": "Where is this scene?", "bbox": [0, 211, 499, 330], "height": 331, "width": 500, "question_id": 654, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160184.jpg", "expression": "What is the girl with the yellow tee shirt wearing on her feet?", "bbox": [753, 548, 790, 577], "height": 768, "width": 1024, "question_id": 691, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2373717.jpg", "expression": "What is the cat resting on?", "bbox": [13, 264, 488, 346], "height": 357, "width": 500, "question_id": 698, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339860.jpg", "expression": "Where are the mirrors?", "bbox": [0, 0, 500, 285], "height": 286, "width": 500, "question_id": 703, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2374315.jpg", "expression": "Who is in the middle on the laptop?", "bbox": [202, 110, 357, 307], "height": 333, "width": 500, "question_id": 719, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2374315.jpg", "expression": "Why is the middle man leaning forward?", "bbox": [102, 185, 299, 321], "height": 333, "width": 500, "question_id": 720, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2374492.jpg", "expression": "What two, large letters are at the bottom left of the frame?", "bbox": [0, 441, 67, 494], "height": 500, "width": 333, "question_id": 733, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2374644.jpg", "expression": "Who is in the picture?", "bbox": [118, 158, 192, 313], "height": 335, "width": 500, "question_id": 740, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2374794.jpg", "expression": "What is flying in the sky?", "bbox": [37, 43, 46, 53], "height": 375, "width": 500, "question_id": 746, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2374964.jpg", "expression": "How manyt windows are in this picture?", "bbox": [351, 62, 499, 137], "height": 333, "width": 500, "question_id": 752, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375035.jpg", "expression": "What are the two players in white wearing on their head?", "bbox": [352, 197, 383, 230], "height": 333, "width": 500, "question_id": 755, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375035.jpg", "expression": "Who is standing on the left?", "bbox": [42, 44, 154, 291], "height": 333, "width": 500, "question_id": 757, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375286.jpg", "expression": "What is in the sky?", "bbox": [370, 87, 397, 119], "height": 319, "width": 500, "question_id": 768, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375417.jpg", "expression": "What type of animals are these?", "bbox": [406, 281, 472, 321], "height": 373, "width": 500, "question_id": 777, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375429.jpg", "expression": "What are the horses wearing?", "bbox": [240, 124, 454, 274], "height": 333, "width": 500, "question_id": 781, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375538.jpg", "expression": "Who is in the photo?", "bbox": [0, 0, 427, 334], "height": 333, "width": 500, "question_id": 787, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375577.jpg", "expression": "What is beneath his feet?", "bbox": [0, 0, 499, 374], "height": 375, "width": 500, "question_id": 790, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375629.jpg", "expression": "What surface is she playing tennis on?", "bbox": [0, 287, 373, 499], "height": 500, "width": 375, "question_id": 793, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375629.jpg", "expression": "What animal is on the Slazenger logo?", "bbox": [10, 187, 119, 217], "height": 500, "width": 375, "question_id": 794, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375702.jpg", "expression": "What is this picture of?", "bbox": [386, 336, 499, 368], "height": 375, "width": 500, "question_id": 795, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375762.jpg", "expression": "Where are the bananas?", "bbox": [0, 0, 500, 375], "height": 375, "width": 500, "question_id": 798, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2375772.jpg", "expression": "What is underneath the nearest food?", "bbox": [0, 34, 500, 281], "height": 281, "width": 500, "question_id": 799, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376031.jpg", "expression": "What is the cat doing?", "bbox": [0, 0, 500, 331], "height": 332, "width": 500, "question_id": 806, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376124.jpg", "expression": "What is above the toilet?", "bbox": [105, 19, 218, 185], "height": 500, "width": 333, "question_id": 810, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376228.jpg", "expression": "Who is standing at the shore?", "bbox": [344, 140, 357, 164], "height": 205, "width": 500, "question_id": 819, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376240.jpg", "expression": "What is on his back?", "bbox": [130, 141, 183, 183], "height": 500, "width": 333, "question_id": 821, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376405.jpg", "expression": "Who is riding the white horse?", "bbox": [341, 20, 444, 210], "height": 339, "width": 500, "question_id": 825, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376610.jpg", "expression": "What print is the tie?", "bbox": [189, 409, 211, 435], "height": 500, "width": 333, "question_id": 831, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376779.jpg", "expression": "What is in the bowl at the back of the picture?", "bbox": [280, 132, 321, 181], "height": 500, "width": 375, "question_id": 843, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376780.jpg", "expression": "What is the animal shown?", "bbox": [200, 131, 302, 227], "height": 375, "width": 500, "question_id": 844, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2376941.jpg", "expression": "What is in the photo?", "bbox": [29, 76, 41, 94], "height": 281, "width": 500, "question_id": 853, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377111.jpg", "expression": "Who sitting in the window?", "bbox": [51, 242, 87, 273], "height": 375, "width": 500, "question_id": 858, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377120.jpg", "expression": "Where is the person?", "bbox": [1, 0, 500, 197], "height": 335, "width": 500, "question_id": 859, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377131.jpg", "expression": "Where was the picture taken?", "bbox": [1, 213, 497, 320], "height": 334, "width": 500, "question_id": 862, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377175.jpg", "expression": "What is on the mountain?", "bbox": [367, 45, 389, 56], "height": 375, "width": 500, "question_id": 864, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377192.jpg", "expression": "Where is the spoon?", "bbox": [136, 175, 369, 363], "height": 375, "width": 500, "question_id": 865, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377273.jpg", "expression": "What are the ladies holding?", "bbox": [67, 109, 110, 199], "height": 500, "width": 333, "question_id": 868, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377295.jpg", "expression": "What animal is seen?", "bbox": [32, 20, 400, 372], "height": 375, "width": 500, "question_id": 869, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377394.jpg", "expression": "What are the cars standing on?", "bbox": [0, 163, 499, 344], "height": 345, "width": 500, "question_id": 872, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377614.jpg", "expression": "Who is this a picture of?", "bbox": [98, 127, 205, 228], "height": 374, "width": 500, "question_id": 884, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377777.jpg", "expression": "What is behind him to his left?", "bbox": [329, 172, 375, 223], "height": 500, "width": 375, "question_id": 898, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2377917.jpg", "expression": "Where are they?", "bbox": [0, 0, 500, 224], "height": 281, "width": 500, "question_id": 900, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2378057.jpg", "expression": "What is the wearing on his feet?", "bbox": [107, 289, 128, 330], "height": 333, "width": 500, "question_id": 903, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591837.jpg", "expression": "What is in the window's reflection?", "bbox": [785, 491, 995, 646], "height": 1024, "width": 1024, "question_id": 921, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591874.jpg", "expression": "What is in the background?", "bbox": [485, 134, 511, 160], "height": 306, "width": 1024, "question_id": 922, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591878.jpg", "expression": "What color sign is the white arrow on?", "bbox": [480, 726, 515, 740], "height": 746, "width": 1024, "question_id": 926, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591891.jpg", "expression": "What keeps the people on the elephant?", "bbox": [170, 220, 336, 372], "height": 682, "width": 1024, "question_id": 929, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591891.jpg", "expression": "What vehicle has the gray topper?", "bbox": [0, 138, 211, 339], "height": 682, "width": 1024, "question_id": 935, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591914.jpg", "expression": "Who is wearing a yarmulke?", "bbox": [645, 280, 751, 384], "height": 766, "width": 1024, "question_id": 951, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2378379.jpg", "expression": "What is the ceiling made out of?", "bbox": [187, 0, 200, 96], "height": 375, "width": 500, "question_id": 952, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1591962.jpg", "expression": "Who has glasses?", "bbox": [722, 252, 891, 547], "height": 600, "width": 900, "question_id": 956, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592015.jpg", "expression": "Where are the horse and buggy?", "bbox": [0, 769, 1022, 817], "height": 837, "width": 1024, "question_id": 966, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150268.jpg", "expression": "What is on the ground besides scissors?", "bbox": [630, 293, 692, 323], "height": 1024, "width": 768, "question_id": 978, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150268.jpg", "expression": "What shape are the scissors arranged in?", "bbox": [52, 203, 764, 1021], "height": 1024, "width": 768, "question_id": 981, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592089.jpg", "expression": "Who is on the left?", "bbox": [0, 247, 117, 680], "height": 683, "width": 1024, "question_id": 990, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592089.jpg", "expression": "What is white and long?", "bbox": [753, 159, 802, 208], "height": 683, "width": 1024, "question_id": 995, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150324.jpg", "expression": "Who is the woman with freckles on her arm?", "bbox": [559, 210, 1019, 762], "height": 768, "width": 1024, "question_id": 1007, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2378562.jpg", "expression": "What else is in the photo?", "bbox": [442, 207, 499, 254], "height": 331, "width": 500, "question_id": 1010, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2378566.jpg", "expression": "Where was the photo taken?", "bbox": [0, 118, 500, 374], "height": 375, "width": 500, "question_id": 1011, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592139.jpg", "expression": "What is the man doing?", "bbox": [0, 287, 1023, 736], "height": 737, "width": 1024, "question_id": 1013, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592139.jpg", "expression": "What is the man wearing on his eyes?", "bbox": [358, 298, 407, 323], "height": 737, "width": 1024, "question_id": 1017, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592235.jpg", "expression": "What is in the sink?", "bbox": [685, 552, 865, 628], "height": 683, "width": 1024, "question_id": 1039, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150479.jpg", "expression": "Who wears gray and blue?", "bbox": [647, 417, 852, 603], "height": 683, "width": 1024, "question_id": 1055, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150481.jpg", "expression": "Why is the man looking this way?", "bbox": [384, 468, 534, 658], "height": 667, "width": 1000, "question_id": 1060, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150499.jpg", "expression": "What does the suitcase next to the wall have?", "bbox": [726, 658, 748, 686], "height": 685, "width": 1024, "question_id": 1065, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592333.jpg", "expression": "Where is there not a lot of people?", "bbox": [251, 197, 964, 299], "height": 576, "width": 1024, "question_id": 1086, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592353.jpg", "expression": "When will the door open?", "bbox": [0, 0, 1023, 764], "height": 768, "width": 1024, "question_id": 1091, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592353.jpg", "expression": "Where does the scene take place?", "bbox": [0, 0, 1023, 764], "height": 768, "width": 1024, "question_id": 1092, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592353.jpg", "expression": "Why is the kitchen dark?", "bbox": [0, 0, 1023, 764], "height": 768, "width": 1024, "question_id": 1094, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592355.jpg", "expression": "What are the ladies carrying?", "bbox": [496, 600, 530, 724], "height": 1024, "width": 686, "question_id": 1098, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592392.jpg", "expression": "What fruit is on the carton?", "bbox": [98, 393, 129, 445], "height": 686, "width": 1024, "question_id": 1105, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592419.jpg", "expression": "What are the people walking in?", "bbox": [0, 5, 1024, 681], "height": 683, "width": 1024, "question_id": 1113, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592470.jpg", "expression": "What are in the background?", "bbox": [60, 694, 98, 721], "height": 1024, "width": 700, "question_id": 1131, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592509.jpg", "expression": "What is written over the tunnels?", "bbox": [336, 402, 494, 470], "height": 683, "width": 1024, "question_id": 1136, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592510.jpg", "expression": "What lines the roadway?", "bbox": [141, 338, 680, 809], "height": 1024, "width": 680, "question_id": 1140, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2378944.jpg", "expression": "What does the billboard say?", "bbox": [52, 38, 189, 68], "height": 375, "width": 500, "question_id": 1144, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592514.jpg", "expression": "What are the crates made of?", "bbox": [47, 557, 217, 596], "height": 682, "width": 1024, "question_id": 1146, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592572.jpg", "expression": "How is the banner on the building?", "bbox": [439, 0, 474, 682], "height": 683, "width": 1024, "question_id": 1152, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592578.jpg", "expression": "Where is the vent located?", "bbox": [0, 0, 414, 385], "height": 768, "width": 1024, "question_id": 1159, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592578.jpg", "expression": "What is white in the room?", "bbox": [408, 70, 1022, 627], "height": 768, "width": 1024, "question_id": 1160, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379019.jpg", "expression": "Who is in the picture?", "bbox": [105, 149, 390, 373], "height": 375, "width": 500, "question_id": 1167, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379019.jpg", "expression": "What is the man holding up to his ear?", "bbox": [266, 248, 316, 369], "height": 375, "width": 500, "question_id": 1168, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379021.jpg", "expression": "What type of drink bottle is on the table?", "bbox": [151, 299, 167, 343], "height": 375, "width": 500, "question_id": 1172, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592595.jpg", "expression": "What is metallic?", "bbox": [120, 226, 150, 302], "height": 683, "width": 1024, "question_id": 1176, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379031.jpg", "expression": "Who is in the photo?", "bbox": [418, 125, 432, 161], "height": 309, "width": 500, "question_id": 1180, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592644.jpg", "expression": "Where are the plates sitting?", "bbox": [0, 151, 1022, 769], "height": 768, "width": 1024, "question_id": 1182, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592679.jpg", "expression": "Where does the word zero appear?", "bbox": [401, 600, 557, 805], "height": 1024, "width": 768, "question_id": 1187, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592679.jpg", "expression": "What is on the book cover?", "bbox": [526, 540, 684, 759], "height": 1024, "width": 768, "question_id": 1188, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592679.jpg", "expression": "What word is on the water bottle?", "bbox": [447, 664, 499, 742], "height": 1024, "width": 768, "question_id": 1190, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592684.jpg", "expression": "What are headed the same way?", "bbox": [463, 819, 737, 1013], "height": 1024, "width": 741, "question_id": 1194, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592740.jpg", "expression": "Where are the tiles located?", "bbox": [162, 0, 639, 138], "height": 1024, "width": 683, "question_id": 1208, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379193.jpg", "expression": "What is it wrapped in?", "bbox": [236, 199, 262, 218], "height": 375, "width": 500, "question_id": 1214, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592796.jpg", "expression": "Where is the girl sitting?", "bbox": [0, 0, 1023, 766], "height": 768, "width": 1024, "question_id": 1221, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379256.jpg", "expression": "Where are people sitting?", "bbox": [53, 300, 230, 348], "height": 375, "width": 500, "question_id": 1229, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379328.jpg", "expression": "Where is he standing?", "bbox": [0, 39, 500, 332], "height": 333, "width": 500, "question_id": 1238, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592926.jpg", "expression": "Where are the kids standing?", "bbox": [0, 96, 299, 448], "height": 450, "width": 300, "question_id": 1248, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592936.jpg", "expression": "What is the name of the restaurant?", "bbox": [120, 164, 287, 191], "height": 803, "width": 553, "question_id": 1250, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379434.jpg", "expression": "What species populates the picture?", "bbox": [431, 271, 462, 335], "height": 334, "width": 500, "question_id": 1257, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379441.jpg", "expression": "What kind of animal is in this photo?", "bbox": [240, 44, 368, 172], "height": 334, "width": 500, "question_id": 1258, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593030.jpg", "expression": "What is green?", "bbox": [853, 406, 874, 453], "height": 768, "width": 1024, "question_id": 1266, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593051.jpg", "expression": "What river is this?", "bbox": [0, 404, 1019, 677], "height": 685, "width": 1024, "question_id": 1272, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593054.jpg", "expression": "What are the players doing?", "bbox": [325, 6, 401, 86], "height": 1024, "width": 768, "question_id": 1274, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593062.jpg", "expression": "What is on the left side?", "bbox": [25, 201, 70, 293], "height": 768, "width": 1024, "question_id": 1286, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379517.jpg", "expression": "What is green?", "bbox": [9, 81, 161, 172], "height": 367, "width": 500, "question_id": 1292, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593086.jpg", "expression": "What is in motion?", "bbox": [217, 90, 546, 460], "height": 681, "width": 1024, "question_id": 1293, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593088.jpg", "expression": "Who is the man?", "bbox": [263, 31, 651, 726], "height": 792, "width": 1024, "question_id": 1294, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1593142.jpg", "expression": "Where is the yellow-green hat?", "bbox": [319, 185, 963, 680], "height": 683, "width": 1024, "question_id": 1320, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2379906.jpg", "expression": "What is present?", "bbox": [82, 105, 150, 422], "height": 500, "width": 332, "question_id": 1346, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380075.jpg", "expression": "What is gender of bicyclist?", "bbox": [49, 120, 114, 297], "height": 375, "width": 500, "question_id": 1354, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380082.jpg", "expression": "What is in the background?", "bbox": [183, 74, 219, 87], "height": 375, "width": 500, "question_id": 1356, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380106.jpg", "expression": "Who is behind the bars?", "bbox": [111, 81, 347, 332], "height": 333, "width": 500, "question_id": 1358, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380204.jpg", "expression": "What kind of trees are in the background?", "bbox": [13, 0, 78, 87], "height": 333, "width": 500, "question_id": 1362, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380232.jpg", "expression": "What do you see outside?", "bbox": [262, 85, 369, 201], "height": 375, "width": 500, "question_id": 1363, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380263.jpg", "expression": "What kind of place mat is that?", "bbox": [407, 240, 422, 257], "height": 333, "width": 500, "question_id": 1368, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380384.jpg", "expression": "What is the white on pizza?", "bbox": [270, 251, 290, 264], "height": 333, "width": 500, "question_id": 1376, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380517.jpg", "expression": "What fried food is on the boy's tray?", "bbox": [155, 326, 175, 343], "height": 375, "width": 500, "question_id": 1378, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380517.jpg", "expression": "Who is wearing a headband?", "bbox": [308, 109, 499, 296], "height": 375, "width": 500, "question_id": 1379, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380540.jpg", "expression": "What number is the bus?", "bbox": [63, 88, 81, 100], "height": 333, "width": 500, "question_id": 1384, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2380779.jpg", "expression": "What plant is behind the man?", "bbox": [113, 161, 272, 294], "height": 500, "width": 332, "question_id": 1390, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2381031.jpg", "expression": "What is the woman holding?", "bbox": [33, 192, 257, 375], "height": 500, "width": 333, "question_id": 1404, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2381316.jpg", "expression": "What has spots?", "bbox": [231, 198, 326, 429], "height": 500, "width": 333, "question_id": 1416, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2381633.jpg", "expression": "What are the women wearing?", "bbox": [296, 234, 318, 270], "height": 354, "width": 500, "question_id": 1435, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2381805.jpg", "expression": "What is the machinery made of?", "bbox": [18, 280, 33, 296], "height": 335, "width": 500, "question_id": 1442, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2381913.jpg", "expression": "Where was this photo taken?", "bbox": [0, 79, 497, 244], "height": 332, "width": 500, "question_id": 1446, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382047.jpg", "expression": "What does the red sign say?", "bbox": [87, 36, 238, 69], "height": 500, "width": 443, "question_id": 1450, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382178.jpg", "expression": "Who is in the background?", "bbox": [213, 45, 252, 64], "height": 281, "width": 500, "question_id": 1455, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382179.jpg", "expression": "What is the man riding?", "bbox": [114, 185, 178, 205], "height": 333, "width": 500, "question_id": 1457, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382319.jpg", "expression": "Who are in the photo?", "bbox": [284, 0, 498, 373], "height": 374, "width": 500, "question_id": 1465, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382407.jpg", "expression": "What type of animal is pictured?", "bbox": [127, 180, 206, 499], "height": 500, "width": 375, "question_id": 1469, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382422.jpg", "expression": "Why are the men bending?", "bbox": [33, 152, 97, 173], "height": 404, "width": 500, "question_id": 1470, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382481.jpg", "expression": "What is in the background?", "bbox": [330, 76, 365, 106], "height": 375, "width": 500, "question_id": 1474, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382537.jpg", "expression": "What is on the ground?", "bbox": [174, 308, 178, 313], "height": 338, "width": 500, "question_id": 1479, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285615.jpg", "expression": "What are they drinking?", "bbox": [320, 535, 345, 558], "height": 1024, "width": 768, "question_id": 1492, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285615.jpg", "expression": "Who are they?", "bbox": [0, 333, 94, 652], "height": 1024, "width": 768, "question_id": 1493, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382775.jpg", "expression": "Where are the doors in the image?", "bbox": [1, 100, 498, 235], "height": 500, "width": 500, "question_id": 1498, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285637.jpg", "expression": "What is stainless steel?", "bbox": [0, 210, 145, 668], "height": 768, "width": 1024, "question_id": 1499, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285646.jpg", "expression": "Where can you see clothing?", "bbox": [118, 378, 298, 593], "height": 777, "width": 1024, "question_id": 1501, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285646.jpg", "expression": "What is broken?", "bbox": [6, 476, 129, 654], "height": 777, "width": 1024, "question_id": 1503, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2382831.jpg", "expression": "What toy is in the tree?", "bbox": [107, 230, 236, 390], "height": 500, "width": 375, "question_id": 1510, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285703.jpg", "expression": "Where are the leaves?", "bbox": [447, 242, 1024, 682], "height": 683, "width": 1024, "question_id": 1520, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285746.jpg", "expression": "What reflection is shown on the knife?", "bbox": [133, 365, 183, 539], "height": 612, "width": 612, "question_id": 1530, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285753.jpg", "expression": "Where is the white van?", "bbox": [58, 0, 524, 775], "height": 1024, "width": 1002, "question_id": 1536, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285779.jpg", "expression": "Who is working?", "bbox": [273, 119, 331, 181], "height": 1024, "width": 1024, "question_id": 1546, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285779.jpg", "expression": "Who is on a ladder and working?", "bbox": [273, 119, 331, 181], "height": 1024, "width": 1024, "question_id": 1547, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285813.jpg", "expression": "What illuminates the room?", "bbox": [145, 0, 293, 213], "height": 575, "width": 1024, "question_id": 1555, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285813.jpg", "expression": "Where is the striped wallpaper?", "bbox": [125, 99, 164, 148], "height": 575, "width": 1024, "question_id": 1558, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285813.jpg", "expression": "What is tan with a brown design on it?", "bbox": [703, 367, 1024, 576], "height": 575, "width": 1024, "question_id": 1560, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383000.jpg", "expression": "What are the people doing in the photo?", "bbox": [323, 143, 338, 183], "height": 375, "width": 500, "question_id": 1569, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383002.jpg", "expression": "What is white?", "bbox": [230, 242, 333, 394], "height": 500, "width": 334, "question_id": 1572, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285859.jpg", "expression": "What is the urn made of?", "bbox": [482, 430, 493, 433], "height": 768, "width": 1024, "question_id": 1575, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285860.jpg", "expression": "Where is the map?", "bbox": [523, 281, 871, 535], "height": 768, "width": 1024, "question_id": 1577, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285860.jpg", "expression": "Who's name tag is it?", "bbox": [269, 352, 332, 363], "height": 768, "width": 1024, "question_id": 1578, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285869.jpg", "expression": "What does the yellow sign on the door say?", "bbox": [430, 42, 528, 114], "height": 685, "width": 1024, "question_id": 1580, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285891.jpg", "expression": "What two items are opened and being looked at?", "bbox": [167, 183, 281, 268], "height": 445, "width": 640, "question_id": 1589, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285891.jpg", "expression": "What pattern are the drapes?", "bbox": [161, 149, 200, 185], "height": 445, "width": 640, "question_id": 1591, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285901.jpg", "expression": "What does the street have?", "bbox": [622, 303, 671, 393], "height": 683, "width": 1024, "question_id": 1594, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285950.jpg", "expression": "Where does the light shine?", "bbox": [0, 0, 1000, 129], "height": 617, "width": 1000, "question_id": 1612, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285956.jpg", "expression": "What color cat is bigger?", "bbox": [221, 50, 300, 284], "height": 288, "width": 432, "question_id": 1622, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285956.jpg", "expression": "What shape are the grids on the window?", "bbox": [94, 7, 136, 71], "height": 288, "width": 432, "question_id": 1623, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285963.jpg", "expression": "What sex is the person?", "bbox": [319, 154, 627, 880], "height": 1024, "width": 819, "question_id": 1631, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285969.jpg", "expression": "What has several wine barrels on it?", "bbox": [443, 89, 857, 351], "height": 680, "width": 1024, "question_id": 1632, "split": "val"}
+{"img_path": "cot/visual7w/v7w_285999.jpg", "expression": "What motions is the boy doing with his hands as he plays the wii game?", "bbox": [301, 212, 922, 959], "height": 960, "width": 1280, "question_id": 1642, "split": "val"}
+{"img_path": "cot/visual7w/v7w_286026.jpg", "expression": "What kind of railing is there on the top left of the group?", "bbox": [0, 276, 135, 497], "height": 819, "width": 1024, "question_id": 1647, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383191.jpg", "expression": "What kind of food is on the table?", "bbox": [120, 295, 141, 313], "height": 363, "width": 500, "question_id": 1648, "split": "val"}
+{"img_path": "cot/visual7w/v7w_286058.jpg", "expression": "Who is wearing their hair tightly pulled back, off of their necks?", "bbox": [518, 28, 651, 307], "height": 768, "width": 1024, "question_id": 1651, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383344.jpg", "expression": "Where is the swimmer?", "bbox": [0, 167, 499, 331], "height": 334, "width": 500, "question_id": 1663, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383363.jpg", "expression": "What does the writing on the road say?", "bbox": [292, 232, 500, 249], "height": 281, "width": 500, "question_id": 1665, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383371.jpg", "expression": "What is in the glass on the left?", "bbox": [89, 202, 171, 311], "height": 335, "width": 500, "question_id": 1666, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383371.jpg", "expression": "What is in the glass on the right?", "bbox": [443, 98, 498, 180], "height": 335, "width": 500, "question_id": 1667, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383383.jpg", "expression": "When was it ordered?", "bbox": [0, 42, 475, 373], "height": 375, "width": 500, "question_id": 1670, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383463.jpg", "expression": "Who is wearing a white shirt?", "bbox": [91, 96, 96, 185], "height": 333, "width": 500, "question_id": 1672, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383601.jpg", "expression": "What kind of computer is the man with glasses using?", "bbox": [170, 185, 434, 304], "height": 333, "width": 500, "question_id": 1678, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383771.jpg", "expression": "What are the children standing on?", "bbox": [0, 367, 500, 499], "height": 500, "width": 500, "question_id": 1687, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383837.jpg", "expression": "What is the cat doing?", "bbox": [95, 18, 355, 195], "height": 333, "width": 500, "question_id": 1688, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2383944.jpg", "expression": "What animal is shown?", "bbox": [51, 165, 131, 276], "height": 375, "width": 500, "question_id": 1691, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384107.jpg", "expression": "Where is this taking place?", "bbox": [0, 107, 500, 263], "height": 334, "width": 500, "question_id": 1702, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384210.jpg", "expression": "Where are the people?", "bbox": [104, 76, 491, 332], "height": 333, "width": 500, "question_id": 1706, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384222.jpg", "expression": "What vehicle is pictured?", "bbox": [69, 101, 389, 270], "height": 333, "width": 500, "question_id": 1707, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384222.jpg", "expression": "What is in the background?", "bbox": [387, 177, 499, 240], "height": 333, "width": 500, "question_id": 1708, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384372.jpg", "expression": "What is white on head?", "bbox": [136, 3, 225, 58], "height": 500, "width": 327, "question_id": 1715, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384486.jpg", "expression": "Where are the white lines?", "bbox": [0, 182, 332, 500], "height": 500, "width": 332, "question_id": 1725, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384715.jpg", "expression": "What are the boats in?", "bbox": [0, 0, 500, 290], "height": 292, "width": 500, "question_id": 1731, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384734.jpg", "expression": "What is on the floor between the two light colored couches?", "bbox": [416, 115, 477, 187], "height": 334, "width": 500, "question_id": 1733, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384747.jpg", "expression": "What is in the photo?", "bbox": [155, 434, 219, 481], "height": 500, "width": 333, "question_id": 1735, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384823.jpg", "expression": "Where was the picture taken?", "bbox": [0, 188, 500, 375], "height": 375, "width": 500, "question_id": 1737, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2384953.jpg", "expression": "What is this a photo of?", "bbox": [290, 99, 343, 135], "height": 333, "width": 500, "question_id": 1746, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385065.jpg", "expression": "What electronic devices are pictured?", "bbox": [393, 0, 498, 91], "height": 281, "width": 500, "question_id": 1752, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385102.jpg", "expression": "What is laying in the sand?", "bbox": [126, 87, 322, 251], "height": 375, "width": 500, "question_id": 1755, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385192.jpg", "expression": "What material is the chair?", "bbox": [392, 329, 412, 355], "height": 375, "width": 500, "question_id": 1758, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385275.jpg", "expression": "What kind of vehicle show?", "bbox": [16, 47, 380, 291], "height": 375, "width": 500, "question_id": 1760, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385345.jpg", "expression": "What kind of animal is in the picture?", "bbox": [81, 63, 421, 308], "height": 375, "width": 500, "question_id": 1764, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385482.jpg", "expression": "What is hanging on the door?", "bbox": [173, 164, 202, 223], "height": 374, "width": 500, "question_id": 1773, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385701.jpg", "expression": "What kind of meal is shown?", "bbox": [0, 42, 499, 373], "height": 375, "width": 500, "question_id": 1776, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385707.jpg", "expression": "Where is this shot?", "bbox": [0, 83, 499, 285], "height": 285, "width": 500, "question_id": 1777, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385770.jpg", "expression": "Where is the toilet paper?", "bbox": [0, 369, 40, 434], "height": 500, "width": 333, "question_id": 1782, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2385885.jpg", "expression": "Who is in the picture?", "bbox": [58, 92, 297, 430], "height": 500, "width": 375, "question_id": 1784, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386036.jpg", "expression": "Who is seen reaching for the ingredients?", "bbox": [0, 0, 460, 234], "height": 368, "width": 500, "question_id": 1790, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386036.jpg", "expression": "What are the red slices on the pizza?", "bbox": [187, 302, 211, 325], "height": 368, "width": 500, "question_id": 1791, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386078.jpg", "expression": "What is on the plate?", "bbox": [0, 258, 325, 500], "height": 500, "width": 374, "question_id": 1792, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386160.jpg", "expression": "Who is holding a dog?", "bbox": [0, 136, 42, 312], "height": 375, "width": 500, "question_id": 1794, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386284.jpg", "expression": "What is this?", "bbox": [10, 56, 482, 318], "height": 333, "width": 500, "question_id": 1799, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386488.jpg", "expression": "Why was this photo taken?", "bbox": [478, 170, 499, 267], "height": 375, "width": 500, "question_id": 1812, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386590.jpg", "expression": "What is in the top left corner?", "bbox": [1, 1, 82, 127], "height": 375, "width": 500, "question_id": 1815, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386725.jpg", "expression": "What kind of foliage is pictured?", "bbox": [407, 0, 469, 82], "height": 375, "width": 500, "question_id": 1818, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386818.jpg", "expression": "Why is the plane so low?", "bbox": [298, 121, 432, 166], "height": 333, "width": 500, "question_id": 1826, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386818.jpg", "expression": "What are the marks on the sand?", "bbox": [196, 248, 202, 251], "height": 333, "width": 500, "question_id": 1827, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386818.jpg", "expression": "Where was this photo taken?", "bbox": [0, 206, 499, 333], "height": 333, "width": 500, "question_id": 1828, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386876.jpg", "expression": "What are the dogs doing?", "bbox": [186, 98, 255, 242], "height": 375, "width": 500, "question_id": 1829, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386894.jpg", "expression": "Where is he surfing?", "bbox": [0, 344, 330, 499], "height": 500, "width": 330, "question_id": 1833, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2386992.jpg", "expression": "What animal is in this picture?", "bbox": [388, 186, 488, 254], "height": 340, "width": 500, "question_id": 1839, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2387034.jpg", "expression": "How are the zebras secured?", "bbox": [432, 63, 498, 120], "height": 305, "width": 500, "question_id": 1842, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2387066.jpg", "expression": "What is behind him?", "bbox": [0, 39, 499, 253], "height": 375, "width": 500, "question_id": 1844, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2387248.jpg", "expression": "Who plays tennis?", "bbox": [140, 109, 314, 473], "height": 500, "width": 375, "question_id": 1856, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2387690.jpg", "expression": "What is on the side of the train?", "bbox": [425, 184, 460, 220], "height": 332, "width": 500, "question_id": 1877, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2387721.jpg", "expression": "Where was this photo taken?", "bbox": [236, 0, 499, 260], "height": 343, "width": 500, "question_id": 1884, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2387888.jpg", "expression": "What animal is there?", "bbox": [8, 0, 456, 288], "height": 289, "width": 500, "question_id": 1892, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388115.jpg", "expression": "What is he on?", "bbox": [21, 243, 324, 500], "height": 500, "width": 333, "question_id": 1906, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388199.jpg", "expression": "Who is standing behind the frisbee holder?", "bbox": [231, 123, 245, 137], "height": 333, "width": 500, "question_id": 1908, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388498.jpg", "expression": "What is the basket made of?", "bbox": [53, 68, 63, 78], "height": 500, "width": 278, "question_id": 1928, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388573.jpg", "expression": "What is on the plate?", "bbox": [154, 197, 170, 224], "height": 375, "width": 500, "question_id": 1930, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388576.jpg", "expression": "What are the zebras standing next to?", "bbox": [328, 0, 498, 375], "height": 375, "width": 500, "question_id": 1931, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388670.jpg", "expression": "Who is wearing a purple shirt?", "bbox": [369, 113, 399, 139], "height": 333, "width": 500, "question_id": 1939, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388698.jpg", "expression": "What can you see in the far background?", "bbox": [348, 175, 373, 188], "height": 375, "width": 500, "question_id": 1947, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388828.jpg", "expression": "Why is the water rough?", "bbox": [357, 170, 498, 250], "height": 250, "width": 500, "question_id": 1951, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388892.jpg", "expression": "Where is the computer sitting?", "bbox": [24, 234, 498, 374], "height": 375, "width": 500, "question_id": 1955, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388926.jpg", "expression": "What is the bench made from?", "bbox": [0, 415, 105, 500], "height": 500, "width": 375, "question_id": 1959, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2388999.jpg", "expression": "What is next to the tracks?", "bbox": [283, 309, 295, 322], "height": 366, "width": 500, "question_id": 1962, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2389204.jpg", "expression": "What is on his face?", "bbox": [239, 0, 277, 30], "height": 375, "width": 500, "question_id": 1971, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2389461.jpg", "expression": "What pattern is on the mattress?", "bbox": [214, 122, 247, 132], "height": 333, "width": 500, "question_id": 1979, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2389886.jpg", "expression": "What restaurant is in the building on the left?", "bbox": [42, 326, 129, 354], "height": 375, "width": 500, "question_id": 1992, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390063.jpg", "expression": "Who uses a snowboard?", "bbox": [198, 58, 334, 275], "height": 375, "width": 500, "question_id": 2003, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390226.jpg", "expression": "What is the orange?", "bbox": [69, 141, 111, 218], "height": 375, "width": 500, "question_id": 2013, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390239.jpg", "expression": "Who can be seen in the stadium?", "bbox": [51, 65, 78, 100], "height": 332, "width": 500, "question_id": 2015, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390515.jpg", "expression": "What is in the picture?", "bbox": [5, 76, 115, 152], "height": 328, "width": 500, "question_id": 2028, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390539.jpg", "expression": "What is on the wall?", "bbox": [91, 96, 148, 188], "height": 333, "width": 500, "question_id": 2029, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390689.jpg", "expression": "Who is on the bus?", "bbox": [317, 138, 333, 170], "height": 337, "width": 500, "question_id": 2037, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390704.jpg", "expression": "How do these animals get food to their mouths?", "bbox": [377, 123, 419, 211], "height": 309, "width": 500, "question_id": 2039, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390756.jpg", "expression": "How does the jet move?", "bbox": [13, 112, 344, 233], "height": 333, "width": 500, "question_id": 2043, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390780.jpg", "expression": "What can you see in the background of the race?", "bbox": [3, 0, 498, 48], "height": 236, "width": 500, "question_id": 2046, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2390917.jpg", "expression": "What material is the countertop?", "bbox": [156, 250, 161, 258], "height": 375, "width": 500, "question_id": 2050, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391131.jpg", "expression": "Where are the items seen in photo probably sitting?", "bbox": [0, 0, 500, 332], "height": 333, "width": 500, "question_id": 2056, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391146.jpg", "expression": "Who was the subject of the photo?", "bbox": [0, 75, 309, 390], "height": 500, "width": 333, "question_id": 2058, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391323.jpg", "expression": "Where was this photo taken?", "bbox": [232, 266, 246, 282], "height": 334, "width": 500, "question_id": 2063, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391483.jpg", "expression": "What are the numbers highlighted in red?", "bbox": [225, 109, 250, 136], "height": 375, "width": 500, "question_id": 2071, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391521.jpg", "expression": "Who flies kites?", "bbox": [1, 186, 30, 196], "height": 293, "width": 500, "question_id": 2073, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391529.jpg", "expression": "What is she holding?", "bbox": [107, 181, 272, 253], "height": 357, "width": 500, "question_id": 2074, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391550.jpg", "expression": "Who is sitting on the horse?", "bbox": [101, 185, 169, 328], "height": 500, "width": 333, "question_id": 2076, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391550.jpg", "expression": "What kind of trees are in the photo?", "bbox": [101, 140, 132, 256], "height": 500, "width": 333, "question_id": 2077, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391732.jpg", "expression": "Where are the boats sitting?", "bbox": [69, 53, 499, 295], "height": 334, "width": 500, "question_id": 2088, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391738.jpg", "expression": "Where is the elephant?", "bbox": [185, 340, 310, 424], "height": 500, "width": 325, "question_id": 2090, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2391959.jpg", "expression": "What is the train riding on?", "bbox": [1, 206, 499, 242], "height": 243, "width": 500, "question_id": 2097, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2392346.jpg", "expression": "Where is the picture taken?", "bbox": [0, 57, 414, 329], "height": 332, "width": 500, "question_id": 2107, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2392413.jpg", "expression": "What is behind the parked cars?", "bbox": [148, 219, 209, 256], "height": 340, "width": 357, "question_id": 2109, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2392501.jpg", "expression": "Who is the man?", "bbox": [199, 92, 307, 239], "height": 331, "width": 500, "question_id": 2111, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2392519.jpg", "expression": "What is sitting on the corner of the bathtub?", "bbox": [64, 172, 101, 209], "height": 342, "width": 500, "question_id": 2113, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2392786.jpg", "expression": "What is on the top?", "bbox": [207, 23, 256, 42], "height": 333, "width": 500, "question_id": 2116, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2392879.jpg", "expression": "What makes the middle of the picture tan?", "bbox": [198, 318, 222, 332], "height": 500, "width": 375, "question_id": 2123, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393018.jpg", "expression": "What are they making?", "bbox": [138, 174, 213, 214], "height": 375, "width": 500, "question_id": 2129, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393339.jpg", "expression": "Where was the photo taken?", "bbox": [33, 211, 86, 235], "height": 375, "width": 500, "question_id": 2147, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393594.jpg", "expression": "What is between the wall and the water?", "bbox": [331, 230, 353, 270], "height": 334, "width": 500, "question_id": 2160, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393609.jpg", "expression": "What is to the right of the mouse?", "bbox": [240, 56, 272, 135], "height": 333, "width": 500, "question_id": 2161, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393707.jpg", "expression": "What is in the picture?", "bbox": [22, 54, 499, 374], "height": 375, "width": 500, "question_id": 2171, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393787.jpg", "expression": "Who is riding a bicycle?", "bbox": [286, 167, 322, 235], "height": 328, "width": 500, "question_id": 2173, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393835.jpg", "expression": "Why is this person holding a tennis racket?", "bbox": [252, 3, 397, 317], "height": 333, "width": 500, "question_id": 2177, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393871.jpg", "expression": "What is on the track?", "bbox": [144, 129, 387, 232], "height": 332, "width": 500, "question_id": 2180, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393891.jpg", "expression": "Where was this taken?", "bbox": [0, 231, 498, 329], "height": 332, "width": 500, "question_id": 2181, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393903.jpg", "expression": "What is below the cucumbers?", "bbox": [258, 290, 370, 393], "height": 500, "width": 500, "question_id": 2183, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2393984.jpg", "expression": "What number is in the background?", "bbox": [443, 232, 449, 241], "height": 333, "width": 500, "question_id": 2189, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2394530.jpg", "expression": "Where is the baby?", "bbox": [127, 107, 264, 294], "height": 375, "width": 500, "question_id": 2213, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2394559.jpg", "expression": "What animal is he?", "bbox": [141, 13, 361, 197], "height": 333, "width": 500, "question_id": 2216, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2394857.jpg", "expression": "Who is driving the bus?", "bbox": [212, 194, 227, 208], "height": 355, "width": 500, "question_id": 2222, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2395106.jpg", "expression": "Where is this picture taken?", "bbox": [0, 298, 332, 498], "height": 500, "width": 334, "question_id": 2228, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2395108.jpg", "expression": "What vehicles are shown?", "bbox": [270, 167, 305, 199], "height": 500, "width": 493, "question_id": 2230, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2395298.jpg", "expression": "What is in the photo?", "bbox": [108, 95, 475, 159], "height": 333, "width": 500, "question_id": 2241, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2395429.jpg", "expression": "Who is in the water?", "bbox": [6, 140, 383, 215], "height": 375, "width": 500, "question_id": 2246, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2395766.jpg", "expression": "What shape are the tiles?", "bbox": [0, 316, 112, 417], "height": 500, "width": 375, "question_id": 2263, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2395962.jpg", "expression": "Why are there lwhite lines?", "bbox": [0, 247, 499, 307], "height": 415, "width": 500, "question_id": 2267, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396087.jpg", "expression": "Where do you participate in this sport?", "bbox": [267, 374, 281, 391], "height": 500, "width": 334, "question_id": 2275, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396267.jpg", "expression": "What is hanging from the handle of the top motorcycle?", "bbox": [203, 33, 241, 72], "height": 333, "width": 500, "question_id": 2280, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396447.jpg", "expression": "Where are plates?", "bbox": [0, 7, 499, 498], "height": 500, "width": 500, "question_id": 2288, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396497.jpg", "expression": "What kind of animal is shown?", "bbox": [160, 134, 319, 285], "height": 375, "width": 500, "question_id": 2290, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396607.jpg", "expression": "What is next to the plate?", "bbox": [83, 406, 186, 443], "height": 500, "width": 375, "question_id": 2294, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396626.jpg", "expression": "What is in the background?", "bbox": [0, 222, 333, 268], "height": 500, "width": 333, "question_id": 2298, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2396956.jpg", "expression": "How does this motorcycle move?", "bbox": [34, 226, 82, 312], "height": 500, "width": 375, "question_id": 2309, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2397247.jpg", "expression": "Why is there a dish of water near the dogs?", "bbox": [150, 76, 428, 203], "height": 333, "width": 500, "question_id": 2322, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2397317.jpg", "expression": "Where is the photo taken?", "bbox": [0, 0, 168, 236], "height": 236, "width": 500, "question_id": 2325, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2397565.jpg", "expression": "What is under the food the man is cutting?", "bbox": [442, 180, 499, 241], "height": 375, "width": 500, "question_id": 2335, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2397619.jpg", "expression": "Where are the boys?", "bbox": [0, 179, 499, 461], "height": 463, "width": 500, "question_id": 2343, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2397637.jpg", "expression": "Who threw the ball?", "bbox": [169, 132, 217, 172], "height": 332, "width": 500, "question_id": 2344, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2397905.jpg", "expression": "Who is in the picture?", "bbox": [17, 80, 266, 467], "height": 500, "width": 333, "question_id": 2355, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2398359.jpg", "expression": "Where was the picture taken?", "bbox": [0, 0, 500, 334], "height": 334, "width": 500, "question_id": 2365, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2398405.jpg", "expression": "Where are tiles?", "bbox": [108, 355, 348, 498], "height": 500, "width": 373, "question_id": 2370, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2398754.jpg", "expression": "Who is this?", "bbox": [0, 168, 283, 500], "height": 500, "width": 500, "question_id": 2392, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2398812.jpg", "expression": "What animal is in this picture?", "bbox": [137, 33, 499, 342], "height": 375, "width": 500, "question_id": 2395, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2398828.jpg", "expression": "Where was the photo taken?", "bbox": [0, 273, 375, 500], "height": 500, "width": 375, "question_id": 2396, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2398974.jpg", "expression": "What vehicle is pictured?", "bbox": [37, 100, 472, 188], "height": 282, "width": 500, "question_id": 2405, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399116.jpg", "expression": "What is on the table?", "bbox": [198, 257, 305, 355], "height": 375, "width": 500, "question_id": 2414, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399265.jpg", "expression": "What is on the toilet?", "bbox": [0, 108, 91, 239], "height": 500, "width": 375, "question_id": 2419, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399269.jpg", "expression": "Where is the drain pipe?", "bbox": [0, 298, 500, 332], "height": 333, "width": 500, "question_id": 2420, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399535.jpg", "expression": "What is it?", "bbox": [0, 98, 137, 286], "height": 500, "width": 375, "question_id": 2429, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399538.jpg", "expression": "Where are shadows?", "bbox": [70, 250, 294, 499], "height": 500, "width": 295, "question_id": 2430, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399621.jpg", "expression": "Why is the plane there?", "bbox": [18, 95, 469, 235], "height": 333, "width": 500, "question_id": 2438, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399726.jpg", "expression": "Why was the picture taken?", "bbox": [330, 90, 481, 226], "height": 278, "width": 500, "question_id": 2449, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399771.jpg", "expression": "Who is named on the street sign?", "bbox": [94, 282, 214, 312], "height": 500, "width": 333, "question_id": 2452, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399995.jpg", "expression": "Who is there?", "bbox": [274, 97, 281, 127], "height": 333, "width": 500, "question_id": 2456, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2399995.jpg", "expression": "What is in the sky?", "bbox": [220, 23, 242, 47], "height": 333, "width": 500, "question_id": 2459, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400068.jpg", "expression": "What restaurant is pictured?", "bbox": [14, 69, 67, 101], "height": 375, "width": 500, "question_id": 2468, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400068.jpg", "expression": "Why does the truck have lights on top?", "bbox": [111, 110, 450, 288], "height": 375, "width": 500, "question_id": 2470, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400093.jpg", "expression": "What is in the pot?", "bbox": [292, 257, 308, 284], "height": 375, "width": 500, "question_id": 2472, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400274.jpg", "expression": "Why is the top of the cross white?", "bbox": [326, 29, 419, 59], "height": 375, "width": 500, "question_id": 2477, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400422.jpg", "expression": "Where is the pilot?", "bbox": [192, 180, 219, 193], "height": 357, "width": 500, "question_id": 2482, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400527.jpg", "expression": "What is in front of the tepees?", "bbox": [201, 137, 238, 172], "height": 333, "width": 500, "question_id": 2484, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400614.jpg", "expression": "Where was this photo taken?", "bbox": [0, 168, 497, 331], "height": 333, "width": 500, "question_id": 2487, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400707.jpg", "expression": "What is yellow and white?", "bbox": [60, 179, 286, 290], "height": 333, "width": 500, "question_id": 2493, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2400828.jpg", "expression": "What is on the wall?", "bbox": [88, 69, 136, 134], "height": 500, "width": 334, "question_id": 2500, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2401262.jpg", "expression": "Where was this picture taken?", "bbox": [0, 317, 498, 331], "height": 333, "width": 500, "question_id": 2521, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2401478.jpg", "expression": "Why is the water different colors?", "bbox": [1, 48, 500, 330], "height": 333, "width": 500, "question_id": 2529, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2401731.jpg", "expression": "Where do they sit?", "bbox": [143, 380, 246, 433], "height": 500, "width": 333, "question_id": 2542, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2401842.jpg", "expression": "Who is holding the umbrella?", "bbox": [179, 178, 258, 440], "height": 500, "width": 375, "question_id": 2549, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2401842.jpg", "expression": "What is wrapped around the woman in pink's torso?", "bbox": [178, 214, 249, 321], "height": 500, "width": 375, "question_id": 2550, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2401849.jpg", "expression": "What else is visible?", "bbox": [92, 142, 117, 182], "height": 493, "width": 500, "question_id": 2551, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402012.jpg", "expression": "Where are the phones?", "bbox": [49, 1, 178, 139], "height": 331, "width": 500, "question_id": 2557, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402018.jpg", "expression": "What is hanging from the tree?", "bbox": [159, 82, 168, 99], "height": 333, "width": 500, "question_id": 2558, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402177.jpg", "expression": "What is under a woman's arm?", "bbox": [304, 102, 443, 186], "height": 333, "width": 500, "question_id": 2570, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402185.jpg", "expression": "What is grey?", "bbox": [49, 227, 424, 331], "height": 332, "width": 500, "question_id": 2573, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402407.jpg", "expression": "What animal is depicted?", "bbox": [107, 43, 449, 500], "height": 500, "width": 450, "question_id": 2578, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402683.jpg", "expression": "Why is she jumping?", "bbox": [297, 89, 306, 102], "height": 335, "width": 500, "question_id": 2591, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402733.jpg", "expression": "What color is the women pants?", "bbox": [35, 97, 127, 282], "height": 333, "width": 500, "question_id": 2596, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402752.jpg", "expression": "Where was this picture taken?", "bbox": [0, 0, 375, 499], "height": 500, "width": 375, "question_id": 2597, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402815.jpg", "expression": "What are parked?", "bbox": [170, 175, 201, 208], "height": 393, "width": 500, "question_id": 2603, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402830.jpg", "expression": "Who is in the field?", "bbox": [214, 50, 276, 232], "height": 281, "width": 500, "question_id": 2604, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2402950.jpg", "expression": "What are the animals running in?", "bbox": [0, 8, 500, 325], "height": 333, "width": 500, "question_id": 2607, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403018.jpg", "expression": "When will the pizza be gone?", "bbox": [3, 120, 460, 493], "height": 500, "width": 500, "question_id": 2611, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403094.jpg", "expression": "Where is a mirror?", "bbox": [217, 0, 500, 351], "height": 449, "width": 500, "question_id": 2613, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403139.jpg", "expression": "Where is the bun?", "bbox": [32, 16, 461, 296], "height": 333, "width": 500, "question_id": 2614, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403222.jpg", "expression": "What does the shirt on the man to the left say?", "bbox": [57, 179, 104, 205], "height": 500, "width": 331, "question_id": 2625, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403276.jpg", "expression": "What is behind the sign?", "bbox": [106, 0, 333, 500], "height": 500, "width": 333, "question_id": 2630, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403289.jpg", "expression": "What is red?", "bbox": [376, 78, 432, 181], "height": 333, "width": 500, "question_id": 2632, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403544.jpg", "expression": "What is seen on the ground behind the zebra?", "bbox": [123, 297, 155, 319], "height": 333, "width": 500, "question_id": 2647, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403706.jpg", "expression": "Where was the picture taken?", "bbox": [0, 222, 499, 373], "height": 375, "width": 500, "question_id": 2659, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2403978.jpg", "expression": "What animal do you see?", "bbox": [161, 101, 341, 372], "height": 374, "width": 500, "question_id": 2666, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404258.jpg", "expression": "When does the traffic stop?", "bbox": [143, 175, 169, 200], "height": 500, "width": 375, "question_id": 2675, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404427.jpg", "expression": "What living thing is in picture?", "bbox": [16, 1, 312, 215], "height": 295, "width": 500, "question_id": 2680, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404465.jpg", "expression": "What is in the background?", "bbox": [35, 0, 162, 158], "height": 500, "width": 500, "question_id": 2685, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404673.jpg", "expression": "What is in the window?", "bbox": [60, 62, 281, 499], "height": 500, "width": 333, "question_id": 2691, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404673.jpg", "expression": "What hangs in the window?", "bbox": [298, 319, 329, 356], "height": 500, "width": 333, "question_id": 2692, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404929.jpg", "expression": "What is in their ears?", "bbox": [248, 151, 257, 158], "height": 500, "width": 500, "question_id": 2704, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2404957.jpg", "expression": "What pattern are their colors?", "bbox": [309, 121, 323, 143], "height": 333, "width": 500, "question_id": 2705, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2405197.jpg", "expression": "Who is in the picture?", "bbox": [121, 89, 254, 161], "height": 298, "width": 500, "question_id": 2717, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2405409.jpg", "expression": "What is in water?", "bbox": [199, 155, 349, 237], "height": 375, "width": 500, "question_id": 2722, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2405533.jpg", "expression": "When will all four of the horse's hooves touch the ground?", "bbox": [67, 80, 177, 152], "height": 238, "width": 500, "question_id": 2723, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2405533.jpg", "expression": "Why is everything a blur, behind the horse?", "bbox": [67, 80, 177, 152], "height": 238, "width": 500, "question_id": 2724, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2405600.jpg", "expression": "Who is in the picture?", "bbox": [316, 435, 367, 489], "height": 500, "width": 374, "question_id": 2725, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2405809.jpg", "expression": "Who is riding the person riding the motorcycle?", "bbox": [186, 336, 206, 370], "height": 500, "width": 375, "question_id": 2729, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406135.jpg", "expression": "Why are they looking down?", "bbox": [196, 242, 239, 264], "height": 332, "width": 500, "question_id": 2740, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406227.jpg", "expression": "Who is flying in the sky?", "bbox": [326, 226, 374, 255], "height": 500, "width": 500, "question_id": 2744, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406335.jpg", "expression": "How is the sandwich wrapped?", "bbox": [224, 96, 499, 303], "height": 374, "width": 500, "question_id": 2746, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406385.jpg", "expression": "What is on the floor?", "bbox": [0, 234, 498, 334], "height": 334, "width": 500, "question_id": 2747, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406476.jpg", "expression": "What kind of ball is it?", "bbox": [230, 113, 239, 121], "height": 375, "width": 500, "question_id": 2749, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406497.jpg", "expression": "What is in the background?", "bbox": [209, 78, 230, 88], "height": 332, "width": 500, "question_id": 2751, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406666.jpg", "expression": "Where are the man and women going?", "bbox": [0, 167, 365, 498], "height": 500, "width": 367, "question_id": 2765, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406863.jpg", "expression": "What is on the table?", "bbox": [65, 193, 172, 249], "height": 375, "width": 500, "question_id": 2773, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2406889.jpg", "expression": "What is all lined up to make a fence on the right side?", "bbox": [446, 59, 461, 88], "height": 333, "width": 500, "question_id": 2777, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407152.jpg", "expression": "What is on the ground?", "bbox": [24, 321, 59, 341], "height": 500, "width": 375, "question_id": 2794, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407152.jpg", "expression": "What is in the backround?", "bbox": [0, 30, 373, 145], "height": 500, "width": 375, "question_id": 2795, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407215.jpg", "expression": "What is on the pizza?", "bbox": [196, 304, 218, 341], "height": 500, "width": 374, "question_id": 2798, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407271.jpg", "expression": "What is in the foreground?", "bbox": [0, 157, 498, 229], "height": 231, "width": 500, "question_id": 2799, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407559.jpg", "expression": "Where is the camera pointing?", "bbox": [142, 0, 394, 375], "height": 375, "width": 500, "question_id": 2808, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407665.jpg", "expression": "Who is walking outside of the crosswalk?", "bbox": [145, 36, 173, 51], "height": 333, "width": 500, "question_id": 2810, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407665.jpg", "expression": "What is the man in the suit doing?", "bbox": [316, 44, 332, 57], "height": 333, "width": 500, "question_id": 2812, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407732.jpg", "expression": "What is in the water?", "bbox": [64, 165, 395, 251], "height": 333, "width": 500, "question_id": 2818, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407845.jpg", "expression": "What is in the photo?", "bbox": [107, 33, 365, 316], "height": 332, "width": 500, "question_id": 2823, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407846.jpg", "expression": "What is he carrying?", "bbox": [148, 134, 202, 187], "height": 333, "width": 500, "question_id": 2825, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2407987.jpg", "expression": "What is between the two men and the grassy hill?", "bbox": [318, 173, 467, 267], "height": 333, "width": 500, "question_id": 2828, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2408220.jpg", "expression": "What is in the foreground?", "bbox": [298, 100, 365, 144], "height": 333, "width": 500, "question_id": 2838, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2408281.jpg", "expression": "What is behind the man?", "bbox": [207, 210, 231, 232], "height": 500, "width": 333, "question_id": 2840, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2408661.jpg", "expression": "What electronic is the man using?", "bbox": [16, 228, 183, 332], "height": 333, "width": 500, "question_id": 2860, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2408661.jpg", "expression": "What is the chair made of?", "bbox": [406, 252, 489, 331], "height": 333, "width": 500, "question_id": 2862, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2408767.jpg", "expression": "What is above the train?", "bbox": [161, 0, 396, 165], "height": 331, "width": 500, "question_id": 2871, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2408839.jpg", "expression": "What is red and white?", "bbox": [41, 160, 433, 299], "height": 333, "width": 500, "question_id": 2876, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409115.jpg", "expression": "Who is in the photo?", "bbox": [0, 0, 332, 499], "height": 500, "width": 333, "question_id": 2890, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409135.jpg", "expression": "What type of tower is this?", "bbox": [0, 0, 500, 375], "height": 375, "width": 500, "question_id": 2891, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409532.jpg", "expression": "What is written on the side of the airplane?", "bbox": [133, 120, 208, 161], "height": 313, "width": 500, "question_id": 2903, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409688.jpg", "expression": "What is in the background?", "bbox": [199, 0, 318, 52], "height": 312, "width": 500, "question_id": 2913, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409688.jpg", "expression": "What are the rowers doing?", "bbox": [48, 145, 395, 194], "height": 312, "width": 500, "question_id": 2914, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409688.jpg", "expression": "Where are the boats?", "bbox": [7, 78, 498, 310], "height": 312, "width": 500, "question_id": 2915, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2409936.jpg", "expression": "What is in the background?", "bbox": [225, 54, 251, 166], "height": 375, "width": 500, "question_id": 2920, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2410203.jpg", "expression": "How does the skateboarder keep his shoes on?", "bbox": [245, 349, 251, 355], "height": 500, "width": 333, "question_id": 2935, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2410289.jpg", "expression": "Where are the trees?", "bbox": [96, 126, 236, 271], "height": 500, "width": 333, "question_id": 2939, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2410296.jpg", "expression": "What is the main topping?", "bbox": [262, 202, 266, 212], "height": 331, "width": 500, "question_id": 2940, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2410444.jpg", "expression": "Where is the sink?", "bbox": [94, 89, 218, 212], "height": 500, "width": 281, "question_id": 2952, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2410673.jpg", "expression": "Who is in the picture's foreground?", "bbox": [356, 193, 389, 262], "height": 406, "width": 500, "question_id": 2964, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2410878.jpg", "expression": "What is around the lady's neck?", "bbox": [306, 143, 385, 202], "height": 375, "width": 500, "question_id": 2969, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411088.jpg", "expression": "Who is holding the rooster?", "bbox": [56, 180, 197, 471], "height": 500, "width": 333, "question_id": 2979, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411131.jpg", "expression": "Why is the man holding a surfboard?", "bbox": [378, 156, 404, 245], "height": 375, "width": 500, "question_id": 2984, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411297.jpg", "expression": "Who is wearing a scarf?", "bbox": [196, 151, 278, 373], "height": 375, "width": 500, "question_id": 2990, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411585.jpg", "expression": "What confectionery item is in the box?", "bbox": [243, 193, 396, 332], "height": 332, "width": 500, "question_id": 2996, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411587.jpg", "expression": "How is the bench designed?", "bbox": [372, 117, 424, 187], "height": 332, "width": 500, "question_id": 2997, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411640.jpg", "expression": "What kind of flooring is here?", "bbox": [87, 257, 134, 312], "height": 375, "width": 500, "question_id": 3006, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2411708.jpg", "expression": "Where are the bananas?", "bbox": [76, 73, 394, 332], "height": 333, "width": 500, "question_id": 3010, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2412025.jpg", "expression": "Where is he doing it?", "bbox": [0, 240, 500, 499], "height": 500, "width": 500, "question_id": 3014, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2412216.jpg", "expression": "Who is eating?", "bbox": [107, 239, 172, 438], "height": 500, "width": 375, "question_id": 3023, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2412292.jpg", "expression": "What is behind the fence?", "bbox": [0, 0, 276, 160], "height": 500, "width": 330, "question_id": 3028, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2412503.jpg", "expression": "What are the men wearing on their heads?", "bbox": [237, 13, 281, 54], "height": 319, "width": 500, "question_id": 3032, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2412588.jpg", "expression": "Who is eating?", "bbox": [0, 189, 76, 499], "height": 500, "width": 375, "question_id": 3034, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2412781.jpg", "expression": "Where can the aircraft land?", "bbox": [0, 196, 498, 280], "height": 281, "width": 500, "question_id": 3043, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413033.jpg", "expression": "How are they attached to the boat?", "bbox": [189, 220, 309, 331], "height": 333, "width": 500, "question_id": 3053, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413039.jpg", "expression": "How is this umbrella held up?", "bbox": [253, 285, 270, 338], "height": 339, "width": 500, "question_id": 3055, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413138.jpg", "expression": "What is the animal?", "bbox": [295, 0, 499, 306], "height": 332, "width": 500, "question_id": 3061, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413304.jpg", "expression": "Where does the man buy his donut?", "bbox": [0, 0, 375, 500], "height": 500, "width": 375, "question_id": 3080, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413365.jpg", "expression": "Where is the green food?", "bbox": [168, 218, 193, 243], "height": 500, "width": 375, "question_id": 3082, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413583.jpg", "expression": "What is behind the girl?", "bbox": [0, 69, 501, 220], "height": 375, "width": 500, "question_id": 3090, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413783.jpg", "expression": "What is on the man's hands?", "bbox": [88, 17, 119, 42], "height": 320, "width": 500, "question_id": 3102, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413887.jpg", "expression": "What is the floor made of?", "bbox": [300, 120, 378, 171], "height": 335, "width": 500, "question_id": 3110, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413917.jpg", "expression": "Why are the people outside?", "bbox": [69, 46, 238, 246], "height": 500, "width": 333, "question_id": 3114, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2413936.jpg", "expression": "Who is on the beach?", "bbox": [182, 191, 193, 214], "height": 249, "width": 500, "question_id": 3115, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414217.jpg", "expression": "What animal is in the picture?", "bbox": [15, 143, 362, 497], "height": 500, "width": 374, "question_id": 3132, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414265.jpg", "expression": "Who is fighting?", "bbox": [211, 43, 497, 330], "height": 333, "width": 500, "question_id": 3134, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414638.jpg", "expression": "What is in the sky?", "bbox": [131, 48, 169, 70], "height": 334, "width": 500, "question_id": 3147, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414720.jpg", "expression": "How is the girl flying the kite?", "bbox": [103, 306, 117, 350], "height": 500, "width": 500, "question_id": 3148, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414764.jpg", "expression": "What is the woman doing?", "bbox": [107, 203, 178, 290], "height": 375, "width": 500, "question_id": 3149, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414780.jpg", "expression": "What is in her hands?", "bbox": [248, 165, 448, 265], "height": 327, "width": 500, "question_id": 3151, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414890.jpg", "expression": "Where are the green stairs in this picture?", "bbox": [186, 209, 309, 494], "height": 500, "width": 375, "question_id": 3159, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2414915.jpg", "expression": "How are they cooling off?", "bbox": [404, 266, 423, 282], "height": 330, "width": 500, "question_id": 3161, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415052.jpg", "expression": "Why is there a procession?", "bbox": [227, 127, 386, 200], "height": 333, "width": 500, "question_id": 3169, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415185.jpg", "expression": "Who is on the motorcycle?", "bbox": [263, 161, 275, 179], "height": 301, "width": 500, "question_id": 3175, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415336.jpg", "expression": "What animal is in the picture?", "bbox": [0, 1, 362, 332], "height": 332, "width": 500, "question_id": 3186, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415338.jpg", "expression": "What type of bus is it?", "bbox": [163, 136, 383, 290], "height": 375, "width": 500, "question_id": 3187, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415435.jpg", "expression": "When was this photo taken?", "bbox": [167, 0, 375, 487], "height": 500, "width": 375, "question_id": 3192, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415638.jpg", "expression": "Where are the shoes?", "bbox": [0, 179, 169, 373], "height": 375, "width": 500, "question_id": 3195, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2415970.jpg", "expression": "Who is taking a picture?", "bbox": [0, 177, 331, 498], "height": 500, "width": 332, "question_id": 3214, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2416081.jpg", "expression": "What is shown inside the refrigerator?", "bbox": [303, 174, 473, 244], "height": 375, "width": 500, "question_id": 3223, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2416265.jpg", "expression": "What is under the sheep?", "bbox": [123, 378, 173, 419], "height": 500, "width": 500, "question_id": 3229, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2416535.jpg", "expression": "Who is eating a sandwich?", "bbox": [0, 145, 371, 465], "height": 500, "width": 373, "question_id": 3233, "split": "val"}
+{"img_path": "cot/visual7w/v7w_712951.jpg", "expression": "Who is in the picture?", "bbox": [110, 200, 440, 608], "height": 851, "width": 566, "question_id": 3249, "split": "val"}
+{"img_path": "cot/visual7w/v7w_712951.jpg", "expression": "Who is in mid-air?", "bbox": [110, 200, 440, 608], "height": 851, "width": 566, "question_id": 3253, "split": "val"}
+{"img_path": "cot/visual7w/v7w_712989.jpg", "expression": "What is the pattern on the sheets?", "bbox": [385, 499, 438, 550], "height": 1024, "width": 768, "question_id": 3260, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2416982.jpg", "expression": "What causes the boats to move?", "bbox": [267, 316, 290, 327], "height": 335, "width": 500, "question_id": 3271, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2416995.jpg", "expression": "What is the laptop sitting on?", "bbox": [0, 187, 500, 332], "height": 333, "width": 500, "question_id": 3272, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713073.jpg", "expression": "What are these cats doing?", "bbox": [310, 160, 807, 679], "height": 681, "width": 1024, "question_id": 3274, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713073.jpg", "expression": "Who took this picture?", "bbox": [909, 278, 936, 332], "height": 681, "width": 1024, "question_id": 3275, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713073.jpg", "expression": "What is laying behind the bench?", "bbox": [104, 364, 325, 460], "height": 681, "width": 1024, "question_id": 3276, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713073.jpg", "expression": "What is growing under the bench?", "bbox": [540, 513, 589, 679], "height": 681, "width": 1024, "question_id": 3277, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713073.jpg", "expression": "What condition is the bench in?", "bbox": [310, 160, 807, 679], "height": 681, "width": 1024, "question_id": 3278, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713073.jpg", "expression": "What type of cats might these be?", "bbox": [598, 326, 697, 380], "height": 681, "width": 1024, "question_id": 3279, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713097.jpg", "expression": "Where is the leaves?", "bbox": [0, 421, 1026, 668], "height": 768, "width": 1024, "question_id": 3282, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417076.jpg", "expression": "Where is the cake?", "bbox": [0, 328, 333, 498], "height": 500, "width": 334, "question_id": 3292, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713154.jpg", "expression": "What does the sign say?", "bbox": [122, 575, 217, 636], "height": 768, "width": 1024, "question_id": 3293, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713168.jpg", "expression": "Why is the ground white?", "bbox": [316, 358, 366, 398], "height": 683, "width": 1024, "question_id": 3299, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713248.jpg", "expression": "Where are the skiers?", "bbox": [0, 101, 766, 1016], "height": 1024, "width": 768, "question_id": 3332, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713321.jpg", "expression": "Who has curly hair?", "bbox": [11, 361, 215, 579], "height": 587, "width": 1024, "question_id": 3346, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713336.jpg", "expression": "What kind of coats are these two wearing?", "bbox": [493, 171, 673, 450], "height": 678, "width": 1024, "question_id": 3353, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713336.jpg", "expression": "How is this woman wearing her hair?", "bbox": [538, 124, 613, 181], "height": 678, "width": 1024, "question_id": 3354, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713385.jpg", "expression": "What is the man carrying?", "bbox": [332, 170, 547, 765], "height": 768, "width": 1024, "question_id": 3358, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713385.jpg", "expression": "What is a woman in the background wearing?", "bbox": [305, 308, 344, 360], "height": 768, "width": 1024, "question_id": 3362, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713385.jpg", "expression": "What can be seen on the ground?", "bbox": [0, 373, 252, 765], "height": 768, "width": 1024, "question_id": 3364, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713455.jpg", "expression": "What are two players doing?", "bbox": [590, 573, 606, 589], "height": 768, "width": 1024, "question_id": 3379, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713510.jpg", "expression": "What are on the feet of the man upside down?", "bbox": [412, 71, 524, 339], "height": 686, "width": 1024, "question_id": 3384, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713530.jpg", "expression": "What are hanging at the front of the shop?", "bbox": [504, 525, 545, 666], "height": 1024, "width": 681, "question_id": 3391, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713530.jpg", "expression": "How are the people in the background traveling?", "bbox": [390, 359, 401, 398], "height": 1024, "width": 681, "question_id": 3392, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713530.jpg", "expression": "Where is the pink shirt with white flowers?", "bbox": [576, 252, 601, 310], "height": 1024, "width": 681, "question_id": 3393, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713585.jpg", "expression": "Why is the woman on the right wearing sunglasses?", "bbox": [567, 110, 964, 513], "height": 768, "width": 1024, "question_id": 3411, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713585.jpg", "expression": "Where are shadows?", "bbox": [6, 479, 1021, 766], "height": 768, "width": 1024, "question_id": 3414, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417551.jpg", "expression": "What is the red condiment on the table?", "bbox": [187, 228, 210, 289], "height": 298, "width": 448, "question_id": 3418, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713619.jpg", "expression": "What does the pavement of the parking lot floor look like?", "bbox": [391, 516, 581, 550], "height": 768, "width": 1024, "question_id": 3423, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713623.jpg", "expression": "What is at anchor?", "bbox": [14, 270, 605, 491], "height": 768, "width": 1024, "question_id": 3428, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713628.jpg", "expression": "What is on the table?", "bbox": [485, 222, 535, 245], "height": 411, "width": 1024, "question_id": 3433, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417586.jpg", "expression": "What animals are there?", "bbox": [220, 0, 418, 163], "height": 334, "width": 500, "question_id": 3441, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417613.jpg", "expression": "What is on the ground in this photo?", "bbox": [62, 247, 80, 267], "height": 333, "width": 500, "question_id": 3442, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417615.jpg", "expression": "What are they wearing?", "bbox": [97, 164, 106, 178], "height": 375, "width": 500, "question_id": 3445, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417656.jpg", "expression": "What is in the foreground?", "bbox": [0, 147, 500, 374], "height": 375, "width": 500, "question_id": 3453, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713728.jpg", "expression": "What is the license plate number on the motorbike?", "bbox": [260, 368, 303, 431], "height": 683, "width": 1024, "question_id": 3457, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713748.jpg", "expression": "What is crowded?", "bbox": [0, 203, 1022, 679], "height": 683, "width": 1024, "question_id": 3472, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713776.jpg", "expression": "What is behind the man attached to a mirror?", "bbox": [321, 0, 419, 108], "height": 1024, "width": 768, "question_id": 3478, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713776.jpg", "expression": "Who is the glass of beer in front of?", "bbox": [99, 72, 695, 678], "height": 1024, "width": 768, "question_id": 3479, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417718.jpg", "expression": "What type of animals are shown?", "bbox": [233, 291, 322, 363], "height": 500, "width": 375, "question_id": 3483, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713803.jpg", "expression": "Where was this picture taken?", "bbox": [65, 0, 1021, 584], "height": 819, "width": 1024, "question_id": 3489, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713805.jpg", "expression": "What do the green signs say?", "bbox": [946, 199, 1023, 416], "height": 683, "width": 1024, "question_id": 3490, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713805.jpg", "expression": "What clothing company has an ad displayed?", "bbox": [280, 552, 613, 634], "height": 683, "width": 1024, "question_id": 3491, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713817.jpg", "expression": "What profession are the men?", "bbox": [498, 156, 725, 418], "height": 683, "width": 1024, "question_id": 3494, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713902.jpg", "expression": "Where do shelves of books stand?", "bbox": [429, 401, 685, 614], "height": 1200, "width": 900, "question_id": 3514, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713911.jpg", "expression": "Where is the red brick wall?", "bbox": [0, 47, 266, 595], "height": 749, "width": 1024, "question_id": 3521, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2417925.jpg", "expression": "How is the cow starring?", "bbox": [176, 225, 186, 234], "height": 500, "width": 375, "question_id": 3532, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150503.jpg", "expression": "What has black and white stripes?", "bbox": [655, 63, 784, 138], "height": 809, "width": 1024, "question_id": 3540, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150503.jpg", "expression": "How many man is wearing safety helmet on his head?", "bbox": [90, 321, 164, 404], "height": 809, "width": 1024, "question_id": 3544, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713139.jpg", "expression": "What is the cow with black fur doing?", "bbox": [919, 657, 969, 681], "height": 683, "width": 1024, "question_id": 3547, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713139.jpg", "expression": "What cow is white?", "bbox": [263, 277, 579, 535], "height": 683, "width": 1024, "question_id": 3549, "split": "val"}
+{"img_path": "cot/visual7w/v7w_713471.jpg", "expression": "What is on the man's head?", "bbox": [414, 108, 608, 256], "height": 1024, "width": 897, "question_id": 3556, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315602.jpg", "expression": "Why is lady smiling?", "bbox": [5, 140, 277, 500], "height": 500, "width": 378, "question_id": 3576, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315603.jpg", "expression": "Who is standing?", "bbox": [358, 211, 391, 237], "height": 375, "width": 500, "question_id": 3578, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315873.jpg", "expression": "What are the remotes made of?", "bbox": [370, 289, 382, 297], "height": 303, "width": 500, "question_id": 3582, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315873.jpg", "expression": "What is on the arm of the chair?", "bbox": [273, 129, 457, 228], "height": 303, "width": 500, "question_id": 3583, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315890.jpg", "expression": "What are they walking in?", "bbox": [355, 214, 371, 225], "height": 281, "width": 500, "question_id": 3584, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315964.jpg", "expression": "Where is the worker and their car?", "bbox": [0, 214, 499, 332], "height": 333, "width": 500, "question_id": 3587, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315990.jpg", "expression": "What is the person carrying?", "bbox": [216, 33, 435, 218], "height": 273, "width": 500, "question_id": 3588, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315991.jpg", "expression": "When was theimage taken?", "bbox": [181, 33, 309, 108], "height": 333, "width": 500, "question_id": 3589, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2315991.jpg", "expression": "Why is the animal watching TV?", "bbox": [197, 33, 291, 90], "height": 333, "width": 500, "question_id": 3590, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2316332.jpg", "expression": "Where is the trashcan located?", "bbox": [325, 257, 498, 332], "height": 333, "width": 500, "question_id": 3601, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2316332.jpg", "expression": "Who is the main person in this photo?", "bbox": [433, 114, 490, 216], "height": 333, "width": 500, "question_id": 3602, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2317365.jpg", "expression": "Where is the plate?", "bbox": [0, 0, 498, 375], "height": 375, "width": 500, "question_id": 3648, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2317469.jpg", "expression": "What is covering the ground?", "bbox": [342, 310, 368, 329], "height": 375, "width": 500, "question_id": 3650, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2317661.jpg", "expression": "What is in front of the man?", "bbox": [171, 286, 278, 452], "height": 500, "width": 479, "question_id": 3668, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2317734.jpg", "expression": "What is the man standing on?", "bbox": [203, 163, 292, 192], "height": 333, "width": 500, "question_id": 3674, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2317929.jpg", "expression": "What is the green topping?", "bbox": [205, 87, 442, 166], "height": 375, "width": 500, "question_id": 3684, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2318126.jpg", "expression": "What is attached to the cord of the desk lamp?", "bbox": [456, 260, 489, 290], "height": 373, "width": 500, "question_id": 3689, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2318172.jpg", "expression": "Where is keyboard?", "bbox": [0, 2, 500, 373], "height": 375, "width": 500, "question_id": 3692, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2318248.jpg", "expression": "Why are the man and woman making pizza?", "bbox": [151, 3, 312, 332], "height": 333, "width": 500, "question_id": 3696, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2318501.jpg", "expression": "Where is this picture taken?", "bbox": [0, 108, 498, 312], "height": 313, "width": 500, "question_id": 3710, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2318579.jpg", "expression": "Where is something man-made?", "bbox": [276, 211, 291, 225], "height": 334, "width": 500, "question_id": 3714, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2318604.jpg", "expression": "What is served with the fries?", "bbox": [0, 0, 73, 122], "height": 375, "width": 500, "question_id": 3716, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2319209.jpg", "expression": "Why is he holding the racket?", "bbox": [100, 195, 108, 204], "height": 348, "width": 500, "question_id": 3743, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2319318.jpg", "expression": "What is in the air?", "bbox": [193, 64, 215, 80], "height": 333, "width": 500, "question_id": 3745, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2319562.jpg", "expression": "What is near the sheep?", "bbox": [324, 165, 337, 184], "height": 244, "width": 500, "question_id": 3754, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2319593.jpg", "expression": "What is on the woman's left wrist?", "bbox": [136, 392, 170, 429], "height": 429, "width": 500, "question_id": 3759, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2319679.jpg", "expression": "Where is he at?", "bbox": [0, 156, 498, 330], "height": 332, "width": 500, "question_id": 3762, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320221.jpg", "expression": "What is in the picture?", "bbox": [41, 103, 239, 149], "height": 500, "width": 333, "question_id": 3785, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320238.jpg", "expression": "What object is seen in the middle of photo?", "bbox": [229, 99, 334, 271], "height": 375, "width": 500, "question_id": 3787, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320241.jpg", "expression": "What is the floor made of?", "bbox": [296, 304, 334, 323], "height": 381, "width": 500, "question_id": 3789, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320243.jpg", "expression": "What is in the background?", "bbox": [0, 0, 499, 164], "height": 334, "width": 500, "question_id": 3790, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320350.jpg", "expression": "How is the ballboy positioned?", "bbox": [51, 296, 60, 307], "height": 375, "width": 500, "question_id": 3797, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320466.jpg", "expression": "What is the man doing?", "bbox": [96, 160, 103, 167], "height": 333, "width": 500, "question_id": 3805, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320711.jpg", "expression": "What is the focus of the photo?", "bbox": [0, 135, 386, 178], "height": 375, "width": 500, "question_id": 3813, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2320877.jpg", "expression": "Who is sitting down?", "bbox": [268, 75, 330, 216], "height": 333, "width": 500, "question_id": 3820, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2321280.jpg", "expression": "Why is it so bright?", "bbox": [55, 106, 61, 110], "height": 500, "width": 375, "question_id": 3828, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2321297.jpg", "expression": "Who is wearing white socks?", "bbox": [244, 153, 459, 238], "height": 334, "width": 500, "question_id": 3829, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2321344.jpg", "expression": "What is the focus of the photo?", "bbox": [1, 186, 393, 331], "height": 334, "width": 500, "question_id": 3832, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2321345.jpg", "expression": "How is the man traveling?", "bbox": [0, 0, 500, 500], "height": 500, "width": 500, "question_id": 3833, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2321824.jpg", "expression": "Why the man standing on the stone?", "bbox": [467, 243, 496, 253], "height": 352, "width": 500, "question_id": 3849, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2321965.jpg", "expression": "Where was this picture taken?", "bbox": [78, 206, 498, 331], "height": 333, "width": 500, "question_id": 3857, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322044.jpg", "expression": "What are the children sitting on?", "bbox": [287, 170, 327, 256], "height": 500, "width": 333, "question_id": 3861, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322131.jpg", "expression": "Who is wearing shorts?", "bbox": [33, 267, 108, 408], "height": 416, "width": 500, "question_id": 3864, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322131.jpg", "expression": "What is the name of the street, according to the sign?", "bbox": [390, 145, 437, 166], "height": 416, "width": 500, "question_id": 3865, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322164.jpg", "expression": "Where is the plane?", "bbox": [0, 271, 500, 288], "height": 375, "width": 500, "question_id": 3867, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322436.jpg", "expression": "Where are the tusks?", "bbox": [22, 80, 248, 379], "height": 500, "width": 375, "question_id": 3874, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322560.jpg", "expression": "Where is pom pom?", "bbox": [36, 2, 418, 244], "height": 375, "width": 500, "question_id": 3884, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2322791.jpg", "expression": "Where was this photo taken?", "bbox": [0, 217, 500, 334], "height": 333, "width": 500, "question_id": 3901, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323057.jpg", "expression": "Who is this?", "bbox": [0, 128, 168, 500], "height": 500, "width": 333, "question_id": 3914, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323297.jpg", "expression": "Why was this photo taken?", "bbox": [16, 46, 416, 289], "height": 332, "width": 500, "question_id": 3921, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323338.jpg", "expression": "What type of shirt is the girl wearing?", "bbox": [178, 108, 299, 264], "height": 500, "width": 386, "question_id": 3924, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323464.jpg", "expression": "What is in the sky?", "bbox": [236, 83, 379, 138], "height": 375, "width": 500, "question_id": 3926, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323729.jpg", "expression": "Why is she wearing a bathing suit?", "bbox": [143, 53, 252, 333], "height": 333, "width": 500, "question_id": 3929, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323774.jpg", "expression": "Where is the boat resting?", "bbox": [246, 322, 263, 337], "height": 375, "width": 500, "question_id": 3930, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2323996.jpg", "expression": "What kind of fruit is in the bowl?", "bbox": [241, 147, 318, 230], "height": 332, "width": 500, "question_id": 3941, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324019.jpg", "expression": "Who is pictured?", "bbox": [354, 37, 471, 340], "height": 375, "width": 500, "question_id": 3945, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324228.jpg", "expression": "What is under the cup?", "bbox": [178, 217, 499, 373], "height": 375, "width": 500, "question_id": 3958, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324228.jpg", "expression": "Where is the napkin?", "bbox": [18, 62, 330, 374], "height": 375, "width": 500, "question_id": 3960, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324325.jpg", "expression": "Who is sitting on the bench?", "bbox": [73, 133, 203, 440], "height": 500, "width": 333, "question_id": 3963, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324328.jpg", "expression": "Where was this photo taken?", "bbox": [0, 294, 500, 329], "height": 330, "width": 500, "question_id": 3965, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324386.jpg", "expression": "Where are the people standing?", "bbox": [0, 250, 498, 373], "height": 375, "width": 500, "question_id": 3970, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324406.jpg", "expression": "What does the banner on the left say?", "bbox": [0, 108, 71, 137], "height": 375, "width": 500, "question_id": 3972, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324437.jpg", "expression": "Why is it harder to get to these bikes?", "bbox": [0, 47, 145, 57], "height": 333, "width": 500, "question_id": 3973, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324439.jpg", "expression": "What is in the background?", "bbox": [417, 116, 456, 193], "height": 375, "width": 500, "question_id": 3974, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2324798.jpg", "expression": "Why is the tip of the ciggarette different from the rest?", "bbox": [151, 256, 153, 263], "height": 344, "width": 500, "question_id": 3993, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325041.jpg", "expression": "What is on the man's head?", "bbox": [126, 93, 172, 118], "height": 333, "width": 500, "question_id": 4003, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325041.jpg", "expression": "What is behind the art?", "bbox": [0, 0, 500, 213], "height": 333, "width": 500, "question_id": 4004, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325182.jpg", "expression": "What is in the sky?", "bbox": [334, 252, 359, 297], "height": 500, "width": 500, "question_id": 4013, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325221.jpg", "expression": "What is behind the people?", "bbox": [17, 13, 498, 386], "height": 396, "width": 500, "question_id": 4017, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325564.jpg", "expression": "Where is the hearts?", "bbox": [190, 127, 422, 264], "height": 306, "width": 500, "question_id": 4034, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325590.jpg", "expression": "What is pictured?", "bbox": [77, 165, 94, 180], "height": 375, "width": 500, "question_id": 4037, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325703.jpg", "expression": "Where is she?", "bbox": [0, 104, 292, 499], "height": 500, "width": 293, "question_id": 4039, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325711.jpg", "expression": "Where do reflections from light appear?", "bbox": [2, 36, 244, 232], "height": 375, "width": 500, "question_id": 4041, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325720.jpg", "expression": "What is the man playing?", "bbox": [305, 236, 331, 260], "height": 500, "width": 375, "question_id": 4042, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2325781.jpg", "expression": "What is the wall made of?", "bbox": [254, 1, 295, 41], "height": 332, "width": 500, "question_id": 4047, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326021.jpg", "expression": "Who is in the photo?", "bbox": [107, 100, 227, 446], "height": 500, "width": 375, "question_id": 4060, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326022.jpg", "expression": "What are the walls on the right made of?", "bbox": [349, 93, 359, 242], "height": 318, "width": 430, "question_id": 4061, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326022.jpg", "expression": "What is red that's on the floor?", "bbox": [103, 286, 429, 316], "height": 318, "width": 430, "question_id": 4062, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326138.jpg", "expression": "Who has a maroon shirt?", "bbox": [213, 42, 424, 306], "height": 332, "width": 500, "question_id": 4069, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326250.jpg", "expression": "What is beige?", "bbox": [302, 299, 335, 329], "height": 375, "width": 500, "question_id": 4077, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326250.jpg", "expression": "Who is wearing white shorts?", "bbox": [416, 154, 491, 257], "height": 375, "width": 500, "question_id": 4078, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326441.jpg", "expression": "What fruit in this photo is showing black seeds?", "bbox": [116, 236, 200, 373], "height": 375, "width": 500, "question_id": 4088, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326448.jpg", "expression": "What is making the pillows purple?", "bbox": [406, 148, 498, 331], "height": 333, "width": 500, "question_id": 4089, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326585.jpg", "expression": "Who is on the horse?", "bbox": [127, 104, 167, 185], "height": 332, "width": 500, "question_id": 4096, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326594.jpg", "expression": "What is near the house?", "bbox": [56, 35, 175, 228], "height": 337, "width": 500, "question_id": 4099, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326609.jpg", "expression": "What are they?", "bbox": [229, 8, 472, 165], "height": 196, "width": 500, "question_id": 4101, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2326626.jpg", "expression": "What is on the balcony?", "bbox": [471, 13, 497, 57], "height": 375, "width": 500, "question_id": 4105, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327103.jpg", "expression": "Who is standing under the umbrella?", "bbox": [246, 98, 386, 330], "height": 333, "width": 500, "question_id": 4130, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327197.jpg", "expression": "Who is playing tennis?", "bbox": [275, 65, 429, 374], "height": 375, "width": 500, "question_id": 4135, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327197.jpg", "expression": "When will the ball be hit?", "bbox": [297, 72, 304, 81], "height": 375, "width": 500, "question_id": 4137, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327213.jpg", "expression": "Where is the map?", "bbox": [0, 0, 343, 500], "height": 500, "width": 375, "question_id": 4138, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327419.jpg", "expression": "Where are the girls hands?", "bbox": [160, 10, 228, 55], "height": 500, "width": 333, "question_id": 4145, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327423.jpg", "expression": "What is silver?", "bbox": [198, 0, 249, 47], "height": 316, "width": 500, "question_id": 4148, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327423.jpg", "expression": "Where are white lines?", "bbox": [9, 58, 496, 315], "height": 316, "width": 500, "question_id": 4149, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327545.jpg", "expression": "What kind of animal is this?", "bbox": [46, 41, 330, 441], "height": 500, "width": 332, "question_id": 4155, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327590.jpg", "expression": "Why are people near the airplanes?", "bbox": [365, 143, 498, 200], "height": 332, "width": 500, "question_id": 4156, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327624.jpg", "expression": "What is coming around the corner?", "bbox": [180, 100, 476, 291], "height": 331, "width": 500, "question_id": 4158, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327711.jpg", "expression": "Why is the snow piled up here?", "bbox": [182, 219, 497, 321], "height": 333, "width": 500, "question_id": 4163, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327806.jpg", "expression": "What is the giraffe doing?", "bbox": [251, 131, 267, 144], "height": 375, "width": 500, "question_id": 4165, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2327814.jpg", "expression": "Who is in the background?", "bbox": [128, 152, 204, 369], "height": 375, "width": 500, "question_id": 4170, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328016.jpg", "expression": "What is the largest animal called?", "bbox": [240, 64, 461, 211], "height": 223, "width": 500, "question_id": 4177, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328168.jpg", "expression": "What is formed?", "bbox": [55, 218, 83, 233], "height": 376, "width": 500, "question_id": 4189, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328263.jpg", "expression": "Where are these appliances?", "bbox": [0, 0, 500, 375], "height": 375, "width": 500, "question_id": 4192, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328566.jpg", "expression": "What color is the man's hair?", "bbox": [267, 234, 409, 436], "height": 477, "width": 500, "question_id": 4204, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328624.jpg", "expression": "How are these people going to get down the hill?", "bbox": [249, 85, 365, 113], "height": 333, "width": 500, "question_id": 4208, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328624.jpg", "expression": "Who is on this pilgrimage?", "bbox": [211, 193, 226, 225], "height": 333, "width": 500, "question_id": 4209, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328649.jpg", "expression": "Where are the children sleeping?", "bbox": [1, 0, 499, 374], "height": 374, "width": 500, "question_id": 4210, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328776.jpg", "expression": "What is on the woman's head?", "bbox": [281, 9, 409, 63], "height": 333, "width": 500, "question_id": 4218, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2328876.jpg", "expression": "What fruits are they?", "bbox": [369, 3, 498, 79], "height": 333, "width": 500, "question_id": 4220, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329171.jpg", "expression": "Who is wearing the green coat?", "bbox": [158, 62, 321, 229], "height": 281, "width": 500, "question_id": 4234, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329210.jpg", "expression": "What shapes are the signs?", "bbox": [52, 161, 76, 201], "height": 362, "width": 500, "question_id": 4238, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329384.jpg", "expression": "What animal is shown?", "bbox": [11, 24, 388, 330], "height": 332, "width": 500, "question_id": 4245, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329439.jpg", "expression": "What does the street sign say?", "bbox": [70, 93, 134, 135], "height": 500, "width": 375, "question_id": 4246, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329625.jpg", "expression": "Why is there cheese?", "bbox": [326, 69, 408, 136], "height": 375, "width": 500, "question_id": 4255, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329706.jpg", "expression": "What is under the train on the ground?", "bbox": [4, 304, 13, 312], "height": 349, "width": 500, "question_id": 4258, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329727.jpg", "expression": "What material the street made of?", "bbox": [0, 0, 499, 375], "height": 375, "width": 500, "question_id": 4261, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329794.jpg", "expression": "What animal is in the picture?", "bbox": [243, 117, 284, 166], "height": 375, "width": 500, "question_id": 4264, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2329931.jpg", "expression": "Who is holding the surfboard?", "bbox": [111, 200, 131, 251], "height": 297, "width": 500, "question_id": 4270, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330085.jpg", "expression": "What is green?", "bbox": [438, 162, 460, 177], "height": 221, "width": 500, "question_id": 4280, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330169.jpg", "expression": "What is this woman holding?", "bbox": [77, 124, 200, 308], "height": 333, "width": 500, "question_id": 4286, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330169.jpg", "expression": "Where was this picture taken?", "bbox": [0, 69, 500, 231], "height": 333, "width": 500, "question_id": 4287, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330286.jpg", "expression": "Why is the cow standing in the fence?", "bbox": [0, 0, 500, 155], "height": 357, "width": 500, "question_id": 4294, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330580.jpg", "expression": "Where is the car?", "bbox": [0, 160, 500, 375], "height": 375, "width": 500, "question_id": 4301, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330597.jpg", "expression": "Where is the man?", "bbox": [0, 442, 161, 499], "height": 500, "width": 332, "question_id": 4305, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330677.jpg", "expression": "What does person in foreground have in right hand?", "bbox": [178, 209, 282, 262], "height": 333, "width": 500, "question_id": 4307, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330812.jpg", "expression": "Where is this man?", "bbox": [1, 117, 333, 500], "height": 500, "width": 333, "question_id": 4313, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2330812.jpg", "expression": "Why is the ground white?", "bbox": [294, 385, 316, 407], "height": 500, "width": 333, "question_id": 4314, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2331286.jpg", "expression": "What food is shown?", "bbox": [191, 182, 252, 208], "height": 374, "width": 500, "question_id": 4329, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2331749.jpg", "expression": "What shape is the clock?", "bbox": [71, 280, 123, 333], "height": 500, "width": 335, "question_id": 4339, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2331994.jpg", "expression": "What is written in white on the green sign?", "bbox": [101, 207, 161, 236], "height": 332, "width": 500, "question_id": 4346, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332263.jpg", "expression": "What kind of shoes is she wearing?", "bbox": [127, 303, 168, 331], "height": 500, "width": 333, "question_id": 4356, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332303.jpg", "expression": "What is in the yard?", "bbox": [0, 80, 406, 235], "height": 332, "width": 500, "question_id": 4361, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332340.jpg", "expression": "What is on the wall in one of the windows?", "bbox": [409, 151, 432, 166], "height": 375, "width": 500, "question_id": 4364, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332375.jpg", "expression": "What is on the bowl?", "bbox": [199, 143, 424, 171], "height": 375, "width": 500, "question_id": 4371, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332974.jpg", "expression": "What is behind the water?", "bbox": [348, 79, 381, 152], "height": 334, "width": 500, "question_id": 4375, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332765.jpg", "expression": "What is the boy on?", "bbox": [36, 146, 344, 328], "height": 331, "width": 500, "question_id": 4387, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2332903.jpg", "expression": "What are the juice?", "bbox": [140, 200, 203, 300], "height": 500, "width": 375, "question_id": 4395, "split": "val"}
+{"img_path": "cot/visual7w/v7w_497917.jpg", "expression": "What is on the ground?", "bbox": [0, 518, 102, 602], "height": 768, "width": 1024, "question_id": 4401, "split": "val"}
+{"img_path": "cot/visual7w/v7w_497938.jpg", "expression": "What type of trees?", "bbox": [610, 315, 613, 328], "height": 768, "width": 1024, "question_id": 4405, "split": "val"}
+{"img_path": "cot/visual7w/v7w_497938.jpg", "expression": "What is in the snow?", "bbox": [88, 630, 554, 713], "height": 768, "width": 1024, "question_id": 4411, "split": "val"}
+{"img_path": "cot/visual7w/v7w_497980.jpg", "expression": "What has balconies?", "bbox": [0, 0, 1015, 557], "height": 768, "width": 1024, "question_id": 4422, "split": "val"}
+{"img_path": "cot/visual7w/v7w_497984.jpg", "expression": "What kind of pole is there?", "bbox": [23, 709, 97, 1022], "height": 1024, "width": 681, "question_id": 4431, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498011.jpg", "expression": "What is written on the bus in the background?", "bbox": [128, 331, 209, 359], "height": 960, "width": 1280, "question_id": 4434, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498036.jpg", "expression": "Who is in motion?", "bbox": [496, 172, 685, 422], "height": 768, "width": 1024, "question_id": 4438, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498046.jpg", "expression": "Who is next to a woman?", "bbox": [324, 27, 704, 679], "height": 681, "width": 1024, "question_id": 4445, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498092.jpg", "expression": "Where is the scene?", "bbox": [0, 1, 1022, 764], "height": 768, "width": 1024, "question_id": 4454, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333108.jpg", "expression": "Who are in the photo?", "bbox": [347, 303, 381, 355], "height": 360, "width": 500, "question_id": 4460, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333115.jpg", "expression": "What are the tables and chairs made of?", "bbox": [209, 418, 283, 457], "height": 500, "width": 375, "question_id": 4461, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498132.jpg", "expression": "Who is writing?", "bbox": [87, 480, 122, 502], "height": 768, "width": 1024, "question_id": 4465, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498132.jpg", "expression": "Who're sitting on the stairs?", "bbox": [146, 330, 181, 394], "height": 768, "width": 1024, "question_id": 4468, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498163.jpg", "expression": "What type of toy is next to the plate?", "bbox": [418, 165, 510, 256], "height": 612, "width": 612, "question_id": 4474, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333203.jpg", "expression": "What is in the background?", "bbox": [1, 1, 499, 206], "height": 307, "width": 500, "question_id": 4476, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333237.jpg", "expression": "What are the people waiting on?", "bbox": [304, 143, 427, 226], "height": 375, "width": 500, "question_id": 4478, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498233.jpg", "expression": "What do you notice first about the picture?", "bbox": [124, 146, 300, 782], "height": 798, "width": 1024, "question_id": 4481, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333245.jpg", "expression": "What does it say on the front of the bus at the top?", "bbox": [224, 177, 281, 193], "height": 333, "width": 500, "question_id": 4488, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498266.jpg", "expression": "What do both trucks have on top of them?", "bbox": [767, 228, 810, 242], "height": 683, "width": 1024, "question_id": 4494, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498291.jpg", "expression": "Who are the people in the city?", "bbox": [361, 646, 388, 695], "height": 764, "width": 1024, "question_id": 4510, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498291.jpg", "expression": "What are decorated with colorful signs?", "bbox": [354, 437, 379, 695], "height": 764, "width": 1024, "question_id": 4512, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333340.jpg", "expression": "What are the two lead elephants doing?", "bbox": [86, 228, 198, 259], "height": 375, "width": 500, "question_id": 4528, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333360.jpg", "expression": "Who is the person that is most left?", "bbox": [0, 264, 50, 500], "height": 500, "width": 329, "question_id": 4537, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498355.jpg", "expression": "How would you describe the glasses?", "bbox": [265, 205, 459, 268], "height": 1024, "width": 683, "question_id": 4539, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333420.jpg", "expression": "What is on the table?", "bbox": [149, 0, 485, 185], "height": 375, "width": 500, "question_id": 4561, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333487.jpg", "expression": "What does the sticker on the computer monitor say?", "bbox": [78, 1, 265, 54], "height": 375, "width": 500, "question_id": 4566, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333493.jpg", "expression": "What is there?", "bbox": [234, 67, 477, 414], "height": 456, "width": 500, "question_id": 4567, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333493.jpg", "expression": "What are they eating?", "bbox": [304, 230, 315, 241], "height": 456, "width": 500, "question_id": 4568, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2333784.jpg", "expression": "What type of food is in the foreground?", "bbox": [12, 230, 228, 440], "height": 500, "width": 333, "question_id": 4590, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334129.jpg", "expression": "Who are they?", "bbox": [444, 204, 465, 221], "height": 333, "width": 500, "question_id": 4605, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334130.jpg", "expression": "Why are the buses parked?", "bbox": [229, 260, 281, 310], "height": 335, "width": 500, "question_id": 4606, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334301.jpg", "expression": "What is everyone's facial expression in the picture?", "bbox": [323, 52, 499, 498], "height": 500, "width": 500, "question_id": 4615, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334532.jpg", "expression": "Why is the man swinging a bat?", "bbox": [290, 95, 395, 243], "height": 333, "width": 500, "question_id": 4624, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334538.jpg", "expression": "Who is on the mountain?", "bbox": [155, 304, 196, 425], "height": 500, "width": 375, "question_id": 4625, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334689.jpg", "expression": "What is present?", "bbox": [33, 40, 168, 179], "height": 500, "width": 375, "question_id": 4629, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2334757.jpg", "expression": "Who is in the room?", "bbox": [194, 39, 370, 252], "height": 375, "width": 500, "question_id": 4633, "split": "val"}
+{"img_path": "cot/visual7w/v7w_498371.jpg", "expression": "What is the motorcycle parked in front of?", "bbox": [0, 24, 490, 487], "height": 768, "width": 1024, "question_id": 4643, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2335142.jpg", "expression": "Why is the surfer's hand in the air?", "bbox": [277, 112, 325, 176], "height": 281, "width": 500, "question_id": 4664, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2335156.jpg", "expression": "What material is the vase?", "bbox": [258, 457, 273, 470], "height": 500, "width": 500, "question_id": 4667, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2335664.jpg", "expression": "Where is the bench?", "bbox": [0, 121, 500, 323], "height": 324, "width": 500, "question_id": 4688, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2335774.jpg", "expression": "What is on top of the stoplights?", "bbox": [446, 37, 456, 48], "height": 333, "width": 500, "question_id": 4693, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2335951.jpg", "expression": "What is the sandwich served in?", "bbox": [0, 39, 315, 283], "height": 375, "width": 500, "question_id": 4700, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2335978.jpg", "expression": "What is on the wall?", "bbox": [0, 57, 105, 138], "height": 375, "width": 500, "question_id": 4702, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336017.jpg", "expression": "Where are the cars?", "bbox": [0, 2, 379, 281], "height": 333, "width": 500, "question_id": 4704, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336083.jpg", "expression": "Who has paws?", "bbox": [0, 122, 354, 281], "height": 376, "width": 500, "question_id": 4708, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336083.jpg", "expression": "Where is a light reflection?", "bbox": [0, 0, 500, 376], "height": 376, "width": 500, "question_id": 4710, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336456.jpg", "expression": "What are the men wearing?", "bbox": [374, 0, 402, 19], "height": 332, "width": 500, "question_id": 4729, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336530.jpg", "expression": "What is before him?", "bbox": [243, 204, 305, 251], "height": 375, "width": 500, "question_id": 4732, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336760.jpg", "expression": "What is in the distance?", "bbox": [350, 162, 371, 201], "height": 333, "width": 500, "question_id": 4736, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336813.jpg", "expression": "Where are the people?", "bbox": [83, 207, 499, 374], "height": 375, "width": 500, "question_id": 4741, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336857.jpg", "expression": "What kind of benches the the people sitting on?", "bbox": [329, 169, 338, 173], "height": 281, "width": 500, "question_id": 4744, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336905.jpg", "expression": "Who are in the photo?", "bbox": [379, 179, 407, 263], "height": 333, "width": 500, "question_id": 4746, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336965.jpg", "expression": "Who made the pizza?", "bbox": [137, 0, 295, 110], "height": 375, "width": 500, "question_id": 4747, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336965.jpg", "expression": "What sauce is on the pizza?", "bbox": [115, 329, 121, 335], "height": 375, "width": 500, "question_id": 4748, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2336970.jpg", "expression": "Where are the woman's headphones?", "bbox": [244, 214, 245, 216], "height": 456, "width": 500, "question_id": 4749, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2337344.jpg", "expression": "What is the boy holding?", "bbox": [279, 123, 305, 176], "height": 375, "width": 500, "question_id": 4777, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2337480.jpg", "expression": "Where is the picture taken?", "bbox": [0, 94, 500, 330], "height": 331, "width": 500, "question_id": 4782, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2337821.jpg", "expression": "What is the man holding?", "bbox": [40, 328, 201, 490], "height": 500, "width": 299, "question_id": 4799, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2337908.jpg", "expression": "Why was the picture taken?", "bbox": [90, 191, 413, 492], "height": 493, "width": 500, "question_id": 4802, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338051.jpg", "expression": "What is white?", "bbox": [71, 115, 448, 285], "height": 286, "width": 500, "question_id": 4807, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338078.jpg", "expression": "Who is in the photo?", "bbox": [134, 331, 153, 396], "height": 500, "width": 375, "question_id": 4812, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338170.jpg", "expression": "What is the man riding on?", "bbox": [171, 124, 209, 197], "height": 375, "width": 500, "question_id": 4815, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338310.jpg", "expression": "What color is the table?", "bbox": [5, 29, 499, 374], "height": 375, "width": 500, "question_id": 4822, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338498.jpg", "expression": "What is on the truck?", "bbox": [0, 291, 67, 343], "height": 375, "width": 500, "question_id": 4834, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338670.jpg", "expression": "What are the structures in the background of the photo?", "bbox": [0, 34, 496, 332], "height": 333, "width": 500, "question_id": 4839, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2338945.jpg", "expression": "Who is in the picture?", "bbox": [72, 61, 236, 332], "height": 333, "width": 500, "question_id": 4848, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159348.jpg", "expression": "What is travelling down the road?", "bbox": [649, 446, 707, 531], "height": 685, "width": 1024, "question_id": 4857, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339045.jpg", "expression": "Where is the picture taken?", "bbox": [108, 1, 210, 26], "height": 375, "width": 500, "question_id": 4863, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159413.jpg", "expression": "Where is the personal boat?", "bbox": [809, 292, 1023, 506], "height": 683, "width": 1024, "question_id": 4866, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159413.jpg", "expression": "Where is gravel?", "bbox": [2, 327, 1023, 681], "height": 683, "width": 1024, "question_id": 4869, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339091.jpg", "expression": "What is written on the body of the airplane?", "bbox": [215, 157, 269, 206], "height": 333, "width": 500, "question_id": 4878, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159449.jpg", "expression": "Who is watching the tennis match?", "bbox": [708, 170, 733, 191], "height": 683, "width": 1024, "question_id": 4882, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159463.jpg", "expression": "How is the man eating the pizza?", "bbox": [300, 410, 438, 474], "height": 768, "width": 1024, "question_id": 4885, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339168.jpg", "expression": "Where was this photo taken?", "bbox": [262, 27, 498, 222], "height": 328, "width": 500, "question_id": 4897, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159568.jpg", "expression": "Who is wearing a pink shirt?", "bbox": [36, 302, 96, 458], "height": 683, "width": 1024, "question_id": 4903, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339231.jpg", "expression": "What is to the right of the train?", "bbox": [410, 270, 499, 322], "height": 323, "width": 500, "question_id": 4908, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159613.jpg", "expression": "Where was this taken?", "bbox": [820, 800, 1020, 882], "height": 884, "width": 1024, "question_id": 4915, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159624.jpg", "expression": "What are on the rack?", "bbox": [250, 227, 332, 568], "height": 768, "width": 1024, "question_id": 4923, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159636.jpg", "expression": "Where is a deer head?", "bbox": [2, 0, 1022, 447], "height": 683, "width": 1024, "question_id": 4927, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159636.jpg", "expression": "Where are copper pans?", "bbox": [113, 374, 420, 599], "height": 683, "width": 1024, "question_id": 4928, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159651.jpg", "expression": "Who is walking around a city?", "bbox": [537, 585, 625, 835], "height": 853, "width": 1280, "question_id": 4930, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159653.jpg", "expression": "What can be seen sitting down?", "bbox": [448, 357, 491, 392], "height": 683, "width": 1024, "question_id": 4934, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159683.jpg", "expression": "Who is wearing jeans?", "bbox": [670, 471, 740, 653], "height": 768, "width": 1024, "question_id": 4941, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159723.jpg", "expression": "What is in the background?", "bbox": [2, 18, 1019, 310], "height": 768, "width": 1024, "question_id": 4960, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159723.jpg", "expression": "Where is the black garbage?", "bbox": [0, 287, 1017, 471], "height": 768, "width": 1024, "question_id": 4961, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159735.jpg", "expression": "Who does the shadow fall on?", "bbox": [0, 171, 478, 764], "height": 768, "width": 1024, "question_id": 4966, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159834.jpg", "expression": "Who is wearing black glasses?", "bbox": [226, 247, 665, 764], "height": 768, "width": 1024, "question_id": 4983, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159876.jpg", "expression": "Who is wearing white?", "bbox": [693, 392, 718, 437], "height": 682, "width": 1024, "question_id": 4995, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159876.jpg", "expression": "What are off in distance?", "bbox": [179, 250, 216, 338], "height": 682, "width": 1024, "question_id": 4998, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159876.jpg", "expression": "How many clouds are there?", "bbox": [0, 0, 1023, 325], "height": 682, "width": 1024, "question_id": 4999, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1159917.jpg", "expression": "What is in the distance?", "bbox": [772, 95, 832, 176], "height": 722, "width": 1024, "question_id": 5006, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339586.jpg", "expression": "What distinguishing marks do zebras have?", "bbox": [87, 251, 93, 271], "height": 375, "width": 500, "question_id": 5009, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160028.jpg", "expression": "What are the people on?", "bbox": [956, 371, 1001, 406], "height": 580, "width": 1024, "question_id": 5030, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160069.jpg", "expression": "What is the lady in blue about to do?", "bbox": [179, 218, 291, 423], "height": 535, "width": 800, "question_id": 5034, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160094.jpg", "expression": "What lines the curb on the right?", "bbox": [485, 459, 842, 763], "height": 768, "width": 1024, "question_id": 5037, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160189.jpg", "expression": "What is on the shower stall?", "bbox": [955, 380, 1023, 769], "height": 768, "width": 1024, "question_id": 5057, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160189.jpg", "expression": "What shape is the sink?", "bbox": [148, 468, 299, 531], "height": 768, "width": 1024, "question_id": 5058, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339843.jpg", "expression": "What is in the woman's hand?", "bbox": [194, 115, 245, 130], "height": 333, "width": 500, "question_id": 5059, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160206.jpg", "expression": "What are the people doing?", "bbox": [518, 681, 584, 763], "height": 1024, "width": 812, "question_id": 5060, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160206.jpg", "expression": "What is in front of the building?", "bbox": [379, 237, 455, 349], "height": 1024, "width": 812, "question_id": 5062, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1160225.jpg", "expression": "Where is someone?", "bbox": [228, 541, 670, 594], "height": 768, "width": 1024, "question_id": 5068, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2339928.jpg", "expression": "Why was this picture taken?", "bbox": [0, 59, 498, 332], "height": 333, "width": 500, "question_id": 5072, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340011.jpg", "expression": "What is hanging over the sidewalk?", "bbox": [191, 288, 263, 335], "height": 500, "width": 375, "question_id": 5075, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340016.jpg", "expression": "What is reflecting?", "bbox": [0, 0, 368, 259], "height": 417, "width": 500, "question_id": 5077, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340037.jpg", "expression": "Why do the men have game controllers in their hands?", "bbox": [114, 59, 266, 286], "height": 375, "width": 500, "question_id": 5080, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340152.jpg", "expression": "Who is on the soccer field?", "bbox": [413, 121, 442, 179], "height": 329, "width": 500, "question_id": 5082, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340226.jpg", "expression": "What brand is the oven?", "bbox": [180, 278, 219, 290], "height": 333, "width": 500, "question_id": 5087, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340252.jpg", "expression": "Who is not wearing a hat?", "bbox": [0, 195, 403, 277], "height": 375, "width": 500, "question_id": 5090, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340322.jpg", "expression": "What animal is present?", "bbox": [46, 7, 329, 498], "height": 500, "width": 331, "question_id": 5092, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340326.jpg", "expression": "What animal is seen?", "bbox": [175, 243, 291, 430], "height": 500, "width": 333, "question_id": 5093, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340371.jpg", "expression": "Where is the sign sitting?", "bbox": [0, 182, 500, 500], "height": 500, "width": 500, "question_id": 5097, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340620.jpg", "expression": "When kind of glass is it?", "bbox": [0, 73, 322, 479], "height": 500, "width": 375, "question_id": 5108, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340656.jpg", "expression": "Where are the scissors?", "bbox": [0, 0, 331, 499], "height": 500, "width": 333, "question_id": 5111, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2340745.jpg", "expression": "What is on the fridge?", "bbox": [0, 74, 7, 95], "height": 375, "width": 500, "question_id": 5117, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341060.jpg", "expression": "Where is this scene?", "bbox": [0, 240, 499, 302], "height": 303, "width": 500, "question_id": 5127, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341146.jpg", "expression": "Where is this picture taken?", "bbox": [0, 0, 374, 500], "height": 500, "width": 374, "question_id": 5132, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341189.jpg", "expression": "What is in the sky?", "bbox": [121, 155, 248, 206], "height": 400, "width": 500, "question_id": 5133, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341366.jpg", "expression": "Who has pointy ears?", "bbox": [207, 53, 434, 274], "height": 375, "width": 500, "question_id": 5134, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341366.jpg", "expression": "What is furry?", "bbox": [207, 53, 434, 274], "height": 375, "width": 500, "question_id": 5136, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341538.jpg", "expression": "Who is eating?", "bbox": [0, 0, 282, 278], "height": 334, "width": 500, "question_id": 5145, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2341824.jpg", "expression": "What is the person sitting on?", "bbox": [126, 190, 168, 200], "height": 333, "width": 500, "question_id": 5153, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342264.jpg", "expression": "Who is in the picture?", "bbox": [220, 29, 453, 269], "height": 333, "width": 500, "question_id": 5168, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342265.jpg", "expression": "What safety equipment is the person wearing?", "bbox": [252, 188, 284, 207], "height": 293, "width": 500, "question_id": 5170, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342437.jpg", "expression": "What is the truck carrying?", "bbox": [74, 130, 277, 236], "height": 300, "width": 500, "question_id": 5180, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342561.jpg", "expression": "What are the objects in the air?", "bbox": [359, 237, 372, 254], "height": 333, "width": 500, "question_id": 5184, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342589.jpg", "expression": "What is the wall made of?", "bbox": [127, 109, 157, 140], "height": 333, "width": 500, "question_id": 5189, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342641.jpg", "expression": "Where are the lemons and limes?", "bbox": [91, 195, 278, 290], "height": 500, "width": 374, "question_id": 5190, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342661.jpg", "expression": "Who does this person holding kite appear to be?", "bbox": [199, 98, 280, 274], "height": 332, "width": 500, "question_id": 5192, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342998.jpg", "expression": "What animals are in pens?", "bbox": [179, 169, 242, 182], "height": 333, "width": 500, "question_id": 5209, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2342998.jpg", "expression": "Why are the people wearing boots?", "bbox": [170, 63, 193, 101], "height": 333, "width": 500, "question_id": 5210, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343080.jpg", "expression": "Where are the couple?", "bbox": [0, 110, 349, 201], "height": 375, "width": 500, "question_id": 5213, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343132.jpg", "expression": "What is in the background?", "bbox": [0, 0, 375, 109], "height": 500, "width": 375, "question_id": 5215, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343132.jpg", "expression": "Where is this taken?", "bbox": [0, 135, 373, 499], "height": 500, "width": 375, "question_id": 5216, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343205.jpg", "expression": "What shapes is the door?", "bbox": [61, 23, 210, 400], "height": 400, "width": 500, "question_id": 5220, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343341.jpg", "expression": "Who are these?", "bbox": [32, 52, 145, 345], "height": 375, "width": 500, "question_id": 5229, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592060.jpg", "expression": "What is across the street?", "bbox": [11, 494, 81, 541], "height": 1024, "width": 768, "question_id": 5233, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343533.jpg", "expression": "Why is the boat in the water?", "bbox": [157, 307, 209, 318], "height": 375, "width": 500, "question_id": 5243, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343589.jpg", "expression": "What is to the left of the eggs?", "bbox": [56, 85, 98, 135], "height": 374, "width": 500, "question_id": 5245, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343660.jpg", "expression": "What animals can be seen?", "bbox": [236, 125, 253, 147], "height": 281, "width": 500, "question_id": 5253, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343864.jpg", "expression": "What is on the bed?", "bbox": [320, 288, 376, 315], "height": 375, "width": 500, "question_id": 5269, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2343974.jpg", "expression": "Who is operating the boat?", "bbox": [24, 103, 85, 140], "height": 281, "width": 500, "question_id": 5273, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344101.jpg", "expression": "What kind of sandwich is this?", "bbox": [218, 77, 281, 106], "height": 375, "width": 500, "question_id": 5280, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344125.jpg", "expression": "Where are the people?", "bbox": [0, 244, 500, 317], "height": 332, "width": 500, "question_id": 5282, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344253.jpg", "expression": "What is pictured on the vases?", "bbox": [201, 230, 239, 286], "height": 500, "width": 334, "question_id": 5288, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344253.jpg", "expression": "Where are the vases?", "bbox": [0, 0, 334, 500], "height": 500, "width": 334, "question_id": 5289, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344524.jpg", "expression": "Where is the pizza?", "bbox": [0, 121, 373, 434], "height": 500, "width": 375, "question_id": 5300, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344533.jpg", "expression": "Where is the picture taken?", "bbox": [0, 374, 349, 499], "height": 500, "width": 350, "question_id": 5301, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344677.jpg", "expression": "What is the girl holding?", "bbox": [166, 75, 452, 293], "height": 375, "width": 500, "question_id": 5308, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344677.jpg", "expression": "What are they sitting on?", "bbox": [0, 126, 498, 375], "height": 375, "width": 500, "question_id": 5309, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344712.jpg", "expression": "What is the man holding?", "bbox": [118, 57, 248, 214], "height": 333, "width": 500, "question_id": 5312, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344737.jpg", "expression": "What else is in the photo?", "bbox": [379, 16, 494, 147], "height": 333, "width": 500, "question_id": 5315, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2344920.jpg", "expression": "Who is around the bus?", "bbox": [225, 54, 243, 109], "height": 375, "width": 500, "question_id": 5325, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345022.jpg", "expression": "Why does the boy have luggage?", "bbox": [235, 130, 400, 225], "height": 375, "width": 500, "question_id": 5330, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345062.jpg", "expression": "What is pictured other than a backpack?", "bbox": [97, 93, 265, 321], "height": 500, "width": 375, "question_id": 5332, "split": "val"}
+{"img_path": "cot/visual7w/v7w_150546.jpg", "expression": "What is written on the boat?", "bbox": [156, 224, 258, 276], "height": 600, "width": 800, "question_id": 5333, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345217.jpg", "expression": "Where was this photo taken?", "bbox": [0, 0, 155, 148], "height": 500, "width": 375, "question_id": 5343, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345217.jpg", "expression": "What are they using?", "bbox": [297, 242, 374, 403], "height": 500, "width": 375, "question_id": 5344, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345406.jpg", "expression": "Who has a long neck?", "bbox": [182, 195, 314, 387], "height": 436, "width": 500, "question_id": 5358, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345434.jpg", "expression": "What is in the background?", "bbox": [45, 160, 217, 195], "height": 500, "width": 332, "question_id": 5359, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345440.jpg", "expression": "What is on top of the stove?", "bbox": [54, 53, 285, 268], "height": 500, "width": 333, "question_id": 5361, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345459.jpg", "expression": "Where is the mirror?", "bbox": [81, 231, 233, 329], "height": 333, "width": 500, "question_id": 5362, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345519.jpg", "expression": "Who is holding a phone?", "bbox": [1, 0, 485, 280], "height": 338, "width": 500, "question_id": 5371, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345804.jpg", "expression": "What is behind the people?", "bbox": [0, 0, 500, 267], "height": 333, "width": 500, "question_id": 5385, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345848.jpg", "expression": "Who is with the sheep?", "bbox": [385, 135, 411, 204], "height": 334, "width": 500, "question_id": 5387, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345939.jpg", "expression": "Where was this photo taken?", "bbox": [280, 317, 339, 400], "height": 500, "width": 375, "question_id": 5389, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2345983.jpg", "expression": "Where are the zebras?", "bbox": [0, 123, 500, 374], "height": 375, "width": 500, "question_id": 5392, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346030.jpg", "expression": "Where was this photo taken?", "bbox": [0, 155, 500, 373], "height": 375, "width": 500, "question_id": 5399, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346030.jpg", "expression": "Who are in the photo?", "bbox": [360, 94, 402, 181], "height": 375, "width": 500, "question_id": 5400, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346104.jpg", "expression": "What are the brightness options for the room?", "bbox": [87, 158, 102, 171], "height": 375, "width": 500, "question_id": 5404, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346114.jpg", "expression": "What is the child wearing around their neck?", "bbox": [16, 153, 212, 331], "height": 332, "width": 500, "question_id": 5406, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346235.jpg", "expression": "What are the walls made of?", "bbox": [79, 205, 147, 268], "height": 500, "width": 375, "question_id": 5415, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346411.jpg", "expression": "What is present?", "bbox": [0, 0, 500, 332], "height": 332, "width": 500, "question_id": 5425, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346769.jpg", "expression": "What words are on the airplane's body?", "bbox": [186, 166, 309, 187], "height": 375, "width": 500, "question_id": 5435, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346806.jpg", "expression": "What type of vehicle is pictured?", "bbox": [393, 164, 457, 295], "height": 334, "width": 500, "question_id": 5436, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346873.jpg", "expression": "What is on in the photo?", "bbox": [257, 151, 260, 154], "height": 375, "width": 500, "question_id": 5442, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2346920.jpg", "expression": "What is the cup made of?", "bbox": [276, 304, 280, 308], "height": 375, "width": 500, "question_id": 5446, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2347030.jpg", "expression": "Why is there a fence?", "bbox": [422, 212, 499, 300], "height": 333, "width": 500, "question_id": 5449, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2347369.jpg", "expression": "What is black?", "bbox": [197, 380, 227, 409], "height": 500, "width": 375, "question_id": 5465, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2347369.jpg", "expression": "Who is wearing a jacket?", "bbox": [157, 213, 274, 500], "height": 500, "width": 375, "question_id": 5466, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2347498.jpg", "expression": "What is in the photo?", "bbox": [396, 130, 453, 247], "height": 375, "width": 500, "question_id": 5470, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2347699.jpg", "expression": "What meat is fried in front of the camera?", "bbox": [369, 163, 485, 360], "height": 375, "width": 500, "question_id": 5476, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348008.jpg", "expression": "What is in the background?", "bbox": [286, 98, 367, 199], "height": 375, "width": 500, "question_id": 5489, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348191.jpg", "expression": "What is next to the flowers?", "bbox": [4, 342, 23, 352], "height": 389, "width": 500, "question_id": 5498, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348223.jpg", "expression": "Who is in the picture?", "bbox": [238, 78, 298, 245], "height": 333, "width": 500, "question_id": 5501, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348245.jpg", "expression": "What is on the bottom of the picture?", "bbox": [148, 329, 279, 373], "height": 375, "width": 500, "question_id": 5502, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348308.jpg", "expression": "How many people are in the picture?", "bbox": [0, 270, 50, 396], "height": 500, "width": 375, "question_id": 5509, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348367.jpg", "expression": "How many umbrellas are there?", "bbox": [100, 87, 375, 277], "height": 332, "width": 500, "question_id": 5516, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348428.jpg", "expression": "What is in the bowl?", "bbox": [180, 414, 208, 433], "height": 500, "width": 333, "question_id": 5520, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348428.jpg", "expression": "Who is preparing the food?", "bbox": [0, 0, 281, 234], "height": 500, "width": 333, "question_id": 5521, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348442.jpg", "expression": "Who is in the photo?", "bbox": [404, 71, 499, 373], "height": 375, "width": 500, "question_id": 5528, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348528.jpg", "expression": "What kind of trees are in the background?", "bbox": [364, 51, 386, 86], "height": 333, "width": 500, "question_id": 5537, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348660.jpg", "expression": "Where is the child sitting?", "bbox": [0, 301, 373, 497], "height": 500, "width": 374, "question_id": 5542, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348735.jpg", "expression": "What is under the meat?", "bbox": [414, 249, 420, 266], "height": 375, "width": 500, "question_id": 5543, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348735.jpg", "expression": "What are the red objects?", "bbox": [219, 149, 283, 185], "height": 375, "width": 500, "question_id": 5545, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348757.jpg", "expression": "What is in the pasta?", "bbox": [0, 56, 500, 332], "height": 333, "width": 500, "question_id": 5548, "split": "val"}
+{"img_path": "cot/visual7w/v7w_1592956.jpg", "expression": "Why is the man laying down?", "bbox": [2, 1, 1021, 598], "height": 601, "width": 1024, "question_id": 5550, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348792.jpg", "expression": "Where is he?", "bbox": [0, 6, 496, 334], "height": 333, "width": 500, "question_id": 5554, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348792.jpg", "expression": "Why is he wearing goggles?", "bbox": [283, 89, 287, 93], "height": 333, "width": 500, "question_id": 5555, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2348802.jpg", "expression": "How is the mouse attached to the laptop?", "bbox": [235, 190, 287, 332], "height": 333, "width": 500, "question_id": 5557, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349072.jpg", "expression": "What type of vehicle is yellow?", "bbox": [105, 121, 367, 230], "height": 375, "width": 500, "question_id": 5565, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349157.jpg", "expression": "What is turned on?", "bbox": [0, 4, 406, 331], "height": 332, "width": 500, "question_id": 5573, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349250.jpg", "expression": "Where are the people sitting?", "bbox": [104, 237, 203, 297], "height": 333, "width": 500, "question_id": 5585, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349515.jpg", "expression": "When will the man put the cases down?", "bbox": [293, 265, 373, 401], "height": 500, "width": 375, "question_id": 5594, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349521.jpg", "expression": "What do the men have tied around their necks?", "bbox": [272, 154, 296, 258], "height": 500, "width": 333, "question_id": 5596, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349699.jpg", "expression": "What type food is next to the meat?", "bbox": [1, 197, 271, 499], "height": 500, "width": 500, "question_id": 5607, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349775.jpg", "expression": "What is covering the area?", "bbox": [116, 241, 147, 258], "height": 313, "width": 500, "question_id": 5611, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349809.jpg", "expression": "Where is the crowd?", "bbox": [288, 89, 498, 236], "height": 333, "width": 500, "question_id": 5614, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2349965.jpg", "expression": "What part of the bear is visible under the log?", "bbox": [244, 265, 286, 281], "height": 333, "width": 500, "question_id": 5625, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2350073.jpg", "expression": "What material are the cabinets made of?", "bbox": [359, 325, 377, 345], "height": 375, "width": 500, "question_id": 5626, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2350181.jpg", "expression": "What are the giraffes standing in front of?", "bbox": [106, 131, 365, 292], "height": 333, "width": 500, "question_id": 5632, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2350472.jpg", "expression": "What is red?", "bbox": [106, 246, 192, 290], "height": 500, "width": 321, "question_id": 5649, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2350600.jpg", "expression": "Who is jumping?", "bbox": [183, 51, 341, 331], "height": 500, "width": 438, "question_id": 5655, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2350748.jpg", "expression": "What is on the lady stomach?", "bbox": [98, 78, 283, 217], "height": 375, "width": 500, "question_id": 5660, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2350787.jpg", "expression": "Why would the clock be at top of tower?", "bbox": [283, 350, 308, 370], "height": 500, "width": 391, "question_id": 5662, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351004.jpg", "expression": "Where is the bird?", "bbox": [0, 56, 500, 332], "height": 333, "width": 500, "question_id": 5677, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351062.jpg", "expression": "What was the woman doing?", "bbox": [0, 302, 217, 470], "height": 500, "width": 375, "question_id": 5680, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351148.jpg", "expression": "What is on the kids face?", "bbox": [231, 84, 296, 109], "height": 500, "width": 500, "question_id": 5688, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351243.jpg", "expression": "Who are behind the woman?", "bbox": [225, 146, 254, 218], "height": 375, "width": 500, "question_id": 5691, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351484.jpg", "expression": "Who is sitting in the front seat on the top decker of the bus?", "bbox": [298, 102, 321, 124], "height": 333, "width": 500, "question_id": 5703, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351587.jpg", "expression": "What is the plane written?", "bbox": [100, 89, 189, 120], "height": 315, "width": 500, "question_id": 5707, "split": "val"}
+{"img_path": "cot/visual7w/v7w_107977.jpg", "expression": "Where is the truck parked?", "bbox": [3, 551, 437, 969], "height": 975, "width": 1024, "question_id": 5720, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2351801.jpg", "expression": "What is surrounding the bench?", "bbox": [446, 160, 456, 176], "height": 333, "width": 500, "question_id": 5724, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352073.jpg", "expression": "When is the subject of the photo?", "bbox": [178, 48, 406, 234], "height": 357, "width": 500, "question_id": 5731, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352135.jpg", "expression": "What type of material is on the ground?", "bbox": [360, 122, 374, 138], "height": 375, "width": 500, "question_id": 5739, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352161.jpg", "expression": "What is white?", "bbox": [231, 231, 353, 293], "height": 375, "width": 500, "question_id": 5743, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352333.jpg", "expression": "What is in the picture?", "bbox": [4, 83, 402, 331], "height": 333, "width": 500, "question_id": 5752, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352504.jpg", "expression": "What pattern is on the animals?", "bbox": [91, 147, 124, 175], "height": 309, "width": 500, "question_id": 5756, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352584.jpg", "expression": "What does it say in red on the bottom of the sign?", "bbox": [225, 180, 263, 187], "height": 335, "width": 500, "question_id": 5757, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352608.jpg", "expression": "What kind of pants does the man have on?", "bbox": [277, 187, 299, 272], "height": 333, "width": 500, "question_id": 5762, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352700.jpg", "expression": "Where is this shot?", "bbox": [133, 197, 378, 331], "height": 333, "width": 500, "question_id": 5767, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2352954.jpg", "expression": "What is the number on the train?", "bbox": [216, 263, 245, 288], "height": 333, "width": 500, "question_id": 5775, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353067.jpg", "expression": "Where was the photo taken?", "bbox": [18, 165, 498, 307], "height": 308, "width": 500, "question_id": 5781, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353485.jpg", "expression": "Who is in the photo?", "bbox": [136, 120, 157, 178], "height": 333, "width": 500, "question_id": 5805, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353504.jpg", "expression": "What is on the tray?", "bbox": [9, 151, 217, 292], "height": 319, "width": 500, "question_id": 5807, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353563.jpg", "expression": "What is to the right of the scissors?", "bbox": [349, 156, 402, 205], "height": 364, "width": 500, "question_id": 5811, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353652.jpg", "expression": "What is the man wearing on his head?", "bbox": [0, 43, 107, 193], "height": 375, "width": 500, "question_id": 5817, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353859.jpg", "expression": "What is next to the two?", "bbox": [0, 161, 16, 167], "height": 500, "width": 414, "question_id": 5831, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2353896.jpg", "expression": "When was this photo taken?", "bbox": [66, 115, 298, 304], "height": 500, "width": 333, "question_id": 5832, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354014.jpg", "expression": "Who is holding flags?", "bbox": [254, 123, 271, 181], "height": 333, "width": 500, "question_id": 5836, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354057.jpg", "expression": "Where is this scene?", "bbox": [0, 220, 498, 331], "height": 333, "width": 500, "question_id": 5837, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354102.jpg", "expression": "Where is the lamb?", "bbox": [165, 237, 499, 281], "height": 334, "width": 500, "question_id": 5844, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354515.jpg", "expression": "Why are the motorcycles parked?", "bbox": [168, 6, 382, 160], "height": 391, "width": 500, "question_id": 5854, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354610.jpg", "expression": "What kind of animal is this?", "bbox": [17, 66, 466, 318], "height": 335, "width": 500, "question_id": 5856, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354890.jpg", "expression": "How did the photographer get to the location?", "bbox": [0, 132, 431, 332], "height": 333, "width": 500, "question_id": 5871, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2354929.jpg", "expression": "What is the street made from?", "bbox": [421, 304, 498, 332], "height": 333, "width": 500, "question_id": 5874, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2355191.jpg", "expression": "What is the man doing?", "bbox": [0, 120, 239, 249], "height": 333, "width": 500, "question_id": 5883, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2355517.jpg", "expression": "What is in the tracks?", "bbox": [135, 118, 380, 199], "height": 322, "width": 500, "question_id": 5892, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2355734.jpg", "expression": "Where was the picture taken?", "bbox": [0, 0, 375, 193], "height": 500, "width": 375, "question_id": 5899, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2356179.jpg", "expression": "What are the silver holes for in the front of the meters?", "bbox": [358, 201, 384, 229], "height": 500, "width": 479, "question_id": 5920, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2356457.jpg", "expression": "Where is the fence?", "bbox": [145, 157, 281, 254], "height": 332, "width": 500, "question_id": 5927, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2356741.jpg", "expression": "What does the red sign say?", "bbox": [206, 120, 358, 184], "height": 400, "width": 500, "question_id": 5941, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2356956.jpg", "expression": "What is next to the shrub?", "bbox": [215, 153, 317, 206], "height": 333, "width": 500, "question_id": 5962, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2357094.jpg", "expression": "Where is the horse?", "bbox": [0, 138, 500, 332], "height": 333, "width": 500, "question_id": 5968, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2357270.jpg", "expression": "What is the clock made of?", "bbox": [315, 406, 353, 436], "height": 500, "width": 500, "question_id": 5980, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2357337.jpg", "expression": "Who is on top of the elephants?", "bbox": [239, 114, 268, 142], "height": 267, "width": 500, "question_id": 5985, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2357914.jpg", "expression": "What is the background?", "bbox": [275, 111, 361, 181], "height": 375, "width": 500, "question_id": 6018, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2357994.jpg", "expression": "What type of jacket is the man on the right wearing?", "bbox": [366, 50, 472, 140], "height": 333, "width": 500, "question_id": 6025, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358131.jpg", "expression": "What is on the sheet?", "bbox": [268, 14, 499, 291], "height": 375, "width": 500, "question_id": 6032, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358168.jpg", "expression": "What is the old woman wearing?", "bbox": [146, 102, 247, 345], "height": 346, "width": 500, "question_id": 6035, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358224.jpg", "expression": "What is on top of the plane?", "bbox": [258, 88, 342, 121], "height": 329, "width": 500, "question_id": 6040, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358377.jpg", "expression": "Who are wearing ties?", "bbox": [0, 107, 500, 140], "height": 375, "width": 500, "question_id": 6049, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358385.jpg", "expression": "Where is the giraffe?", "bbox": [2, 132, 498, 374], "height": 375, "width": 500, "question_id": 6051, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2378634.jpg", "expression": "What is on the table?", "bbox": [433, 155, 472, 249], "height": 375, "width": 500, "question_id": 6055, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358631.jpg", "expression": "What is the shower door made of?", "bbox": [251, 99, 333, 283], "height": 448, "width": 336, "question_id": 6068, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358727.jpg", "expression": "Who is there?", "bbox": [299, 49, 499, 341], "height": 500, "width": 500, "question_id": 6071, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2358873.jpg", "expression": "How many windows are on the train?", "bbox": [330, 131, 337, 145], "height": 375, "width": 500, "question_id": 6079, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2359086.jpg", "expression": "Who has a red backpack?", "bbox": [223, 151, 306, 365], "height": 375, "width": 500, "question_id": 6087, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2359086.jpg", "expression": "Why are the people putting the bike on the bus?", "bbox": [128, 11, 458, 300], "height": 375, "width": 500, "question_id": 6088, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2359142.jpg", "expression": "What is behind the cows?", "bbox": [34, 16, 286, 236], "height": 333, "width": 500, "question_id": 6093, "split": "val"}
+{"img_path": "cot/visual7w/v7w_2359224.jpg", "expression": "What is he eating?", "bbox": [195, 265, 302, 360], "height": 375, "width": 500, "question_id": 6098, "split": "val"}
