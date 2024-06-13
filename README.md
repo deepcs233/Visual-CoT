@@ -1,12 +1,12 @@
 # Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning
 
-![pipeline](assets/pipeline.jpg)
+![dataset](assets/dataset.png)
        
 > Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li
 
-This repository contains code for the paper [Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model](https://arxiv.org/abs/2403.16999) and it was built based on [LLaVA](https://github.com/haotian-liu/LLaVA)
+This repository contains code for the paper [Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/abs/2403.16999) and it was built based on [LLaVA](https://github.com/haotian-liu/LLaVA)
 
-The work proposes a multi-turn processing pipeline for the multi-modal language model that dynamically focuses on visual inputs and provides interpretable thoughts. We also collect and introduce the Visual CoT dataset comprising 373k question-answer pairs, annotated with intermediate bounding boxes highlighting key regions essential for answering the questions. Importantly, the released benchmark is capable of evaluating MLLMs in scenarios requiring specific local region identification. 
+We collect and introduce the Visual CoT dataset comprising 438k question-answer pairs, annotated with intermediate bounding boxes highlighting key regions essential for answering the questions. The work also proposes a multi-turn processing pipeline for the multi-modal language model that dynamically focuses on visual inputs and provides interpretable thoughts. Importantly, the released benchmark is capable of evaluating MLLMs in scenarios requiring specific local region identification. 
 
 ## Contents
 
@@ -42,6 +42,10 @@ pip install flash-attn --no-build-isolation
 Please refer to https://github.com/haotian-liu/LLaVA/tree/main?tab=readme-ov-file#demo
 
 ## Model Zoo
+
+![pipeline](assets/pipeline.jpg)
+
+> We propose a novel multi-turn processing pipeline for MLLMs that can dynamically focus on visual inputs and provide intermediate interpretable thoughts.
 
 The model weights below are merged weights. You do not need to apply delta. The usage of VisCoT checkpoints should comply with the base LLM's model license.
 
