@@ -97,7 +97,7 @@ Training script with DeepSpeed ZeRO-2: [`pretrain.sh`](https://github.com/haotia
 
 1. Prepare data
 
-Please download the annotation of the final mixture our instruction tuning data [viscot_mixed_2m.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_mixed_2m.json) to `./playground/data`. We also provide our 363k visual CoT dataset[viscot_363k.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_363k.json) for building your own dataset.  Please download the images from constituting datasets, and some of them may need to register/complete the form first.
+Please download the annotation of our mixed instruction tuning data [viscot_mixed_2m.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_mixed_2m.json) to `./playground/data`. We provide our 363k visual CoT dataset [viscot_363k.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_363k.json) for building your own dataset. Additionally, the `./viscot_dataset` directory contains metadata for the visual CoT dataset, which includes detailed information requiring further postprocessing before it can be used for training. The necessary scripts can be found in `./tools`. Please download the images for constituting datasets, and some of them may need to register/complete the form first.
 
 - COCO: [train2017](http://images.cocodataset.org/zips/train2017.zip)
 - GQA: [images](https://downloads.cs.stanford.edu/nlp/data/gqa/images.zip)
