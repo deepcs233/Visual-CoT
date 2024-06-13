@@ -1,4 +1,4 @@
-# Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model
+# Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning
 
 ![pipeline](assets/pipeline.jpg)
        
@@ -235,6 +235,20 @@ If you find our repo, dataset or paper useful, please cite us as
       primaryClass={cs.CV}
 }
 ```
+
+## Disclaimer
+
+This dataset was collected and released solely for research purposes, with the goal of making the MLLMs dynamically focus on visual inputs and provide intermediate interpretable thoughts. The authors are strongly against any potential harmful use of the data or technology to any party.
+
+### Intended Use
+
+The data, code, and model checkpoints are intended to be used solely for (I) future research on visual-language processing and (II) reproducibility of the experimental results reported in the reference paper. The data, code, and model checkpoints are not intended to be used in clinical care or for any clinical decision making purposes.
+
+### Primary Intended Use
+The primary intended use is to support AI researchers reproducing and building on top of this work. \shortname{} and its associated models should be helpful for exploring various vision question answering (VQA) research questions.
+
+### Out-of-Scope Use
+Any deployed use case of the model --- commercial or otherwise --- is out of scope. Although we evaluated the models using a broad set of publicly-available research benchmarks, the models and evaluations are intended for research use only and not intended for deployed use cases. 
 
 ## License
 
