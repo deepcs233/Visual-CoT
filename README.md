@@ -1,7 +1,9 @@
 # Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning
 
 ![dataset](assets/dataset.png)
-       
+
+![dataset](assets/dataset_gqa.png)
+
 > Hao Shao, Shengju Qian, Han Xiao, Guanglu Song, Zhuofan Zong, Letian Wang, Yu Liu, Hongsheng Li
 
 This repository contains code for the paper [Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/abs/2403.16999) and it was built based on [LLaVA](https://github.com/haotian-liu/LLaVA)
