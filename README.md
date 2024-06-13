@@ -11,7 +11,7 @@ This repository contains code for the paper [Visual CoT: Advancing Multi-Modal L
 We collect and introduce the Visual CoT dataset comprising 438k question-answer pairs, annotated with intermediate bounding boxes highlighting key regions essential for answering the questions. The work also proposes a multi-turn processing pipeline for the multi-modal language model that dynamically focuses on visual inputs and provides interpretable thoughts. Importantly, the released benchmark is capable of evaluating MLLMs in scenarios requiring specific local region identification. 
 
 
-Data Link: [Visual-CoT](https://huggingface.co/datasets/deepcs233/Visual-CoT)
+HuggingFace Data Link: [Visual-CoT](https://huggingface.co/datasets/deepcs233/Visual-CoT)
 
 ## Contents
 
