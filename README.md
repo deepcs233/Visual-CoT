@@ -12,6 +12,7 @@ We collect and introduce the Visual CoT dataset comprising 438k question-answer 
 
 
 HuggingFace Data Link: [Visual-CoT](https://huggingface.co/datasets/deepcs233/Visual-CoT)
+arXiv: [link](https://arxiv.org/abs/2403.16999)
 
 ## Contents
 
