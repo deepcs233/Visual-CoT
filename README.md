@@ -11,11 +11,11 @@ This repository contains code for the paper [Visual CoT: Advancing Multi-Modal L
 We collect and introduce the Visual CoT dataset comprising 438k question-answer pairs, annotated with intermediate bounding boxes highlighting key regions essential for answering the questions. The work also proposes a multi-turn processing pipeline for the multi-modal language model that dynamically focuses on visual inputs and provides interpretable thoughts. Importantly, the released benchmark is capable of evaluating MLLMs in scenarios requiring specific local region identification. 
 
 
-Project Page: [link](https://hao-shao.com/projects/viscot.html)
+[Project Page](https://hao-shao.com/projects/viscot.html), [Dataset](https://huggingface.co/datasets/deepcs233/Visual-CoT), [arXiv](https://arxiv.org/abs/2403.16999)
 
-HuggingFace Data Link: [Visual-CoT](https://huggingface.co/datasets/deepcs233/Visual-CoT)
+## News
 
-arXiv: [link](https://arxiv.org/abs/2403.16999)
+- `[9/27]` [VisCoT](https://arxiv.org/abs/2312.07488) is accepted by Neurps 2024, $${\color{red}Spotlight}$$  🎉🎉🎉
 
 ## Contents
 
