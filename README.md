@@ -15,6 +15,7 @@ We collect and introduce the Visual CoT dataset comprising 438k question-answer 
 
 ## News
 
+- `[11/26]` We have updated the VisCoT data with detailed reasoning steps [here](https://huggingface.co/datasets/deepcs233/Visual-CoT/tree/main/cot_with_detailed_reasoning_steps).
 - `[10/4]` We have established the [webpage](https://hao-shao.com/projects/viscot.html) for this project.
 - `[9/27]` [VisCoT](https://arxiv.org/abs/2312.07488) is accepted by Neurps 2024, $${\color{red}Spotlight}$$  🎉🎉🎉
 
