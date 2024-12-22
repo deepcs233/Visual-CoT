@@ -15,6 +15,7 @@ We collect and introduce the Visual CoT dataset comprising 438k question-answer 
 
 ## News
 
+- `[12/22]` We have updated the related images in the VisCoT dataset, now available in the VisCoT [HF repo](https://huggingface.co/datasets/deepcs233/Visual-CoT).
 - `[11/26]` We have updated the VisCoT data with detailed reasoning steps [here](https://huggingface.co/datasets/deepcs233/Visual-CoT/tree/main/cot_with_detailed_reasoning_steps) and fixed some bugs.
 - `[10/4]` We have established the [webpage](https://hao-shao.com/projects/viscot.html) for this project.
 - `[9/27]` [VisCoT](https://arxiv.org/abs/2312.07488) is accepted by Neurps 2024, $${\color{red}Spotlight}$$  🎉🎉🎉
@@ -113,6 +114,9 @@ Training script with DeepSpeed ZeRO-2: [`pretrain.sh`](https://github.com/haotia
 1. Prepare data
 
 Please download the annotation of our mixed instruction tuning data [viscot_mixed_2m.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_mixed_2m.json) to `./playground/data`. We provide our 363k visual CoT dataset [viscot_363k.json](https://huggingface.co/datasets/deepcs233/Visual-CoT/blob/main/viscot_363k.json) for building your own dataset. Additionally, the `./viscot_dataset` directory contains metadata for the visual CoT dataset, which includes detailed information requiring further postprocessing before it can be used for training. The `./cot_with_detailed_reasoning_steps` directory contains 98k data pairs, each accompanied by detailed reasoning steps. The train/validation split is maintained consistent with the original dataset. Necessary scripts are available in the `./tools` directory. For instance, the script `./tools/convert_data_to_llava_format.py` can convert the meta JSONL file into the required format for training. Please download the images for constituting datasets, and some of them may need to register/complete the form first.
+
+We also prepare the image file in this [link](https://huggingface.co/datasets/deepcs233/Visual-CoT/tree/main/cot_with_detailed_reasoning_steps), you need to merge these split archive files and then extract them.
+
 
 - COCO: [train2017](http://images.cocodataset.org/zips/train2017.zip)
 - GQA: [images](https://downloads.cs.stanford.edu/nlp/data/gqa/images.zip)
